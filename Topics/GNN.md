@@ -1,3 +1,14 @@
+*2022-04-25*
+
+#### [Graph Neural Networks: Taxonomy, Advances, and Trends](https://dl.acm.org/doi/10.1145/3495161)
+
+*Yu Zhou, Haixia Zheng, Xin Huang, Shufeng Hao, Dengao Li, Jumin Zhao*
+
+*ACM TIST 2022*
+
+It's a comprehensive survey paper that introduces the GNN roadmap on four levels, and worth reading for several times. (1) The fundamental architectures present the basic GNN modules and operations such as graph attention and pooling. (2) The extended architectures and applications discuss various tasks such as pre-training framework, reinforcement learning and application scenarios of GNN modules such as NLP, recommendation systems. (3) The implementations and evaluations introduce commonly used tools and benchmark datasets. (4) The future research directions provide potential directions includes highly scalable/robust/interpretable GNNs, and GNNs going beyond WL test. 
+
+
 *2022-04-22*
 
 #### [Graph Neural Networks for Graphs with Heterophily: A Survey](https://arxiv.org/abs/2202.07082)
