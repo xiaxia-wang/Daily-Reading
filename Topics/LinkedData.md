@@ -1,3 +1,15 @@
+
+*2022-04-27*
+
+#### [Open data User Needs: A Preliminary Synthesis](https://dl.acm.org/doi/10.1145/3366424.3386586)
+
+*Auriol Degbelo*
+
+*WWW 2020*
+
+This is a brief "survey" paper which aims to act as a starting point to analyze the open government data (OGD) usages and user needs. Mainly by reviewing existing papers about users' data needs, search behaviors, etc., it selects 7 representative papers which focus on user behaviors with data. It aggregates all discussed user need statements and re-categorizes them from different aspects. It follows the pattern: ‘[A user] needs [need] in order to accomplish [goal]’, to identify the needs and goals, divides them in different types (informational / transactional / navigational) of information needs, and summarizes them into 10 kinds of data needs as an open data user needs taxonomy. The table-1 is quite clear and informational. The paper also explains the usefulness of this work, e.g., for Web agents, Web mining, etc.
+
+
 *2022-04-24*
 
 #### [IDOL: Comprehensive & Complete LOD Insights](https://doi.org/10.1145/3132218.3132238)
