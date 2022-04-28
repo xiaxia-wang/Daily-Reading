@@ -1,4 +1,18 @@
 
+
+
+*2022-04-29*
+
+#### [A Framework to Conduct and Report on Empirical User Studies in Semantic Web Contexts](https://doi.org/10.1007/978-3-030-03667-6_36)
+
+*Catia Pesquita, Valentina Ivanova, Steffen Lohmann, Patrick Lambrix*
+
+*EKAW 2018*
+
+This paper analyses and discusses the general framework of Semantic Web user studies by reviewing 87 conference papers. The authors read and categorize the papers from 6 aspects, namely, (1) purpose, (2) users, (3) tasks, (4) setup, (5) procedure and (6) analysis and presentation of data. For each aspect, this paper presents the distributions of the reviewed paper with brief analysis. According to the analysis results, it also talks about an appropriate user study design for Semantic Web related systems, also following the six aspects/steps. Finally, it gives some suggestions and indicates challenges for conducting user studies in practice.
+
+
+
 *2022-04-26*
 
 #### [From Natural Language Processing to Neural Databases](https://dl.acm.org/doi/10.14778/3447689.3447706)
