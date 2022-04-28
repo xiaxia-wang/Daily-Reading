@@ -1,4 +1,16 @@
 
+
+*2022-04-28*
+
+####  [Talking datasets - Understanding data sensemaking behaviours](https://www.sciencedirect.com/science/article/pii/S1071581920301646?via%3Dihub)
+
+*Laura Koesten, Kathleen Gregory, Paul Groth, Elena Simperl*
+
+*Journal of Human-Computer Studies 2021*
+
+This is an interesting article discussing how people make sense of data and how to reuse them. Specifically, it mainly focuses on two research questions: (1) what are the common patterns of sense-making activities for people to know about data, (2) how do these sense-making patterns enable potential data reuse, like what will be needed for reusing the data. This paper is mainly based on a large, comprehensive user interview with 31 independent participants. The interview process was recorded and analyzed. Each participant was asked to provide a familiar dataset, and introduced it in the interview, then the interviewer would also provide a unfamiliar dataset to the participant and let the participant try to make sense of it and summarize its content, followed by some other questions about their opinion of data reuse, data sharing, etc. After analyzing the interview results, this paper also provides some suggestions about how to better understand, analyze, and reuse the data. 
+
+
 *2022-04-27*
 
 #### [Open data User Needs: A Preliminary Synthesis](https://dl.acm.org/doi/10.1145/3366424.3386586)
