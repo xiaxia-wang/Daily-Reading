@@ -1,5 +1,18 @@
 
 
+*2022-04-30*
+
+#### [The Trials and Tribulations of Working with Structured Data - a Study on Information Seeking Behaviour](https://dl.acm.org/doi/10.1145/3025453.3025838)
+
+*Laura M. Koesten, Emilia Kacprzak, Jenifer Fay Alys Tennison, Elena Simperl*
+
+*CHI 2017*
+
+(Probably the first paper that let me know about Dr. Koesten.)
+
+This paper studies information seeking behaviors of people, i.e., how people find data, make sense of them, obtain information from the data, and use them. The authors conducted two experiments for this purpose. One is a user study by interview, the other is a search log analysis of data.gov.uk. For the user study, the recruited participants were required to have data-centric tasks in their daily work, the interview was about their activities such as data collections, data analysis, etc. The search log was mainly statistically analyzed. The lengths and distributions of queries and sessions were reported. By analyzing the user study and statistical results, this paper concludes a framework with 4 steps in a data interaction process, and major tasks within each step.
+
+
 *2022-04-28*
 
 ####  [Talking datasets - Understanding data sensemaking behaviours](https://www.sciencedirect.com/science/article/pii/S1071581920301646?via%3Dihub)
