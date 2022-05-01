@@ -1,5 +1,15 @@
 
 
+*2022-05-02*
+
+#### [Dataset Discovery in Data Lakes](https://ieeexplore.ieee.org/document/9101607)
+
+*Alex Bogatu, Alvaro A. A. Fernandes, Norman W. Paton, Nikolaos Konstantinou*
+
+*ICDE 2020*
+
+It is a database style paper. This paper mainly studies the data discovery problem in a data lake, i.e., how to identify relavant datasets (for a given target dataset, if provided) from a bunch of large, mixed, complex datasets. It introduces a data lake as "a repository whose items are datasets about which, we assume, we have no more metadata than, when in tabular form, their attribute names, and possible domain-independent types." This paper proposes "D3L" for data discovery. The datasets discussed in this paper are tabular data. It proposes a locality-sensitive hashing-based method to index each table, including hashing attribute names, data values, attribute formats, etc. The hash value itself for each dataset can be regarded as an embedding, which can be used for computing distances between different datasets. It conducts experiments over synthetic table sets and real-world tables. At least two test collections are open-sourced.
+
 
 *2022-05-01*
 
