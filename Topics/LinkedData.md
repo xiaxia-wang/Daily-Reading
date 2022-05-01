@@ -1,5 +1,17 @@
 
 
+
+*2022-05-01*
+
+#### [Google Dataset Search by the Numbers](https://link.springer.com/chapter/10.1007/978-3-030-62466-8_41)
+
+*Omar Benjelloun, Shiyu Chen, Natasha F. Noy*
+
+*ISWC 2020*
+
+Google Dataset Search (or Google DS in short) has developed for about 4 years since launched in 2018. This paper was published in 2020, which introduces an overview about the snapshot of Google Dataset Search at that time with a series of statistical distributions and numbers. Generally, Google DS relies on schema.org, DCAT and other similar vocabularies to identify datasets from Web pages. By analyzing the Web pages crawled by Google's general Web crawler, the pages with specific Semantic Web annotations and especially the information about datasets are extracted, downloaded and indexed. This paper analyzes these records, provides the distributions of datasets by domains, languages, topics, formats, vocabularies within the metadata, etc. It also proposes some suggestions for Semantic Web researchers about how to further improve the data reusability and interchangeability. 
+
+
 *2022-04-30*
 
 #### [The Trials and Tribulations of Working with Structured Data - a Study on Information Seeking Behaviour](https://dl.acm.org/doi/10.1145/3025453.3025838)
