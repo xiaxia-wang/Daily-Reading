@@ -1,5 +1,17 @@
 
 
+
+*2022-05-03*
+
+#### [Structural Properties as Proxy for Semantic Relevance in RDF Graph Sampling](https://doi.org/10.1007/978-3-319-11915-1_6)
+
+*Laurens Rietveld, Rinke Hoekstra, Stefan Schlobach, Christophe Guéret*
+
+*ISWC 2014*
+
+This paper introduces SampLD, an RDF graph sampling method aiming to select a subset of triples from the original large RDF dataset, while trying to retain the same ability to answer SPARQL queries as the original one. It relies on network analysis methods and statistical-based features, such as PageRank, in-degree and out-degree. SampLD firstly rewrites the graph, then analyzes it with network fearures, assigns node weights, and finally performs sampling from the ranked list of triples. This paper also conducts experiments over several large (in 2014) RDF datasets. 
+
+
 *2022-05-02*
 
 #### [Dataset Discovery in Data Lakes](https://ieeexplore.ieee.org/document/9101607)
