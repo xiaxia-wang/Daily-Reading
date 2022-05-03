@@ -1,6 +1,17 @@
 
 
 
+*2022-05-04*
+
+#### [Personalized Knowledge Graph Summarization: From the Cloud to Your Pocket](https://ieeexplore.ieee.org/document/8970788)
+
+*Tara Safavi, Caleb Belth, Lukas Faber, Davide Mottin, Emmanuel Müller, Danai Koutra*
+
+*ICDM 2019*
+
+This paper proposes GLIMPSE, a summarization method to extract triples that best meet the user's potential interest from the original large knowledge graph. It relies on the user's history list of queries to implement a probabilistic-based sampling. It measures the importance of each entity from its query history and all its neighbors, and measures the importance of each triple both by the entities it contains and whether the triple itself has appeared in the query history. The paper also proves that the probabilistic-based sample framework is sub-modular. Therefore, a greedy algorithm is able to achieve a constant approximation ratio of (1 - 1/e). It further improves the time complexity by incorporating pruning process. Finally, it conducts experiments over large real-world knowledge graphs and achieves good performance. 
+
+
 *2022-05-03*
 
 #### [Structural Properties as Proxy for Semantic Relevance in RDF Graph Sampling](https://doi.org/10.1007/978-3-319-11915-1_6)
