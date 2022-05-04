@@ -1,6 +1,17 @@
 
 
 
+*2022-05-05*
+
+#### [Estimating Characteristic Sets for RDF Dataset Profiles Based on Sampling](https://link.springer.com/chapter/10.1007/978-3-030-49461-2_10)
+
+*Lars Heling, Maribel Acosta*
+
+*ESWC 2020*
+
+This paper discusses statistical profile features of RDF datasets. It proposes the concept of "characteristic set" which in fact is the set of properties used to describe each entity in the dataset. This paper mainly focuses on the count of such characteristic sets, and the multiplicity of some properties to profile the RDF dataset. To address the problem of large RDF datasets are not easy to straight-forwardly count the characteristic sets for all entities,  this paper proposes a solution by firstly sampling a small subset of triples, then estimating the overall counts using designed projection function. It tries several sample methods (by entities, by weighted triples, etc.) and statistics-enhanced projection methods. Finally, the paper is concluded by answering 4 research questions. 
+
+
 *2022-05-04*
 
 #### [Personalized Knowledge Graph Summarization: From the Cloud to Your Pocket](https://ieeexplore.ieee.org/document/8970788)
@@ -20,7 +31,7 @@ This paper proposes GLIMPSE, a summarization method to extract triples that best
 
 *ISWC 2014*
 
-This paper introduces SampLD, an RDF graph sampling method aiming to select a subset of triples from the original large RDF dataset, while trying to retain the same ability to answer SPARQL queries as the original one. It relies on network analysis methods and statistical-based features, such as PageRank, in-degree and out-degree. SampLD firstly rewrites the graph, then analyzes it with network fearures, assigns node weights, and finally performs sampling from the ranked list of triples. This paper also conducts experiments over several large (in 2014) RDF datasets. 
+This paper introduces SampLD, an RDF graph sampling method aiming to select a subset of triples from the original large RDF dataset, while trying to retain the same ability to answer SPARQL queries as the original one. It relies on network analysis methods and statistical-based features, such as PageRank, in-degree and out-degree. SampLD firstly rewrites the graph, then analyzes it with network features, assigns node weights, and finally performs sampling from the ranked list of triples. This paper also conducts experiments over several large (in 2014) RDF datasets. 
 
 
 *2022-05-02*
@@ -31,7 +42,7 @@ This paper introduces SampLD, an RDF graph sampling method aiming to select a su
 
 *ICDE 2020*
 
-It is a database style paper. This paper mainly studies the data discovery problem in a data lake, i.e., how to identify relavant datasets (for a given target dataset, if provided) from a bunch of large, mixed, complex datasets. It introduces a data lake as "a repository whose items are datasets about which, we assume, we have no more metadata than, when in tabular form, their attribute names, and possible domain-independent types." This paper proposes "D3L" for data discovery. The datasets discussed in this paper are tabular data. It proposes a locality-sensitive hashing-based method to index each table, including hashing attribute names, data values, attribute formats, etc. The hash value itself for each dataset can be regarded as an embedding, which can be used for computing distances between different datasets. It conducts experiments over synthetic table sets and real-world tables. At least two test collections are open-sourced.
+It is a database style paper. This paper mainly studies the data discovery problem in a data lake, i.e., how to identify relevant datasets (for a given target dataset, if provided) from a bunch of large, mixed, complex datasets. It introduces a data lake as "a repository whose items are datasets about which, we assume, we have no more metadata than, when in tabular form, their attribute names, and possible domain-independent types." This paper proposes "D3L" for data discovery. The datasets discussed in this paper are tabular data. It proposes a locality-sensitive hashing-based method to index each table, including hashing attribute names, data values, attribute formats, etc. The hash value itself for each dataset can be regarded as an embedding, which can be used for computing distances between different datasets. It conducts experiments over synthetic table sets and real-world tables. At least two test collections are open-sourced.
 
 
 *2022-05-01*
