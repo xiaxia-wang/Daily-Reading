@@ -1,6 +1,18 @@
 
 
 
+
+*2022-05-09*
+
+#### [RDF Data Storage and Query Processing Schemes: A Survey](https://dl.acm.org/doi/10.1145/3177850)
+
+*Marcin Wylot, Manfred Hauswirth, Philippe Cudré-Mauroux, Sherif Sakr:*
+
+*ACM Computing Surveys 2018*
+
+This survey paper introduces a taxonomy of linked data/RDF data management systems. Here, management means storage and querying. In this taxonomy, systems are firstly categorized into centralized and distributed ones, then divided into more specific kinds such as statement table, graph-based, etc. Each kind of systems are introduced with typical example systems. 
+
+
 *2022-05-05*
 
 #### [Estimating Characteristic Sets for RDF Dataset Profiles Based on Sampling](https://link.springer.com/chapter/10.1007/978-3-030-49461-2_10)
