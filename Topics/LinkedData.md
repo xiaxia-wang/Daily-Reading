@@ -6,7 +6,7 @@
 
 #### [RDF Data Storage and Query Processing Schemes: A Survey](https://dl.acm.org/doi/10.1145/3177850)
 
-*Marcin Wylot, Manfred Hauswirth, Philippe Cudré-Mauroux, Sherif Sakr:*
+*Marcin Wylot, Manfred Hauswirth, Philippe Cudré-Mauroux, Sherif Sakr*
 
 *ACM Computing Surveys 2018*
 
