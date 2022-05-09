@@ -2,6 +2,18 @@
 
 
 
+
+*2022-05-11*
+
+#### [Knowledge graph exploration: where are we and where are we going?](https://dl.acm.org/doi/10.1145/3409481.3409485)
+
+*Matteo Lissandrini, Torben Bach Pedersen, Katja Hose, Davide Mottin*
+
+*SIGWEB Newsletter 2020*
+
+This paper surveys and summarizes the knowledge graph exploration techniques in existing work, and proposes a taxonomy of them over a spectrum. It categories the exploration techniques into three kinds, (1) Summarization and profiling, which requires no user interaction, personalization and no domain knowledge, and whose output is high level overview. (2) Exploratory analytics, which requires median-level interactivity and high-level information need, whose output is overview of specific aspects. (3) Exploratory search, which requires high interactivity, personalization and detailed sample or query intent, whose output is detailed answers. This taxonomy also categories more specific exploration tasks, and discusses potential future work directions.
+
+
 *2022-05-09*
 
 #### [RDF Data Storage and Query Processing Schemes: A Survey](https://dl.acm.org/doi/10.1145/3177850)
