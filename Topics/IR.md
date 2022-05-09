@@ -2,6 +2,17 @@
 
 
 
+*2022-05-10*
+
+#### [Analysis of Long Queries in a Large Scale Search Log](https://dl.acm.org/doi/10.1145/1507509.1507511)
+
+*Michael Bendersky, W. Bruce Croft*
+
+*WSCD@WSDM 2009*
+
+This paper analyzes real-world search log to characterize the queries, search behaviors, and information needs behind them. The search log is MSN search query log excerpt containing about 15M queries and associate clicks. This paper firstly presents statistical distributions of the query length, query types and click data. It divides queries into short queries whose length <= 4 and long queries, and categorizes long queries into 4 types, i.e., questions, operators, composites and non-composites. Then, it analyzes the relationships between pairs of query lengths, types and clicks. In the evaluation, this paper proposes to use click data as relevance labels to evaluate the performances of different retrieval models. Experimental results show that the measurements by click data are consistent with explicit manual relevance judgments.
+
+
 *2022-05-08*
 
 #### [Context-Aware Document Term Weighting for Ad-Hoc Search](https://dl.acm.org/doi/10.1145/3366423.3380258)
