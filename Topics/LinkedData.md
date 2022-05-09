@@ -3,6 +3,18 @@
 
 
 
+
+*2022-05-12*
+
+#### [HIEDS: A Generic and Efficient Approach to Hierarchical Dataset Summarization](https://www.ijcai.org/Abstract/16/521)
+
+*Gong Cheng, Cheng Jin, Yuzhong Qu*
+
+*IJCAI 2016*
+
+This paper introduces HIEDS, a hierarchical summarization method for RDF datasets. It applies a hierarchical grouping method for entities by property-value pairs in their descriptions. To form each hierarchical level, a property is selected, and entities are grouped by the values of the property. There are also links and overlapping entities between sibling subgroups. The problem is formulated as a multidimensional knapsack problem to achieve a balanced division with higher cohesion in each group. Then this NP-hard problem is solved by a greedy strategy.
+
+
 *2022-05-11*
 
 #### [Knowledge graph exploration: where are we and where are we going?](https://dl.acm.org/doi/10.1145/3409481.3409485)
