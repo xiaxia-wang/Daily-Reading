@@ -1,6 +1,17 @@
 
 
 
+*2022-05-13*
+
+#### [Top-k Set Similarity Joins](https://doi.org/10.1109/ICDE.2009.111)
+
+*Chuan Xiao, Wei Wang, Xuemin Lin, Haichuan Shang*
+
+*ICDE 2009*
+
+This paper introduces an algorithm to identify top-k similar record pairs from a large given corpus, which doesn't require a pre-defined similarity threshold. It is adapted from an existing similarity join algorithm named All-Pairs, by changing the current threshold while keeping top-k similar pairs, and devising a new stopping condition. In the experiment, this top-k join algorithm was compared with ppjoin-topk on several large datasets. 
+
+
 *2022-04-29*
 
 #### [A Framework to Conduct and Report on Empirical User Studies in Semantic Web Contexts](https://doi.org/10.1007/978-3-030-03667-6_36)
@@ -10,7 +21,6 @@
 *EKAW 2018*
 
 This paper analyses and discusses the general framework of Semantic Web user studies by reviewing 87 conference papers. The authors read and categorize the papers from 6 aspects, namely, (1) purpose, (2) users, (3) tasks, (4) setup, (5) procedure and (6) analysis and presentation of data. For each aspect, this paper presents the distributions of the reviewed paper with brief analysis. According to the analysis results, it also talks about an appropriate user study design for Semantic Web related systems, also following the six aspects/steps. Finally, it gives some suggestions and indicates challenges for conducting user studies in practice.
-
 
 
 *2022-04-26*
