@@ -3,6 +3,16 @@
 
 
 
+*2022-05-14*
+
+#### [RDF Explorer: A Visual Query Builder for Semantic Web Knowledge Graphs](http://ceur-ws.org/Vol-2456/paper60.pdf)
+
+*Hernán Vargas, Carlos Buil Aranda, Aidan Hogan*
+
+*ISWC Satellites 2019*
+
+This demo paper introduces a visual query builder that allows non-expert user to formulate SPARQL queries by adding nodes and links rather than directly editing in the text box. In this paper, the query creation process is explained with an example based on Wikidata. 
+
 
 *2022-05-12*
 
