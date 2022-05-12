@@ -3,6 +3,18 @@
 
 
 
+
+*2022-05-15*
+
+#### [OptiqueVQS: a Visual Query System over Ontologies for Industry](https://content.iospress.com/articles/semantic-web/sw293)
+
+*Ahmet Soylu, Evgeny Kharlamov, Dmitriy Zheleznyakov, Ernesto Jiménez-Ruiz, Martin Giese, Martin G. Skjæveland, Dag Hovland, Rudolf Schlatte, Sebastian Brandt, Hallstein Lie, Ian Horrocks*
+
+*Semantic Web 2018*
+
+This paper introduces a visual query system named OptiqueVQS, aiming at assisting the user to formulate structured queries over industrial ontologies. It firstly proposes three main challenges for such a system, including identifying common query types, identifying query, task, user types, and identifying quality attributes. Then it accordingly lists a set of requirements for expressivity (supporting which type of queries) and quality attributes (how to measure the system). It demonstrates the system by examples and illustrates the function of each component, and conducts user studies with human experts and ordinary users.
+
+
 *2022-05-14*
 
 #### [RDF Explorer: A Visual Query Builder for Semantic Web Knowledge Graphs](http://ceur-ws.org/Vol-2456/paper60.pdf)
