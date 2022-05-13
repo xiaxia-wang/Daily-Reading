@@ -2,6 +2,18 @@
 
 
 
+
+*2022-05-16*
+
+#### [A Scalable Virtual Document-Based Keyword Search System for RDF Datasets](https://dl.acm.org/doi/10.1145/3331184.3331284)
+
+*Dennis Dosso, Gianmaria Silvello*
+
+*SIGIR 2019 short*
+
+This paper proposes a "TSA+VDP" pipeline to perform keyword search on a graph, whose output is a (not necessarily connected) subgraph containing all the keywords. It first splits the original graph into a set of subgraphs with limited radius by performing a BFS-like exploration (TSA step). Then for each subgraph, a virtual document is built for retrieval. Given a keyword query, a list of subgraphs are retrieved, merged by overlapping triples, and pruned to be minimal (VDP step). Finally the subgraphs are ranked and output.
+
+
 *2022-05-10*
 
 #### [Analysis of Long Queries in a Large Scale Search Log](https://dl.acm.org/doi/10.1145/1507509.1507511)
