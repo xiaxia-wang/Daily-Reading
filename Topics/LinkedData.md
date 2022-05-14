@@ -4,6 +4,18 @@
 
 
 
+
+*2022-05-17*
+
+#### [Visual Querying LOD sources with LODeX](https://dl.acm.org/doi/10.1145/2815833.2815849)
+
+*Fabio Benedetti, Sonia Bergamaschi, Laura Po*
+
+*K-CAP 2015*
+
+This paper introduces a visual query system for linked open datasets named LODeX. Based on the datasets available on Data Hub, LODeX identifies four main steps to process the datasets and incorporate them into the system. (1) Indexes extraction builds statistical indexes including the number of usages for each class, property, and the domain-range relations between them. Based on the indexes, (2) Schema summary generation aims at producing statistical summaries for schema elements, including classes, properties, attributes, their labels, and the mapping function between them. (3)  Schema summary visualization provides the user with node-link style visualized summaries. (4) Query orchestration supports the user to create query by selecting nodes, links and classes. The query will be automatically transformed into SPARQL query and perform. 
+
+
 *2022-05-15*
 
 #### [OptiqueVQS: a Visual Query System over Ontologies for Industry](https://content.iospress.com/articles/semantic-web/sw293)
