@@ -1,6 +1,21 @@
 
 
 
+
+
+*2022-05-18*
+
+#### [NOAH: Interactive Spreadsheet Exploration with Dynamic Hierarchical Overviews](http://www.vldb.org/pvldb/vol14/p970-rahman.pdf)
+
+*Sajjadur Rahman, Mangesh Bendre, Yuyang Liu, Shichu Zhu, Zhaoyuan Su, Karrie Karahalios, Aditya G. Parameswaran*
+
+*VLDB 2021*
+
+"This paper can be used as a model for similar papers to profile a system or investigate user interactions." - by GC
+
+This paper introduces a novel system for the user to interactively explore large spreadsheets with hierarchical overviews. The introduction mainly presents the motivation of this work, including limitations of existing systems, supporting researches and the contributions of this paper. Then it describes the design consideration and use cases of the system with examples. The details and methods for each component are introduced in the next section, followed by the system architecture. Then two user studies for verifying system effectiveness are presented with discussion of results. Finally it ends up with related work and conclusion. 
+
+
 *2022-05-13*
 
 #### [Top-k Set Similarity Joins](https://doi.org/10.1109/ICDE.2009.111)
