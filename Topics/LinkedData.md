@@ -4,6 +4,16 @@
 
 
 
+*2022-05-19*
+
+#### [RDF dataset profiling – a survey of features, methods, vocabularies and applications](https://content.iospress.com/articles/semantic-web/sw294)
+
+*Mohamed Ben Ellefi, Zohra Bellahsene, John G. Breslin, Elena Demidova, Stefan Dietze, Julian Szymanski, Konstantin Todorov*
+
+*Semantic Web 2018*
+
+This is a comprehensive and important survey paper for RDF dataset profiling that worth reading for several times. It reviews 85 publications over the past 2 decades about RDF datasets. Following the introduction and description of the survey process, it firstly presents a taxonomy for dataset profile features, including 7 main categories. Then it provides a systematic overview of dataset profile extraction tools and approaches based on the taxonomy. The third part is an overview and a classification of vocabularies used to characterize dataset profiles. The fourth part proposes an illustration for the use of dataset profiles within the application contexts. 
+
 
 *2022-05-17*
 
