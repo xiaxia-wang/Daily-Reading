@@ -4,6 +4,17 @@
 
 
 
+*2022-05-21*
+
+#### [Profiling relational data: a survey](https://link.springer.com/article/10.1007/s00778-015-0389-y)
+
+*Ziawasch Abedjan, Lukasz Golab, Felix Naumann*
+
+*VLDB J 2015*
+
+This survey paper introduces tasks and approaches for profiling relational tables. It firstly identifies the usages for data profiling and illustrates its importance. Then it introduces profiling tasks including single-column profiling, multi-column profiling, dependency detection, storage, etc. In the following sections, it comprehensively reviews existing efforts for each profiling task along with the primary usages. After that, this paper summarizes existing profiling tools, and presents a discussion about next generation of profiling integration and non-relational data (e.g., RDF) profiling. Some of the approaches for relational data might also be applicable or extendable for non-relational data. 
+
+
 *2022-05-19*
 
 #### [RDF dataset profiling – a survey of features, methods, vocabularies and applications](https://content.iospress.com/articles/semantic-web/sw294)
