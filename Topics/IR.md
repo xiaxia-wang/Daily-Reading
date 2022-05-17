@@ -3,6 +3,17 @@
 
 
 
+*2022-05-20*
+
+#### [Characteristics of Dataset Retrieval Sessions: Experiences from a Real-Life Digital Library](https://doi.org/10.1007/978-3-030-54956-5_14)
+
+*Zeljko Carevic, Dwaipayan Roy, Philipp Mayr*
+
+*TPDL 2020*
+
+This paper discusses the different features when people search for documents and datasets by analyzing search logs of a digital library. It also compares the results with the dataset search query analysis by [Koesten et al.]. In this paper, by comparing the query lengths and other statistics, the main findings include dataset queries are shorter than document queries, which is on the contrary with [Koesten et al.]. Besides, it also counts the number of views and presents interaction sequences for documents and datasets,  respectively. The use of a Sankey diagram to present interaction sequences is interesting. 
+
+
 *2022-05-16*
 
 #### [A Scalable Virtual Document-Based Keyword Search System for RDF Datasets](https://dl.acm.org/doi/10.1145/3331184.3331284)
