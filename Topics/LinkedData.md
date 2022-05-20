@@ -5,6 +5,18 @@
 
 
 
+
+*2022-05-23*
+
+#### [An Empirical Study of Vocabulary Relatedness and Its Application to Recommender Systems](https://doi.org/10.1007/978-3-642-25073-6_7)
+
+*Gong Cheng, Saisai Gong, Yuzhong Qu*
+
+*ISWC 2011*
+
+This paper discusses relatedness measurements for Semantic Web vocabularies. It firstly presents six metrics from four aspects, and proposes relatedness-based recommendation strategy using linear combination of the proposed metrics. Four main aspects are considered to reflect relatedness in this paper. (1) Explicit relations between vocabularies such as `owl:imports`. An edge-weighted graph is built to capture the number of relations between vocabularies. Relatedness is then computed from the length of shortest path between vocabularies. Similarly, another graph indicating implicit references is also built and used as the second metric. (2) Content similarity is mainly based on string overlaps of class and property labels between vocabularies. (3) Expressivity closeness is measured by the extent of meta-terms (e.g., super classes) overlaps. (4) Distributional relatedness uses cosine similarity between term co-occurrence vectors to measure the closeness between vocabularies. 
+
+
 *2022-05-22*
 
 #### [Summarizing semantic graphs: a survey](https://doi.org/10.1007/s00778-018-0528-3)
