@@ -4,6 +4,18 @@
 
 
 
+
+*2022-05-22*
+
+#### [Summarizing semantic graphs: a survey](https://doi.org/10.1007/s00778-018-0528-3)
+
+*Sejla Cebiric, François Goasdoué, Haridimos Kondylakis, Dimitris Kotzinos, Ioana Manolescu, Georgia Troullinou, Mussab Zneika*
+
+*VLDB J 2019*
+
+This survey paper presents a taxonomy for semantic graph summarization, with the approaches and applications. It firstly introduces basic concepts about semantic graphs, such as RDF, RDFS, OWL, and BGP query. Then it describes the scope of this paper, the usage of different summarization methods, and the classification for the methods. In this paper, summarization methods are categorized into 4 kinds, namely, structural, statistical, pattern-mining and hybrid. In the following sections, it discusses each kind of methods respectively, including generic graph (non-RDF) summarization, structural RDF summarization, pattern-based RDF summarization, statistical summarization, and others. 
+
+
 *2022-05-21*
 
 #### [Profiling relational data: a survey](https://link.springer.com/article/10.1007/s00778-015-0389-y)
