@@ -5,6 +5,16 @@
 
 
 
+*2022-05-24*
+
+#### [A Snapshot of the OWL Web](https://doi.org/10.1007/978-3-642-41335-3_21)
+
+*Nicolas Matentzoglu, Samantha Bail, Bijan Parsia*
+
+*ISWC 2013*
+
+This paper builds a corpus of OWL ontologies and compares it with other existing ontology collections, and reports the statistical results with analysis. It firstly introduces basic concepts about OWL and its profiles. Then the pipeline of obtaining and curating ontologies is introduced. Ontologies are crawled from the Web, filtered to reduce errors or duplicates, and grouped into clusters. Each remaining OWL DL document is parsed, and analyzed by domain sources, syntax distributions, etc. This paper also compares the entity usage of the proposed corpora with existing ontology collections. 
+
 
 *2022-05-23*
 
