@@ -5,6 +5,18 @@
 
 
 
+
+*2022-05-25*
+
+#### [How Matchable Are Four Thousand Ontologies on the Semantic Web](https://doi.org/10.1007/978-3-642-21034-1_20)
+
+*Wei Hu, Jianfeng Chen, Hang Zhang, Yuzhong Qu*
+
+*ESWC 2011*
+
+This paper presents an overview about how and to what extent do ontologies match with each other. The analysis starts from identifying term-level mappings. Based on Falcon-AO, term mappings are computed. An undirected term mapping graph is built, and statistical results are reported, such as the number and distribution of connected components. Then, based on the term mapping, a directed ontology mapping graph is similarly built and analyzed. Besides, also based on the terms, an undirected pay-level-domain mapping graph is built. The metrics used in this paper are mainly from the network analysis fields.
+
+
 *2022-05-24*
 
 #### [A Snapshot of the OWL Web](https://doi.org/10.1007/978-3-642-41335-3_21)
