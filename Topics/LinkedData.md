@@ -6,6 +6,16 @@
 
 
 
+*2022-05-27*
+
+#### [Swoogle: A Search and Metadata Engine for the Semantic Web](https://doi.org/10.1145/1031171.1031289)
+
+*Li Ding, Timothy W. Finin, Anupam Joshi, Rong Pan, R. Scott Cost, Yun Peng, Pavan Reddivari, Vishal Doshi, Joel Sachs*
+
+*CIKM 2004*
+
+This paper introduces an influential search engine prototype "Swoogle" for semantic Web documents (SWDs). It firstly introduces the system architecture, including four parts: SWD discovery, metadata creation, data analysis and interface. Then it presents an analysis about the retrieved documents and their metadata. By identifying six relations such as imports, previous version and assigning their weights, Swoogle computes PageRank scores for document ranking. It also applies some IR-based methods such as n-grams for document retrieving. Overall, Swoogle acts as a famous search engine for SWDs at that time. 
+
 
 *2022-05-26*
 
