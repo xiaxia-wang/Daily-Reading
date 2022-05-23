@@ -6,6 +6,18 @@
 
 
 
+
+*2022-05-26*
+
+#### [An Intelligent Linked Data Quality Dashboard](http://ceur-ws.org/Vol-2563/aics_32.pdf)
+
+*Ramneesh Vaidyambath, Jeremy Debattista, Neha Srivatsa, Rob Brennan*
+
+*AICS 2019*
+
+This paper introduces a tool for helping the user understand the linked datasets and make quality assessments. The system architecture consists of a Web-based service wrapper, an analytical dashboard, a triplestore, and an existing quality assessment tool. It supports detection of a set of quality problems, mainly related to undefined or incorrect classes and properties.  The dashboard provides an overview of the quality metric scores with further details. Finally, the usability of dashboard is evaluated by real human users, including "experts" and "general users".
+
+
 *2022-05-25*
 
 #### [How Matchable Are Four Thousand Ontologies on the Semantic Web](https://doi.org/10.1007/978-3-642-21034-1_20)
