@@ -5,6 +5,16 @@
 
 
 
+*2022-05-28*
+
+#### [Swoogle: Searching for Knowledge on the Semantic Web](https://www.aaai.org/Papers/AAAI/2005/ISD05-007.pdf)
+
+*Timothy W. Finin, Li Ding, Rong Pan, Anupam Joshi, Pranam Kolari, Akshay Java, Yun Peng*
+
+*AAAI 2005 Demo*
+
+This paper mainly presents the architecture of Swoogle and its interaction flow between RDF graphs and the semantic Web Documents. The architecture of Swoogle consists four bottom-up layers, namely, discovery, digest, analysis and service. For the service part, Swoogle provides both search service for human users and an ontology dictionary for software agents. This paper also provides an agent access model through navigation and links between semantic Web terms, documents, and ontologies. 
+
 
 *2022-05-27*
 
