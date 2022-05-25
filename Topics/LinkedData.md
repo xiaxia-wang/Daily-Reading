@@ -5,6 +5,17 @@
 
 
 
+*2022-05-29*
+
+#### [Characterizing the Semantic Web on the Web](https://link.springer.com/chapter/10.1007/11926078_18)
+
+*Li Ding, Tim Finin*
+
+*ISWC 2006*
+
+This paper analyzes the semantic Web environment based on the data and resources collected by Swoogle. It firstly presents a model for semantic Web, including concepts about RDF graphs and their provenances (i.e., Web documents and agents). Then it proposes an effective way for harvesting documents and applies them in Swoogle to collect and analyze SWDs. The collected data is then analyzed to show the increasing trend of SWDs, distribution of domains and sizes, etc., and summarized into global statistics and implications. 
+
+
 *2022-05-28*
 
 #### [Swoogle: Searching for Knowledge on the Semantic Web](https://www.aaai.org/Papers/AAAI/2005/ISD05-007.pdf)
