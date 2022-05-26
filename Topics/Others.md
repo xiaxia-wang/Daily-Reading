@@ -9,7 +9,7 @@
 
 *Dimitrios Koutsoukos, Supun Nakandala, Konstantinos Karanasos, Karla Saur, Gustavo Alonso, Matteo Interlandi*
 
-*VLDB 2021*
+*VLDB 2021 Vision*
 
 This vision paper presents a new idea of using tensors, which are basic components of deep leaning models, to achieve non-ML data processing tasks, such as graph processing and relational operations. As a preliminary attempt, in this paper it firstly presents using tensors to compute PageRank on the graph, and compares the performance with typical implementation. Besides, it also implements relational operators using tensors, and evaluates them with cardinality calculation. The result shows the tensor implementation performs quite well in these tasks thus being promising for future work. 
 
