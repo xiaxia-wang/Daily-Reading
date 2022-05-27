@@ -3,6 +3,19 @@
 
 
 
+
+
+*2022-05-31*
+
+#### [Database Technology for the Masses: Sub-Operators as First-Class Entities](http://www.vldb.org/pvldb/vol14/p2483-bandle.pdf)
+
+*Maximilian Bandle, Jana Giceva*
+
+*VLDB 2021 Vision*
+
+This vision paper introduces a new idea of building relational databases and computation processes over sub-operators, which can be regarded as components of existing SQL operators. The authors argue that using sub-operators can make databases more flexible, extend their functionality to more data types, and achieve lower level of abstraction. In this paper, some initial sub-operators are listed, such as scan, map, and loop. Advantages and challenges for related research fields about implementing such sub-operators are also discussed in the paper. 
+
+
 *2022-05-30*
 
 #### [Tensors: An abstraction for general data processing](http://www.vldb.org/pvldb/vol14/p1797-koutsoukos.pdf)
