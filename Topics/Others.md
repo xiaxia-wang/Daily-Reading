@@ -4,6 +4,16 @@
 
 
 
+*2022-06-01*
+
+#### [Declarative Data Serving: The Future of Machine Learning Inference on the Edge](http://www.vldb.org/pvldb/vol14/p2555-shaowang.pdf)
+
+*Ted Shaowang, Nilesh Jain, Dennis Matthews, Sanjay Krishnan*
+
+*VLDB 2021 Vision*
+
+This vision paper describes an edge-based computational system architecture. It takes machine learning model serving task as an example. Firstly, it reviews existing supporting technologies and describes an industrial example. Then it discusses the optimization objectives for such an edge-based system, and provides an overview architecture of the system. Besides, it also indicates the research challenges with a research agenda about future work directions. No experiments are conducted. 
+
 
 *2022-05-31*
 
