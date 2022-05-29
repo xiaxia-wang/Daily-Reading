@@ -4,6 +4,17 @@
 
 
 
+*2022-06-02*
+
+#### [The Case for NLP-Enhanced Database Tuning: Towards Tuning Tools that “Read the Manual”](http://www.vldb.org/pvldb/vol14/p1159-trummer.pdf)
+
+*Immanuel Trummer*
+
+*VLDB 2021 Vision*
+
+This vision paper introduces a novel idea of tuning database (parameters or settings, for example) automatically using hints mined from texts. The texts are collected from the Web such as community forums, and used as pre-trained language model. Database tuning aims at optimizing the computation process and improving the efficiency. In this paper, it describes two use cases of NLP-enhanced database tuning, i.e., system configuration and cardinality estimation. It also conducts a simple evaluation of the system configuration task based on hints from Web documents. 
+
+
 *2022-06-01*
 
 #### [Declarative Data Serving: The Future of Machine Learning Inference on the Edge](http://www.vldb.org/pvldb/vol14/p2555-shaowang.pdf)
