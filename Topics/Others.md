@@ -3,6 +3,27 @@
 
 
 
+*2022-06-04*
+
+#### [RPT: Relational Pre-trained Transformer Is Almost All You Need towards Democratizing Data Preparation](http://www.vldb.org/pvldb/vol14/p1254-tang.pdf)
+
+*Nan Tang, Ju Fan, Fangyi Li, Jianhong Tu, Xiaoyong Du, Guoliang Li, Samuel Madden, Mourad Ouzzani*
+
+*VLDB 2021 Vision*
+
+This vision paper introduces a novel idea of relational pre-trained transformer model for data preparation tasks. The data preparation tasks refer to a set of human-easy but computer-hard tasks such as data cleaning, attribute filling, schema matching, entity resolution, etc. The proposed model RPT takes tuples as input. It uses a BERT-like, bidirectional encoder and a GPT-like, left-to-right decoder with tuple-aware masking mechanisms. It is also preliminarily evaluated with table completion task, and compared with BART. In the experiment, since RPT has the same architecture with BART, it directly uses the parameters pre-trained on BART rather than random initializing.
+
+
+*2022-06-03*
+
+#### [Towards Cost-Optimal Query Processing in the Cloud](http://www.vldb.org/pvldb/vol14/p1606-leis.pdf)
+
+*Viktor Leis, Maximilian Kuschewski*
+
+*VLDB 2021 Vision*
+
+This vision paper introduces a model for determining the optimal configuration of cloud-based database systems. It aims to reduce the costs of query processing, which relates to scanning data,  caching, materializing operators, transferring data between nodes, etc. It begins with a basic model with only 2 variables, i.e., `CPU hours` and `scanned data`, and increasingly adds more variables (until six) to the model. The model is constructed based on intuitive rules (rather than learning). 
+
 
 *2022-06-02*
 
