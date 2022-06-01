@@ -3,6 +3,18 @@
 
 
 
+
+*2022-06-05*
+
+#### [Software-Defined Data Protection: Low Overhead Policy Compliance at the Storage Layer is Within Reach!](http://www.vldb.org/pvldb/vol14/p1167-istvan.pdf)
+
+*Zsolt István, Soujanya Ponnapalli, Vijay Chidambaram*
+
+*VLDB 2021 Vision*
+
+This vision paper mainly introduces an idea to decouple the data protection policies from request-level enforcement, and allow the distributed storage nodes to implement the latter. In other words, it uses in-storage computation together with a control-plane/data-plane separation to allow enforcing data protection rules at line-rate. In this paper, following the introduction, the background and related work is firstly presented. Then the software-defined model is introduced,  including the function of each component. After that, a preliminary evaluation is presented to show its effectiveness. Finally, the paper is ended up with discussion about future challenges. 
+
+
 *2022-06-04*
 
 #### [RPT: Relational Pre-trained Transformer Is Almost All You Need towards Democratizing Data Preparation](http://www.vldb.org/pvldb/vol14/p1254-tang.pdf)
