@@ -3,6 +3,16 @@
 
 
 
+*2022-06-06*
+
+#### [SaS: SSD as SQL Database System](http://www.vldb.org/pvldb/vol14/p1481-lee.pdf)
+
+*Jong-Hyeok Park, Soyee Choi, Gihwan Oh, Sang Won Lee*
+
+*VLDB 2021 Vision*
+
+This vision paper introduces a new database architecture of making a full SQL database engine run inside SSD rather than on the operating system. Following the introduction, the advantages and design goals are firstly introduced. Then a prototype system is presented with introduction of each component. The prototype is also preliminarily evaluated and analyzed. Finally it ends up with discussions about future research directions. 
+
 
 *2022-06-05*
 
