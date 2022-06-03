@@ -4,6 +4,16 @@
 
 
 
+*2022-06-07*
+
+#### [RDF graph summarization for first-sight structure discovery](https://doi.org/10.1007/s00778-020-00611-y)
+
+*François Goasdoué, Pawel Guzewicz, Ioana Manolescu*
+
+*VLDB J 2020*
+
+This paper discusses about quotient-based RDF graph summarization. It firstly introduces the equality conditions between nodes, strong/weak relations, etc. Then it presents the methods and conditions to generate summaries for RDF graphs, and also discusses the relationship between RDF graph saturation and summarization. It presents some sufficient conditions for saturated graph summary to be isomorphic to the summary of saturated graph (although seems strict and naive). It also talks about the visualization of RDF graph summaries which is in E-R style, with numbers of instances, properties, and inline types of entities. 
+
 
 *2022-05-29*
 
