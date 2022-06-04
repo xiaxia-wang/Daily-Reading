@@ -4,6 +4,18 @@
 
 
 
+
+*2022-06-08*
+
+#### [Profiling Linked Open Data with ProLOD](https://doi.org/10.1109/ICDEW.2010.5452762)
+
+*Christoph Böhm, Felix Naumann, Ziawasch Abedjan, Dandy Fenz, Toni Grütze, Daniel Hefenbrock, Matthias Pohl, David Sonnabend*
+
+*ICDE Workshops 2010*
+
+This paper introduces a Web-based prototype system named ProLOD for profiling RDF datasets. The back-end involves three main processes. For each dataset, (1) Clustering and Labeling mainly pre-computes the clusters of the dataset based on predicate similarity, and assigns a human-readable label for each element. (2) Schema Discovery uses statistical-based rules and algorithms to identify relations between predicates and attributes, such as co-occurrence, exclusive, etc., and uses these identified relation to refine the clusters. (3) Data Types and Pattern Statistics mainly counts and presents the numbers of the elements and patterns. 
+
+
 *2022-06-07*
 
 #### [RDF graph summarization for first-sight structure discovery](https://doi.org/10.1007/s00778-020-00611-y)
