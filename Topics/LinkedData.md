@@ -4,6 +4,16 @@
 
 
 
+*2022-06-09*
+
+#### [ExpLOD: Summary-Based Exploration of Interlinking and RDF Usage in the Linked Open Data Cloud](https://doi.org/10.1007/978-3-642-13489-0_19)
+
+*Shahan Khatchadourian, Mariano P. Consens*
+
+*ESWC 2010*
+
+This paper introduces a RDF summarization method named ExpLOD, based on RDF graph bisimulation. Given a RDF graph, it firstly applies (literal) bisimulation labels to each of the instances, predicates and classes, including the prefix, types of the node, etc. Then it hierarchically contracts the labeled graph to generate the summary. It also provides several ways to implement the summarization, such as PRAIG which is a automatic construction method, SPARQL query-based subgraph extraction, etc. In the experiment, ExpLOD is evaluated on several popular RDF datasets. Its different implementations are also compared. 
+
 
 *2022-06-08*
 
