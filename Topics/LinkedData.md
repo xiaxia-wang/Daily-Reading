@@ -4,6 +4,17 @@
 
 
 
+*2022-06-10*
+
+#### [LODStats – An Extensible Framework for High-Performance Dataset Analytics](https://doi.org/10.1007/978-3-642-33876-2_31)
+
+*Sören Auer, Jan Demter, Michael Martin, Jens Lehmann*
+
+*EKAW 2012*
+
+This paper introduces a set of evaluation metrics of RDF datasets analytics. The metrics are statement-stream-based and on triple level. In this paper, it firstly introduces the use cases of dataset analytics. Then it proposes the definition and criteria for statistical metrics, and presents a total of 32 schema level statistical metrics. Finally it talks about the implementation as python package and metadata representations. 
+
+
 *2022-06-09*
 
 #### [ExpLOD: Summary-Based Exploration of Interlinking and RDF Usage in the Linked Open Data Cloud](https://doi.org/10.1007/978-3-642-13489-0_19)
