@@ -3,6 +3,16 @@
 
 
 
+*2022-06-11*
+
+#### [Profiling and Mining RDF Data with ProLOD++](https://doi.org/10.1109/ICDE.2014.6816740)
+
+*Ziawasch Abedjan, Toni Grütze, Anja Jentzsch, Felix Naumann*
+
+*ICDE 2014*
+
+This demo paper introduces ProLOD++, the extension of a previous prototype ProLOD (at ICDE Workshop 2010) for profiling RDF datasets. It presents three kinds of tasks for ProLOD++, i.e., profiling, mining, and cleansing. Compared with the previous version, it adds uniqueness analysis to the prototype for analyzing the predicate combinations and usages to uniquely represent an entity. It also implements rule-based analysis methods for fact auto-completion and prediction. 
+
 
 *2022-06-10*
 
