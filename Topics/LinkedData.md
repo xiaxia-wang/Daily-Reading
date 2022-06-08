@@ -3,6 +3,17 @@
 
 
 
+*2022-06-12*
+
+#### [ROCKER – A Refinement Operator for Key Discovery](https://doi.org/10.1145/2736277.2741642)
+
+*Tommaso Soru, Edgard Marx, Axel-Cyrille Ngonga Ngomo*
+
+*WWW 2015*
+
+This paper proposes an algorithm named ROCKER for finding keys, which is sets of properties for uniquely describing resources in linked datasets. Given a set of properties, if all the resources in the dataset are distinguishable, such a set can be called a key. For all properties in a given dataset, it firstly presents a quasi-ordering relation over the power set of the properties, with a score for each set of properties representing the fraction of subject resources that are distinguishable. Then it introduces a refinement operator for gradually adding and refining the keys. The algorithm for identifying keys is presented based on a priority queue, and is evaluated over twelve datasets. 
+
+
 *2022-06-11*
 
 #### [Profiling and Mining RDF Data with ProLOD++](https://doi.org/10.1109/ICDE.2014.6816740)
