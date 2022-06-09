@@ -3,6 +3,19 @@
 
 
 
+
+
+*2022-06-13*
+
+#### [SAKey: Scalable Almost Key Discovery in RDF Data](https://doi.org/10.1007/978-3-319-11964-9_3)
+
+*Danai Symeonidou, Vincent Armant, Nathalie Pernelle, Fatiha Saïs*
+
+*ISWC 2014*
+
+This paper introduces SAKey, an approach to efficiently compute almost keys in RDF datasets. In practice, erroneous or duplicate data often exists thus causing trouble for precise key identification. An $n$-almost key is a set of properties with exception sets whose size is no more than $n$. SAKey approach derives such almost keys based on $n$-non keys, and incorporates filtering and pruning methods. An $n$-non key means for the set of properties, there is an exception set with size $>n$. The experiments are conducted over three datasets, i.e., DBpedia, YAGO and OAEI, where SAKey is also compared with other key identification methods. 
+
+
 *2022-06-12*
 
 #### [ROCKER – A Refinement Operator for Key Discovery](https://doi.org/10.1145/2736277.2741642)
