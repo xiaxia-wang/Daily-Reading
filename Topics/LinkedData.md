@@ -4,6 +4,16 @@
 
 
 
+*2022-06-14*
+
+#### [SchemEX — Efficient construction of a data catalogue by stream-based indexing of linked data](https://doi.org/10.1016/j.websem.2012.06.002)
+
+*Mathias Konrath, Thomas Gottron, Steffen Staab, Ansgar Scherp*
+
+*Journal of Web Semantics 2012*
+
+This paper introduces SchemEX, an indexing method for RDF datasets. Its structure contains three main layers, (1) RDF class layer, which stores the classes for RDF instances, (2) RDF type cluster layer, which combines the co-occurred classes of a single instance as a cluster, (3) equivalence class layer, based on a equivalence relation between instances, uses bisimulation method to characterize the relations of classes and properties in the dataset. This paper also proposes a SchemEX vocabulary based on VoID, which supports SPARQL queries over the indexes. The indexes are evaluated over the BTC dataset. 
+
 
 *2022-06-13*
 
