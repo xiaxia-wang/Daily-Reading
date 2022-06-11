@@ -12,7 +12,7 @@
 
 *ISWC 2009*
 
-This paper introduces a method for faceted authority ranking of RDF data elements, i.e., properties and entities, based on tensor decomposition. It is motivated that existing graph-based ranking methods lack support for fine-grained latent coherence between resources and predicates, which can be complemented by tensor decomposition. Given the entities and properties connecting them in the RDF dataset as an input matrix, TripleRank computes the most significant groups of resources and predicates, and gives each of them a importance score. Such results can be applied in a faceted browsing scenario. 
+This paper introduces a method for faceted authority ranking of RDF data elements, i.e., properties and entities, based on tensor decomposition. It is motivated that existing graph-based ranking methods lack support for fine-grained latent coherence between resources and predicates, which can be complemented by tensor decomposition. Given the entities and properties connecting them in the RDF dataset as an input matrix, TripleRank computes the most significant groups of resources and predicates, and gives each of them an importance score. Such results can be applied in a faceted browsing scenario. 
 
 
 *2022-06-14*
