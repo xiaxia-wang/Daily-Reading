@@ -4,6 +4,17 @@
 
 
 
+*2022-06-15*
+
+#### [TripleRank: Ranking Semantic Web Data by Tensor Decomposition](https://doi.org/10.1007/978-3-642-04930-9_14)
+
+*Thomas Franz, Antje Schultz, Sergej Sizov, Steffen Staab*
+
+*ISWC 2009*
+
+This paper introduces a method for faceted authority ranking of RDF data elements, i.e., properties and entities, based on tensor decomposition. It is motivated that existing graph-based ranking methods lack support for fine-grained latent coherence between resources and predicates, which can be complemented by tensor decomposition. Given the entities and properties connecting them in the RDF dataset as an input matrix, TripleRank computes the most significant groups of resources and predicates, and gives each of them a importance score. Such results can be applied in a faceted browsing scenario. 
+
+
 *2022-06-14*
 
 #### [SchemEX — Efficient construction of a data catalogue by stream-based indexing of linked data](https://doi.org/10.1016/j.websem.2012.06.002)
