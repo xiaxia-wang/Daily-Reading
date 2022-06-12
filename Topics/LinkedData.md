@@ -4,6 +4,18 @@
 
 
 
+
+*2022-06-16*
+
+#### [Characterising Dataset Search on the European Data Portal: An Analysis of Search Logs](https://data.europa.eu/sites/default/files/analytical_report_18-characterising_data_search_edp.pdf)
+
+*Luis-Daniel Ibáñez, Laura Koesten, Emilia Kacprzak, Elena Simperl*
+
+*Analytical Report 18*
+
+By analyzing over two years of European Data Portal (EDP) search and interaction logs, this paper mainly studies the following questions: (1) dataset search in the context of the EDP, i.e., how is it applied in EDP, (2) dataset search strategies and search query characteristics, (3) EDP versus Web search engines in dataset search, (4) success criteria in dataset search. Following the four stages in a dataset search process identified in the [survey](https://doi.org/10.1007/s00778-019-00564-x), this paper firstly introduces the general process of how EDP works. Then it introduces some key terms and interaction features recorded in the search logs, and presents statistical analyses for them, e.g., number of sessions, distribution of the facets. It also summarizes the statistical results into a set of findings and answers the previous questions. 
+
+
 *2022-06-15*
 
 #### [TripleRank: Ranking Semantic Web Data by Tensor Decomposition](https://doi.org/10.1007/978-3-642-04930-9_14)
