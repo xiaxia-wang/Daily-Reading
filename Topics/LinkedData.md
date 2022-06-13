@@ -5,6 +5,17 @@
 
 
 
+*2022-06-17*
+
+#### [Dataset search: a survey](https://doi.org/10.1007/s00778-019-00564-x)
+
+*Adriane Chapman, Elena Simperl, Laura Koesten, George Konstantinidis, Luis-Daniel Ibáñez, Emilia Kacprzak, Paul Groth*
+
+*VLDB J 2020*
+
+This survey paper investigates existing systems and researches of dataset search, and discusses the problems and challenges that dataset search faces. It firstly introduces what dataset search is with definitions and example usages. Then in Section 2, it presents a general overview of dataset search process and system architecture. A general search process, as it is presented, contains four main parts, namely, query language, query handling, data handling and results presentation.  It also briefly reviews the other search communities, such as tabular search, information retrieval, etc. In Section 3, it reviews current systems related to dataset search, such as data portals, Google Dataset Search, etc. In Section 4, it reviews existing research efforts according to the four steps of dataset search. In Section 5 it talks about the open problems and challenges for dataset search researches and systems, mainly related to the nature of datasets which is different for existing techniques and systems. In Section 6, it highlights the importance of building benchmarks for dataset search. 
+
+
 *2022-06-16*
 
 #### [Characterising Dataset Search on the European Data Portal: An Analysis of Search Logs](https://data.europa.eu/sites/default/files/analytical_report_18-characterising_data_search_edp.pdf)
