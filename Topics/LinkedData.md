@@ -4,6 +4,16 @@
 
 
 
+*2022-06-18*
+
+#### [Everything you always wanted to know about a dataset: Studies in data summarisation](https://doi.org/10.1016/j.ijhcs.2019.10.004)
+
+*Laura Koesten, Elena Simperl, Tom Blount, Emilia Kacprzak, Jeni Tennison*
+
+*International Journal of Human-Computer Studies 2019*
+
+Data summarization not only helps end user quickly make sense of datasets, but also helps search systems, e.g., with keyword queries. To investigate data summarization, including important features of summaries and what people do care about, in this paper, the authors conduct two user studies. In the first user study, 69 students are recruited to record their data search diaries. In the second user study, crowdsourcing workers are recruited to produce summaries for given datasets. Then the data search diaries and crowdsourcing summaries are analyzed by components, topics, etc. Some findings and ideas about how to improve data summaries and related information such as metadata are discussed in the end.
+
 
 *2022-06-17*
 
