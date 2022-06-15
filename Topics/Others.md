@@ -3,6 +3,18 @@
 
 
 
+
+*2022-06-19*
+
+#### [Using Benchmarking to Advance Research: A Challenge to Software Engineering](https://doi.org/10.1109/ICSE.2003.1201189)
+
+*Susan Elliott Sim, Steve M. Easterbrook, Richard C. Holt*
+
+*ICSE 2003*
+
+This paper mainly discusses the challenge to design and create a successful benchmark in software engineering. It firstly presents three examples of successfully using benchmarking to advance research and industrial. Then it introduces the theory of benchmarking, including its scope, definition, how it works and its effectiveness. Based on that, it demonstrates how to apply the theory on use cases for software engineering, e.g., the preconditions, choosing task samples and measures, etc. It also indicates seven requirements for a successful benchmark. Finally, this paper is concluded with several specific areas of software engineering that are related to benchmarking.
+
+
 *2022-06-06*
 
 #### [SaS: SSD as SQL Database System](http://www.vldb.org/pvldb/vol14/p1481-lee.pdf)
