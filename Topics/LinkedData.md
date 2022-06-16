@@ -4,6 +4,18 @@
 
 
 
+
+*2022-06-20*
+
+#### [Avoiding Chinese Whispers: Controlling End-to-End Join Quality in Linked Open Data Stores](https://doi.org/10.1145/2786451.2786466)
+
+*Jan-Christoph Kalo, Silviu Homoceanu, Jewgeni Rose, Wolf-Tilo Balke*
+
+*WebSci 2015*
+
+This paper discusses the problem of incorrectness propagation for end-to-end large-scale entity linking, especially when several data sources are involved. In this paper, a benchmark for multi-source entity linking  is firstly presented, involving seven popular linked open datasets such as DBpedia, Freebase. Based on the proposed benchmark, existing instance matching systems are evaluated. The results shows a decrease of end-to-end performance especially when the chain of transitive links is relatively long. This also verifies the proposed problem of "Chinese Whispers" for instance matching. To handle this problem, this paper also proposes four approaches, including using similarity values, and relying on equivalent groups, cliques, or Markov clustering to identify correct links. The experimental results show that, existing systems achieve better performances with these approaches. 
+
+
 *2022-06-18*
 
 #### [Everything you always wanted to know about a dataset: Studies in data summarisation](https://doi.org/10.1016/j.ijhcs.2019.10.004)
