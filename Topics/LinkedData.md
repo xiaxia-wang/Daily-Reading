@@ -5,6 +5,18 @@
 
 
 
+
+*2022-06-21*
+
+#### [Content-based Union and Complement Metrics for Dataset Search over RDF Knowledge Graphs](https://dl.acm.org/doi/10.1145/3372750)
+
+*Michalis Mountantonakis, Yannis Tzitzikas*
+
+*Journal of Data and Information Quality 2020*
+
+In practice, dataset search users often propose needs for dataset unions and complements, such as finding top-k datasets that maximize the information (coverage), contain most complementary information (enrichment), or contribute the most unique content (uniqueness). However, existing dataset search methods including interlinking, cannot satisfy these needs. Therefore, in this paper a semantics-aware index is proposed to support efficient union and complement computation. Basically, for a set of given datasets, it stores each of the entities, properties, classes and literals as an inverted index. Then each of the computation tasks is presented as steps and metrics based on the index. The efficiency of the proposed methods are evaluated on a set of 400 RDF datasets, which is open-sourced.
+
+
 *2022-06-20*
 
 #### [Avoiding Chinese Whispers: Controlling End-to-End Join Quality in Linked Open Data Stores](https://doi.org/10.1145/2786451.2786466)
