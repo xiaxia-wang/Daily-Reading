@@ -6,6 +6,17 @@
 
 
 
+*2022-06-22*
+
+#### [On the Graph Structure of the Web of Data](https://doi.org/10.4018/IJSWIS.2018040104)
+
+*Alberto Nogales, Miguel-Ángel Sicilia, Elena García Barriocanal*
+
+*International Journal on Semantic Web and Information Systems 2018*
+
+This paper analyzes the Web of Data based on its graph structure and reports empirical findings, including the Web of Data also complying the bow-tie theory, and statistical features like node distances, degree centralities, etc. In Section 2, it firstly introduces the background of Web analysis, such as the bow-tie theory for the Web, the structure levels (i.e., page, host, and pay-level domain), and social network analysis (SNA) metrics. Then, in Section 3, by formulating the Web of Data as a directed graph where nodes represent datasets and edges represent RDF links, approaches used in analyzing the Web are applied. Section 4 introduces the process of gathering and cleaning the LOD Cloud datasets which are used in the following analyses. Section 5 reports the analysis results, including the overall structure, degree distribution, and connectivity. Finally, to check if the graph structure complies the bow-tie theory, it counts the specific structures in the graph and visualizes them into different groups, which demonstrates the compliance. 
+
+
 *2022-06-21*
 
 #### [Content-based Union and Complement Metrics for Dataset Search over RDF Knowledge Graphs](https://dl.acm.org/doi/10.1145/3372750)
