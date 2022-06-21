@@ -6,6 +6,17 @@
 
 
 
+*2022-06-23*
+
+#### [Canonical Forms for Isomorphic and Equivalent RDF Graphs: Algorithms for Leaning and Labelling Blank Nodes](https://doi.org/10.1145/3068333)
+
+*Aidan Hogan*
+
+*ACM Transactions on the Web 2017*
+
+The existence of blank nodes in RDF graphs brings huge difficulty in deciding whether two RDF graphs have equivalent semantics. Motivated by this, the paper proposes two effective leaning-and-labeling methods for RDF graphs with blank nodes. It firstly proposes a canonical form for RDF graphs which preserves isomorphism. Then the second canonical form is under simple interpretation of semantics, which means graphs with same semantics but are not isomorphic could be equivalent. By leaning the graphs then canonically labeling the blank nodes, the complete graph can be transformed to a standard hash value. (The methods for hashing can be customized such as MD5, etc.) The worst case of the algorithm involves exponential steps, but for most of ordinary cases the computation is relatively fast. 
+
+
 *2022-06-22*
 
 #### [On the Graph Structure of the Web of Data](https://doi.org/10.4018/IJSWIS.2018040104)
