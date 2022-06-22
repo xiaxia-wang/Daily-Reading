@@ -6,6 +6,17 @@
 
 
 
+*2022-06-24*
+
+#### [RDFSync: Efficient Remote Synchronization of RDF Models](https://doi.org/10.1007/978-3-540-76298-0_39)
+
+*Giovanni Tummarello, Christian Morbidoni, Reto Bachmann-Gmür, Orri Erling*
+
+*ISWC 2007*
+
+This paper introduces a graph decomposition method for efficiently synchronizing and merging RDF graphs. It decomposes the original RDF graph into a set of Minimum Self-Contained Graphs (MSGs). Each MSG is a minimum set of RDF statements containing a closure of IRIs and blank nodes. MSG decomposition could possibly bring redundant MSGs such as the same structure with replaceable blank nodes, which could be safely removed. For the usage, MSG decomposition could assist remote data synchronization (e.g., over HTTP) for it can be stream-like transported and does not require huge bandwidth. 
+
+
 *2022-06-23*
 
 #### [Canonical Forms for Isomorphic and Equivalent RDF Graphs: Algorithms for Leaning and Labelling Blank Nodes](https://doi.org/10.1145/3068333)
