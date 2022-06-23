@@ -6,6 +6,17 @@
 
 
 
+*2022-06-25*
+
+#### [Assessing Trust with PageRank in the Web of Data](http://ceur-ws.org/Vol-1597/PROFILES2016_paper5.pdf)
+
+*José M. Giménez-García, Harsh Thakkar, Antoine Zimmermann*
+
+*PROFILES@ESWC 2016*
+
+This paper is motivated by the idea of assessing trust of datasets. The first research question is to decide what a dataset is. In this paper it uses PLD to identify each dataset. Based on that it identifies links between different datasets. Using these links, PageRank values are computed for each dataset, and the influence of ignoring the predicates is also discussed. The experiments are conducted on 300+ LOD datasets. The results show that reuse of a dataset is not strictly correlated with its size. 
+
+
 *2022-06-24*
 
 #### [RDFSync: Efficient Remote Synchronization of RDF Models](https://doi.org/10.1007/978-3-540-76298-0_39)
