@@ -6,6 +6,17 @@
 
 
 
+*2022-06-26*
+
+#### [DING! Dataset Ranking using Formal Descriptions](http://ceur-ws.org/Vol-538/ldow2009_paper21.pdf)
+
+*Nickolai Toupikov, Jürgen Umbrich, Renaud Delbru, Michael Hausenblas, Giovanni Tummarello*
+
+*LDOW 2009*
+
+DING, short for **D**ataset Rank**ING**, is proposed in this paper as a link analysis method for ranking semantic Web datasets based on interlinks identified by VoID vocabulary. VoID (Vocabulary of Interlinked Datasets) is a RDFS vocabulary for describing linked datasets, which is generally used as metadata and published alongside with the datasets. Following the PageRank model, in this paper the VoID interlinks between datasets are treated like hyperlinks between Webpages. Moreover, the weights of the links are designed in a TF-IDF manner. For each dataset, both its popularity (number of links) and rarity (the IDF part, uniqueness of the links) are considered. The datasets are ranked according to the computed PageRank-style scores. In the experiment, the proposed ranking method is compared with some other popular methods such as Google's PageRank, HITS, etc. 
+
+
 *2022-06-25*
 
 #### [Assessing Trust with PageRank in the Web of Data](http://ceur-ws.org/Vol-1597/PROFILES2016_paper5.pdf)
