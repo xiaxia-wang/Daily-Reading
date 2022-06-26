@@ -6,6 +6,17 @@
 
 
 
+*2022-06-27*
+
+#### [Discovering and Maintaining Links on the Web of Data](https://doi.org/10.1007/978-3-642-04930-9_41)
+
+*Julius Volz, Christian Bizer, Martin Gaedke, Georgi Kobilarov*
+
+*ISWC 2009*
+
+This paper proposes a linking framework named Silk, to maintain RDF links between linked open datasets. The framework mainly consists of three main parts, (1) a link discovery engine, (2) a tool for evaluating and modifying RDF links (e.g., generating `owl:sameAs` between entities), and (3) a protocol for maintaining RDF links. To discover interlinks, the Silk - Link Specification Language is proposed to express heuristics rules. The datasets are generally accessed through SPARQL endpoints, and the similarity between entities is measured by a set of statistical-based metrics. Then a Web-based interface allows user to inspect the links by comparing pairs of entities and verify the correctness. Thirdly, a link maintenance protocol is proposed to support updates of datasets and links. 
+
+
 *2022-06-26*
 
 #### [DING! Dataset Ranking using Formal Descriptions](http://ceur-ws.org/Vol-538/ldow2009_paper21.pdf)
