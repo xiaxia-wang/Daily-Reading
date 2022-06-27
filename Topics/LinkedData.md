@@ -6,6 +6,17 @@
 
 
 
+*2022-06-28*
+
+#### [Empirical Analysis of Ranking Models for an Adaptable Dataset Search](https://doi.org/10.1007/978-3-319-93417-4_4)
+
+*Angelo Batista Neves, Rodrigo G. G. de Oliveira, Luiz André P. Paes Leme, Giseli Rabello Lopes, Bernardo Pereira Nunes, Marco A. Casanova*
+
+*ESWC 2018*
+
+This paper introduces the task of similarity search for datasets. Given a dataset $d_t$, it aims at ranking existing datasets $d_1, d_2, ...d_n$ according to the probability of their entities could be linked to $d_t$. There are three kinds of methods for this task, (1) similarity ranking, (2) using known links and metadata to learn linking rules, (3) identifying relevant hubs. In this paper, 5 ranking models are evaluated and compared with 2 use cases. The experiment is conducted over LOD Cloud datasets. 
+
+
 *2022-06-27*
 
 #### [Discovering and Maintaining Links on the Web of Data](https://doi.org/10.1007/978-3-642-04930-9_41)
