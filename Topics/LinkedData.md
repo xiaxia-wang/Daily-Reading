@@ -6,6 +6,17 @@
 
 
 
+*2022-06-29*
+
+#### [Towards An Objective Assessment Framework for Linked Data Quality: Enriching Dataset Profiles with Quality Indicators](https://doi.org/10.4018/IJSWIS.2016070104)
+
+*Ahmad Assaf, Aline Senart, Raphaël Troncy*
+
+*International Journal on Semantic Web and Information Systems 2016*
+
+This paper mainly introduces a set of objective quality indicators for linked open datasets, and how to choose the quality metrics as a data provider or data consumer. In Section 3, it firstly discusses the criteria for data quality measurements, and groups them into different categories. In Section 4, it presents a survey of tools to measure linked open data quality. In Section 5, it proposes a framework for quality assessment, and evaluates it over the LOD datasets. 
+
+
 *2022-06-28*
 
 #### [Empirical Analysis of Ranking Models for an Adaptable Dataset Search](https://doi.org/10.1007/978-3-319-93417-4_4)
