@@ -3,6 +3,19 @@
 
 
 
+
+
+*2022-06-30*
+
+### [A Test Collection for Ad-hoc Dataset Retrieval](https://doi.org/10.1145/3404835.3463261)
+
+*Makoto P. Kato, Hiroaki Ohshima, Ying-Hsang Liu, Hsin-Liang Chen*
+
+*SIGIR 2021*
+
+This resource paper mainly proposes a test collection for ad-hoc dataset retrieval. The datasets are collected from the US and Japanese government portals (data.gov and e-Stat). As a resource, it constructs a test collection containing 192 training topics (i.e., queries), 192 test topics, and over 2,000 qrels. It clearly introduces the construction process of the test collection. The relevance labels are rated by crowd-sourcing workers. This resource is build upon a shared task for retrieval systems. By analyzing the results, the system effectiveness, topic difficulty and variability are discussed. 
+
+
 *2022-05-20*
 
 #### [Characteristics of Dataset Retrieval Sessions: Experiences from a Real-Life Digital Library](https://doi.org/10.1007/978-3-030-54956-5_14)
