@@ -5,6 +5,17 @@
 
 
 
+*2022-07-01*
+
+### [Are There Any Differences in Data Set Retrieval Compared to Well-Known Literature Retrieval?](https://doi.org/10.1007/978-3-319-24592-8_15)
+
+*Dagmar Kern, Brigitte Mathiak*
+
+*TPDL 2015*
+
+This paper investigates the similarities and differences between dataset retrieval and typical literature retrieval. In this paper two user studies are conducted with social sciences dataset and literatures. In the user studies, the participants are interviewed about their retrieval experiences in using a system DBK for retrieving datasets. By analyzing the results, some open problems are discussed, such as search within metadata, grouping of the datasets. Besides, it is found that for social sciences researchers, choosing datasets is a much more important decision than choosing literature. 
+
+
 *2022-06-30*
 
 ### [A Test Collection for Ad-hoc Dataset Retrieval](https://doi.org/10.1145/3404835.3463261)
