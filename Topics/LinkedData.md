@@ -6,6 +6,17 @@
 
 
 
+*2022-07-02*
+
+### [Browsing Linked Data Catalogs with LODAtlas](https://doi.org/10.1007/978-3-030-00668-6_9)
+
+*Emmanuel Pietriga, Hande Gözükan, Caroline Appert, Marie Destandau, Sejla Cebiric, François Goasdoué, Ioana Manolescu*
+
+*ISWC 2018*
+
+To help application developers and end-users easily find datasets of their interest, this resource paper proposes [LODAtlas](http://purl.org/lodatlas) as a Web-based search service. The datasets provided in the system are collected from open data portals (e.g., datahub.io, europeandataportal.eu). To enable users to submit different types of queries, view and compare the content of datasets, it indexes the metadata, incorporates several visual summarization methods, and provides statistical charts for comparison between datasets. Besides, in this paper, the overview of system structure and the [source codes](https://gitlab.inria.fr/epietrig/LODAtlas) are also provided. 
+
+
 *2022-06-29*
 
 #### [Towards An Objective Assessment Framework for Linked Data Quality: Enriching Dataset Profiles with Quality Indicators](https://doi.org/10.4018/IJSWIS.2016070104)
