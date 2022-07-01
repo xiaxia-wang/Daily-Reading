@@ -8,7 +8,7 @@
 
 *2022-07-02*
 
-### [Browsing Linked Data Catalogs with LODAtlas](https://doi.org/10.1007/978-3-030-00668-6_9)
+#### [Browsing Linked Data Catalogs with LODAtlas](https://doi.org/10.1007/978-3-030-00668-6_9)
 
 *Emmanuel Pietriga, Hande Gözükan, Caroline Appert, Marie Destandau, Sejla Cebiric, François Goasdoué, Ioana Manolescu*
 
