@@ -7,7 +7,7 @@
 
 *2022-07-01*
 
-### [Are There Any Differences in Data Set Retrieval Compared to Well-Known Literature Retrieval?](https://doi.org/10.1007/978-3-319-24592-8_15)
+#### [Are There Any Differences in Data Set Retrieval Compared to Well-Known Literature Retrieval?](https://doi.org/10.1007/978-3-319-24592-8_15)
 
 *Dagmar Kern, Brigitte Mathiak*
 
@@ -18,7 +18,7 @@ This paper investigates the similarities and differences between dataset retriev
 
 *2022-06-30*
 
-### [A Test Collection for Ad-hoc Dataset Retrieval](https://doi.org/10.1145/3404835.3463261)
+#### [A Test Collection for Ad-hoc Dataset Retrieval](https://doi.org/10.1145/3404835.3463261)
 
 *Makoto P. Kato, Hiroaki Ohshima, Ying-Hsang Liu, Hsin-Liang Chen*
 
