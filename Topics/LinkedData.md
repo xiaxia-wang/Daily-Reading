@@ -6,6 +6,17 @@
 
 
 
+*2022-07-03*
+
+#### [Characterising dataset search—An analysis of search logs and data requests](https://doi.org/10.1016/j.websem.2018.11.003)
+
+*Emilia Kacprzak, Laura Koesten, Luis-Daniel Ibáñez, Tom Blount, Jeni Tennison, Elena Simperl*
+
+*Journal of Web Semantics 2019*
+
+This journal paper has similar topic with the analytical report in 2018 [Characterising Dataset Search on the European Data Portal: An Analysis of Search Logs](https://data.europa.eu/sites/default/files/analytical_report_18-characterising_data_search_edp.pdf). By analyzing the search logs of 4 open government data portals, in this paper the authors use a set of statistical metrics to characterize the activity of dataset retrieval. It analyzes the search logs from different perspectives including the users, the queries, and the data requests. Some findings are summarized, such as the geospatial and temporal features are the most common features for dataset retrieval, and current search functionalities are used in an exploratory manner rather than to retrieval a specific resource. 
+
+
 *2022-07-02*
 
 #### [Browsing Linked Data Catalogs with LODAtlas](https://doi.org/10.1007/978-3-030-00668-6_9)
