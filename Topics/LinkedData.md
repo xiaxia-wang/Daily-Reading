@@ -6,6 +6,17 @@
 
 
 
+*2022-07-04*
+
+#### [Goods: Organizing Google’s Datasets](https://doi.org/10.1145/2882903.2903730)
+
+*Alon Y. Halevy, Flip Korn, Natalya Fridman Noy, Christopher Olston, Neoklis Polyzotis, Sudip Roy, Steven Euijong Whang*
+
+*SIGMOD 2016*
+
+This paper is prior to the release of Google Dataset Search. It discusses Goods as a project for collecting, organizing, and analyzing distributed datasets from the Web. Specifically, Goods is a post-hoc system used in Google to organize datasets. It automatically collects and generates metadata, and enables the user to find datasets more easily. This paper discusses some challenges in designing the system, such as the large scale of datasets, the uncertainty of metadata discovery. According to the implementation, it relies on the Google Web crawler to collect metadata, and organizes the datasets into clusters. It customizes the catalog storage for the large scale of data, and implements a front end including a profile page for each dataset. In the end, it presents some insights learned from building the system.
+
+
 *2022-07-03*
 
 #### [Characterising dataset search—An analysis of search logs and data requests](https://doi.org/10.1016/j.websem.2018.11.003)
