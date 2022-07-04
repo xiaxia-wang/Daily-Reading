@@ -6,6 +6,17 @@
 
 
 
+*2022-07-05*
+
+#### [Google Dataset Search: Building a search engine for datasets in an open Web ecosystem](https://doi.org/10.1145/3308558.3313685)
+
+*Dan Brickley, Matthew Burgess, Natasha F. Noy*
+
+*WWW 2019*
+
+This is the first research paper that I read at the very beginning of my work towards dataset search. This paper introduces Google Dataset Search, which is based on Web-crawled metadata and provides search service for the user. It firstly introduces the motivations and challenges to build such a system. The datasets discussed in the paper refer to anything that a data provider considers to be datasetS (i.e., a natural but non-specific definition). Then it presents the technical challenges and implementation process of the system, and reports some statistical results of the current system. Lastly, it mentions some suggestions and feedbacks from the user, such as to index the datasets themselves apart from metadata.
+
+
 *2022-07-04*
 
 #### [Goods: Organizing Google’s Datasets](https://doi.org/10.1145/2882903.2903730)
