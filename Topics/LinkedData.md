@@ -6,6 +6,17 @@
 
 
 
+*2022-07-06*
+
+#### [Leveraging Schema Labels to Enhance Dataset Search](https://doi.org/10.1007/978-3-030-45439-5_18)
+
+*Zhiyu Chen, Haiyan Jia, Jeff Heflin, Brian D. Davison*
+
+*ECIR 2020*
+
+Existing dataset retrieval methods mainly match queries to the dataset description. To improve the performance of (tabular) dataset retrieval, this paper proposes a method to generate schema labels for the table content, and incorporates these labels in the ranking model. Schema labels refer to the header row of each data table. In this paper, the schema label generation is treated as a multi-label classification problem, and all the candidates are existing labels collected from the training set. This paper also proposes a test collection for the task of table retrieval.
+
+
 *2022-07-05*
 
 #### [Google Dataset Search: Building a search engine for datasets in an open Web ecosystem](https://doi.org/10.1145/3308558.3313685)
