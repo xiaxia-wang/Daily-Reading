@@ -5,6 +5,17 @@
 
 
 
+*2022-07-08*
+
+#### [EASE: An Effective 3-in-1 Keyword Search Method for Unstructured, Semi-structured and Structured Data](https://doi.org/10.1145/1376616.1376706)
+
+*Guoliang Li, Beng Chin Ooi, Jianhua Feng, Jianyong Wang, Lizhu Zhou*
+
+*SIGMOD 2008*
+
+This paper proposes an inverted index method for keyword search over graphs, and presents a ranking method for improving search effectiveness. It regards a r-radius Steiner graph containing all or some of the query keywords as an answer to the input query. A given dataset, as a graph, will firstly be partitioned into a set of r-radius subgraphs. These subgraphs will then be clustered based on similarity, and indexed. Given a keyword query, the indexed subgraphs will be retrieved and ranked using TF-IDF to form an answer list. 
+
+
 *2022-07-01*
 
 #### [Are There Any Differences in Data Set Retrieval Compared to Well-Known Literature Retrieval?](https://doi.org/10.1007/978-3-319-24592-8_15)
