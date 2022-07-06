@@ -6,6 +6,17 @@
 
 
 
+*2022-07-07*
+
+#### [ODArchive – Creating an Archive for Structured Data from Open Data Portals](https://doi.org/10.1007/978-3-030-62466-8_20)
+
+*Thomas Weber, Johann Mitlöhner, Sebastian Neumaier, Axel Polleres*
+
+*ISWC 2020*
+
+This paper introduces a collection of over 260 open data portals, and analyzes the datasets provided in these portals. By analyzing the metadata of all the datasets, it presents statistical distributions of the datasets, such as popular domains and portals. Besides, it also analyzes the tabular data based on collected CSV files, including the number of rows, column labeling, references, etc. The collected portal list is open sourced with available APIs and some basic visual summaries. 
+
+
 *2022-07-06*
 
 #### [Leveraging Schema Labels to Enhance Dataset Search](https://doi.org/10.1007/978-3-030-45439-5_18)
