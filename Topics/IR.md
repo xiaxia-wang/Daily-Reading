@@ -5,6 +5,17 @@
 
 
 
+*2022-07-10*
+
+#### [Retune: Retrieving and Materializing Tuple Units for Effective Keyword Search over Relational Databases](https://doi.org/10.1007/978-3-540-87877-3_34)
+
+*Guoliang Li, Jianhua Feng, Lizhu Zhou*
+
+*ER 2008*
+
+This paper is the previous conference version of the [TKDE paper](https://doi.org/10.1109/TKDE.2011.61). This paper mainly proposes the concept of tuple units, and the way to generate and materialize the tuple units over databases using SQL statements. For retrieving and ranking the tuple units, it incorporates both TF-IDF-based relevance measure and graph-based distance measure to compute the relevance score of the tuple units for the given query.
+
+
 *2022-07-09*
 
 #### [Finding Top-k Answers in Keyword Search over Relational Databases Using Tuple Units](https://doi.org/10.1109/TKDE.2011.61)
