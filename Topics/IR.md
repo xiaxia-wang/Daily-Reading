@@ -5,6 +5,17 @@
 
 
 
+*2022-07-09*
+
+#### [Finding Top-k Answers in Keyword Search over Relational Databases Using Tuple Units](https://doi.org/10.1109/TKDE.2011.61)
+
+*Jianhua Feng, Guoliang Li, Jianyong Wang*
+
+*IEEE TKDE 2011*
+
+This paper investigates the problem of keyword search over relational database tables. It focuses on the computation and indexing of tuple units. Each tuple unit is a set of related tuples containing query keywords and connected by primary/foreign keys. In this paper, the database is modeled as a graph, where nodes represents tuple units, and edges are keys connecting these units. By splitting the original database into tuple units and indexing them, it retrieves and ranks these units to form the query answer. In this paper, 2 kinds of indexes are introduces. One is single-keyword-based tuple index, the other is keyword-pair-based index. 
+
+
 *2022-07-08*
 
 #### [EASE: An Effective 3-in-1 Keyword Search Method for Unstructured, Semi-structured and Structured Data](https://doi.org/10.1145/1376616.1376706)
