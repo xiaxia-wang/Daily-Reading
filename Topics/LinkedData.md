@@ -6,6 +6,17 @@
 
 
 
+*2022-07-12*
+
+#### [Entity summarization: State of the art and future challenges](https://www.sciencedirect.com/science/article/pii/S1570826821000226)
+
+*Qingxia Liu, Gong Cheng, Kalpa Gunaratna, Yuzhong Qu*
+
+*Journal of Web Semantics*
+
+This survey paper introduces existing research and future directions of entity summarization. With literature review, this paper firstly summarizes technical features of entity summarization, such as frequency and diversity. Secondly, it classifies existing methods combining these technical features. Then it introduces existing evaluation benchmarks for entity summarization, and discusses potential directions for future work.
+
+
 *2022-07-11*
 
 #### [Querying Linked Ontological Data Through Distributed Summarization](http://www.aaai.org/ocs/index.php/AAAI/AAAI12/paper/view/5110)
