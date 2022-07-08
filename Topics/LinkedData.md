@@ -6,6 +6,17 @@
 
 
 
+*2022-07-11*
+
+#### [Querying Linked Ontological Data Through Distributed Summarization](http://www.aaai.org/ocs/index.php/AAAI/AAAI12/paper/view/5110)
+
+*Achille Fokoue, Felipe Meneguzzi, Murat Sensoy, Jeff Z. Pan*
+
+*AAAI 2012*
+
+This paper introduces a summarization method for distributed ontologies. For each distributed resource, a summary as a RDF graph, is generated to efficiently handle queries. Given a query, the individuals (instances) are firstly mapped to some summaries using same concept sets and global hash values. Then the local summaries are filtered to select relevant small subsets, and merged to perform queries. These selected summaries are generally helpful for query pruning, source selection and transformation of distributed joins into local joins. 
+
+
 *2022-07-07*
 
 #### [ODArchive – Creating an Archive for Structured Data from Open Data Portals](https://doi.org/10.1007/978-3-030-62466-8_20)
