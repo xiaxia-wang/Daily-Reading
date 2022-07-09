@@ -5,6 +5,17 @@
 
 
 
+*2022-07-13*
+
+#### [Extending Average Precision to Graded Relevance Judgments](https://doi.org/10.1145/1835449.1835550)
+
+*Stephen E. Robertson, Evangelos Kanoulas, Emine Yilmaz*
+
+*SIGIR 2010*
+
+This paper discusses evaluation metrics for information retrieval. It proposes the graded average precision (GAP) by incorporating graded relevance to the traditional average precision (AP) metric. It introduces the user model, definition and properties of GAP, and evaluates it in learning-to-rank tasks by using it as an optimize objective.
+
+
 *2022-07-10*
 
 #### [Retune: Retrieving and Materializing Tuple Units for Effective Keyword Search over Relational Databases](https://doi.org/10.1007/978-3-540-87877-3_34)
