@@ -5,6 +5,17 @@
 
 
 
+*2022-07-14*
+
+#### [Performance Measures for Multi-Graded Relevance](http://ceur-ws.org/Vol-781/paper7.pdf)
+
+*Christian Scheel, Andreas Lommatzsch, Sahin Albayrak*
+
+*SPIM@ISWC 2011*
+
+This paper proposes an extension of the relevance metric Mean Average Precision (MAP), by introducing graded relevances to the computation. Graded relevances mean that each retrieved object could be rated on a graded scale (e.g., 1 -- 5), rather than binary ratings (i.e., relevant or not). In this paper, 3 relevance levels are used in the evaluation. It firstly introduces the dataset used in this paper and the computation of average precision. Then it extends the MAP by using different relevance thresholds and computing the overall average score to handle the graded relevances. 
+
+
 *2022-07-13*
 
 #### [Extending Average Precision to Graded Relevance Judgments](https://doi.org/10.1145/1835449.1835550)
