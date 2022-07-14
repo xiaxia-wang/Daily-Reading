@@ -6,6 +6,17 @@
 
 
 
+*2022-07-18*
+
+#### [Constraint-Based Question Answering with Knowledge Graph](https://aclanthology.org/C16-1236/)
+
+*Junwei Bao, Nan Duan, Zhao Yan, Ming Zhou, Tiejun Zhao*
+
+*COLING 2016*
+
+This paper proposes a novel benchmark dataset named *ComplexQuestions* for knowledge base question answering. Compared with previous datasets such as *WebQuestions* with most of the questions can be answered by a single relation in the knowledge base, this new dataset contains more "complex" questions requiring multiple relations to obtain the answer. Besides, this paper also proposes a new question answering method which outperforms the existing methods especially on *ComplexQuestions*. 
+
+
 *2022-07-17*
 
 #### [The Value of Semantic Parse Labeling for Knowledge Base Question Answering](https://doi.org/10.18653/v1/p16-2033)
