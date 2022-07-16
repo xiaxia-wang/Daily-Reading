@@ -5,6 +5,17 @@
 
 
 
+*2022-07-20*
+
+#### [LC-QuAD: A Corpus for Complex Question Answering over Knowledge Graphs](https://doi.org/10.1007/978-3-319-68204-4_22)
+
+*Priyansh Trivedi, Gaurav Maheshwari, Mohnish Dubey, Jens Lehmann*
+
+*ISWC 2017*
+
+This resource paper proposes a dataset for evaluating question answering methods based on DBpedia. It provides 5,000 questions and their corresponding SPARQL queries over the DBpedia dataset. Compared with existing datasets, this dataset is larger in size, and has better variety and complexity. The generation process begins with creating SPARQL patterns. Then seed entities are selected, and 2-hop subgraphs are extracted. The SPARQL queries are then interpreted from these subgraphs. 
+
+
 *2022-07-19*
 
 #### [On Generating Characteristic-rich Question Sets for QA Evaluation](https://doi.org/10.18653/v1/d16-1054)
