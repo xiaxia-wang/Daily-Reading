@@ -5,6 +5,17 @@
 
 
 
+*2022-07-21*
+
+#### [LC-QuAD 2.0: A Large Dataset for Complex Question Answering over Wikidata and DBpedia](https://doi.org/10.1007/978-3-030-30796-7_5)
+
+*Mohnish Dubey, Debayan Banerjee, Abdelrahman Abdelkawi, Jens Lehmann*
+
+*ISWC 2019, Part 2*
+
+This paper proposes LC-QuAD 2.0, a subsequent version of LC-QuAD. Compared with the previous dataset, it has larger size with 30,000 questions, their paraphrases and corresponding SPARQL queries. Besides, it is compatible with both Wikidata and DBpedia 2018 knowledge graphs.
+
+
 *2022-07-20*
 
 #### [LC-QuAD: A Corpus for Complex Question Answering over Knowledge Graphs](https://doi.org/10.1007/978-3-319-68204-4_22)
