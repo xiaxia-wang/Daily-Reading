@@ -5,6 +5,17 @@
 
 
 
+*2022-07-22*
+
+#### [9th Challenge on Question Answering over Linked Data (QALD-9)](http://ceur-ws.org/Vol-2241/paper-06.pdf)
+
+*Ricardo Usbeck, Ria Hari Gusmita, Axel-Cyrille Ngonga Ngomo, Muhammad Saleem*
+
+*Semdeep/NLIWoD@ISWC 2018*
+
+The Question Answering over Linked Data (QALD) challenges aim to provide up-to-date benchmarks for assessing and comparing SOTA systems that mediate between the user and RDF data. The challenges are formulated as given one or several RDF dataset(s) and natural language questions or keywords, the system should return the correct answers or a SPARQL query that retrieves these answers. All the datasets of QALD-1~9 are available on the Web.
+
+
 *2022-07-21*
 
 #### [LC-QuAD 2.0: A Large Dataset for Complex Question Answering over Wikidata and DBpedia](https://doi.org/10.1007/978-3-030-30796-7_5)
