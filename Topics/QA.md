@@ -5,6 +5,17 @@
 
 
 
+*2022-07-23*
+
+#### [Evaluating question answering over linked data](https://doi.org/10.1016/j.websem.2013.05.006)
+
+*Vanessa López, Christina Unger, Philipp Cimiano, Enrico Motta*
+
+*Journal of Web Semantics 2013*
+
+This paper investigates the evaluation of question answering systems over linked data. It proposes a set of challenges and discusses the performances of existing systems. It reviews existing research efforts for evaluating question answering systems, and especially QALD, including its datasets, gold standards, metrics, etc. Then it further analyzes the results of the challenges QALD-1 and 2. It introduces each of the participating systems, and summarizes some difficulties and problems in the QA process.
+
+
 *2022-07-22*
 
 #### [9th Challenge on Question Answering over Linked Data (QALD-9)](http://ceur-ws.org/Vol-2241/paper-06.pdf)
