@@ -6,6 +6,17 @@
 
 
 
+*2022-07-24*
+
+#### [Charaterizing RDF graphs through graph-based measures - framework and assessment](https://doi.org/10.3233/SW-200409)
+
+*Matthäus Zloch, Maribel Acosta, Daniel Hienert, Stefan Conrad, Stefan Dietze*
+
+*Semantic Web 2021*
+
+This paper is an extended version of a previous paper which implements a set of statistical graph metrics. In this paper, quantitative graph metrics for linked datasets are proposed and categorized into groups such as degree-based, edge-based, centrality, etc. The corresponding software implementations are also proposed. These metrics are then applied to the LOD cloud datasets to analyze their features.
+
+
 *2022-07-12*
 
 #### [Entity summarization: State of the art and future challenges](https://www.sciencedirect.com/science/article/pii/S1570826821000226)
