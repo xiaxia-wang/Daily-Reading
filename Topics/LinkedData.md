@@ -6,6 +6,17 @@
 
 
 
+*2022-07-25*
+
+#### [Improving Curated Web**-Data** Quality with Structured Harvesting and Assessment](https://doi.org/10.4018/ijswis.2014040103)
+
+*Kevin Chekov Feeney, Declan O'Sullivan, Wei Tai, Rob Brennan*
+
+*International Journal on Semantic Web and Information Systems 2014*
+
+This paper proposes a framework for maintaining and curating linked datasets with quality control. It divides the data process workflow into several layers with different purposes and managers, such as the data architects manage the schema and update them, the domain experts act mainly as consultants and provide facts. Each role is incorporated and closely related to the layer and proper tasks. This paper also evaluates the quality of linked datasets under the curating framework. 
+
+
 *2022-07-24*
 
 #### [Charaterizing RDF graphs through graph-based measures - framework and assessment](https://doi.org/10.3233/SW-200409)
