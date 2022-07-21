@@ -8,7 +8,7 @@
 
 *2022-07-25*
 
-#### [Improving Curated Web**-Data** Quality with Structured Harvesting and Assessment](https://doi.org/10.4018/ijswis.2014040103)
+#### [Improving Curated Web-Data Quality with Structured Harvesting and Assessment](https://doi.org/10.4018/ijswis.2014040103)
 
 *Kevin Chekov Feeney, Declan O'Sullivan, Wei Tai, Rob Brennan*
 
