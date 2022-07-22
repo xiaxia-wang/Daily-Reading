@@ -6,6 +6,17 @@
 
 
 
+*2022-07-26*
+
+#### [A survey on semantic schema discovery](https://doi.org/10.1007/s00778-021-00717-x)
+
+*Kenza Kellou-Menouer, Nikolaos Kardoulakis, Georgia Troullinou, Zoubida Kedad, Dimitris Plexousakis, Haridimos Kondylakis*
+
+*VLDB J 2022*
+
+This survey paper studies the problem of semantic schema discovery. The motivation is that given RDF datasets' irregularity such as incomplete schema definition, schema discovery aims to enrich the data and facilitate the user to understand and make use of them. It categorizes existing methods into 3 kinds, (1) ones that exploit implicit data structures, (2) ones that use explicit schema and enrich them, (3) ones that discover structural patterns. By comparing these approaches, it summarizes the advantages, limitations, and remaining open problems. 
+
+
 *2022-07-25*
 
 #### [Improving Curated Web-Data Quality with Structured Harvesting and Assessment](https://doi.org/10.4018/ijswis.2014040103)
