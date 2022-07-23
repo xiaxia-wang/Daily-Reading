@@ -6,6 +6,17 @@
 
 
 
+*2022-07-27*
+
+#### [A Hybrid Approach for Searching in the Semantic Web](https://doi.org/10.1145/988672.988723)
+
+*Cristiano Rocha, Daniel Schwabe, Marcus Poggi de Aragão*
+
+*WWW 2004*
+
+This paper proposes a search method over ontology based on typical search and involving spread activation techniques. It firstly assigns initial weights to each concept, i.e., nodes on the graph, based on typical search relevance. Then it assigns a weight to each edge to characterize the strength of relations. Using the edge weights it spreads the concepts' weight to neighboring related concepts, and retains ones with the highest relevances as the search result. 
+
+
 *2022-07-26*
 
 #### [A survey on semantic schema discovery](https://doi.org/10.1007/s00778-021-00717-x)
