@@ -6,6 +6,17 @@
 
 
 
+*2022-07-28*
+
+#### [A review of ranking approaches for semantic search on Web](https://doi.org/10.1016/j.ipm.2013.10.004)
+
+*Vikas Jindal, Seema Bawa, Shalini Batra*
+
+*IP&M 2014*
+
+This paper reviews the semantic ranking approaches and compares their features with traditional keyword search methods. It firstly analyzes the differences between semantic-based search and keyword-based search, and introduces the motivation to review ranking approaches. It classifies existing ranking methods into 3 categories, (1) entity ranking, (2) relationship ranking, and (3) semantic document ranking. It also discusses 6 important features for ranking semantic documents such as heterogeneity, portability, and evaluation benchmarks. 
+
+
 *2022-07-27*
 
 #### [A Hybrid Approach for Searching in the Semantic Web](https://doi.org/10.1145/988672.988723)
