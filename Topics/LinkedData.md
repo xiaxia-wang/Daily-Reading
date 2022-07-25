@@ -6,6 +6,17 @@
 
 
 
+*2022-07-29*
+
+#### [A survey of approaches for ranking on the web of data](https://doi.org/10.1007/s10791-014-9240-0)
+
+*Antonio J. Roa-Valverde, Miguel-Ángel Sicilia*
+
+*Informational Retrieval 2014*
+
+This survey paper investigates the problem of ranking linked data. It firstly identifies some open challenges related to this problem, e.g., how to deal with the large size and the heterogeneous nature of linked data, the query execution, and result consolidation. Then it classifies existing ranking approaches based on four aspects, namely, query dependency, granularity, features and heuristics. It also analyzes some SOTA approaches and semantic search engines, and reviews evaluation approaches for ranking.
+
+
 *2022-07-28*
 
 #### [A review of ranking approaches for semantic search on Web](https://doi.org/10.1016/j.ipm.2013.10.004)
