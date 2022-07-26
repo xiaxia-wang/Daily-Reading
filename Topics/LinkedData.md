@@ -6,6 +6,17 @@
 
 
 
+*2022-07-30*
+
+#### [Hierarchical Link Analysis for Ranking Web Data](https://doi.org/10.1007/978-3-642-13489-0_16)
+
+*Renaud Delbru, Nickolai Toupikov, Michele Catasta, Giovanni Tummarello, Stefan Decker*
+
+*ESWC 2010*
+
+This paper introduces a ranking approach for entities. The computation method is divided into two layers. Firstly, a global graph is introduced on the dataset layer, where datasets are the nodes linked by properties. Secondly, each dataset is considered as a individual graph where the nodes represent entities. Using the "global" rank computed on the dataset graph and the "local" rank computed over each dataset graph, the two parts are combined to rank the entities. 
+
+
 *2022-07-29*
 
 #### [A survey of approaches for ranking on the web of data](https://doi.org/10.1007/s10791-014-9240-0)
