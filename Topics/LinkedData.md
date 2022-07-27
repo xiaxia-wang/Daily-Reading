@@ -5,6 +5,16 @@
 
 
 
+*2022-07-31*
+
+#### [Learning to Rank for Semantic Search](https://link.springer.com/chapter/10.1007/978-3-319-56608-5_60)
+
+*Luca Soldaini, Nazli Goharian*
+
+*ECIR 2017*
+
+This paper considers the ranking features for RDF resources, including the widely-used PageRank, and other domain and query-independent features. It combines these features based on learning-to-rank, and compares their ranking performances over DBpedia and YAGO.
+
 
 *2022-07-30*
 
