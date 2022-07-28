@@ -5,6 +5,17 @@
 
 
 
+*2022-08-01*
+
+#### [NAGA: Searching and Ranking Knowledge](https://doi.org/10.1109/ICDE.2008.4497504)
+
+*Gjergji Kasneci, Fabian M. Suchanek, Georgiana Ifrim, Maya Ramanath, Gerhard Weikum*
+
+*ICDE 2008*
+
+This paper proposes a semantic search engine built over a Web-based knowledge graph. By organizing the entities as nodes and relations as edges, it searches proper answer subgraphs using graph queries. Then it proposes a ranking model for the answer graphs with respect to confidence, informativeness and compactness. It evaluates the search system with user studies and TREC datasets. 
+
+
 *2022-07-31*
 
 #### [Learning to Rank for Semantic Search](https://link.springer.com/chapter/10.1007/978-3-319-56608-5_60)
