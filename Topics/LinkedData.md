@@ -5,6 +5,17 @@
 
 
 
+*2022-08-02*
+
+#### [Query-Independent Learning to Rank for RDF Entity Search](https://doi.org/10.1007/978-3-642-30284-8_39)
+
+*Lorand Dali, Blaz Fortuna, Duc Thanh Tran, Dunja Mladenic*
+
+*ESWC 2012*
+
+This paper proposes to rank entities using learning to rank. Given a structured query, lots of entities with equal substructures are returned as potential answers. Therefore, it is useful to incorporate query-independent features to enhance learning to rank. This paper adopts the frequency of human accessing the entities from the search logs as a feature to train L2R model, and achieves better performance compared with baselines such as PageRank. 
+
+
 *2022-08-01*
 
 #### [NAGA: Searching and Ranking Knowledge](https://doi.org/10.1109/ICDE.2008.4497504)
