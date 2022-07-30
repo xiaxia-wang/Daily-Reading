@@ -4,6 +4,16 @@
 
 
 
+*2022-08-03*
+
+#### [Ranking Ontologies with AKTiveRank](https://doi.org/10.1007/11926078_1)
+
+*Harith Alani, Christopher Brewster, Nigel Shadbolt*
+
+*ISWC 2006*
+
+This paper presents AKTiveRank, a prototype system for ranking ontologies based on structural metrics. It is designed to be used at the back end of ontology search engines (e.g. Swoogle). The query submitted to the search engine is used to identify the concepts that match the user’s request. The ranking measures are based on the representation of those concepts and their neighborhoods.
+
 
 *2022-08-02*
 
