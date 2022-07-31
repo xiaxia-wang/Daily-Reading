@@ -4,6 +4,19 @@
 
 
 
+
+
+*2022-08-04*
+
+#### [ReConRank: A Scalable Ranking Method for Semantic Web Data with Context](https://web.archive.org/web/20170808045350/https://aran.library.nuigalway.ie/bitstream/handle/10379/492/paper.pdf?sequence=1)
+
+*Aidan Hogan, Andreas Harth, Stefan Decker*
+
+*2nd Workshop on Scalable Semantic Web Knowledge Base Systems (2006)*
+
+This paper proposes a ranking method for semantic data resources. It creates a heterogeneous graph where nodes can be either a resource or a RDF graph. With the bi-directional links between the resources and RDF graphs, it utilizes the contextual information of the resources. Then it proposes a modified PageRank method to rank the resources on the graph. 
+
+
 *2022-08-03*
 
 #### [Ranking Ontologies with AKTiveRank](https://doi.org/10.1007/11926078_1)
