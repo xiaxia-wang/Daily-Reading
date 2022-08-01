@@ -6,6 +6,17 @@
 
 
 
+*2022-08-05*
+
+#### [Using Naming Authority to Rank Data and Ontologies for Web Search](https://doi.org/10.1007/978-3-642-04930-9_18)
+
+*Andreas Harth, Sheila Kinsella, Stefan Decker*
+
+*ISWC 2009*
+
+Each semantic Web resource, represented as a URI, has a naming authority. The naming authority is usually the name of the dereferenced document, or it can also be the name of pay-level domain. Naming authorities can reference each other to create links by importing documents. In this way, this paper creates a naming authority graph and computes PageRank over the graph to rank the naming authorities. Using their scores, the ranking score of each resource (URI) is the total score of all naming authorities which have referenced it. 
+
+
 *2022-08-04*
 
 #### [ReConRank: A Scalable Ranking Method for Semantic Web Data with Context](https://web.archive.org/web/20170808045350/https://aran.library.nuigalway.ie/bitstream/handle/10379/492/paper.pdf?sequence=1)
