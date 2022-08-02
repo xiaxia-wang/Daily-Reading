@@ -6,6 +6,17 @@
 
 
 
+*2022-08-06*
+
+#### [Utilizing Resource Importance for Ranking Semantic Web Query Results](https://link.springer.com/chapter/10.1007/978-3-540-31839-2_14)
+
+*Bhuvan Bamba, Sougata Mukherjea*
+
+*SWDB 2004*
+
+This paper proposes a ranking technique for semantic Web resources using link analyses. It firstly builds a PropertyGraph and an IsaGraph to represent the relations between the resources, properties and classes. Then it modifies HITS to compute the subjectivity and objectivity of the resources. The overall importance of each resource is a linear combination of these factors. For ranking the semantic Web query results, it computes a score for each result graph, which is a combination of scores of resources and properties (using Inverse Property Frequency, IPF) contained in the graph.
+
+
 *2022-08-05*
 
 #### [Using Naming Authority to Rank Data and Ontologies for Web Search](https://doi.org/10.1007/978-3-642-04930-9_18)
