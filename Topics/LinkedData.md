@@ -6,6 +6,17 @@
 
 
 
+*2022-08-07*
+
+#### [A Primitive Operator for Similarity Joins in Data Cleaning](https://doi.org/10.1109/ICDE.2006.9)
+
+*Surajit Chaudhuri, Venkatesh Ganti, Raghav Kaushik*
+
+*ICDE 2006*
+
+This paper proposes SSJOIN, a primitive operator for set similarity join. SSJOIN can support different kinds of similarity measures such as edit distance, Jaccard similarity, co-occurrence. Apart from the examples given in the paper, it proposes implementing details and the comparison with existing similarity join methods. 
+
+
 *2022-08-06*
 
 #### [Utilizing Resource Importance for Ranking Semantic Web Query Results](https://link.springer.com/chapter/10.1007/978-3-540-31839-2_14)
