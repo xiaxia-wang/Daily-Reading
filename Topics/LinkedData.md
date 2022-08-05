@@ -5,6 +5,16 @@
 
 
 
+*2022-08-09*
+
+#### [Efficient Semantic-Aware Detection of Near Duplicate Resources](https://doi.org/10.1007/978-3-642-13489-0_10)
+
+*Ekaterini Ioannou, Odysseas Papapetrou, Dimitrios Skoutas, Wolfgang Nejdl*
+
+*ESWC 2010*
+
+This paper proposes a detection method to identify near duplicate RDF resources based on their RDF representations and the literal and structural information. Detecting duplicate RDF resources, in this paper, is formulated as finding the resources whose similarity is higher than a given threshold. Each RDF resource is represented as a graph containing all the triples describing the resource. The graph is transformed into a list-shape representation, and indexed using Locality-Sensitive Hashing (LSH). The indexes are organized as a B-tree to accelerate the search process. This paper also analyzes the trade-off between the prefix length and the false positive rates. 
+
 
 *2022-08-06*
 
