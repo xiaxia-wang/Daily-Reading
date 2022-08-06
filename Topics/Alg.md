@@ -6,6 +6,17 @@
 
 
 
+*2022-08-10*
+
+#### [Efficient set joins on similarity predicates](https://doi.org/10.1145/1007568.1007652)
+
+*Sunita Sarawagi, Alok Kirpal*
+
+*SIGMOD 2004*
+
+This paper proposes an optimized similarity join method based on existing algorithms and inverted indexes. Here, the predicates mean similarity measurements, such as set intersect, Jaccard coefficient or cosine similarity. The task is formulated as finding all pairs of word sets for which the total weight of common words exceeds the threshold. The approach begins by building an inverted index, then ranking the retrieved set list using a heap. Besides, it also adds a clustering step for related sets to further optimize the search space and memory cost.
+
+
 *2022-08-08*
 
 #### [Efficient Exact Set-Similarity Joins](https://dl.acm.org/doi/10.5555/1182635.1164206)
