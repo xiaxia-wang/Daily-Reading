@@ -6,6 +6,17 @@
 
 
 
+*2022-08-11*
+
+#### [Efficient Set Similarity Joins Using Min-prefixes](https://doi.org/10.1007/978-3-642-03973-7_8)
+
+*Leonardo Ribeiro, Theo Härder*
+
+*ADBIS 2009*
+
+This paper proposes a new approach for set similarity join. Unlike existing methods focusing on efficiently pruning the number of candidate sets, it achieves a trade-off between the cost of candidate generation and the verification phase. The workload for verification is increased while the computational cost for candidate generation is decreased, i.e., the length of prefixes is decreased. It modifies the SOTA similarity join method PPJOIN with minimal length of the prefixes to construct the inverted index. The proposed method is thus named MPJOIN. 
+
+
 *2022-08-10*
 
 #### [Efficient set joins on similarity predicates](https://doi.org/10.1145/1007568.1007652)
