@@ -6,6 +6,17 @@
 
 
 
+*2022-08-12*
+
+#### [Efficient Similarity Joins for Near Duplicate Detection](https://doi.org/10.1145/1367497.1367516)
+
+*Chuan Xiao, Wei Wang, Xuemin Lin, Jeffrey Xu Yu*
+
+*WWW 2008*
+
+This paper proposes PPJOIN, an efficient set similarity join approach. For a given similarity threshold and a list of records ranked by length and dictionary (for Jaccard similarity), it iterates over the records, filters them by prefixes, and verifies the exact similarity of a few candidates. It also incorporates a map-based optimization for the verification process. 
+
+
 *2022-08-11*
 
 #### [Efficient Set Similarity Joins Using Min-prefixes](https://doi.org/10.1007/978-3-642-03973-7_8)
