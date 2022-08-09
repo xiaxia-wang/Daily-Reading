@@ -6,6 +6,17 @@
 
 
 
+*2022-08-13*
+
+#### [Fast Matching for All Pairs Similarity Search](https://doi.org/10.1109/WI-IAT.2009.52)
+
+*Amit C. Awekar, Nagiza F. Samatova*
+
+*Web Intelligence 2009*
+
+This paper proposes a general framework for all-pairs similarity search which contains 3 main steps, i.e., data preprocessing, pairs matching, and indexing. It optimizes the matching step by incorporating (1) a lower bound on the number of non-zero components in any record, (2) a upper bound on the similarity score for any record pair. The detailed algorithm and the upper/lower bounds are also presented in the paper. 
+
+
 *2022-08-12*
 
 #### [Efficient Similarity Joins for Near Duplicate Detection](https://doi.org/10.1145/1367497.1367516)
