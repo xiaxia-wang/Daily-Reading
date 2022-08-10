@@ -6,6 +6,17 @@
 
 
 
+*2022-08-14*
+
+#### [Scaling Up All Pairs Similarity Search](https://doi.org/10.1145/1242572.1242591)
+
+*Roberto J. Bayardo, Yiming Ma, Ramakrishnan Srikant*
+
+*WWW 2007*
+
+This paper investigates the problem of all pairs similarity search, i.e., finding all pairs of vectors whose similarity score (e.g., cosine distance) is above a given threshold. Starting with a typical inverted index-based approach, it optimizes the threshold during the indexing process and refines a sorted order for the record list. It also optimizes the matching process by refining the threshold and customizes for binary vector data. In the experiment, the proposed method is compared with existing inverted index-based method and signature-based methods. 
+
+
 *2022-08-13*
 
 #### [Fast Matching for All Pairs Similarity Search](https://doi.org/10.1109/WI-IAT.2009.52)
