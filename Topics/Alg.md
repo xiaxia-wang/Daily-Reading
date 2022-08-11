@@ -6,6 +6,17 @@
 
 
 
+*2022-08-15*
+
+#### [Scaling up top-K cosine similarity search](https://doi.org/10.1016/j.datak.2010.08.004)
+
+*Shiwei Zhu, Junjie Wu, Hui Xiong, Guoping Xia*
+
+*Data & Knowledge Engineering 2011*
+
+Instead of setting a similarity threshold, this paper proposes a top-K similarity search method with cosine similarity. Based on the monotone of upper bound of the cosine measure, it adopts a diagonal traversal strategy for pruning the search space. Besides, it also proposes a max-first strategy to optimize the I/O cost. 
+
+
 *2022-08-14*
 
 #### [Scaling Up All Pairs Similarity Search](https://doi.org/10.1145/1242572.1242591)
