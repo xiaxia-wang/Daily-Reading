@@ -116,17 +116,6 @@ This vision paper presents a new idea of using tensors, which are basic componen
 This paper introduces a novel system for the user to interactively explore large spreadsheets with hierarchical overviews. The introduction mainly presents the motivation of this work, including limitations of existing systems, supporting researches and the contributions of this paper. Then it describes the design consideration and use cases of the system with examples. The details and methods for each component are introduced in the next section, followed by the system architecture. Then two user studies for verifying system effectiveness are presented with discussion of results. Finally it ends up with related work and conclusion. 
 
 
-*2022-05-13*
-
-#### [Top-k Set Similarity Joins](https://doi.org/10.1109/ICDE.2009.111)
-
-*Chuan Xiao, Wei Wang, Xuemin Lin, Haichuan Shang*
-
-*ICDE 2009*
-
-This paper introduces an algorithm to identify top-k similar record pairs from a large given corpus, which doesn't require a pre-defined similarity threshold. It is adapted from an existing similarity join algorithm named All-Pairs, by changing the current threshold while keeping top-k similar pairs, and devising a new stopping condition. In the experiment, this top-k join algorithm was compared with ppjoin-topk on several large datasets. 
-
-
 *2022-04-29*
 
 #### [A Framework to Conduct and Report on Empirical User Studies in Semantic Web Contexts](https://doi.org/10.1007/978-3-030-03667-6_36)
