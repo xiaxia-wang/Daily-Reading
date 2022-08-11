@@ -81,3 +81,15 @@ This paper proposes a precise algorithm named PartEnum for set similarity joins.
 *ICDE 2006*
 
 This paper proposes SSJOIN, a primitive operator for set similarity join. SSJOIN can support different kinds of similarity measures such as edit distance, Jaccard similarity, co-occurrence. Apart from the examples given in the paper, it proposes implementing details and the comparison with existing similarity join methods. 
+
+
+*2022-05-13*
+
+#### [Top-k Set Similarity Joins](https://doi.org/10.1109/ICDE.2009.111)
+
+*Chuan Xiao, Wei Wang, Xuemin Lin, Haichuan Shang*
+
+*ICDE 2009*
+
+This paper introduces an algorithm to identify top-k similar record pairs from a large given corpus, which doesn't require a pre-defined similarity threshold. It is adapted from an existing similarity join algorithm named All-Pairs, by changing the current threshold while keeping top-k similar pairs, and devising a new stopping condition. In the experiment, this top-k join algorithm was compared with ppjoin-topk on several large datasets. 
+
