@@ -5,6 +5,17 @@
 
 
 
+*2022-08-16*
+
+#### [ABSTAT: Ontology-Driven Linked Data Summaries with Pattern Minimalization](https://doi.org/10.1007/978-3-319-47602-5_51)
+
+*Blerina Spahiu, Riccardo Porrini, Matteo Palmonari, Anisa Rula, Andrea Maurino*
+
+*ESWC 2016*
+
+This paper proposes ABSTAT, an ontology-based summarization framework for linked datasets. Based on the ontology especially the subClass information, it extracts a set of triple patterns as the summary for each dataset. The property and the minimal type of the subject and object are retained in each triple pattern.
+
+
 *2022-08-09*
 
 #### [Efficient Semantic-Aware Detection of Near Duplicate Resources](https://doi.org/10.1007/978-3-642-13489-0_10)
