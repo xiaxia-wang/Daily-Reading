@@ -5,6 +5,17 @@
 
 
 
+*2022-08-17*
+
+#### [Understanding the Structure of Knowledge Graphs with ABSTAT Profiles](https://www.semantic-web-journal.net/content/understanding-structure-knowledge-graphs-abstat-profiles-1)
+
+*Blerina Spahiu, Matteo Palmonari, Renzo Arturo Alva Principe, Anisa Rula*
+
+*Semantic Web Jorunal (under review)*
+
+This journal paper is an extended version of the previous conference paper that proposes ABSTAT. It also introduces a user study to evaluate the effectiveness of ABSTAT. In the user study, the participants are required to complete SPARQL query patterns for given datasets w/ or w/o the help of ABSTAT profiles.
+
+
 *2022-08-16*
 
 #### [ABSTAT: Ontology-Driven Linked Data Summaries with Pattern Minimalization](https://doi.org/10.1007/978-3-319-47602-5_51)
