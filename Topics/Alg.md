@@ -6,6 +6,17 @@
 
 
 
+*2022-08-18*
+
+#### [A Unifying Framework for Mining Approximate Top-k Binary Patterns](https://doi.org/10.1109/TKDE.2013.181)
+
+*Claudio Lucchese, Salvatore Orlando, Raffaele Perego*
+
+*IEEE TKDE 2014*
+
+This paper focuses on approximate pattern mining for binary matrices. Firstly, it reviews several greedy pattern mining algorithms, i.e., Asso, Hyper+, and PaNDa, and introduces their cost functions. Then it proposes PaNDa+ as a framework able to optimize different cost functions within a unifying formulation. The algorithms is evaluated on synthetic and real-world datasets, respectively. The source codes of PaNDa+ are provided on [the author's website](https://claudio-lucchese.github.io/archives/20131113/index.html). 
+
+
 *2022-08-15*
 
 #### [Scaling up top-K cosine similarity search](https://doi.org/10.1016/j.datak.2010.08.004)
