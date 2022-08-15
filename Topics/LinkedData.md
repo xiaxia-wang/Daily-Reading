@@ -5,6 +5,17 @@
 
 
 
+*2022-08-19*
+
+#### [Efficiency and Precision Trade-Offs in Graph Summary Algorithms](https://doi.org/10.1145/2513591.2513654)
+
+*Stéphane Campinas, Renaud Delbru, Giovanni Tummarello*
+
+*IDEAS 2013*
+
+This paper discusses the trade-off between the size of graph summary (also, the efficiency to generate graph summary) and the accuracy of keeping the original graph information. In this paper, the summary of graph data is formulated as a quotient graph. Several rules with different level of equivalence are compared. The edge precision and errors are evaluated and discussed.
+
+
 *2022-08-17*
 
 #### [Understanding the Structure of Knowledge Graphs with ABSTAT Profiles](https://www.semantic-web-journal.net/content/understanding-structure-knowledge-graphs-abstat-profiles-1)
