@@ -5,6 +5,17 @@
 
 
 
+*2022-08-20*
+
+#### [Evaluation Metrics](https://hal.inria.fr/inria-00174152)
+
+*Jovan Pehcevski, Benjamin Piwowarski*
+
+*Encyclopedia of Database Systems 2007*
+
+This report reviews a set of metrics for evaluating XML retrieval systems, including INEX, XCG, etc. It also analyzes and categories the metrics based on their properties such as recall, precision, overlap and ideality. 
+
+
 *2022-08-19*
 
 #### [Efficiency and Precision Trade-Offs in Graph Summary Algorithms](https://doi.org/10.1145/2513591.2513654)
