@@ -5,6 +5,17 @@
 
 
 
+*2022-08-21*
+
+#### [Generating Preview Tables for Entity Graphs](https://doi.org/10.1145/2882903.2915221)
+
+*Ning Yan, Sona Hasani, Abolfazl Asudeh, Chengkai Li*
+
+*SIGMOD 2016*
+
+This paper discusses the task of generating preview tables for entity graphs. Given an entity-relation graph and its schema graph which contains the corresponding properties and classes, preview table generation aims to extract a few key and non-key attributes, and construct a set of tables as a graph preview. This paper also proposes scoring methods for preview tables and algorithms for generating them. 
+
+
 *2022-08-20*
 
 #### [Evaluation Metrics](https://hal.inria.fr/inria-00174152)
