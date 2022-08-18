@@ -5,6 +5,17 @@
 
 
 
+*2022-08-22*
+
+#### [Quality metrics for RDF graph summarization](https://doi.org/10.3233/SW-190346)
+
+*Mussab Zneika, Dan Vodislav, Dimitris Kotzinos*
+
+*Semantic Web Journal 2019*
+
+This paper introduces a set of metrics to evaluate the quality of RDF graph summaries. These metrics mainly focus on the precision and recall (i.e., in IR style) of the classes/properties/instances in the summary based on gold summary or some given schema. It also discusses some existing RDF summarization algorithms such as ExpLOD, and evaluates the quality of the generated summaries. 
+
+
 *2022-08-21*
 
 #### [Generating Preview Tables for Entity Graphs](https://doi.org/10.1145/2882903.2915221)
