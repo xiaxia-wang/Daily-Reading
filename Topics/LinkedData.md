@@ -5,6 +5,17 @@
 
 
 
+*2022-08-23*
+
+#### [RDF Graph Summarization Based on Approximate Patterns](https://link.springer.com/chapter/10.1007/978-3-319-43862-7_4)
+
+*Mussab Zneika, Claudio Lucchese, Dan Vodislav, Dimitris Kotzinos*
+
+*ISIP 2015*
+
+This paper proposes a RDF summarization method based on top-k approximate patterns. In this paper, the original RDF graph is firstly transformed into a binary matrix. Then based on the top-k binary pattern mining method PaNDa+, a set of binary patterns are extracted. They are further reconstructed to be RDF graph patterns as the result summary. 
+
+
 *2022-08-22*
 
 #### [Quality metrics for RDF graph summarization](https://doi.org/10.3233/SW-190346)
