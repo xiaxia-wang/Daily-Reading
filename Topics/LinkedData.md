@@ -5,6 +5,18 @@
 
 
 
+
+*2022-08-24*
+
+#### [Relatedness-based Multi-Entity Summarization](https://doi.org/10.24963/ijcai.2017/147)
+
+*Kalpa Gunaratna, Amir Hossein Yazdavar, Krishnaprasad Thirunarayan, Amit P. Sheth, Gong Cheng*
+
+*IJCAI 2017*
+
+This paper proposes an idea of generating a summary for a set of related entities in a knowledge graph, instead of generating isolated summaries for each of them. For the set of entities, the approach focuses on (1) inter-entity facts that are similar, and (2) intra-entity facts that are important and diverse. It is formulated as a constrained knapsack problem and solved with an efficient approximate algorithm. 
+
+
 *2022-08-23*
 
 #### [RDF Graph Summarization Based on Approximate Patterns](https://link.springer.com/chapter/10.1007/978-3-319-43862-7_4)
