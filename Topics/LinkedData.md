@@ -6,6 +6,17 @@
 
 
 
+*2022-08-25*
+
+#### [Summarizing Linked Data RDF Graphs Using Approximate Graph Pattern Mining](https://doi.org/10.5441/002/edbt.2016.86)
+
+*Mussab Zneika, Claudio Lucchese, Dan Vodislav, Dimitris Kotzinos*
+
+*EDBT 2016 Poster*
+
+This is a poster paper reporting the [RDF summarization method based on approximate binary patterns](https://link.springer.com/chapter/10.1007/978-3-319-43862-7_4). 
+
+
 *2022-08-24*
 
 #### [Relatedness-based Multi-Entity Summarization](https://doi.org/10.24963/ijcai.2017/147)
