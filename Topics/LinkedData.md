@@ -6,6 +6,18 @@
 
 
 
+
+*2022-08-26*
+
+#### [Summarizing Ontology-based Schemas in PDMS](https://doi.org/10.1109/ICDEW.2010.5452706)
+
+*Carlos Eduardo S. Pires, Paulo Orlando Queiroz-Sousa, Zoubida Kedad, Ana Carolina Salgado*
+
+*ICDE Workshops 2010*
+
+This paper introduces a summarization approach for peer data management system (PDMS). In a PDMS system, peers can be semantically clustered, and each cluster can be represented by its schema. Firstly, to cluster the peers based on the ontology, it considers the centrality and frequency of each concept in the local schema. Then the paths between different clusters of concepts are identified. The clusters and relations jointly form the output summary. 
+
+
 *2022-08-25*
 
 #### [Summarizing Linked Data RDF Graphs Using Approximate Graph Pattern Mining](https://doi.org/10.5441/002/edbt.2016.86)
