@@ -5,6 +5,17 @@
 
 
 
+*2022-08-27*
+
+#### [A taxonomy of web search](https://doi.org/10.1145/792550.792552)
+
+*Andrei Z. Broder*
+
+*SIGIR 2002*
+
+This paper discusses the purpose of classic information retrieval. It proposes that IR mainly focuses on predicting the user's information need, which can be categorized as informational, navigational and transactional. With this taxonomy of Web search, it also discusses how existing search engines evolve to deal with the information needs. 
+
+
 *2022-07-14*
 
 #### [Performance Measures for Multi-Graded Relevance](http://ceur-ws.org/Vol-781/paper7.pdf)
