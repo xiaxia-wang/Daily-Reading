@@ -5,6 +5,17 @@
 
 
 
+*2022-08-28*
+
+#### [Automatic Identification of User Goals in Web Search](https://doi.org/10.1145/1060745.1060804)
+
+*Uichin Lee, Zhenyu Liu, Junghoo Cho*
+
+*WWW 2005*
+
+This paper proposes an automatic way to identify the user's goal in Web search. In this paper, the goals are categorized into two kinds, navigational and informational. Firstly, it verifies with a user study that the goals in Web search can indeed be identified. Then it adopts two features of (1) user-click behavior and (2) anchor-link distribution, to automatically predict the goal of the user. 
+
+
 *2022-08-27*
 
 #### [A taxonomy of web search](https://doi.org/10.1145/792550.792552)
