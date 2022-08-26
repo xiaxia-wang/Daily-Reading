@@ -5,6 +5,17 @@
 
 
 
+*2022-08-30*
+
+#### [Efficient and Progressive Group Steiner Tree Search](https://doi.org/10.1145/2882903.2915217)
+
+*Rong-Hua Li, Lu Qin, Jeffrey Xu Yu, Rui Mao*
+
+*SIGMOD 2016*
+
+This paper proposes the keyword search algorithms PrunedDP and PrunedDP++ to solve the GST problem. They are mainly based on optimal-tree decomposition and conditional tree merging techniques, and incorporate several lower-bounding techniques to further optimize the computation. 
+
+
 *2022-08-29*
 
 #### [Characterising Dataset Search Queries](https://doi.org/10.1145/3184558.3191597)
