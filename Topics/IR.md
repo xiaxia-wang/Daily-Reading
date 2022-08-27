@@ -5,6 +5,18 @@
 
 
 
+
+*2022-08-31*
+
+#### [Exploratory search: from finding to understanding](https://doi.org/10.1145/1121949.1121979)
+
+*Gary Marchionini*
+
+*Communications of the ACM 2006*
+
+This paper firstly proposes three kinds of search activities when people use Web search service, including lookup, learn and investigate. Specifically, exploratory search mainly includes the learn and investigate process. In the rest of the paper, each of these activities is analyzed in detail with example systems and techniques. 
+
+
 *2022-08-30*
 
 #### [Efficient and Progressive Group Steiner Tree Search](https://doi.org/10.1145/2882903.2915217)
