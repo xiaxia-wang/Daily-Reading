@@ -7,6 +7,17 @@
 
 
 
+*2022-09-02*
+
+#### [RDF Data Storage and Query Processing Schemes: A Survey](https://doi.org/10.1145/3177850)
+
+*Marcin Wylot, Manfred Hauswirth, Philippe Cudré-Mauroux, Sherif Sakr*
+
+*ACM Computing Surveys 2018*
+
+This paper reviews the RDF data storage, indexing and query processing techniques. It summarizes existing RDF data management systems, and categorizes them into centralized and distributed ones. For each kind of system, it also introduces some examples, along with their architecture and specific techniques. In the end, it also introduces some benchmarking RDF systems. 
+
+
 *2022-08-26*
 
 #### [Summarizing Ontology-based Schemas in PDMS](https://doi.org/10.1109/ICDEW.2010.5452706)
