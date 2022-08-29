@@ -3,7 +3,17 @@
 
 
 
+
+
 *2022-09-01*
+
+#### [Inside the Search Process: Information Seeking from the User’s Perspective](https://doi.org/10.1002/(SICI)1097-4571(199106)42:5%3C361::AID-ASI6%3E3.0.CO;2-%23)
+
+*Carol Collier Kuhlthau*
+
+*Journal of the American Society for Information Science 1991*
+
+This paper investigates the information seeking activities from the user's perspective. It firstly proposes a information search process (ISP) model with six stages. In each stage it also gives a set of feelings, thoughts and tasks of the user. Then it analyzes five user studies to verify the model, and indicates the gap between the user's experience in information seeking and existing researches.
 
 
 *2022-08-31*
