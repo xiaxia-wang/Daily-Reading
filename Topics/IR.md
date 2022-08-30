@@ -5,6 +5,17 @@
 
 
 
+*2022-09-03*
+
+#### [Understanding User Goals in Web Search](https://doi.org/10.1145/988672.988675)
+
+*Daniel E. Rose, Danny Levinson*
+
+*WWW 2004*
+
+This paper investigates the underlying goals behind the user's search behavior, i.e., why do people search. By analyzing a set of queries from the AltaVista search engine, it proposes a framework to categorize the search queries. There are three kinds of goals, namely, navigational, informational, and resource. Then all the queries are manually categorized into the three categorizes. The results indicate that the navigational queries are less prevalent than generally believed, while the resource seeking goal may account for a large part of Web search.
+
+
 *2022-09-01*
 
 #### [Inside the Search Process: Information Seeking from the User’s Perspective](https://doi.org/10.1002/(SICI)1097-4571(199106)42:5%3C361::AID-ASI6%3E3.0.CO;2-%23)
