@@ -5,6 +5,18 @@
 
 
 
+
+*2022-09-04*
+
+#### [Unsupervised Extraction of Template Structure in Web Search Queries](https://doi.org/10.1145/2187836.2187892)
+
+*Sandeep Pandey, Kunal Punera*
+
+*WWW 2012*
+
+This paper investigates the template extraction of the Web search queries. It firstly proposes three properties (i.e., assumptions) of the query templates. Then it introduces a generative model based on the probabilistic distribution of the words to the templates. It also describes some existing methods such as LDA and k-means. In the experiment, it evaluates the performance of the model based on manually labeled ground truth. 
+
+
 *2022-09-03*
 
 #### [Understanding User Goals in Web Search](https://doi.org/10.1145/988672.988675)
