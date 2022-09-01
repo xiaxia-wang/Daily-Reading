@@ -6,6 +6,17 @@
 
 
 
+*2022-09-05*
+
+#### [A novel keyword search paradigm in relational databases: Object summaries](https://doi.org/10.1016/j.datak.2010.11.003)
+
+*Georgios John Fakas*
+
+*Data & Knowledge Engineering 2011*
+
+This paper proposes a method to generate object summaries (OS) for keyword search in relational databases. The input is a keyword query which can hit data subjects (DS) in the database. An object summary is a tree with the data subject as the root, and other neighboring tuples as children. Beginning with this data subject, it firstly selects close relational tables, and computes the affinity of the attributes in these tables. Controlled by given thresholds, it filters some tuples and attributes to appear in the final OS. Besides, when the keyword query hits multiple data subjects, the final OSs are further ranked based on local importance and their size. 
+
+
 *2022-09-04*
 
 #### [Unsupervised Extraction of Template Structure in Web Search Queries](https://doi.org/10.1145/2187836.2187892)
