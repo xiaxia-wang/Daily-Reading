@@ -6,6 +6,17 @@
 
 
 
+*2022-09-06*
+
+#### [Automated generation of object summaries from relational databases: A novel keyword searching paradigm](https://doi.org/10.1109/ICDEW.2008.4498381)
+
+*Georgios John Fakas*
+
+*ICDE Workshops 2008*
+
+This paper is a previous work of [A novel keyword search paradigm in relational databases: Object summaries](https://doi.org/10.1016/j.datak.2010.11.003). In this paper the concept of keyword search in relational databases is firstly introduced. The result of such a keyword search is a ranked set of object summaries. It also preliminarily introduce the summarization method based on table and attribute affinity. 
+
+
 *2022-09-05*
 
 #### [A novel keyword search paradigm in relational databases: Object summaries](https://doi.org/10.1016/j.datak.2010.11.003)
