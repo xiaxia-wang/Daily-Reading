@@ -6,6 +6,17 @@
 
 
 
+*2022-09-07*
+
+#### [Ranking of Object Summaries](https://doi.org/10.1109/ICDE.2009.171)
+
+*Georgios John Fakas, Zhi Cai*
+
+*ICDE 2009*
+
+This paper is an extension of [Automated generation of object summaries from relational databases: A novel keyword searching paradigm](https://doi.org/10.1109/ICDEW.2008.4498381). Compared with the previous work which considers the search result as a list of OSs, this paper further investigates the ranking of OSs and their tuples. This is to facilitate the generation of size-constrained OSs and identify the most important tuples. Based on a proposed global importance score for each tuple, it is able to generate a top-k (i.e., at most k OSs in the list), size-l (i.e., each OS in the list must has at most l tuples) OS list as the query result. 
+
+
 *2022-09-06*
 
 #### [Automated generation of object summaries from relational databases: A novel keyword searching paradigm](https://doi.org/10.1109/ICDEW.2008.4498381)
