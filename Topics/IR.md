@@ -6,6 +6,17 @@
 
 
 
+*2022-09-08*
+
+#### [Size-l Object Summaries for Relational Keyword Search](https://doi.org/10.14778/2078331.2078338)
+
+*Georgios John Fakas, Zhi Cai, Nikos Mamoulis*
+
+*VLDB 2011*
+
+Compared with [A novel keyword search paradigm in relational databases: Object summaries](https://doi.org/10.1016/j.datak.2010.11.003), this paper proposes a new problem of selecting exact l (i.e., a given number of size) tuples instead of using thresholds to limit the number of results. Besides, this paper mainly focuses on effective algorithms of finding the optimal tuples. It proposes a dynamic programming algorithm with heuristics to reduce the search space. 
+
+
 *2022-09-07*
 
 #### [Ranking of Object Summaries](https://doi.org/10.1109/ICDE.2009.171)
