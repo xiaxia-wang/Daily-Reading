@@ -6,15 +6,26 @@
 
 
 
+*2022-09-09*
+
+#### [Versatile Size-*l* Object Summaries for Relational Keyword Search](https://doi.org/10.1109/TKDE.2013.110)
+
+*Georgios John Fakas, Zhi Cai, Nikos Mamoulis*
+
+*IEEE TKDE 2014*
+
+This paper is an extension of [Size-*l* Object Summaries for Relational Keyword Search](https://doi.org/10.14778/2078331.2078338). It proposes two types of size-*l* OS snippets, namely, size-*l* OS(t) limits the number of tuples and size-*l* OS(a) consists of no more than *l* attributes. Compared with the previous paper, it (1) improves the DP algorithms with lower computational complexity, (2) changes the problem formulation to let *l* represent the number of attribute-value pairs instead of the tuples, and (3) introduces a method to automatically select *l* based on a pre-defined importance function. 
+
+
 *2022-09-08*
 
-#### [Size-l Object Summaries for Relational Keyword Search](https://doi.org/10.14778/2078331.2078338)
+#### [Size-*l* Object Summaries for Relational Keyword Search](https://doi.org/10.14778/2078331.2078338)
 
 *Georgios John Fakas, Zhi Cai, Nikos Mamoulis*
 
 *VLDB 2011*
 
-Compared with [A novel keyword search paradigm in relational databases: Object summaries](https://doi.org/10.1016/j.datak.2010.11.003), this paper proposes a new problem of selecting exact l (i.e., a given number of size) tuples instead of using thresholds to limit the number of results. Besides, this paper mainly focuses on effective algorithms of finding the optimal tuples. It proposes a dynamic programming algorithm with heuristics to reduce the search space. 
+Compared with [A novel keyword search paradigm in relational databases: Object summaries](https://doi.org/10.1016/j.datak.2010.11.003), this paper proposes a new problem of selecting exact *I* (i.e., a given number of size) tuples instead of using thresholds to limit the number of results. Besides, this paper mainly focuses on effective algorithms of finding the optimal tuples. It proposes a dynamic programming algorithm with heuristics to reduce the search space. 
 
 
 *2022-09-07*
@@ -25,7 +36,7 @@ Compared with [A novel keyword search paradigm in relational databases: Object s
 
 *ICDE 2009*
 
-This paper is an extension of [Automated generation of object summaries from relational databases: A novel keyword searching paradigm](https://doi.org/10.1109/ICDEW.2008.4498381). Compared with the previous work which considers the search result as a list of OSs, this paper further investigates the ranking of OSs and their tuples. This is to facilitate the generation of size-constrained OSs and identify the most important tuples. Based on a proposed global importance score for each tuple, it is able to generate a top-k (i.e., at most k OSs in the list), size-l (i.e., each OS in the list must has at most l tuples) OS list as the query result. 
+This paper is an extension of [Automated generation of object summaries from relational databases: A novel keyword searching paradigm](https://doi.org/10.1109/ICDEW.2008.4498381). Compared with the previous work which considers the search result as a list of OSs, this paper further investigates the ranking of OSs and their tuples. This is to facilitate the generation of size-constrained OSs and identify the most important tuples. Based on a proposed global importance score for each tuple, it is able to generate a top-k (i.e., at most k OSs in the list), size-*l* (i.e., each OS in the list must has at most *l* tuples) OS list as the query result. 
 
 
 *2022-09-06*
