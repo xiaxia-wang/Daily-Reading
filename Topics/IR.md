@@ -6,7 +6,19 @@
 
 
 
-*2020-09-10*
+
+*2022-09-11*
+
+#### [Diverse and proportional size-*l* object summaries using pairwise relevance](https://doi.org/10.1007/s00778-016-0433-6)
+
+*Georgios John Fakas, Zhi Cai, Nikos Mamoulis*
+
+*VLDBJ 2016*
+
+This paper is an extension of [Diverse and Proportional Size-*l* Object Summaries for Keyword Search](https://doi.org/10.1145/2723372.2737783). In this paper, beyond the importance of each node in the OS, it also consider the pairwise relevance between the nodes. 
+
+
+*2022-09-10*
 
 #### [Diverse and Proportional Size-*l* Object Summaries for Keyword Search](https://doi.org/10.1145/2723372.2737783)
 
@@ -14,7 +26,7 @@
 
 *SIGMOD 2015*
 
-This paper improves the previous method to generate Size-*l* OSs in [Versatile Size-*l* Object Summaries for Relational Keyword Search](https://doi.org/10.1109/TKDE.2013.110). It adds two more features to be considered in the local importance of each attribute-value pair. Firstly, diversity means that the same entity (e.g., the name matched to the keywords) should not be repeated for too many times. Secondly, proportionality means the frequency of each entity in the OS should be close to its original frequency in the dataset. Based on these two features, this paper proposes two kinds of Size-*l* OSs, named DSize-l and PSize-l OSs, with efficient generation algorithms. 
+This paper improves the previous method to generate Size-*l* OSs in [Versatile Size-*l* Object Summaries for Relational Keyword Search](https://doi.org/10.1109/TKDE.2013.110). It adds two more features to be considered in the local importance of each attribute-value pair. Firstly, diversity means that the same entity (e.g., the name matched to the keywords) should not be repeated for too many times. Secondly, proportionality means the frequency of each entity in the OS should be close to its original frequency in the dataset. Based on these two features, this paper proposes two kinds of Size-*l* OSs, named DSize-*l* and PSize-*l* OSs, with efficient generation algorithms. 
 
 
 *2022-09-09*
