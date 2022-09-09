@@ -7,6 +7,17 @@
 
 
 
+*2022-09-12*
+
+#### [Thematic ranking of object summaries for keyword search](https://doi.org/10.1016/j.datak.2017.08.002)
+
+*Georgios John Fakas, Yilun Cai, Zhi Cai, Nikos Mamoulis*
+
+*Data & Knowledge Engineering 2018*
+
+This paper proposes a model to rank OSs according to their relevance to a set of thematic keywords. The authors argue that the effective thematic ranking should incorporate IR-style properties, authoritative ranking and affinity. In the paper, each of these three features is formulated as an importance score of an OS. Then these scores are combined as a product to measure the overall importance of the OS. It also proposes several optimized algorithms to solve the problem. 
+
+
 *2022-09-11*
 
 #### [Diverse and proportional size-*l* object summaries using pairwise relevance](https://doi.org/10.1007/s00778-016-0433-6)
