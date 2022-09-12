@@ -4,6 +4,21 @@
 
 
 
+
+
+*2022-09-15*
+
+#### [Summarizing Relational Databases](https://doi.org/10.14778/1687627.1687699)
+
+*Xiaoyan Yang, Cecilia M. Procopiuc, Divesh Srivastava*
+
+*VLDB 2009*
+
+
+
+
+
+
 *2022-09-14*
 
 #### [MDL Summarization with Holes](http://www.vldb.org/archives/website/2005/program/paper/wed/p433-bu.pdf)
