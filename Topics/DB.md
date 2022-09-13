@@ -6,6 +6,9 @@
 
 
 
+
+
+
 *2022-09-15*
 
 #### [Summarizing Relational Databases](https://doi.org/10.14778/1687627.1687699)
@@ -14,9 +17,7 @@
 
 *VLDB 2009*
 
-
-
-
+Motivated by the difficulty of understanding the unfamiliar schema of database tables before querying, this paper proposes an approach to summarize the information contained in a relational database. The approach has three main components: (1) defining the importance of each table based on random walk, (2) proposing a metric space to compute the distances between the tables, (3) using a k-center algorithm to cluster the tables, and returns the centers of the clusters as the summarization result. 
 
 
 *2022-09-14*
