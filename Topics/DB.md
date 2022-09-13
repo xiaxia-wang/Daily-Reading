@@ -9,6 +9,17 @@
 
 
 
+*2022-09-16*
+
+#### [Summary Graphs for Relational Database Schemas](http://www.vldb.org/pvldb/vol4/p899-yang.pdf)
+
+*Xiaoyan Yang, Cecilia M. Procopiuc, Divesh Srivastava*
+
+*VLDB 2011*
+
+This paper proposes to generate a query-relevant summary graph for a relational database. Given a set of query-related tables hit by the user's query, the generation algorithm automatically selects some relevant (not hit) tables and joins to be incorporated in the result summary. The number of relevant tables is limited by the size constraint, and the informativeness of join edges is maximized. The problem is formulated and solved as an integer program. 
+
+
 *2022-09-15*
 
 #### [Summarizing Relational Databases](https://doi.org/10.14778/1687627.1687699)
