@@ -9,6 +9,17 @@
 
 
 
+*2022-09-17*
+
+#### [Comprehension-Based Result Snippets](https://doi.org/10.1145/2396761.2398405)
+
+*Abhijith Kashyap, Vagelis Hristidis*
+
+*CIKM 2012*
+
+This paper investigates the problem of generating snippets for structured data query results. Unlike the previous work which typically uses the textual length of snippets to measure the difficulty for the user's comprehension, this paper considers the comprehension effort as the cost of locating specific attributes based on the user's interest. Therefore, the number and location of the attributes (in the snippet) are optimized in the proposed snippet generation method. It designs an attribute level informativeness for the snippet, formulates the generation as an optimization problem, and applies heuristic-based algorithm to solve the problem.
+
+
 *2022-09-16*
 
 #### [Summary Graphs for Relational Database Schemas](http://www.vldb.org/pvldb/vol4/p899-yang.pdf)
