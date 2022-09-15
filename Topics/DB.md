@@ -8,6 +8,16 @@
 
 
 
+*2022-09-18*
+
+#### [Probabilistic Database Summarization for Interactive Data Exploration](https://doi.org/10.14778/3115404.3115419)
+
+*Laurel J. Orr, Dan Suciu, Magdalena Balazinska*
+
+*VLDB 2017*
+
+This paper proposes a probabilistic approach to generate database summaries based on maximum entropy. Such a summary is able to approximately answer linear database queries such as COUNT, which can be represented as a dot product. It also proposes three optimizations for summary compression, query processing and statistics selection, respectively.  
+
 
 *2022-09-17*
 
