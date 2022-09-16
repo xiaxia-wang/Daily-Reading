@@ -7,6 +7,16 @@
 
 
 
+*2022-09-19*
+
+#### [Interactive Summarization and Exploration of Top Aggregate Query Answers](https://doi.org/10.14778/3275366.3275369)
+
+*Yuhao Wen, Xiaodan Zhu, Sudeepa Roy, Jun Yang*
+
+*VLDB 2018*
+
+This paper proposes a summarization method for database query results, to ease the user with comprehension and exploration. In this paper, a query result summary is considered to be simple, diverse and discriminative. Based on that, the summary is designed to consists k (a given number) clusters and cover top-l records. The distance between each pair of clusters is no less than a given threshold to ensure the diversity. It applies greedy algorithms to solve the problem.  Besides, the interactivity of the method means it allows the user to customize the parameters in the problem. 
+
 
 *2022-09-18*
 
