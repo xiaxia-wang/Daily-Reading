@@ -7,6 +7,17 @@
 
 
 
+*2022-09-20*
+
+#### [Automatically Generating Interesting Facts from Wikipedia Tables](https://dl.acm.org/doi/10.1145/3299869.3314043)
+
+*Flip Korn, Xuezhi Wang, You Wu, Cong Yu*
+
+*SIGMOD 2019*
+
+This paper proposes a method to extract "fun facts" from relational tables in Wikipedia. A fun fact is a fact-based sentence to be presented in an entity card. To extract fun facts from the tables, this paper proposes a template-based method with two kinds of templates, namely, *rank-ordered* and *distributional*. It begins with the tables in Wikipedia’s “Lists of Superlatives” table category, by firstly collecting curated templates created by human. Based on that, it then derives templates for new tables using a language model.
+
+
 *2022-09-19*
 
 #### [Interactive Summarization and Exploration of Top Aggregate Query Answers](https://doi.org/10.14778/3275366.3275369)
