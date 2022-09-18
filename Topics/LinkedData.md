@@ -7,6 +7,17 @@
 
 
 
+*2022-09-21*
+
+#### [Data summarization: a survey](https://doi.org/10.1007/s10115-018-1183-0)
+
+*Mohiuddin Ahmed*
+
+*Knowledge and Information Systems 2019*
+
+This survey paper introduces the summarization categories and methods for structured and unstructured data. It firstly proposes a taxonomy of data summarization. Structured data summarization methods are categorized into machine learning, statistical and semantics ones, while unstructured data summarization is related to several research areas including NLP, graph spreading, etc. It also introduces some representative work in each kind, and discusses common evaluation metrics. 
+
+
 *2022-09-02*
 
 #### [RDF Data Storage and Query Processing Schemes: A Survey](https://doi.org/10.1145/3177850)
