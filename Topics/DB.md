@@ -7,6 +7,17 @@
 
 
 
+*2022-09-22*
+
+#### [Generating Titles for Web Tables](https://doi.org/10.1145/3308558.3313399)
+
+*Braden Hancock, Hongrae Lee, Cong Yu*
+
+*WWW 2019*
+
+This paper provides a method to generate titles to describe table contents. It is based on a sequence-to-sequence model, using text snippets extracted from the table as the input, and applies a copy mechanism in the decoder to improve the readability. The extracted text snippets include metadata fields such as page title, section headings, prefixes, and the table rows. Then it concatenates these fields into a sequence and feeds it to the model. Besides, the copy mechanism in the decoder helps retain some rare words such as human names related to the table content. 
+
+
 *2022-09-20*
 
 #### [Automatically Generating Interesting Facts from Wikipedia Tables](https://dl.acm.org/doi/10.1145/3299869.3314043)
