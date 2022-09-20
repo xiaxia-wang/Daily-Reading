@@ -7,6 +7,17 @@
 
 
 
+*2022-09-23*
+
+#### [Query-Based Entity Comparison in Knowledge Graphs Revisited](https://link.springer.com/chapter/10.1007/978-3-030-30793-6_32)
+
+*Alina Petrova, Egor V. Kostylev, Bernardo Cuenca Grau, Ian Horrocks*
+
+*ISWC 2019*
+
+Entity comparison is to describe the similarities between two given entities in a knowledge graph. This paper improves a previous method which formulates the problem as to find a SPARQL query having both entities in its answer. In this paper, it also considers the similarity queries with numeric filter expressions. The optimize target is to compute the most specific and exact similarity queries for a pair of given entities. To achieve this, it also proposes an approximate algorithm for the problem.
+
+
 *2022-09-21*
 
 #### [Data summarization: a survey](https://doi.org/10.1007/s10115-018-1183-0)
