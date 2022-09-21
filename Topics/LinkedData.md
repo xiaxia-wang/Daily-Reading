@@ -7,6 +7,17 @@
 
 
 
+*2022-09-24*
+
+#### [VISION-KG: Topic-centric Visualization System for Summarizing Knowledge Graph](https://doi.org/10.1145/3336191.3371863)
+
+*Jiaqi Wei, Shuo Han, Lei Zou*
+
+*WSDM 2020 demo*
+
+This demo paper introduces a visualization method to profile entities in a knowledge graph. For each entity given as a query, the system extracts a summary graph by ranking the related facts with importance, relatedness and diversity measures. Further, the system will also split the summary graph with respect to different topics, where each subgraph corresponds to a specific topic. Each subgraph is a cluster of nodes gathered using an approximate k-NN algorithm. 
+
+
 *2022-09-23*
 
 #### [Query-Based Entity Comparison in Knowledge Graphs Revisited](https://link.springer.com/chapter/10.1007/978-3-030-30793-6_32)
