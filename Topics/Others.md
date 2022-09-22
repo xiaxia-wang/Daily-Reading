@@ -4,6 +4,17 @@
 
 
 
+*2022-09-25*
+
+#### [Multiple Dimensions to Data-Driven Ontology Evaluation](https://doi.org/10.1007/978-3-319-25840-9_21)
+
+*Hlomani Hlomani, Deborah A. Stacey*
+
+*IC3K 2014*
+
+This paper discusses the evaluation of ontologies in two dimensions, namely, temporal bias and category bias. It firstly introduces the general limitation of ontology evaluation, including the subjectivity in the criteria, threshold, and the influence on the metrics. It also proposes an evaluation framework and conducts experiments on several real ontologies with different size and domain. 
+
+
 *2022-06-19*
 
 #### [Using Benchmarking to Advance Research: A Challenge to Software Engineering](https://doi.org/10.1109/ICSE.2003.1201189)
