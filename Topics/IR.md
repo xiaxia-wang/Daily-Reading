@@ -6,6 +6,17 @@
 
 
 
+*2022-09-26*
+
+#### [Identifying Facet Mismatches In Search Via Micrographs](https://doi.org/10.1145/3357384.3357911)
+
+*Sriram Srinivasan, Nikhil S. Rao, Karthik Subbian, Lise Getoor*
+
+*CIKM 2019*
+
+In e-commerce, each query from a customer contains several facets such as product type, color and brand. This paper aims to identify the mismatched facets between the products returned by the search engine and the user's query intent. It firstly constructs a micrograph based on the connections between the products and the query. Then it applies statistical relational learning to predict the existence of certain structures. It also improves the model structure with a confidence passing technique to achieve a better performance. 
+
+
 *2022-09-12*
 
 #### [Thematic ranking of object summaries for keyword search](https://doi.org/10.1016/j.datak.2017.08.002)
