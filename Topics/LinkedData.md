@@ -6,6 +6,16 @@
 
 
 
+*2022-09-27*
+
+#### [Diversified and Verbalized Result Summarization for Semantic Association Search](https://doi.org/10.1007/978-3-030-02922-7_26)
+
+*Yu Gu, Yue Liang, Gong Cheng, Daxin Liu, Ruidi Wei, Yuzhong Qu*
+
+*WISE 2018*
+
+This paper investigates the problem called semantic association search, which extracts a subgraph containing a set of connected entities in the given query. This paper focuses on reducing the redundancy of top-ranked graph patterns by formulating a combinatorial optimization model to select top-*k* diversified patterns. Besides, to ease user's comprehension, it also proposes to translate graph patterns to textual sentences based on a set of rules. 
+
 
 *2022-09-24*
 
