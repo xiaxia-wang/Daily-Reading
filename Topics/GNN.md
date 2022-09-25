@@ -1,3 +1,27 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+*2022-09-28*
+
+#### [INDIGO: GNN-Based Inductive Knowledge Graph Completion Using Pair-Wise Encoding](https://proceedings.neurips.cc/paper/2021/hash/0fd600c953cde8121262e322ef09f70e-Abstract.html)
+
+*Shuwen Liu, Bernardo Cuenca Grau, Ian Horrocks, Egor V. Kostylev*
+
+*NeurIPS 2021*
+
+This paper focuses on the task of knowledge graph completion. While existing GNN models for knowledge graph completion generally use transductive features of the KG and cannot handle unseen entities during the test phase, this paper improves the GCN model to address the problem by changing the encoder and decoder components. Each node in this GNN model is designed to represent a pair of entities in the original KG. Besides, its transparent nature allows the predicted triples to be read out directly without the need of an additional predicting layer. 
+
+
 *2022-04-25*
 
 #### [Graph Neural Networks: Taxonomy, Advances, and Trends](https://dl.acm.org/doi/10.1145/3495161)
