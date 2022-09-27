@@ -6,6 +6,17 @@
 
 
 
+*2022-09-30*
+
+#### [Searching Linked Objects with Falcons: Approach, Implementation and Evaluation](https://doi.org/10.4018/jswis.2009081903)
+
+*Gong Cheng, Yuzhong Qu*
+
+*International Journal on Semantic Web and Information Systems 2009*
+
+This paper introduces the keyword search strategy applied in Falcons and its implementation. It firstly illustrates the search functions within several scenarios. Then it presents the system architecture, which involves metadata, inverted indexes with the retrieval component, query parsing and snippet generation. In its implementation, it incorporates type information discovery using class-inclusive reasoning. 
+
+
 *2022-09-27*
 
 #### [Diversified and Verbalized Result Summarization for Semantic Association Search](https://doi.org/10.1007/978-3-030-02922-7_26)
