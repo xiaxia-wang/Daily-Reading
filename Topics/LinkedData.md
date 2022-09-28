@@ -6,6 +6,19 @@
 
 
 
+
+
+*2022-10-01*
+
+#### [Fast and Practical Snippet Generation for RDF Datasets](https://doi.org/10.1145/3365575)
+
+*Daxin Liu, Gong Cheng, Qingxia Liu, Yuzhong Qu*
+
+*TWeb 2019*
+
+This is an extension of the WSDM 2017 paper. This paper discusses the snippet generation method IlluSnip and its two optimized versions called OPT-MAX and OPT-RANK by changing the ways of iteration and the starting triple. In the second part of the paper, it also proposes an adaptation to Web-based query service, i.e., for SPARQL endpoint. Instead of directly manipulating the dataset, it submits queries to the SPARQL endpoint and uses the answers to construct the dataset snippet. 
+
+
 *2022-09-30*
 
 #### [Searching Linked Objects with Falcons: Approach, Implementation and Evaluation](https://doi.org/10.4018/jswis.2009081903)
