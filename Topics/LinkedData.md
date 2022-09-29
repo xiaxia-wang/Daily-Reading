@@ -8,6 +8,17 @@
 
 
 
+*2022-10-02*
+
+#### [Fast Algorithms for Semantic Association Search and Pattern Mining](https://doi.org/10.1109/TKDE.2019.2942031)
+
+*Gong Cheng, Daxin Liu, Yuzhong Qu*
+
+*IEEE TKDE 2021*
+
+This paper investigates the problems of semantic association (SA) search, and semantic association pattern (SAP) mining. Given a set of related entities, a SA is a compact subgraph connecting all the entities, while a SAP is the conceptual graph pattern corresponding to the SA. This paper proposes fast algorithms for searching SAs and mining frequent SAPs. It designs a canonical code for each SA to help sort them in search, along with a distance oracle for pruning the search space. For frequent SAP mining, it applies a partition-based SA filtering method to optimize the SAP enumeration process. 
+
+
 *2022-10-01*
 
 #### [Fast and Practical Snippet Generation for RDF Datasets](https://doi.org/10.1145/3365575)
