@@ -8,6 +8,17 @@
 
 
 
+*2022-10-03*
+
+#### [Generating Compact and Relaxable Answers to Keyword Queries over Knowledge Graphs](https://doi.org/10.1007/978-3-030-62419-4_7)
+
+*Gong Cheng, Shuxin Li, Ke Zhang, Chengkai Li*
+
+*ISWC 2020*
+
+The problem of keyword search on the graph is usually formulated as a GST problem. However, a GST that connects all the query keywords may not exist in practice. To address the problem, this paper proposes to generate compact but relaxable (i.e., containing only a subset of keywords) subgraphs as answers. It is formulated as an optimization problem of computing a minimally relaxed answer with a compactness guarantee, and is solved with a best-first search algorithm. 
+
+
 *2022-10-02*
 
 #### [Fast Algorithms for Semantic Association Search and Pattern Mining](https://doi.org/10.1109/TKDE.2019.2942031)
