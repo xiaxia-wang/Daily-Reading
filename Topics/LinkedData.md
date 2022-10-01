@@ -8,6 +8,17 @@
 
 
 
+*2022-10-04*
+
+#### [ESBM: An Entity Summarization BenchMark](https://doi.org/10.1007/978-3-030-49461-2_32)
+
+*Qingxia Liu, Gong Cheng, Kalpa Gunaratna, Yuzhong Qu*
+
+*ESWC 2020*
+
+This paper proposes a benchmark for evaluating general-purpose entity summarization. ESBM contains 175 heterogeneous entities sampled from DBpedia and LinkedMDB, with 30 human experts creating 2,100 ground-truth summaries under 2 size constraints. Besides, it also compares the performance of 9 existing entity summarization methods, and implements a supervised learning-based method in the experiments. 
+
+
 *2022-10-03*
 
 #### [Generating Compact and Relaxable Answers to Keyword Queries over Knowledge Graphs](https://doi.org/10.1007/978-3-030-62419-4_7)
