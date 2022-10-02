@@ -8,6 +8,17 @@
 
 
 
+*2022-10-05*
+
+#### [An Empirical Evaluation of Techniques for Ranking Semantic Associations](https://doi.org/10.1109/TKDE.2017.2735970)
+
+*Gong Cheng, Fei Shao, Yuzhong Qu*
+
+*TKDE 2017*
+
+This paper evaluates 8 techniques for ranking semantic associations based on 1,200 ground-truth rankings created by 30 human experts. To evaluate the semantic associations, this paper divides the techniques into data-centric and user-centric ones. For data-centric techniques, it implements 8 metrics such as size and frequency. In the human evaluation, the participants are required to conduct pair-wise comparison to the importance of the semantic associations, and give brief explanation to their judgments. 
+
+
 *2022-10-04*
 
 #### [ESBM: An Entity Summarization BenchMark](https://doi.org/10.1007/978-3-030-49461-2_32)
