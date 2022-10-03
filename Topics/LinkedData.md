@@ -8,6 +8,17 @@
 
 
 
+*2022-10-06*
+
+#### [Entity Summarization with User Feedback](https://link.springer.com/chapter/10.1007/978-3-030-49461-2_22)
+
+*Qingxia Liu, Yue Chen, Gong Cheng, Evgeny Kharlamov, Junyou Li, Yuzhong Qu*
+
+*ESWC 2020*
+
+This paper investigates the problem of using the user's feedback to improve the entity summarization result. It formulates this problem as a Markov decision process and the entity summarizer as a reinforcement learning agent. The interdependence of triples in the current summary and the user feedback is represented by a deep neural network. In the experiment, the authors conduct both online user study and offline evaluation based on ESBM which is an entity summarization benchmark. 
+
+
 *2022-10-05*
 
 #### [An Empirical Evaluation of Techniques for Ranking Semantic Associations](https://doi.org/10.1109/TKDE.2017.2735970)
