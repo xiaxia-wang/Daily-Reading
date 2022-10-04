@@ -7,6 +7,16 @@
 
 
 
+*2022-10-07*
+
+#### [Neural Entity Summarization with Joint Encoding and Weak Supervision](https://doi.org/10.24963/ijcai.2020/228)
+
+*Junyou Li, Gong Cheng, Qingxia Liu, Wen Zhang, Evgeny Kharlamov, Kalpa Gunaratna, Huajun Chen*
+
+*IJCAI 2020*
+
+This paper proposes a neural entity summarization method named NEST. It uses LSTM to encode the KG, and applies weak supervision with programmatically labeled data to train the model. The score function considers both the salience of each triple and the diversity of the entire summary. 
+
 
 *2022-10-06*
 
