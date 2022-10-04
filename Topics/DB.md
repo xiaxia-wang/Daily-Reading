@@ -7,6 +7,17 @@
 
 
 
+*2022-10-08*
+
+#### [BABOONS: Black-Box Optimization of Data Summaries in Natural Language](https://www.vldb.org/pvldb/vol15/p2980-trummer.pdf)
+
+*Immanuel Trummer*
+
+*VLDB 2022*
+
+This paper proposes BABOONS, a model for generating comparative data summaries based on a user-given utility target. Basically, the data source is characterized by a relational table *D*, a set of dimension columns and a set of aggregation columns. A summary template *T* specifies how abstract facts are translated into natural language texts by providing text snippets with placeholder for values. The problem is to obtain summaries for a set of data items *I* based on *D* and *T* that maximize mean utility over *I*. To achieve this, BABOONS applies deep reinforcement learning for optimization and uses proactive caching to expedite the computation. 
+
+
 *2022-09-22*
 
 #### [Generating Titles for Web Tables](https://doi.org/10.1145/3308558.3313399)
