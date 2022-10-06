@@ -7,6 +7,17 @@
 
 
 
+*2022-10-09*
+
+#### [Entity Summarization via Exploiting Description Complementarity and Salience](https://ieeexplore.ieee.org/abstract/document/9718581/authors#authors)
+
+*Liyi Chen, Zhi Li, Weidong He, Gong Cheng , Tong Xu , Nicholas Jing Yuan, Enhong Chen*
+
+*TNNLS 2022*
+
+This paper formulates entity summarization as a set completion problem. It uses LSTM to encode the descriptions for each entity. It optimizes the global complementarity of the result summary and the salience of each individual entity description. 
+
+
 *2022-10-07*
 
 #### [Neural Entity Summarization with Joint Encoding and Weak Supervision](https://doi.org/10.24963/ijcai.2020/228)
