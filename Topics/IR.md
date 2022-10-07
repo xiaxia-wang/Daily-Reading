@@ -6,6 +6,19 @@
 
 
 
+
+
+*2022-10-10*
+
+#### [A Sketch-based Index for Correlated Dataset Search](https://doi.org/10.1109/ICDE53745.2022.00264)
+
+*Aécio S. R. Santos, Aline Bessa, Christopher Musco, Juliana Freire*
+
+*ICDE 2022*
+
+This paper investigates the problem of, for a given dataset, searching for its related (i.e., query-biased and joinable) datasets from a large corpus. To address this problem, this paper proposes a hashing scheme and constructs a sketch-based index to support efficient search for correlated tables. 
+
+
 *2022-09-26*
 
 #### [Identifying Facet Mismatches In Search Via Micrographs](https://doi.org/10.1145/3357384.3357911)
