@@ -8,6 +8,17 @@
 
 
 
+*2022-10-11*
+
+#### [Exploring Heterogeneous Data Lake based on Unified Canonical Graphs](https://doi.org/10.1145/3477495.3531759)
+
+*Qin Yuan, Ye Yuan, Zhenyu Wen, He Wang, Chen Chen, Guoren Wang*
+
+*SIGIR 2022*
+
+This paper focuses on the problem of keyword search over heterogeneous datasets in a data lake. It constructs a canonical graph where nodes represent entities, and edges represent either relations between entities or linkages of matching nodes across data sources. The answer tree is formulated as the minimum Steiner tree with respect to the keyword query. 
+
+
 *2022-10-10*
 
 #### [A Sketch-based Index for Correlated Dataset Search](https://doi.org/10.1109/ICDE53745.2022.00264)
