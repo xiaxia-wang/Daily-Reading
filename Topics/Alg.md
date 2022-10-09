@@ -6,6 +6,17 @@
 
 
 
+*2022-10-12*
+
+#### [Efficient and Effective Similarity Search over Bipartite Graphs](https://dl.acm.org/doi/10.1145/3485447.3511959)
+
+*Renchi Yang*
+
+*TheWebConf 2022*
+
+This paper investigates the problem of similarity search over bipartite graphs. Based on the recently proposed hidden personalized PageRank (HPP) algorithm, it firstly identifies a drawback of HPP, and then proposes bidirectional HPP (BHPP) to overcome it. It formulates the similarity search over bipartite graphs as a BHPP problem, and also proposes an approximate algorithm to apply it to real-world graphs.
+
+
 *2022-08-18*
 
 #### [A Unifying Framework for Mining Approximate Top-k Binary Patterns](https://doi.org/10.1109/TKDE.2013.181)
