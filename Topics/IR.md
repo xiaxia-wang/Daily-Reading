@@ -7,6 +7,16 @@
 
 
 
+*2022-10-13*
+
+#### [Towards a Better Understanding of Human Reading Comprehension with Brain Signals](https://dl.acm.org/doi/10.1145/3485447.3511966)
+
+*Ziyi Ye, Xiaohui Xie, Yiqun Liu, Zhihong Wang, Xuesong Chen, Min Zhang, Shaoping Ma*
+
+*TheWebConf 2022*
+
+This paper investigates the brain activities and neural signals when handling reading comprehension tasks. It firstly conducts a user study and collects neural signals when people conducting reading comprehension tasks. Then it uses the collected data to train a sentence classification model and evaluates its effectiveness. 
+
 
 *2022-10-11*
 
