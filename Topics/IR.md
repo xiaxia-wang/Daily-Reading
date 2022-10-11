@@ -7,6 +7,17 @@
 
 
 
+*2022-10-14*
+
+#### [Global or Local: Constructing Personalized Click Models for Web Search](https://dl.acm.org/doi/10.1145/3485447.3511950)
+
+*Junqi Zhang, Yiqun Liu, Jiaxin Mao, Xiaohui Xie, Min Zhang, Shaoping Ma, Qi Tian*
+
+*TheWebConf 2022*
+
+This paper investigates personalized click models in Web search. Based on a 6-month search log of a commercial search engine, in this paper the authors firstly construct a dataset with search records of 1,249 users to train and evaluate the models. Then it combines different personalized (local) search strategies with global model by keeping the personalized relevance or behavior model parameters. 
+
+
 *2022-10-13*
 
 #### [Towards a Better Understanding of Human Reading Comprehension with Brain Signals](https://dl.acm.org/doi/10.1145/3485447.3511966)
