@@ -7,6 +7,17 @@
 
 
 
+*2022-10-15*
+
+#### [Learning Probabilistic Box Embeddings for Effective and Efficient Ranking](https://dl.acm.org/doi/10.1145/3485447.3512073)
+
+*Lang Mei, Jiaxin Mao, Gang Guo, Ji-Rong Wen*
+
+*TheWebConf 2022*
+
+This paper proposes a probabilistic box embedding for queries and items in information retrieval. Each query or item is represented by a high-dimension axis-aligned hyper rectangle to characterize its diversity and uncertainty. To improve the efficiency, it also proposes a box embedding-based indexing method to filter irrelevant items and reduce the retrieval latency. A box embedding for each object is a *d*-dimension axis-aligned hyper-rectangle. On each of the dimension there is a lower bound and an upper bound (as a "box"). The overlapping volume of two embeddings are used to model the relationship of the objects, which is proved as a kernel function. 
+
+
 *2022-10-14*
 
 #### [Global or Local: Constructing Personalized Click Models for Web Search](https://dl.acm.org/doi/10.1145/3485447.3511950)
