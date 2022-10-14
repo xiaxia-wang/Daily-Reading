@@ -10,6 +10,16 @@
 
 
 
+*2022-10-17*
+
+#### [KoMen: Domain Knowledge Guided Interaction Recommendation for Emerging Scenarios](https://dl.acm.org/doi/10.1145/3485447.3512177)
+
+*Yiqing Xie, Zhen Wang, Carl Yang, Yaliang Li, Bolin Ding, Hongbo Deng, Jiawei Han*
+
+*TheWebConf 2022*
+
+This paper studies a problem of user-user interaction recommendation in emerging scenarios, which is formulated as a few-shot link prediction task over a multiplex graph. To solve the problem, it proposes a model containing two levels of attention mechanism. Each of the several experts is trained on one type of edges (i.e., learns the attention over each type of edges), while different scenarios choose different combination of experts (i.e., learn the attention over experts). 
+
 
 *2022-09-28*
 
