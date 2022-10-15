@@ -10,6 +10,17 @@
 
 
 
+*2022-10-18*
+
+#### [Knowledge Graph Reasoning with Relational Digraph](https://doi.org/10.1145/3485447.3512008)
+
+*Yongqi Zhang, Quanming Yao*
+
+*TheWebConf 2022*
+
+This paper proposes a knowledge graph reasoning network named RED-GNN to answer the queries in the form of $\langle$ subject entity, relation, ? $\rangle$. It introduces a relational directed graph (r-digraph) to capture the entity relation connections in the KG, and uses dynamic programming to recursively encode multiple r-digraphs with shared edges. It achieves relatively good performance among existing GNN models, and provides their codes. 
+
+
 *2022-10-17*
 
 #### [KoMen: Domain Knowledge Guided Interaction Recommendation for Emerging Scenarios](https://dl.acm.org/doi/10.1145/3485447.3512177)
