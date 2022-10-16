@@ -7,6 +7,19 @@
 
 
 
+
+
+*2022-10-19*
+
+#### [What's in an Index: Extracting Domain-specific Knowledge Graphs from Textbooks](https://doi.org/10.1145/3485447.3512140)
+
+*Isaac Alpizar Chacon, Sergey A. Sosnovsky*
+
+*TheWebConf 2022*
+
+This paper works on the extraction and classification of domain knowledge from textbook indexes. It firstly divides the concepts into 4 categories according to their domain specificity: core-domain, in-domian, related-domain and out-of-domain concepts. Then it links the extracted concepts to DBpedia and constructs domain-specific knowledge graphs with path-based similarity scoring functions. Generally, it is highly relied on the quality and completeness of DBpedia. 
+
+
 *2022-10-09*
 
 #### [Entity Summarization via Exploiting Description Complementarity and Salience](https://ieeexplore.ieee.org/abstract/document/9718581/authors#authors)
