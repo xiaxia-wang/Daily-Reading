@@ -4,6 +4,18 @@
 
 
 
+
+*2022-10-20*
+
+#### [Reproducibility and Replicability of Web Measurement Studies](https://doi.org/10.1145/3485447.3512214)
+
+*Nurullah Demir, Matteo Große-Kampmann, Tobias Urban, Christian Wressnegger, Thorsten Holz, Norbert Pohlmann*
+
+*TheWebConf 2022*
+
+This paper studies the criteria of Web measurements to ensure the reproducibility and fairness of researches. By surveying 117 recent research papers, this paper summarizes the practices of existing work and proposes a set of criteria for designing Web measurement studies. It also evaluates some of the criteria with a case study. 
+
+
 *2022-09-25*
 
 #### [Multiple Dimensions to Data-Driven Ontology Evaluation](https://doi.org/10.1007/978-3-319-25840-9_21)
