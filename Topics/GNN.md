@@ -10,6 +10,17 @@
 
 
 
+*2022-10-22*
+
+#### [Trustworthy Knowledge Graph Completion Based on Multi-sourced Noisy Data](https://doi.org/10.1145/3485447.3511938)
+
+*Jiacheng Huang, Yao Zhao, Wei Hu, Zhen Ning, Qijin Chen, Xiaoxia Qiu, Chengfu Huo, Weijun Ren*
+
+*TheWebConf 2022*
+
+This paper works on open knowledge graph completion based on noisy data. It firstly proposes a holistic fact scoring function for both relational facts and literal facts (triples). Then it proposes a neural network model to align the heterogeneous values from different facts. It also implements a semi-supervised inference model to predict the trustworthiness of the claims. 
+
+
 *2022-10-18*
 
 #### [Knowledge Graph Reasoning with Relational Digraph](https://doi.org/10.1145/3485447.3512008)
