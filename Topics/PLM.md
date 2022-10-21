@@ -6,6 +6,17 @@
 
 *2022-10-23*
 
+#### [Enhancing Knowledge Bases with Quantity Facts](https://doi.org/10.1145/3485447.3511932)
+
+*Vinh Thinh Ho, Daria Stepanova, Dragan Milchevski, Jannik Strötgen, Gerhard Weikum* (MPI)
+
+*TheWebConf 2022*
+
+This paper proposes a recall-oriented knowledge base augmentation method named QL, to add missing quantity facts into the existing KB. It extracts facts from external text corpus, and divides them into high-confidence and low-confidence groups. Then it iteratively consolidates the facts using distribution-based denoising method and expends the query with more equivalent properties. In the experiments, QL is compared with other question answering methods including RoBERTa, QSearch and GPT-3 on precision, recall and novelty. 
+
+
+*2022-10-23*
+
 #### [Unified Question Generation with Continual Lifelong Learning](https://dl.acm.org/doi/10.1145/3485447.3511930)
 
 *Wei Yuan, Hongzhi Yin, Tieke He, Tong Chen, Qiufeng Wang, Lizhen Cui:*
