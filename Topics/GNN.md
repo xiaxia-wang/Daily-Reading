@@ -10,6 +10,17 @@
 
 
 
+*2022-10-24*
+
+#### [Rethinking Graph Convolutional Networks in Knowledge Graph Completion](https://doi.org/10.1145/3485447.3511923)
+
+*Zhanqiu Zhang, Jie Wang, Jieping Ye, Feng Wu*
+
+*TheWebConf 2022*
+
+This paper proposes an idea that the graph structure modeling is unimportant for GCN-based KGC models. Instead, the ability to distinguish different entities and the transformations for entity embeddings account for the performance improvements. To prove this, firstly, it randomly changes the adjacency tensors in message passing and surprisingly gets similar results. Besides, removing the self-loop information also results in similar performance. Based on that, this paper also proposes a KG embedding model which applies linear transformation to entity representations. 
+
+
 *2022-10-22*
 
 #### [Trustworthy Knowledge Graph Completion Based on Multi-sourced Noisy Data](https://doi.org/10.1145/3485447.3511938)
