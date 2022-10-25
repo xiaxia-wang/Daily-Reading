@@ -4,6 +4,19 @@
 
 
 
+
+
+*2022-10-27*
+
+#### [Concept learning in description logics using refinement operators](https://link.springer.com/article/10.1007/s10994-009-5146-2)
+
+*Jens Lehmann, Pascal Hitzler*
+
+*Machine Learning 2010*
+
+This paper proposes detailed definitions about concept learning in description logics, as well as a learning algorithm. 
+
+
 *2022-10-26*
 
 #### [EvoLearner: Learning Description Logics with Evolutionary Algorithms](https://doi.org/10.1145/3485447.3511925)
