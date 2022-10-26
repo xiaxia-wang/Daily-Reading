@@ -9,6 +9,17 @@
 
 
 
+*2022-10-28*
+
+#### [A Comparative Survey of DBpedia, Freebase, OpenCyc, Wikidata, and YAGO](https://www.semantic-web-journal.net/system/files/swj1141.pdf)
+
+*Michael Färber, Basil Ell, Carsten Menne, Achim Rettinger*
+
+*Semantic Web Journal 2015*
+
+This paper proposes a comprehensive comparison between DBpedia, Freebase, OpenCyc, Wikidata and YAGO. It proposes a set of aspects as well as criteria to measure the KGs, including general information, format and representation, genesis and usage, entities, relations, schema and particularities.
+
+
 *2022-10-19*
 
 #### [What's in an Index: Extracting Domain-specific Knowledge Graphs from Textbooks](https://doi.org/10.1145/3485447.3512140)
