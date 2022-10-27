@@ -4,6 +4,18 @@
 
 
 
+
+*2022-10-29*
+
+#### [EventBERT: A Pre-Trained Model for Event Correlation Reasoning](https://doi.org/10.1145/3485447.3511928)
+
+*Yucheng Zhou, Xiubo Geng, Tao Shen, Guodong Long, Daxin Jiang*
+
+*TheWebConf 2022*
+
+This paper proposes a pre-trained model to conduct event correlation reasoning. It firstly collects a set of training examples (natural language paragraphs and events) from a large book corpus. Then it proposes three self-supervised event-based and correlation-based learning objectives to pre-train the model, including correlation-based relation ranking, contradiction event tagging and discourse relation ranking. The former two train the model to distinguish the correct event against negative ones, while the latter helps the model identify subtle difference among discourse relations. 
+
+
 *2022-10-23*
 
 #### [Enhancing Knowledge Bases with Quantity Facts](https://doi.org/10.1145/3485447.3511932)
