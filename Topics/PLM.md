@@ -5,6 +5,18 @@
 
 
 
+
+*2022-10-30*
+
+#### [QEN: Applicable Taxonomy Completion via Evaluating Full Taxonomic Relations](https://doi.org/10.1145/3485447.3511943)
+
+*Suyuchen Wang, Ruihui Zhao, Yefeng Zheng, Bang Liu*
+
+*TheWebConf 2022*
+
+Taxonomy completion is to find a pair of $\langle$ hypernym, hyponym $\rangle$ in the existing taxonomy for inserting the query concept. This paper firstly incorporates the similarities between the query and two potential siblings, and utilizes the term descriptions instead of embeddings as input features. Besides, it also applies a code attention module with PLM to reduce the online computation efforts. 
+
+
 *2022-10-29*
 
 #### [EventBERT: A Pre-Trained Model for Event Correlation Reasoning](https://doi.org/10.1145/3485447.3511928)
