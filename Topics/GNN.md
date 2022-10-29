@@ -10,6 +10,17 @@
 
 
 
+*2022-10-31*
+
+#### [Learning and Evaluating Graph Neural Network Explanations based on Counterfactual and Factual Reasoning](https://doi.org/10.1145/3485447.3511948)
+
+*Juntao Tan, Shijie Geng, Zuohui Fu, Yingqiang Ge, Shuyuan Xu, Yunqi Li, Yongfeng Zhang*
+
+*TheWebConf 2022*
+
+This paper proposes a GNN model to generate subgraphs as explanation for the graph classification task based on factual and counterfactual reasoning. It proposes two objectives that a good explanation should be (1) sufficient and necessary (related to factual and counterfactual reasoning), and (2) simple (driven by the Occam’s Razor Principle). 
+
+
 *2022-10-24*
 
 #### [Rethinking Graph Convolutional Networks in Knowledge Graph Completion](https://doi.org/10.1145/3485447.3511923)
