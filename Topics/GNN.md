@@ -10,6 +10,17 @@
 
 
 
+*2022-11-01*
+
+#### [Exploring Edge Disentanglement for Node Classification](https://dl.acm.org/doi/10.1145/3485447.3511929)
+
+*Tianxiang Zhao, Xiang Zhang, Suhang Wang*
+
+*TheWebConf 2022*
+
+This paper proposes a GNN model to identify different edge attributives (edge disentanglement) for node classification task. It implements a set of disentangled channels to capture different edge attributes, and provides three self-supervision signals to learn edge disentanglement. 
+
+
 *2022-10-31*
 
 #### [Learning and Evaluating Graph Neural Network Explanations based on Counterfactual and Factual Reasoning](https://doi.org/10.1145/3485447.3511948)
