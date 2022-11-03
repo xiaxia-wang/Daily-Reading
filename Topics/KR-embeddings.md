@@ -6,6 +6,17 @@
 
 
 
+*2022-11-03*
+
+#### [Entity Type Prediction Leveraging Graph Walks and Entity Descriptions](https://doi.org/10.1007/978-3-031-19433-7_23)
+
+*Russa Biswas, Jan Portisch, Heiko Paulheim, Harald Sack, Mehwish Alam*
+
+*ISWC 2022*
+
+This paper focuses on the problem of predicting classes for each entity in a knowledge graph. It uses three graph walk strategies, namely, node walks, edge walks, and classic node-edge walks. It feeds these different walks into a word2vec model to generate entity embeddings, which is used in downstream class prediction. The model allows to output multiple classes for an entity. 
+
+
 *2022-11-02*
 
 #### [Context-Enriched Learning Models for Aligning Biomedical Vocabularies at Scale in the UMLS Metathesaurus](https://dl.acm.org/doi/10.1145/3485447.3511946)
