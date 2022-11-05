@@ -5,6 +5,17 @@
 
 
 
+*2022-11-05*
+
+#### [Neuro-Symbolic Interpretable Collaborative Filtering for Attribute-based Recommendation](https://doi.org/10.1145/3485447.3512042)
+
+*Wei Zhang, Junbing Yan, Zhuo Wang, Jianyong Wang*
+
+*TheWebConf 2022*
+
+This paper proposes a neural-symbolic approach for attribute-based recommendation. The goal of the task is to predict the user-item interaction based on their attribute-value pairs. It proposes a three-tower shaped model, in which the three towers represent the user, item, and the concatenation of user and item. It incorporates logical layers in each tower with conjunction and disjunction nodes. 
+
+
 *2022-11-04*
 
 #### [Explainable Neural Rule Learning](https://dl.acm.org/doi/10.1145/3485447.3512023)
