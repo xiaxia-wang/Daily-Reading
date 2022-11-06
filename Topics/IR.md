@@ -7,6 +7,17 @@
 
 
 
+*2022-11-06*
+
+#### [ExpScore: Learning Metrics for Recommendation Explanation](https://doi.org/10.1145/3485447.3512269)
+
+*Bingbing Wen, Yunhe Feng, Yongfeng Zhang, Chirag Shah*
+
+*TheWebConf 2022*
+
+This paper investigates the problem of explainable item recommendation. It firstly collects a dataset containing machine-generated explanations for item recommendation and crowd-sourcing ratings. Then it proposes a neural-network based metric to measure the explainability of the sentences. It extracts several numeric factors such as relevance, length, readability of the explanations and feeds them into a network, and adopts the prediction score as the metric. 
+
+
 *2022-10-15*
 
 #### [Learning Probabilistic Box Embeddings for Effective and Efficient Ranking](https://dl.acm.org/doi/10.1145/3485447.3512073)
