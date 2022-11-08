@@ -6,6 +6,17 @@
 
 
 
+*2022-11-08*
+
+#### [Explainable Link Prediction in Knowledge Hypergraphs](https://doi.org/10.1145/3511808.3557316)
+
+*Zirui Chen, Xin Wang, Chenxu Wang, Jianxin Li*
+
+*CIKM 2022*
+
+This paper introduces a link prediction method under the knowledge hypergraph model. It applies an EM algorithm with Markov Logic Network model to enrich and update the hypergraph embeddings. 
+
+
 *2022-11-03*
 
 #### [Entity Type Prediction Leveraging Graph Walks and Entity Descriptions](https://doi.org/10.1007/978-3-031-19433-7_23)
