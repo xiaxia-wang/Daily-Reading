@@ -7,6 +7,17 @@
 
 
 
+*2022-11-09*
+
+#### [SpaDE: Improving Sparse Representations using a Dual Document Encoder for First-stage Retrieval](https://doi.org/10.1145/3511808.3557456)
+
+*Eunseong Choi, Sunkyung Lee, Minjin Choi, Hyeseon Ko, Young-In Song, Jongwuk Lee:*
+
+*CIKM 2022*
+
+This paper proposes an improved sparse representation for document retrieval. It proposes a uni-encoder approach with term weighting encoder for adjusting the weights of existing terms in the document, and term expansion strategy for adding top-k predicted (masked) terms into the document representation. The length of documents in the evaluation dataset is relatively small (56 words on average) so that they can be directly fed into the BERT encoder. 
+
+
 *2022-11-06*
 
 #### [ExpScore: Learning Metrics for Recommendation Explanation](https://doi.org/10.1145/3485447.3512269)
