@@ -5,6 +5,18 @@
 
 
 
+
+*2022-11-11*
+
+#### [Reinforced Continual Learning for Graphs](https://doi.org/10.1145/3511808.3557427)
+
+*Appan Rakaraddi, Siew-Kei Lam, Mahardhika Pratama, Marcus de Carvalho*
+
+*CIKM 2022*
+
+This paper proposes a graph continual learning model for the task of node classification. It consists of a reinforcement learning based controller to manage adding and deleting node features, and a GNN as child network to deal with the tasks. It supports both task-incremental and class-incremental settings for node classification. 
+
+
 *2022-11-01*
 
 #### [Exploring Edge Disentanglement for Node Classification](https://dl.acm.org/doi/10.1145/3485447.3511929)
