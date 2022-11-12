@@ -23,7 +23,7 @@ Existing dense retrieval methods typically use the average embedding of all the 
 
 #### [SpaDE: Improving Sparse Representations using a Dual Document Encoder for First-stage Retrieval](https://doi.org/10.1145/3511808.3557456)
 
-*Eunseong Choi, Sunkyung Lee, Minjin Choi, Hyeseon Ko, Young-In Song, Jongwuk Lee:*
+*Eunseong Choi, Sunkyung Lee, Minjin Choi, Hyeseon Ko, Young-In Song, Jongwuk Lee*
 
 *CIKM 2022*
 
