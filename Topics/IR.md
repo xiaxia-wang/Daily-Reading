@@ -7,6 +7,18 @@
 
 
 
+
+*2022-11-12*
+
+#### [Dense Retrieval with Entity Views](https://doi.org/10.1145/3511808.3557285)
+
+*Hai Dang Tran, Andrew Yates*
+
+*CIKM 2022*
+
+Existing dense retrieval methods typically use the average embedding of all the tokens in a passage as its representation. Considering one passage could have multiple views in which entities are loosely related, this paper proposes to generate multiple representations of a passage based on clusters of entities. For a given query, it firstly selects a cluster of most relevant entities (from the passage) to the query, and adopts the average embedding of these entities as a query-aware representation of the passage to perform dense retrieval. 
+
+
 *2022-11-09*
 
 #### [SpaDE: Improving Sparse Representations using a Dual Document Encoder for First-stage Retrieval](https://doi.org/10.1145/3511808.3557456)
