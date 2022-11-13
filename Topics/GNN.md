@@ -6,6 +6,18 @@
 
 
 
+
+*2022-11-13*
+
+#### [Incorporating Peer Reviews and Rebuttal Counter-Arguments for Meta-Review Generation](https://doi.org/10.1145/3511808.3557360)
+
+*Po-Cheng Wu, An-Zi Yen, Hen-Hsen Huang, Hsin-Hsi Chen*
+
+*CIKM 2022*
+
+This paper investigates the problem of meta-review generation based on peer reviews and the authors' rebuttal. The authors collect a dataset of submissions, reviews and rebuttal responses from ICLR 2017--2021. To solve the problem, they firstly extract all the argumentative discourse units (ADUs) and three level of relations (i.e., intra-document, intra-discussion, and inter-discussion relations) between the ADUs. Then they construct a content (text) encoder model with a graph attention network, and aggregate them to generate the meta-review. The overall model is trained in a seq2seq manner. 
+
+
 *2022-11-11*
 
 #### [Reinforced Continual Learning for Graphs](https://doi.org/10.1145/3511808.3557427)
