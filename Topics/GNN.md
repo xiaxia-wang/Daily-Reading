@@ -7,6 +7,17 @@
 
 
 
+*2022-11-14*
+
+#### [Large-scale Entity Alignment via Knowledge Graph Merging, Partitioning and Embedding](https://doi.org/10.1145/3511808.3557374)
+
+*Kexuan Xin, Zequn Sun, Wen Hua, Wei Hu, Jianfeng Qu, Xiaofang Zhou*
+
+*CIKM 2022*
+
+This paper proposes three strategies for scalable GNN-based entity alignment without losing too much structural information. It follows the pipeline of partitioning, merging the knowledge graph and generating the alignment. In the partitioning process, it identifies a set of landmark entities to connect different subgraphs. To reduce the structure loss, it also applies an entity reconstruction mechanism to incorporate information from its neighborhood. Besides, it implements entity search in a fused unified space of multiple subgraphs. 
+
+
 *2022-11-13*
 
 #### [Incorporating Peer Reviews and Rebuttal Counter-Arguments for Meta-Review Generation](https://doi.org/10.1145/3511808.3557360)
