@@ -7,6 +7,18 @@
 
 
 
+
+*2022-11-15*
+
+#### [Taxonomy-Enhanced Graph Neural Networks](https://doi.org/10.1145/3511808.3557467)
+
+*Lingjun Xu, Shiyin Zhang, Guojie Song, Junshan Wang, Tianshu Wu, Guojun Liu*
+
+*CIKM 2022*
+
+This paper proposes to incorporate the external taxonomy knowledge into the GNN learning process of nodes embeddings. For the taxonomy, instead of using a vector, it firstly maps each category to a Gaussian distribution, and calculates the mutual information between them. In the downstream GNN model, these categories are used to characterize the similarity of node pairs. The context of each node is represented by the mean vector of categories of neighboring nodes. 
+
+
 *2022-11-14*
 
 #### [Large-scale Entity Alignment via Knowledge Graph Merging, Partitioning and Embedding](https://doi.org/10.1145/3511808.3557374)
