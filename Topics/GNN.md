@@ -8,6 +8,17 @@
 
 
 
+*2022-11-16*
+
+#### [Contrastive Knowledge Graph Error Detection](https://doi.org/10.1145/3511808.3557264)
+
+*Qinggang Zhang, Junnan Dong, Keyu Duan, Xiao Huang, Yezi Liu, Linchuan Xu*
+
+*CIKM 2022*
+
+Unlike existing knowledge graph error detection methods which generally rely on negative sampling, this paper introduces a contrastive learning model by creating different hyper-views of the KG, and regards each relational triple as a node. The optimize target includes the consistency of triple representations among the multi-views and the self-consistency within each triple. In this paper, the two views of the KG are defined by two link patterns, i.e., two triples sharing head entity, or sharing tail entity. 
+
+
 *2022-11-15*
 
 #### [Taxonomy-Enhanced Graph Neural Networks](https://doi.org/10.1145/3511808.3557467)
