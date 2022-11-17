@@ -8,6 +8,18 @@
 
 
 
+
+*2022-11-17*
+
+#### [Efficient and Effective SPARQL Autocompletion on Very Large Knowledge Graphs](https://doi.org/10.1145/3511808.3557093)
+
+*Hannah Bast, Johannes Kalmbach, Theresa Klumpp, Florian Kramer, Niklas Schnelle*
+
+*CIKM 2022*
+
+This paper investigates the problem of autocompletion of SPARQL queries. It applies prefix matching, filters reachable predicates, and computes the relevance of IRIs to provide suggestions to the user. It also optimizes the implementation of SPARQL query execution. 
+
+
 *2022-11-12*
 
 #### [Dense Retrieval with Entity Views](https://doi.org/10.1145/3511808.3557285)
