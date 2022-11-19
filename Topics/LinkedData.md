@@ -9,6 +9,18 @@
 
 
 
+
+*2022-11-19*
+
+#### [Network Report: A Structured Description for Network Datasets](https://doi.org/10.1145/3511808.3557115)
+
+*Xinyi Zheng, Ryan A. Rossi, Nesreen K. Ahmed, Dominik Moritz*
+
+*CIKM 2022*
+
+This paper proposes a structured dataset profile called "Network Report" to automatically analyze and present the information of each network dataset (aka, graph dataset). It divides the characteristics of a dataset into 4 categories, namely, "curation rationale", "dataset collection, preprocessing and annotation", "uses" and "network statistics". The authors have also conducted user studies to verify its effectiveness. 
+
+
 *2022-10-28*
 
 #### [A Comparative Survey of DBpedia, Freebase, OpenCyc, Wikidata, and YAGO](https://www.semantic-web-journal.net/system/files/swj1141.pdf)
