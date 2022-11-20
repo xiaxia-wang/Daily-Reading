@@ -6,6 +6,18 @@
 
 
 
+
+*2022-11-20*
+
+#### [Approximated Doubly Robust Search Relevance Estimation](https://doi.org/10.1145/3511808.3557145)
+
+*Lixin Zou, Changying Hao, Hengyi Cai, Shuaiqiang Wang, Suqi Cheng, Zhicong Cheng, Wenwen Ye, Simiu Gu, Dawei Yin*
+
+*CIKM 2022*
+
+This paper proposes a PLM-based learning model to avoid the biases (e.g., positional bias, trust bias) in users' click-through logs and estimate the real query-document relevance. The model is based on ERNIE 2.0, and fine-tuned with unbiased data to minimize the bias and variance loss. This paper also proposes a robust relevance estimator based on the model and implements it in an online system.
+
+
 *2022-10-30*
 
 #### [QEN: Applicable Taxonomy Completion via Evaluating Full Taxonomic Relations](https://doi.org/10.1145/3485447.3511943)
