@@ -7,6 +7,17 @@
 
 
 
+*2022-11-21*
+
+#### [BERTMap: A BERT-Based Ontology Alignment System](https://ojs.aaai.org/index.php/AAAI/article/view/20510)
+
+*Yuan He, Jiaoyan Chen, Denvar Antonyrajah, Ian Horrocks*
+
+*AAAI 2022*
+
+This paper proposes an ontology matching approach using BERT and rule-based refinement. It firstly extracts pairs of synonyms and non-synonyms (labels of classes) from multiple sources. Then it implements sub-word indexes, string-based matching and a fine-tuned BERT for prediction. Finally, it evaluates neighboring classes of the predicted results, adds them into matched pairs, and deletes false positive pairs based on rules.
+
+
 *2022-11-20*
 
 #### [Approximated Doubly Robust Search Relevance Estimation](https://doi.org/10.1145/3511808.3557145)
