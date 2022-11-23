@@ -5,6 +5,18 @@
 
 
 
+
+*2022-11-23*
+
+#### [Explainable GNN-Based Models over Knowledge Graphs](https://openreview.net/forum?id=CrCvGNHAIrz)
+
+*David Jaime Tena Cucala, Bernardo Cuenca Grau, Egor V. Kostylev, Boris Motik*
+
+*ICLR 2022*
+
+This paper proposes a transformation of knowledge graphs to GNN, in which the predictions can be interpreted symbolically as Datalog rules. It firstly introduces the transformation of a KG to a GNN, in which each entity and relation is represented by a vertex, and coloured edges represent different roles. Then it proves that, such a monotonic graph neural network (MGNN) can equally derive a set of facts as a set of Datalog rules, and an operator on the MGNN can also be mapped to a symbolic rule or program. 
+
+
 *2022-11-05*
 
 #### [Neuro-Symbolic Interpretable Collaborative Filtering for Attribute-based Recommendation](https://doi.org/10.1145/3485447.3512042)
