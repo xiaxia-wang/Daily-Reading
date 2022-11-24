@@ -6,6 +6,18 @@
 
 
 
+
+*2022-11-24*
+
+#### [Faithful Approaches to Rule Learning](https://proceedings.kr.org/2022/50/)
+
+*David J. Tena Cucala, Bernardo Cuenca Grau, Boris Motik*
+
+*KR 2022*
+
+This paper analyzes the rule learning approach Neural-LP and proposes to improve its soundness and completeness. It firstly introduces the concept of rule learning, and describes Neural-LP with its rule extraction process. It proves that existing Neural-LP can be unsound and incomplete under some settings. To address that, it provides a new kind of max-Neural-LP models which can ensure the faithfulness of prediction by replacing a sum calculation with max product. 
+
+
 *2022-11-23*
 
 #### [Explainable GNN-Based Models over Knowledge Graphs](https://openreview.net/forum?id=CrCvGNHAIrz)
