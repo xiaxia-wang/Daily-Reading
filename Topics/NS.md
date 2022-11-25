@@ -7,6 +7,18 @@
 
 
 
+
+*2022-11-25*
+
+#### [GNNQ: A Neuro-Symbolic Approach to Query Answering over Incomplete Knowledge Graphs](https://doi.org/10.1007/978-3-031-19433-7_28)
+
+*Maximilian Pflueger, David J. Tena Cucala, Egor V. Kostylev*
+
+*ISWC 2022*
+
+To improve the performance of question answering over incomplete knowledge graphs, this paper proposes a method based on symbolic rules and relational graph convolutional network. For the input incomplete KG, it firstly augments the part matching the query fragments based on symbolic rules (i.e., Datalog rules as reported in the experiment). Then it applies an RGCN model to predict the answers. Furthermore, it proves that the proposed model is able to use fewer layers to work with the help of KG augmentation.
+
+
 *2022-11-24*
 
 #### [Faithful Approaches to Rule Learning](https://proceedings.kr.org/2022/50/)
