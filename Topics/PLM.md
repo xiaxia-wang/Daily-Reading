@@ -7,6 +7,18 @@
 
 
 
+
+*2022-11-26*
+
+#### [DyRRen: A Dynamic Retriever-Reranker-Generator Model for Numerical Reasoning over Tabular and Textual Data](https://arxiv.org/abs/2211.12668)
+
+*Xiao Li, Yin Zhu, Sichen Liu, Jiangzhou Ju, Yuzhong Qu, Gong Cheng*
+
+*AAAI 2023*
+
+This paper optimizes the FinQANet model for numerical reasoning. Its input is a textual question, a table with data and a set of sentences. Its output is a numerical expression targeting to answer the question. This paper proposes a retriever-generator model with a re-ranker module which adjusts the ranking score according to the decoder output in each step. 
+
+
 *2022-11-21*
 
 #### [BERTMap: A BERT-Based Ontology Alignment System](https://ojs.aaai.org/index.php/AAAI/article/view/20510)
