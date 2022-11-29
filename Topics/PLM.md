@@ -8,6 +8,18 @@
 
 
 
+
+*2022-11-29*
+
+#### [Few-Shot NLG with Pre-Trained Language Model](https://doi.org/10.18653/v1/2020.acl-main.18)
+
+*Zhiyu Chen, Harini Eavani, Wenhu Chen, Yinyin Liu, William Yang Wang*
+
+*ACL 2020*
+
+This paper proposes a NLG model which relies on a few training data and a pre-trained language model. Gives a table as input, the pre-trained language model (GPT-2 in this paper) serves as the generator, which switches between copying/pasting the labels in the table, and composing fluent, coherent sentences.
+
+
 *2022-11-26*
 
 #### [DyRRen: A Dynamic Retriever-Reranker-Generator Model for Numerical Reasoning over Tabular and Textual Data](https://arxiv.org/abs/2211.12668)
