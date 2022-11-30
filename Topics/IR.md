@@ -9,6 +9,18 @@
 
 
 
+
+*2022-11-30*
+
+#### [ColBERT: Efficient and Effective Passage Search via Contextualized Late Interaction over BERT](https://doi.org/10.1145/3397271.3401075)
+
+*Omar Khattab, Matei Zaharia*
+
+*SIGIR 2020*
+
+This paper proposes ColBERT, which is a passage retrieval model based on BERT. It independently encodes the documents and the query, then uses a "late interaction" layer to capture the similarity between the query and documents.
+
+
 *2022-11-17*
 
 #### [Efficient and Effective SPARQL Autocompletion on Very Large Knowledge Graphs](https://doi.org/10.1145/3511808.3557093)
