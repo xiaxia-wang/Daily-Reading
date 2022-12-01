@@ -9,6 +9,18 @@
 
 
 
+
+*2022-12-01*
+
+#### [RoBERTa: A Robustly Optimized BERT Pretraining Approach](http://arxiv.org/abs/1907.11692)
+
+*Yinhan Liu, Myle Ott, Naman Goyal, Jingfei Du, Mandar Joshi, Danqi Chen, Omer Levy, Mike Lewis, Luke Zettlemoyer, Veselin Stoyanov*
+
+*Arxiv 2019*
+
+This paper proposes a new training strategy to apply on BERT which achieves better model performance. 
+
+
 *2022-11-29*
 
 #### [Few-Shot NLG with Pre-Trained Language Model](https://doi.org/10.18653/v1/2020.acl-main.18)
