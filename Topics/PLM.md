@@ -10,6 +10,18 @@
 
 
 
+
+*2022-12-02*
+
+#### [Neural Module Networks for Reasoning over Text](https://openreview.net/forum?id=SygWvAVFPr)
+
+*Nitish Gupta, Kevin Lin, Dan Roth, Sameer Singh, Matt Gardner*
+
+*ICLR 2020*
+
+This paper proposes a model for question answering with reasoning over texts. Given an input question, it applies a question parser to divide it into several execution modules. Each module is associated with a reasoning task, and implemented based on different attention mechanism. 
+
+
 *2022-12-01*
 
 #### [RoBERTa: A Robustly Optimized BERT Pretraining Approach](http://arxiv.org/abs/1907.11692)
