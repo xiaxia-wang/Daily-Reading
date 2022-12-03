@@ -5,6 +5,18 @@
 
 
 
+
+*2022-12-03*
+
+#### [Open Domain Question Answering over Tables via Dense Retrieval](https://doi.org/10.18653/v1/2021.naacl-main.43)
+
+*Jonathan Herzig, Thomas Müller, Syrine Krichene, Julian Eisenschlos*
+
+*NAACL 2021*
+
+This paper proposes an open-domain question answering model over tabular data. It contains two parts. The first is a dense retrieval model based on TAPAS (a BERT-based encoder) over all the tables. After retrieving the top-k tables, the second part is a question answering model which takes all the top-k tables as input, and returns a span over the table as the final answer.
+
+
 *2022-07-23*
 
 #### [Evaluating question answering over linked data](https://doi.org/10.1016/j.websem.2013.05.006)
