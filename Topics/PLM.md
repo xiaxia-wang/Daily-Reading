@@ -11,6 +11,18 @@
 
 
 
+
+*2022-12-04*
+
+#### [Revisiting Pre-Trained Models for Chinese Natural Language Processing](https://doi.org/10.18653/v1/2020.findings-emnlp.58)
+
+*Yiming Cui, Wanxiang Che, Ting Liu, Bing Qin, Shijin Wang, Guoping Hu*
+
+*EMNLP Findings 2020*
+
+This paper proposes an improved version of BERT especially for Chinese. It uses Chinese whole-word-masking to replace the original token-level mask. Besides, it also applies similar words (based on word2vec) as the mask instead of the special token [MASK], to enhance the pre-training performance. 
+
+
 *2022-12-02*
 
 #### [Neural Module Networks for Reasoning over Text](https://openreview.net/forum?id=SygWvAVFPr)
