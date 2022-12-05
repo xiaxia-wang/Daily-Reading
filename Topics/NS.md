@@ -8,6 +8,18 @@
 
 
 
+
+*2022-12-05*
+
+#### [Modular materialisation of Datalog programs](https://doi.org/10.1016/j.artint.2022.103726)
+
+*Pan Hu, Boris Motik, Ian Horrocks*
+
+*Artificial Intelligence 2022*
+
+This paper proposes an optimized framework for the computation and maintenance of Datalog materialisations. By pruning duplicate computation process it achieves more efficient performance over Datalog reasoning systems without loss of completeness. 
+
+
 *2022-11-25*
 
 #### [GNNQ: A Neuro-Symbolic Approach to Query Answering over Incomplete Knowledge Graphs](https://doi.org/10.1007/978-3-031-19433-7_28)
