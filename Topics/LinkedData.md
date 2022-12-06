@@ -10,6 +10,17 @@
 
 
 
+*2022-12-06*
+
+#### [Introducing Semantic Information for Numerical Attribute Prediction over Knowledge Graphs](https://doi.org/10.1007/978-3-031-19433-7_1)
+
+*Bingcong Xue, Yanzeng Li, Lei Zou*
+
+*ISWC 2022*
+
+This paper proposes a numerical attribute values prediction model over knowledge graphs. It is based on 4 existing graph-based methods and 2 semantic-based methods, using mean/median/best strategies to combine the results as output. 
+
+
 *2022-11-19*
 
 #### [Network Report: A Structured Description for Network Datasets](https://doi.org/10.1145/3511808.3557115)
