@@ -6,6 +6,18 @@
 
 
 
+
+*2022-12-07*
+
+#### [Faithful Embeddings for Eℒ++ Knowledge Bases](https://doi.org/10.1007/978-3-031-19433-7_2)
+
+*Bo Xiong, Nico Potyka, Trung-Kien Tran, Mojtaba Nayyeri, Steffen Staab*
+
+*ISWC 2022*
+
+This paper proposes an embedding scheme for EL++ KBs. It models concepts in a KB as axis-parallel boxes, where entities are points inside the boxes. The relations are modeled as affine transformations between the boxes. In this way, it is able to express concept equivalence with intersection operator, and relations between boxes of different volumes. 
+
+
 *2022-10-27*
 
 #### [Concept learning in description logics using refinement operators](https://link.springer.com/article/10.1007/s10994-009-5146-2)
