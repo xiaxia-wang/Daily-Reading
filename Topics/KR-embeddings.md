@@ -9,6 +9,18 @@
 
 
 
+
+*2022-12-08*
+
+#### [Enhancing Document-Level Relation Extraction by Entity Knowledge Injection](https://doi.org/10.1007/978-3-031-19433-7_3)
+
+*Xinyi Wang, Zitao Wang, Weijian Sun, Wei Hu*
+
+*ISWC 2022*
+
+This paper proposes to improve general relation extraction (RE) models by adding a knowledge injection layer between the encoding and the prediction layers. It considers coreference distillation and context exchanging in knowledge injection, and reconciles KG encoding to the representations. 
+
+
 *2022-11-22*
 
 #### [OWL2Vec*: embedding of OWL ontologies](https://doi.org/10.1007/s10994-021-05997-6)
