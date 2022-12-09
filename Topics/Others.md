@@ -5,6 +5,18 @@
 
 
 
+
+*2022-12-09*
+
+#### [Towards Neural Network Interpretability Using Commonsense Knowledge Graphs](https://doi.org/10.1007/978-3-031-19433-7_5)
+
+*Youmna Ismaeil, Daria Stepanova, Trung-Kien Tran, Piyapat Saranrittichai, Csaba Domokos, Hendrik Blockeel*
+
+*ISWC 2022*
+
+This paper proposes to align the neural network units with attributes of classes in the knowledge graph to improve the explanability. For the image classification task, this framework maps the neurons in a fully connected layer of the CNN to attributes of classes in a commonsense knowledge graph. 
+
+
 *2022-10-20*
 
 #### [Reproducibility and Replicability of Web Measurement Studies](https://doi.org/10.1145/3485447.3512214)
