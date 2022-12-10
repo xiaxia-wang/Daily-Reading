@@ -10,6 +10,18 @@
 
 
 
+
+*2022-12-10*
+
+#### [Hashing the Hypertrie: Space- and Time-Efficient Indexing for SPARQL in Tensors](https://doi.org/10.1007/978-3-031-19433-7_4)
+
+*Alexander Bigerl, Lixi Conrads, Charlotte Behning, Muhammad Saleem, Axel-Cyrille Ngonga Ngomo*
+
+*ISWC 2022*
+
+This paper proposes to optimize the hypertrie, which is a kind of tensor data structure for RDF data, to improve the time and storage efficiency. It uses a hash to eliminate duplicate nodes, reduces the footprint of hypertries with a more compact representation, and eliminates the separate storage of single-entry leaf nodes. 
+
+
 *2022-12-06*
 
 #### [Introducing Semantic Information for Numerical Attribute Prediction over Knowledge Graphs](https://doi.org/10.1007/978-3-031-19433-7_1)
