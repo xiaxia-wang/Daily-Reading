@@ -11,6 +11,18 @@
 
 
 
+
+*2022-12-11*
+
+#### [Reproducibility Crisis in the LOD Cloud? Studying the Impact of Ontology Accessibility and Archiving as a Counter Measure](https://doi.org/10.1007/978-3-031-19433-7_6)
+
+*Johannes Frey, Denis Streitmatter, Natanael Arndt, Sebastian Hellmann*
+
+*ISWC 2022*
+
+This paper identifies and analyzes the reproducibility issues related to terminological context, which are mainly caused by unavailable ontologies. The analyses are based on the Linked Open Data Cloud with available ontologies in the DBpedia Archive dataset. 
+
+
 *2022-12-10*
 
 #### [Hashing the Hypertrie: Space- and Time-Efficient Indexing for SPARQL in Tensors](https://doi.org/10.1007/978-3-031-19433-7_4)
