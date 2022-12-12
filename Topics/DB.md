@@ -7,6 +7,18 @@
 
 
 
+
+*2022-12-12*
+
+#### [Mapping Relational Database Constraints to SHACL](https://doi.org/10.1007/978-3-031-19433-7_13)
+
+*Ratan Bahadur Thapa, Martin Giese*
+
+*ISWC 2022*
+
+This paper discusses the relational to RDF (R2R) transformation and its constraint rewriting. It firstly introduces two fundamental properties of constraint rewriting, i.e., maximal semantics preservation and monotonicity. Then it proposes a constraint rewriting method which satisfies both properties. 
+
+
 *2022-10-08*
 
 #### [BABOONS: Black-Box Optimization of Data Summaries in Natural Language](https://www.vldb.org/pvldb/vol15/p2980-trummer.pdf)
