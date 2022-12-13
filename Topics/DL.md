@@ -7,6 +7,18 @@
 
 
 
+
+*2022-12-13*
+
+#### [Efficient Dependency Analysis for Rule-Based Ontologies](https://link.springer.com/chapter/10.1007/978-3-031-19433-7_16)
+
+*Larry González, Alex Ivliev, Markus Krötzsch, Stephan Mennicke*
+
+*ISWC 2022*
+
+This paper studies the problem of dependency analysis over rule-based ontologies. It proposes several efficient algorithms for computing positive reliances and restraints. 
+
+
 *2022-12-07*
 
 #### [Faithful Embeddings for Eℒ++ Knowledge Bases](https://doi.org/10.1007/978-3-031-19433-7_2)
