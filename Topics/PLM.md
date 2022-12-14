@@ -12,6 +12,18 @@
 
 
 
+
+*2022-12-14*
+
+#### [MultPAX: Keyphrase Extraction Using Language Models and Knowledge Graphs](https://doi.org/10.1007/978-3-031-19433-7_18)
+
+*Hamada M. Zahera, Daniel Vollmers, Mohamed Ahmed Sherif, Axel-Cyrille Ngonga Ngomo*
+
+*ISWC 2022*
+
+Keyphrase extraction aims at identifying a small set of phrases which represent the content of a document. This paper proposes a method named MultPAX for extracting existing keyphrases from the document and adding absent phrases based on external KGs. It firstly identifies existing phrases using a PLM. Then it links these phrases to the KG and gets relevant ones. Finally it ranks all the phrases and uses the top-k as the output.
+
+
 *2022-12-04*
 
 #### [Revisiting Pre-Trained Models for Chinese Natural Language Processing](https://doi.org/10.18653/v1/2020.findings-emnlp.58)
