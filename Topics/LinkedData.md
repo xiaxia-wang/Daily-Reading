@@ -12,6 +12,18 @@
 
 
 
+
+*2022-12-15*
+
+#### [An Analysis of Content Gaps Versus User Needs in the Wikidata Knowledge Graph](https://doi.org/10.1007/978-3-031-19433-7_21)
+
+*David Abián, Albert Meroño-Peñuela, Elena Simperl*
+
+*ISWC 2022*
+
+This paper analyzes the content gaps including gender, recency, geographic and socio-economic gaps based on Wikidata. The analysis is based on Wikidata pageviews between 2018 and 2021, which suggests no gender and recency gaps, but less attention has been paid to under-represented entities. 
+
+
 *2022-12-11*
 
 #### [Reproducibility Crisis in the LOD Cloud? Studying the Impact of Ontology Accessibility and Archiving as a Counter Measure](https://doi.org/10.1007/978-3-031-19433-7_6)
