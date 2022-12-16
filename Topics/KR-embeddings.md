@@ -10,6 +10,18 @@
 
 
 
+
+*2022-12-16*
+
+#### [Radar Station: Using KG Embeddings for Semantic Table Interpretation and Entity Disambiguation](https://doi.org/10.1007/978-3-031-19433-7_29)
+
+*Jixiong Liu, Viet-Phi Huynh, Yoan Chabot, Raphaël Troncy*
+
+*ISWC 2022*
+
+This paper proposes a system named Radar Station, for entity disambiguation of relational table cells. It links the cells (i.e., entities) in the table to a target KG (e.g., Wikidata in this paper). Based on the rows and columns context, it can identify different entities with the same label using semantic similarities between them. It implements a graph embedding for the entities to represent the latent relationships between them. 
+
+
 *2022-12-08*
 
 #### [Enhancing Document-Level Relation Extraction by Entity Knowledge Injection](https://doi.org/10.1007/978-3-031-19433-7_3)
