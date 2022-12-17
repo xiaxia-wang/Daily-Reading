@@ -8,6 +8,18 @@
 
 
 
+
+*2022-12-17*
+
+#### [Controlled Query Evaluation in OWL 2 QL: A "Longest Honeymoon" Approach](https://doi.org/10.1007/978-3-031-19433-7_25)
+
+*Piero A. Bonatti, Gianluca Cima, Domenico Lembo, Lorenzo Marconi, Riccardo Rosati, Luigi Sauro, Domenico Fabio Savo*
+
+*ISWC 2022*
+
+This paper proposes a dynamic controlled query evaluation (CQE) method which alters some answer to the current query based on the evaluation of the previous queries. 
+
+
 *2022-12-13*
 
 #### [Efficient Dependency Analysis for Rule-Based Ontologies](https://link.springer.com/chapter/10.1007/978-3-031-19433-7_16)
