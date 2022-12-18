@@ -11,6 +11,18 @@
 
 
 
+
+*2022-12-18*
+
+#### [Each Snapshot to Each Space: Space Adaptation for Temporal Knowledge Graph Completion](https://doi.org/10.1007/978-3-031-19433-7_15)
+
+*Yancong Li, Xiaoming Zhang, Bo Zhang, Haiying Ren*
+
+*ISWC 2022*
+
+This paper proposes a space adaptation network for temporal knowledge graph completion (TKGC). It extends a convolutional neural network to map the facts with different timestamps into different latent spaces. Besides, it adapts the overlap between different spaces to control the balance between time-variability and time-stability. 
+
+
 *2022-12-16*
 
 #### [Radar Station: Using KG Embeddings for Semantic Table Interpretation and Entity Disambiguation](https://doi.org/10.1007/978-3-031-19433-7_29)
