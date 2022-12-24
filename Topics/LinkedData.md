@@ -13,6 +13,18 @@
 
 
 
+
+*2022-12-19*
+
+#### [A Survey of Syntactic Modelling Structures in Biomedical Ontologies](https://doi.org/10.1007/978-3-031-19433-7_26)
+
+*Christian Kindermann, Martin G. Skjæveland*
+
+*ISWC 2022*
+
+This paper analyzes the OWL ontologies used in BioPortal. Based on a simplified framework to identify syntactic regularities, it conducts an empirical study to characterize the structure of axioms and classes in the biomedical ontologies. 
+
+
 *2022-12-15*
 
 #### [An Analysis of Content Gaps Versus User Needs in the Wikidata Knowledge Graph](https://doi.org/10.1007/978-3-031-19433-7_21)
