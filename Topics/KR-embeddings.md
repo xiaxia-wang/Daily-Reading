@@ -13,6 +13,18 @@
 
 
 
+
+*2022-12-21*
+
+#### [CRNet: Modeling Concurrent Events over Temporal Knowledge Graph](https://doi.org/10.1007/978-3-031-19433-7_30)
+
+*Shichao Wang, Xiangrui Cai, Ying Zhang, Xiaojie Yuan*
+
+*ISWC 2022*
+
+This paper proposes a model to capture the concurrence of events in temporal knowledge graphs. It uses a concurrent evolution module with graph attention network to capture the historical event relations. Then it builds a candidate graph and predicts the missing events (i.e., entities) based on it. 
+
+
 *2022-12-20*
 
 #### [HybridFC: A Hybrid Fact-Checking Approach for Knowledge Graphs](https://doi.org/10.1007/978-3-031-19433-7_27)
