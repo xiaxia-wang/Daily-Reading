@@ -6,6 +6,18 @@
 
 
 
+
+*2022-12-22*
+
+#### [WDV: A Broad Data Verbalisation Dataset Built from Wikidata](https://link.springer.com/chapter/10.1007/978-3-031-19433-7_32)
+
+*Gabriel Amaral, Odinaldo Rodrigues, Elena Simperl*
+
+*ISWC 2023*
+
+This resource paper proposes a dataset consists of over 7.6k Wikidata entries and their verbalized textual version. The dataset is made up from crowdsourcing annotations. Each entry contains textual descriptions of the subject, predicate and object in Wikidata, respectively.  
+
+
 *2022-11-28*
 
 #### [HybridQA: A Dataset of Multi-Hop Question Answering over Tabular and Textual Data](https://doi.org/10.18653/v1/2020.findings-emnlp.91)
