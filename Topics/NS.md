@@ -9,6 +9,18 @@
 
 
 
+
+*2022-12-23*
+
+#### [Weakly Supervised Neuro-Symbolic Module Networks for Numerical Reasoning over Text](https://ojs.aaai.org/index.php/AAAI/article/view/21374)
+
+*Amrita Saha, Shafiq R. Joty, Steven C. H. Hoi*
+
+*AAAI 2022*
+
+This paper proposes a weakly supervised model for numerical reasoning over text. It trains both neural and discrete reasoning modules end-to-end in a Deep RL framework with only discrete reward based on exact answer match. 
+
+
 *2022-12-05*
 
 #### [Modular materialisation of Datalog programs](https://doi.org/10.1016/j.artint.2022.103726)
