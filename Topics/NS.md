@@ -10,6 +10,18 @@
 
 
 
+
+*2022-12-24*
+
+#### [Neuro-Symbolic Inductive Logic Programming with Logical Neural Networks](https://ojs.aaai.org/index.php/AAAI/article/view/20795)
+
+*Prithviraj Sen, Breno W. S. R. de Carvalho, Ryan Riegel, Alexander G. Gray*
+
+*AAAI 2022*
+
+This paper works on the task of inductive logic programming. It uses logical neural network to learn rules based on a tree-structured program template, and combines it with base facts.
+
+
 *2022-12-23*
 
 #### [Weakly Supervised Neuro-Symbolic Module Networks for Numerical Reasoning over Text](https://ojs.aaai.org/index.php/AAAI/article/view/21374)
