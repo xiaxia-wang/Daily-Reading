@@ -11,6 +11,18 @@
 
 
 
+
+*2022-12-25*
+
+#### [An Interpretable Neuro-Symbolic Reasoning Framework for Task-Oriented Dialogue Generation](https://aclanthology.org/2022.acl-long.338/)
+
+*Shiquan Yang, Rui Zhang, Sarah M. Erfani, Jey Han Lau*
+
+*ACL 2022*
+
+This paper introduces an interpretable reasoning method based on a general generation model for tast-oriented dialogue generation. It implements a hypothesis generator to create candidate triples based on an external knowledge base. Then each hypothesis is executed on a hierarchical reasoner with a belief score. The final answer is generated based on BERT model with attention over entities in the KB.
+
+
 *2022-12-24*
 
 #### [Neuro-Symbolic Inductive Logic Programming with Logical Neural Networks](https://ojs.aaai.org/index.php/AAAI/article/view/20795)
