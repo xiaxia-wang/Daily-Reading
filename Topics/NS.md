@@ -13,6 +13,18 @@
 
 
 
+
+*2022-12-27*
+
+#### [Neuro-Symbolic XAI: Application to Drug Repurposing for Rare Diseases](https://link.springer.com/chapter/10.1007/978-3-031-00129-1_51)
+
+*Martin Drancé*
+
+*DASFAA 2022*
+
+This is a research proposal of a PhD project, discussing the possibility of using link prediction methods for drug repurposing with explanability. 
+
+
 *2022-12-26*
 
 #### [Neuro-Symbolic Visual Dialog](https://aclanthology.org/2022.coling-1.17/)
