@@ -12,6 +12,18 @@
 
 
 
+
+*2022-12-26*
+
+#### [Neuro-Symbolic Visual Dialog](https://aclanthology.org/2022.coling-1.17/)
+
+*Adnen Abdessaied, Mihai Bâce, Andreas Bulling*
+
+*COLING 2022*
+
+This paper proposes a visual dialog model using neuro-symbolic methods. It mainly consists of four parts. Scene understanding processes the input figure. Program generator generates programs based on the captions and encoded question (two parts, one for captions and one for the question). Program executor mainly conducts symbolic reasoning based on a dynamic knowledge base.
+
+
 *2022-12-25*
 
 #### [An Interpretable Neuro-Symbolic Reasoning Framework for Task-Oriented Dialogue Generation](https://aclanthology.org/2022.acl-long.338/)
