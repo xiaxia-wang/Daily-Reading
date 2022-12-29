@@ -10,8 +10,15 @@
 
 
 
+*2022-12-28*
 
+#### [Neuro-Symbolic Language Modeling with Automaton-augmented Retrieval](https://proceedings.mlr.press/v162/alon22a.html)
 
+*Uri Alon, Frank F. Xu, Junxian He, Sudipta Sengupta, Dan Roth, Graham Neubig*
+
+*ICML 2022*
+
+This paper proposes a retrieval-based language modeling method with an unsupervised automaton to enhance the efficiency. Retrieval-based model generally searches for the nearest neighbor examples in an external datastore for reference. The main idea is the retrieved neighbors at the current time step also hint at the neighbors that will be retrieved at future time steps, and can thus save repetitive searches in the prediction period. 
 
 
 *2022-12-27*
