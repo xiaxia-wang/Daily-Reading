@@ -6,6 +6,18 @@
 
 
 
+
+*2022-12-29*
+
+#### [Logical Form Generation via Multi-task Learning for Complex Question Answering over Knowledge Bases](https://aclanthology.org/2022.coling-1.145/)
+
+*Xixin Hu, Xuan Wu, Yiheng Shu, Yuzhong Qu*
+
+*COLING 2022*
+
+This paper proposes a KBQA method that generates logical forms (s-expressions in the paper, equivalent to SPARQL queries) for given natural language questions. It implements entity retrieval, relation retrieval and multitask classification based on a shared T5 encoder, to improve both the precision and recall of the results. 
+
+
 *2022-12-03*
 
 #### [Open Domain Question Answering over Tables via Dense Retrieval](https://doi.org/10.18653/v1/2021.naacl-main.43)
