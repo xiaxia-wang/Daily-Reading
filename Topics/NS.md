@@ -10,6 +10,18 @@
 
 
 
+
+*2022-12-30*
+
+#### [LNN-EL: A Neuro-Symbolic Approach to Short-text Entity Linking](https://aclanthology.org/2021.acl-long.64/)
+
+*Hang Jiang, Sairam Gurajada, Qiuhao Lu, Sumit Neelam, Lucian Popa, Prithviraj Sen, Yunyao Li, Alexander G. Gray*
+
+*ACL 2021*
+
+This paper introduces to use logical neural network (LNN) with rules to enhance the performance of entity linking for short texts. It implements conjunction and disjunction using LNNs to express the rules, to compute the overall similarity score between the mention and the entity in the KG. It also uses box embedding for entities to transform logical operations to geometric computations (e.g., intersection). 
+
+
 *2022-12-28*
 
 #### [Neuro-Symbolic Language Modeling with Automaton-augmented Retrieval](https://proceedings.mlr.press/v162/alon22a.html)
