@@ -4,13 +4,15 @@
 
 
 
+*2022-12-31*
 
+#### [TIARA: Multi-grained Retrieval for Robust Question Answering over Large Knowledge Bases](https://arxiv.org/abs/2210.12925)
 
+*Yiheng Shu, Zhiwei Yu, Yuhan Li, Börje F. Karlsson, Tingting Ma, Yuzhong Qu, Chin-Yew Lin*
 
+*EMNLP 2022*
 
-
-
-
+This paper proposes a KBQA method based on PLM. It consists of entity retrieval, schema retrieval, logical form retrieval parts, and feeds them into a PLM to generate the final results. 
 
 
 *2022-12-14*
