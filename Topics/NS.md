@@ -11,6 +11,18 @@
 
 
 
+
+*2023-01-01*
+
+#### [From Statistical Relational to Neuro-Symbolic Artificial Intelligence](https://www.ijcai.org/proceedings/2020/688)
+
+*Luc De Raedt, Sebastijan Dumancic, Robin Manhaeve, Giuseppe Marra*
+
+*IJCAI 2020*
+
+This survey paper discusses the differences between statistical relation learning and neuro-symbolic learning methods according to seven dimensions, such as directed/undirected graphical model, semantics, etc. It also identifies some open challenges for neuro-symbolic researches. 
+
+
 *2022-12-30*
 
 #### [LNN-EL: A Neuro-Symbolic Approach to Short-text Entity Linking](https://aclanthology.org/2021.acl-long.64/)
