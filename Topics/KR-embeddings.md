@@ -7,6 +7,18 @@
 
 
 
+
+*2023-01-05*
+
+#### [Learning to Exploit Long-term Relational Dependencies in Knowledge Graphs](http://proceedings.mlr.press/v97/guo19c.html)
+
+*Lingbing Guo, Zequn Sun, Wei Hu*
+
+*ICML 2019*
+
+This paper proposes a new framework for training entity embeddings. It utilizes long-term entity relation chains and implements a recurrent skipping network (RSN), to better capture long-term relational dependencies between the entities. 
+
+
 *2023-01-04*
 
 #### [Multi-view Knowledge Graph Embedding for Entity Alignment](https://www.ijcai.org/proceedings/2019/754)
