@@ -8,6 +8,18 @@
 
 
 
+
+*2023-01-06*
+
+#### [Informed Multi-context Entity Alignment](https://dl.acm.org/doi/10.1145/3488560.3498523)
+
+*Kexuan Xin, Zequn Sun, Wen Hua, Wei Hu, Xiaofang Zhou*
+
+*WSDM 2022*
+
+This paper introduces transformer model for entity alignment, and incorporates holistic entity and relation inferences to measure the similarity. 
+
+
 *2023-01-05*
 
 #### [Learning to Exploit Long-term Relational Dependencies in Knowledge Graphs](http://proceedings.mlr.press/v97/guo19c.html)
