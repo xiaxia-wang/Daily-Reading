@@ -7,6 +7,18 @@
 
 
 
+
+*2023-01-07*
+
+#### [μ KG: A Library for Multi-source Knowledge Graph Embeddings and Applications](https://link.springer.com/chapter/10.1007/978-3-031-19433-7_35)
+
+*Xindi Luo, Zequn Sun, Wei Hu*
+
+*ISWC 2022*
+
+This resource paper provides an open-source Python library consisting of 26 popular knowledge graph embedding models and 16 benchmark datasets. 
+
+
 *2022-12-22*
 
 #### [WDV: A Broad Data Verbalisation Dataset Built from Wikidata](https://link.springer.com/chapter/10.1007/978-3-031-19433-7_32)
