@@ -4,9 +4,15 @@
 
 
 
+*2023-01-08*
 
+#### [Knowing the No-match: Entity Alignment with Dangling Cases](https://aclanthology.org/2021.acl-long.278/)
 
+*Zequn Sun, Muhao Chen, Wei Hu*
 
+*ACL 2021*
+
+This paper proposes a framework to identify dangling entities from the source and target knowledge graphs to improve entity alignment. The dangling entity detection is based on nearest neighbor classification, marginal ranking and background ranking. It also proposes a multi-lingual dataset DBP2.0 for evaluation. 
 
 
 *2023-01-06*
