@@ -4,6 +4,18 @@
 
 
 
+
+*2023-01-09*
+
+#### [Knowledge Association with Hyperbolic Knowledge Graph Embeddings](https://doi.org/10.18653/v1/2020.emnlp-main.460)
+
+*Zequn Sun, Muhao Chen, Wei Hu, Chengming Wang, Jian Dai, Wei Zhang*
+
+*EMNLP 2020*
+
+This paper proposes a hyperbolic relational graph neural network for KG embedding and entity alignment. It is motivated by the fact that hyperbolic space grows exponentially with the radius. Unlike the Euclidean space which grows linearly, it can better fit the needs of embedding hierarchical structures in a KG. 
+
+
 *2023-01-08*
 
 #### [Knowing the No-match: Entity Alignment with Dangling Cases](https://aclanthology.org/2021.acl-long.278/)
