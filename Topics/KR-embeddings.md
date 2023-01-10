@@ -4,6 +4,16 @@
 
 
 
+*2023-01-10*
+
+#### [TransEdge: Translating Relation-Contextualized Embeddings for Knowledge Graphs](https://link.springer.com/chapter/10.1007/978-3-030-30793-6_35)
+
+*Zequn Sun, Jiacheng Huang, Wei Hu, Muhao Chen, Lingbing Guo, Yuzhong Qu*
+
+*ISWC 2019*
+
+This paper proposes a knowledge graph embedding method based on the translating model inherited from TransE. It is motivated by the idea that different relations between the same pair of head-tail entities should not necessarily possess similar embedding vectors. Therefore, it implements a contextualization operator which aggregates the relation embedding and the head/tail entity embeddings to formulate the overall edge embedding. 
+
 
 *2023-01-09*
 
