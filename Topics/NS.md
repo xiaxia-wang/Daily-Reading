@@ -12,6 +12,19 @@
 
 
 
+
+*2023-01-11*
+
+#### [Differentiable learning of numerical rules in knowledge graphs](https://openreview.net/forum?id=rJleKgrKwS)
+
+*Po-Wei Wang, Daria Stepanova, Csaba Domokos, J. Zico Kolter*
+
+*ICLR 2020*
+
+This paper proposes an extension of Neural LP, which can better capture the numerical features and rules from the knowledge graph. It efficiently expresses the comparison and classification operators, negation as
+well as multi-atom symbol matching. 
+
+
 *2023-01-01*
 
 #### [From Statistical Relational to Neuro-Symbolic Artificial Intelligence](https://www.ijcai.org/proceedings/2020/688)
