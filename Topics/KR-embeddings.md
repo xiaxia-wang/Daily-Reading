@@ -4,6 +4,18 @@
 
 
 
+
+*2023-01-12*
+
+#### [Towards the Web of Embeddings: Integrating multiple knowledge graph embedding spaces with FedCoder](https://www.sciencedirect.com/science/article/pii/S1570826822000270?via%3Dihub)
+
+*Matthias Baumgartner, Daniele Dell'Aglio, Heiko Paulheim, Abraham Bernstein*
+
+*Journal of Web Semantics*
+
+This paper proposes to integrate multiple knowledge graph embedding spaces into a universal latent space, to achieve better interopreability and comparability. It answers two main questions: (1) how do different embedding space integration models compare in the face of heterogeneous embeddings, and (2) how do different embedding space integration models perform in the presence of multiple KGs. 
+
+
 *2023-01-10*
 
 #### [TransEdge: Translating Relation-Contextualized Embeddings for Knowledge Graphs](https://link.springer.com/chapter/10.1007/978-3-030-30793-6_35)
