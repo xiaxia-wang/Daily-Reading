@@ -2,15 +2,15 @@
 
 
 
+*2023-01-13*
 
+#### [Dynamic Neuro-Symbolic Knowledge Graph Construction for Zero-shot Commonsense Question Answering](https://ojs.aaai.org/index.php/AAAI/article/view/16625)
 
+*Antoine Bosselut, Ronan Le Bras, Yejin Choi*
 
+*AAAI 2021*
 
-
-
-
-
-
+This paper proposes a dynamic knowledge graph construction method for commonsense question answering with given contexts. Based on a pre-trained commonsense knowledge graph, it firstly generates dynamic nodes based on the given context. Then it performs inference over the generated part of the graph, to achieve zero-shot question answering (instead of retrieving over existing knowledge graph parts).
 
 
 *2023-01-11*
