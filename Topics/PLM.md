@@ -4,6 +4,18 @@
 
 
 
+
+*2023-01-14*
+
+#### [Generated Knowledge Prompting for Commonsense Reasoning](https://aclanthology.org/2022.acl-long.225/)
+
+*Jiacheng Liu, Alisa Liu, Ximing Lu, Sean Welleck, Peter West, Ronan Le Bras, Yejin Choi, Hannaneh Hajishirzi*
+
+*ACL 2022*
+
+This paper proposes a knowledge prompting method to improve commonsense reasoning. The method is mainly divided into two steps. Firstly, it generates relevant knowledge statements as prompts using a pre-trained language model. Then in the second step, it uses these prompts with another language model to predict the final answer to the question. It shows the accuracy is improved a lot with the generated knowledge prompts. 
+
+
 *2022-12-31*
 
 #### [TIARA: Multi-grained Retrieval for Robust Question Answering over Large Knowledge Bases](https://arxiv.org/abs/2210.12925)
