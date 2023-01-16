@@ -6,6 +6,18 @@
 
 
 
+
+*2023-01-16*
+
+#### [Understanding Dataset Difficulty with V-Usable Information](https://proceedings.mlr.press/v162/ethayarajh22a.html)
+
+*Kawin Ethayarajh, Yejin Choi, Swabha Swayamdipta*
+
+*ICML 2022*
+
+This paper proposes a new measure called V-usable information, which can be used to interpret the difficulty of datasets w.r.t a given model V (e.g., BERT-base). Besides, it also introduces pointwise V-information (PVI) for measuring the difficulty of individual instances (in the dataset) w.r.t. a given distribution.
+
+
 *2023-01-15*
 
 #### [Is GPT-3 Text Indistinguishable from Human Text? Scarecrow: A Framework for Scrutinizing Machine Text](https://aclanthology.org/2022.acl-long.501/)
