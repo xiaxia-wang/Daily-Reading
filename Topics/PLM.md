@@ -7,6 +7,18 @@
 
 
 
+
+*2023-01-17*
+
+#### [Reframing Human-AI Collaboration for Generating Free-Text Explanations](https://aclanthology.org/2022.naacl-main.47/)
+
+*Sarah Wiegreffe, Jack Hessel, Swabha Swayamdipta, Mark O. Riedl, Yejin Choi*
+
+*NAACL 2022*
+
+This paper proposes a new framework to make large PLMs generate human-acceptable explanations for free-text question answering. It firstly uses GPT-3 with few-shot prompts to (over-)generate potential explanation candidates. Then based on a set of binary crowdsourcing labels, it trains a filter to select high-quality explanations for evaluation. The result shows this over-generation & filteration pipeline works well for generating explanations on CommonsenseQA and SNLI. 
+
+
 *2023-01-16*
 
 #### [Understanding Dataset Difficulty with V-Usable Information](https://proceedings.mlr.press/v162/ethayarajh22a.html)
