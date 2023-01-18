@@ -8,6 +8,18 @@
 
 
 
+
+*2023-01-18*
+
+#### [NeuroLogic A*esque Decoding: Constrained Text Generation with Lookahead Heuristics](https://aclanthology.org/2022.naacl-main.57/)
+
+*Ximing Lu, Sean Welleck, Peter West, Liwei Jiang, Jungo Kasai, Daniel Khashabi, Ronan Le Bras, Lianhui Qin, Youngjae Yu, Rowan Zellers, Noah A. Smith, Yejin Choi*
+
+*NAACL 2022*
+
+Motivated by the idea of A* search, this paper proposes a lookahead heuristic to improve the performance of neural text generation based on left-to-right decoder. The model incorporates a length-constrained "lookahead" mechanism to predict the best "next-word" generation, which should be close to the overall generation target. It aims to approximately optimize the future cost. In the experiments, the heuristics are evaluated over several tasks including commonsense generation, constrained machine translation, table-to-text generation and constrained question answering. 
+
+
 *2023-01-17*
 
 #### [Reframing Human-AI Collaboration for Generating Free-Text Explanations](https://aclanthology.org/2022.naacl-main.47/)
