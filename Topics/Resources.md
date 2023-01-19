@@ -3,9 +3,15 @@
 
 
 
+*2023-01-19*
 
+#### [Bidimensional Leaderboards: Generate and Evaluate Language Hand in Hand](https://aclanthology.org/2022.naacl-main.259/)
 
+*Jungo Kasai, Keisuke Sakaguchi, Ronan Le Bras, Lavinia Dunagan, Jacob Morrison, Alexander R. Fabbri, Yejin Choi, Noah A. Smith*
 
+*NAACL 2022*
+
+Unlike typical leaderboards which generally compare language models based on BLEU/ROUGE, this paper proposes a bidimensional leaderboard accepting both generation models and evaluation metrics. The leaderboard automatically creates an ensemble metric based on global analysis of the models. It will also rank and compare the metrics based on the correlation with human judgements. 
 
 
 *2023-01-07*
