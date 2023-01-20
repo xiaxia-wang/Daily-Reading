@@ -2,6 +2,18 @@
 
 
 
+
+*2023-01-20*
+
+#### [Differentiable Learning of Logical Rules for Knowledge Base Reasoning](https://proceedings.neurips.cc/paper/2017/hash/0e55666a4ad822e0e34299df3591d979-Abstract.html)
+
+*Fan Yang, Zhilin Yang, William W. Cohen*
+
+*NIPS 2017*
+
+This paper proposes NeuralLP, a differentiable framework for learning inductive logical rules over knowledge bases. It represents each learnable first-order logical rule as a pair $\langle \alpha, \beta \rangle$ where $\alpha$ is a confidence score and $\beta$ is an ordered list of relations in the rule. Furthermore, the $\alpha$ performs as an attention score over different rules. In the experiments, NeuralLP is evaluated over several tasks, including statistical relation learning, grid path finding, knowledge base completion, and KBQA.
+
+
 *2023-01-13*
 
 #### [Dynamic Neuro-Symbolic Knowledge Graph Construction for Zero-shot Commonsense Question Answering](https://ojs.aaai.org/index.php/AAAI/article/view/16625)
