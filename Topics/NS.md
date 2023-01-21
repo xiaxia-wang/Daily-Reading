@@ -3,6 +3,18 @@
 
 
 
+
+*2023-01-21*
+
+#### [DRUM: End-To-End Differentiable Rule Mining On Knowledge Graphs](https://proceedings.neurips.cc/paper/2019/hash/0c72cb7ee1512f800abe27823a792d03-Abstract.html)
+
+*Ali Sadeghian, Mohammadreza Armandpour, Patrick Ding, Daisy Zhe Wang*
+
+*NeurIPS 2019*
+
+This paper proposes DRUM as a differentiable rule mining framework which can address inductive link prediction. It is based on bidirectional RNN (LSTM), which formulates the problem as learning first-order logical Horn clauses from a KB. Similar to Neural LP, it generates each rule with a confidence value $\alpha$, and is further optimized to limit generating incorrect rules. 
+
+
 *2023-01-20*
 
 #### [Differentiable Learning of Logical Rules for Knowledge Base Reasoning](https://proceedings.neurips.cc/paper/2017/hash/0e55666a4ad822e0e34299df3591d979-Abstract.html)
