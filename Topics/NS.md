@@ -4,6 +4,18 @@
 
 
 
+
+*2023-01-22*
+
+#### [Efficient Embeddings of Logical Variables for Query Answering over Incomplete Knowledge Graphs](https://ora.ox.ac.uk/objects/uuid:27c9b239-20d0-449f-b425-b5065eb128fe)
+
+*DingminWang, Yeyuan Chen, Bernardo Cuenca Grau*
+
+*AAAI 2023*
+
+This paper proposes a neural model for query answering (not KBQA actually, but only a name) over KGs. Each query is formulated as a FOL expression (it covers only a part of FOL but not all) which has exactly one free variable. The model is based on a general entity/relation embedding model, and further trained to generate embeddings for intermediate variables appear in the FOL expression. It is able to handle negation symbols and is evaluated on the datasets with given query patterns.
+
+
 *2023-01-21*
 
 #### [DRUM: End-To-End Differentiable Rule Mining On Knowledge Graphs](https://proceedings.neurips.cc/paper/2019/hash/0c72cb7ee1512f800abe27823a792d03-Abstract.html)
