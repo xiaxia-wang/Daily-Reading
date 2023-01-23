@@ -5,6 +5,18 @@
 
 
 
+
+*2023-01-23*
+
+#### [Learning Explanatory Rules from Noisy Data](https://doi.org/10.1613/jair.5714)
+
+*Richard Evans, Edward Grefenstette*
+
+*Journal of Artificial Intelligence Research 2018*
+
+This paper proposes Differentiable Inductive Logic Programming (@ILP), an end-to-end ILP system that can address noisy and error data in the training process. This paper firstly introduces the basic concepts of logic programming and ILP. Then it formulates learning under ILP as a satisfiability problem, and learns continuous representations of rules through back-propagation against a likelyhood objective. In the experiments, it evaluates the proposed system over 20 standard ILP tasks from four domains: arithmetic, lists, group-theory, and family tree relations.
+
+
 *2023-01-22*
 
 #### [Efficient Embeddings of Logical Variables for Query Answering over Incomplete Knowledge Graphs](https://ora.ox.ac.uk/objects/uuid:27c9b239-20d0-449f-b425-b5065eb128fe)
