@@ -5,6 +5,16 @@
 
 
 
+*2023-01-24*
+
+#### [Synthesizing Datalog Programs using Numerical Relaxation](https://doi.org/10.24963/ijcai.2019/847)
+
+*Xujie Si, Mukund Raghothaman, Kihong Heo, Mayur Naik*
+
+*IJCAI 2019*
+
+This paper presents a technique to synthesize Datalog programs using numerical optimization. The central idea is to formulate the problem as an instance of rule selection, and then relax classical Datalog to a refinement named DIFFLOG.
+
 
 *2023-01-23*
 
