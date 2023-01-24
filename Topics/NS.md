@@ -24,7 +24,7 @@ This paper presents a technique to synthesize Datalog programs using numerical o
 
 *Journal of Artificial Intelligence Research 2018*
 
-This paper proposes Differentiable Inductive Logic Programming (@ILP), an end-to-end ILP system that can address noisy and error data in the training process. This paper firstly introduces the basic concepts of logic programming and ILP. Then it formulates learning under ILP as a satisfiability problem, and learns continuous representations of rules through back-propagation against a likelyhood objective. In the experiments, it evaluates the proposed system over 20 standard ILP tasks from four domains: arithmetic, lists, group-theory, and family tree relations.
+This paper proposes Differentiable Inductive Logic Programming ($\partial$ILP), an end-to-end ILP system that can address noisy and error data in the training process. This paper firstly introduces the basic concepts of logic programming and ILP. Then it formulates learning under ILP as a satisfiability problem, and learns continuous representations of rules through back-propagation against a likelyhood objective. In the experiments, it evaluates the proposed system over 20 standard ILP tasks from four domains: arithmetic, lists, group-theory, and family tree relations. Note that it is limited to at most binary predicates.  
 
 
 *2023-01-22*
