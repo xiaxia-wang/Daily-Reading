@@ -4,6 +4,16 @@
 
 
 
+*2023-01-25*
+
+#### [Syntax guided synthesis of Datalog programs](https://dl.acm.org/doi/10.1145/3236024.3236034)
+
+*Xujie Si, Woosuk Lee, Richard Zhang, Aws Albarghouthi, Paraschos Koutris, Mayur Naik*
+
+*ESEC/SIGSOFT FSE 2018*
+
+This paper proposes a system named ALPS for ILP problem. It is based on Datalog rules and formulates the problem as synthesizing Datalog rules from the set of facts where all positive/negative atoms are satisfied. It incorporates three main techniques, including (1) meta-rule-guided synthesis which extracts similar meta-rules with different predicates' names from the hypothesis space, (2) query-by-committee which is applied to pick up the query that can prune the most space to converge to the desired program, and (3) bidirectional search aiming to maintain the most concise programs with available examples. 
+
 
 *2023-01-24*
 
