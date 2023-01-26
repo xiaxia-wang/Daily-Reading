@@ -4,6 +4,18 @@
 
 
 
+
+*2023-01-26*
+
+#### [End-to-end Differentiable Proving](https://proceedings.neurips.cc/paper/2017/hash/b2ab001909a8a6f04b51920306046ce5-Abstract.html)
+
+*Tim Rocktäschel, Sebastian Riedel*
+
+*NIPS 2017*
+
+This paper proposes a neural network model for differentiable proving of queries over knowledge bases. It is motivated by the backward chaining algorithm used in Prolog. It replaces symbolic unification with a differentiable computation on vector representations of symbols using a radial basis function kernel, thus learning the proximity of symbols. It is presented to have better performance than ComplEX. 
+
+
 *2023-01-25*
 
 #### [Syntax guided synthesis of Datalog programs](https://dl.acm.org/doi/10.1145/3236024.3236034)
