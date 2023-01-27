@@ -5,6 +5,18 @@
 
 
 
+
+*2023-01-27*
+
+#### [Techniques for Symbol Grounding with SATNet](https://proceedings.neurips.cc/paper/2021/hash/ad7ed5d47b9baceb12045a929e7e2f66-Abstract.html)
+
+*Sever Topan, David Rolnick, Xujie Si*
+
+*NeurlPS 2021*
+
+SATNet is a differentiable MAXSAT solver based on a low-rank semidefinite relaxation approach. This paper further introduces a self-supervised pre-training method based on SATNet for the symbol grounding problem. It trains a visual classifier without direct supervision data (i.e., "ungrounded") with a symbol grounding loss. It also introduces a proofreader which can be applied to improve the performance of any SATNet system. 
+
+
 *2023-01-26*
 
 #### [End-to-end Differentiable Proving](https://proceedings.neurips.cc/paper/2017/hash/b2ab001909a8a6f04b51920306046ce5-Abstract.html)
