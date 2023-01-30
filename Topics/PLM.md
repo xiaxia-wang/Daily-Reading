@@ -1,12 +1,15 @@
 
 
 
+*2023-01-30*
 
+#### [DRAGON: Deep Bidirectional Language-Knowledge Graph Pretraining](https://knowledge-nlp.github.io/aaai2023/papers/001-Dragon-oral.pdf)
 
+*Michihiro Yasunaga, Antoine Bosselut, Hongyu Ren, Xikun Zhang, Christopher D Manning, Percy Liang, Jure Leskovec*
 
+*KnowledgeNLP-AAAI 2023*
 
-
-
+This paper proposes a self-supervised pretrained model that jointly combines texts and KGs. It takes pairs of text segments and relevant KG subgraphs as input, and fuses the LM and GNN layer to generate the output. The model is pre-trained with a masked LM task and a KG link predication task. The experiments show that this jointly pretrained model can achieve better performance on question answering tasks.
 
 
 *2023-01-18*
