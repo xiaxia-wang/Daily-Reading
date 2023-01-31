@@ -3,6 +3,18 @@
 
 
 
+
+*2023-01-31*
+
+#### [ComFact: A Benchmark for Linking Contextual Commonsense Knowledge](https://knowledge-nlp.github.io/aaai2023/papers/002-ComFact-oral.pdf)
+
+*Silin Gao, Jena D Hwang, Saya Kanno, Hiromi Wakaki, Yuki Mitsufuji, Antoine Bosselut*
+
+*KnowledgeNLP-AAAI 2023*
+
+This paper proposes a benchmark dataset for contextual commonsense knowledge linking, an example application of which is to find relevant pieces of fact in the KG for a dialog or story (contexts). To build this benchmark dataset, the authors firstly apply string matching and SentenceBERT to generate and filter candidate facts. Then the relevance of these facts are judged by crowdsourcing workers. In the experiments, several popular fact linking methods are evaluated over the dataset, showing that their performances are still far behind human beings. 
+
+
 *2023-01-19*
 
 #### [Bidimensional Leaderboards: Generate and Evaluate Language Hand in Hand](https://aclanthology.org/2022.naacl-main.259/)
