@@ -4,6 +4,18 @@
 
 
 
+
+*2023-02-01*
+
+#### [Knowledge Retrieval Over Public and Private Data](https://knowledge-nlp.github.io/aaai2023/papers/003-PQA-oral.pdf)
+
+*Simran Arora, Patrick Lewis, Angela Fan, Jacob D Kahn, Christopher Re*
+
+*KnowledgeNLP-AAAI 2023*
+
+This paper studies the task of multi-hop retrieval for question answering over public and private corpora. It firstly formulates the task as a multi-hop (ordered) sequence for retrieval over several public and private corpora, and requires the visiting order to strictly include public corpora before private ones. In this way, the leakage of private data can be avoided. Then it also proposes a public-private benchmarking dataset for evaluating multi-hop retrieval-based QA methods.
+
+
 *2023-01-31*
 
 #### [ComFact: A Benchmark for Linking Contextual Commonsense Knowledge](https://knowledge-nlp.github.io/aaai2023/papers/002-ComFact-oral.pdf)
