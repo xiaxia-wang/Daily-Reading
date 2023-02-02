@@ -5,6 +5,18 @@
 
 
 
+
+*2023-02-02*
+
+#### [Learn to Explain: Multimodal Reasoning via Thought Chains for Science Question Answering](https://knowledge-nlp.github.io/aaai2023/papers/004-ScienceQA-oral.pdf)
+
+*Pan Lu, Swaroop Mishra, Tony Xia, Liang Qiu, Kai-Wei Chang, Song-Chun Zhu, Oyvind Tafjord, Peter Clark, Ashwin Kalyan*
+
+*KnowledgeNLP-AAAI 2023*
+
+This paper proposes a benchmarking dataset named ScienceQA for multimodal question answering. It consists about 21k multimodal multiple choice questions of scientific topics, as well as annotations of their answers with corresponding lectures and explanations (which simulate a chain of thoughts, CoT). This paper also tries to design models for generating lectures and explanations. The results demonstrate the utility of CoT in language models as it improves the question answering performance of SOTA models.
+
+
 *2023-02-01*
 
 #### [Knowledge Retrieval Over Public and Private Data](https://knowledge-nlp.github.io/aaai2023/papers/003-PQA-oral.pdf)
