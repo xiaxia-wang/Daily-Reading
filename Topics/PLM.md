@@ -1,6 +1,18 @@
 
 
 
+
+*2023-02-03*
+
+#### [Knowledge Relevance BERT: Integrating Noisy Knowledge into Language Representation](https://knowledge-nlp.github.io/aaai2023/papers/005-KRBERT-oral.pdf)
+
+*Karan Samel, Jun Ma, Zhengyang Wang, Tong Zhao, Irfan Essa*
+
+*KnowledgeNLP-AAAI 2023*
+
+This paper proposes a model to integrate noisy real-world data for entity linking task. It is based on the relevance between candidate entity labels and existing labels of the training data. The relevance is computed using a language model K-BERT, which performed well in the experiments.
+
+
 *2023-01-30*
 
 #### [DRAGON: Deep Bidirectional Language-Knowledge Graph Pretraining](https://knowledge-nlp.github.io/aaai2023/papers/001-Dragon-oral.pdf)
