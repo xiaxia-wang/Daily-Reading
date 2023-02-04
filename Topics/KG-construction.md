@@ -5,6 +5,18 @@
 
 
 
+
+*2023-02-04*
+
+#### [Improving Mental Health Support Response Generation with Eventuality-based Knowledge Graph](https://knowledge-nlp.github.io/aaai2023/papers/006-MHKG-oral.pdf)
+
+*Lingbo Tong, Qi Liu, Wenhao Yu, Mengxia Yu, Zhihan Zhang, Meng Jiang*
+
+*KnowledgeNLP-AAAI 2023*
+
+To help generate better mental health support response for online forums, this paper constructs a knowledge graph MHKG consisting of eventualities related to mental health support. This KG is evaluated with the text generation task. Result shows that enriching the input sequence with the ground-truth neighbors in MHKG is able to significantly improve model performance of response generation.
+
+
 *2023-01-29*
 
 #### [Extracting Cultural Commonsense Knowledge at Scale](https://arxiv.org/abs/2210.07763)
