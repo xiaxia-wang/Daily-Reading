@@ -2,6 +2,18 @@
 
 
 
+
+*2023-02-06*
+
+#### [Link-BERT: Pretraining a Language Model with Document Links](https://knowledge-nlp.github.io/aaai2023/papers/007-LinkBERT-poster.pdf)
+
+*Michihiro Yasunaga, Jure Leskovec, Percy Liang*
+
+*KnowledgeNLP-AAAI 2023*
+
+This paper proposes a pretrained BERT model named LinkBERT to capture links between documents. It regards a text corpus as a graph of documents and uses linked documents in the same context as inputs. Then it applies two pretraining tasks to the model: masked language modeling and document relation prediction. The experiment shows that this new model performs better especially in multi-hop reasoning and few-shot QA tasks.
+
+
 *2023-02-03*
 
 #### [Knowledge Relevance BERT: Integrating Noisy Knowledge into Language Representation](https://knowledge-nlp.github.io/aaai2023/papers/005-KRBERT-oral.pdf)
