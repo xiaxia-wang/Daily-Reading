@@ -14,6 +14,17 @@
 This paper proposes a pretrained BERT model named LinkBERT to capture links between documents. It regards a text corpus as a graph of documents and uses linked documents in the same context as inputs. Then it applies two pretraining tasks to the model: masked language modeling and document relation prediction. The experiment shows that this new model performs better especially in multi-hop reasoning and few-shot QA tasks.
 
 
+*2023-02-05*
+
+#### [Sentence-BERT: Sentence Embeddings using Siamese BERT-Networks](https://doi.org/10.18653/v1/D19-1410)
+
+*Nils Reimers, Iryna Gurevych*
+
+*EMNLP 2019*
+
+This paper proposes SentenceBERT, a model for computing semantic relevance between pair of sentences. The original network structure of BERT handles this as a regression problem, which requires $n^2$ time complexity thus being inefficient in practice. To address this problem, this paper proposes a "Siamese" network with two BERT  sharing same weights, which is pretrained with pairs of sentences and the goal is to minimize the gap of embedding vectors. In practice,  SentenceBERT directly generates embeddings for sentences whose semantic relevance can be measured by cosing similarity.
+
+
 *2023-02-03*
 
 #### [Knowledge Relevance BERT: Integrating Noisy Knowledge into Language Representation](https://knowledge-nlp.github.io/aaai2023/papers/005-KRBERT-oral.pdf)
