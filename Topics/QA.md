@@ -7,6 +7,18 @@
 
 
 
+
+*2023-02-07*
+
+#### [Can Open-Domain QA Reader Utilize External Knowledge Efficiently like Humans?](https://knowledge-nlp.github.io/aaai2023/papers/009-QAHuman-poster.pdf)
+
+*Neeraj Varshney, Man Luo, Chitta Baral*
+
+*KnowledgeNLP-AAAI 2023*
+
+Unlike typical open-domain QA methods using a retriever-reader approach, this paper proposes a more efficient model with a "closed-book" inference module and an iterative "open-book" prediction part. The "closed-book" inference is achieved by pre-trained models, which already shows a non-trivial performance. Meanwhile, a confidence score is predicted for the current answer at this stage. If the confidence score is not sufficiently high, then the external knowledge (by the "retriever") is iteratively provided to the predictor (the "reader"). Multiple ways for computing the confidence score are evaluated in the paper. 
+
+
 *2022-12-29*
 
 #### [Logical Form Generation via Multi-task Learning for Complex Question Answering over Knowledge Bases](https://aclanthology.org/2022.coling-1.145/)
