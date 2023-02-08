@@ -8,6 +8,18 @@
 
 
 
+
+*2023-02-08*
+
+#### [Inductive Relation Prediction by Subgraph Reasoning](http://proceedings.mlr.press/v119/teru20a.html)
+
+*Komal K. Teru, Etienne G. Denis, William L. Hamilton*
+
+*ICML 2020*
+
+This paper proposes a GNN-based inductive relation prediction model named Grail. It assumes the underlying relation between two nodes (entities) can be represented by the local subgraph structure (paths between the nodes), thus can be applied under the inductive setting. It adopts one-hot encoding vectors as the node feature, and implements message passing over the radius-bounded subgraphs. The experimental result shows it achieves SOTA performance among existing link prediction methods.
+
+
 *2022-11-16*
 
 #### [Contrastive Knowledge Graph Error Detection](https://doi.org/10.1145/3511808.3557264)
