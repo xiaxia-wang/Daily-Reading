@@ -5,6 +5,18 @@
 
 
 
+
+*2023-02-09*
+
+#### [Knowledge Graph Embedding for Link Prediction: A Comparative Analysis](https://dl.acm.org/doi/10.1145/3424672)
+
+*Andrea Rossi, Denilson Barbosa, Donatella Firmani, Antonio Matinata, Paolo Merialdo*
+
+*TKDD 2021*
+
+This survey paper analyzes 18 SOTA graph embedding methods for the link prediction task, which also includes a rule-based baseline. These methods are evaluated over several popular benchmarks.
+
+
 *2023-01-12*
 
 #### [Towards the Web of Embeddings: Integrating multiple knowledge graph embedding spaces with FedCoder](https://www.sciencedirect.com/science/article/pii/S1570826822000270?via%3Dihub)
