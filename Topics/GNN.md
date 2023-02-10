@@ -9,6 +9,18 @@
 
 
 
+
+*2023-02-10*
+
+#### [Modeling Relational Data with Graph Convolutional Networks](https://link.springer.com/chapter/10.1007/978-3-319-93417-4_38)
+
+*Michael Sejr Schlichtkrull, Thomas N. Kipf, Peter Bloem, Rianne van den Berg, Ivan Titov, Max Welling*
+
+*ESWC 2018*
+
+This paper proposes a graph convolutional network model for relational data named R-GCN. It optimizes the structure of basic GCN model with a normalized aggregation over each relation for massage passing. The evaluation over the link prediction and entity classificaation tasks demonstrates the effectiveness of R-GCN, especially its relation-normalized encoder.
+
+
 *2023-02-08*
 
 #### [Inductive Relation Prediction by Subgraph Reasoning](http://proceedings.mlr.press/v119/teru20a.html)
