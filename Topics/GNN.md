@@ -1,3 +1,16 @@
+
+
+*2023-02-13*
+
+#### [Relational Graph Attention Network for Aspect-based Sentiment Analysis](https://doi.org/10.18653/v1/2020.acl-main.295)
+
+*Kai Wang, Weizhou Shen, Yunyi Yang, Xiaojun Quan, Rui Wang*
+
+*ACL 2020*
+
+This paper proposes a GAT-based model for fine-grained (aspect-based) text sentiment analysis. It firstly constructs a dependency tree based on direct and indirect dependencies between tokens for each aspect. Then it applies the GAT mechanism with respect to each relation, and aggregates them as overall message-passing weights. The model contains a set of $K$ attention heads and $M$ relational heads.
+
+
 *2023-02-12*
 
 #### [Graph Attention Networks](https://openreview.net/forum?id=rJXMpikCZ)
@@ -167,4 +180,3 @@ It's a comprehensive survey paper that introduces the GNN roadmap on four levels
 *Arxiv 2022*
 
 A survey about GNNs for heterophilic graphs. Generally, most existing GNN models depends on the homophily assumption, i.e., the nodes with same or similar labels are more likely to be linked than those with different labels, such as the citation network. But there are also many real-world graphs do not obey this rule, e.g., online transaction networks, dating networks. This paper surveys existing research efforts for GNNs over heterophilic graphs in two folds: (1) non-local neighbor extension, which try to obtain information from similar but distant nodes (2) GNN architecture refinement, which try to modify the information aggregation methods on the model side. This paper has also suggested 4 future work directions: (1) interpretability and robustness, (2) scalable heterophilic GNNs (how to implement large models, how to train, how to sample batches), (3) heterophily and over-smoothing, (4) comprehensive benchmark and metrics (real-world, larger graphs).
-
