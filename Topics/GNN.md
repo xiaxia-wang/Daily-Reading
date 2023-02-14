@@ -1,5 +1,16 @@
 
 
+*2023-02-14*
+
+#### [Graph Structure Learning for Robust Graph Neural Networks](https://dl.acm.org/doi/10.1145/3394486.3403049)
+
+*Wei Jin, Yao Ma, Xiaorui Liu, Xianfeng Tang, Suhang Wang, Jiliang Tang*
+
+*KDD 2020*
+
+This paper proposes a GNN framework to "clean" a perturbed graph to achieve better robustness when faced with adversarial attack. The motivation is that real-world graphs are usually low-rank and sparse. Besides, the features of two adjacent nodes tend to be similar. In the proposed model Pro-GNN, it incorporates these targets into the loss function, and uses a forward-backward method to iteratively optimize the model.
+
+
 *2023-02-13*
 
 #### [Relational Graph Attention Network for Aspect-based Sentiment Analysis](https://doi.org/10.18653/v1/2020.acl-main.295)

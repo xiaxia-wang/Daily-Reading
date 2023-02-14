@@ -144,7 +144,7 @@ Main idea: define a NFA based on DFAs $M_B$ and $M_C$. It checks the input strin
 
 #### 1.50
 
-$w^\mathcal{R}$: reverse $w$. 
+$w^\mathcal{R}$: reverse $w$.
 
 Assume such FST exists. Then it should output $00$ for input $00$ and output $10$ for input $01$. For the two cases the first input symbols are the same but their output symbols are different. Hence this FST doesn't exist.
 
