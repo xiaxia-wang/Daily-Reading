@@ -1,5 +1,16 @@
 
 
+*2023-02-15*
+
+#### [Heterogeneous Graph Transformer for Graph-to-Sequence Learning](https://doi.org/10.18653/v1/2020.acl-main.640)
+
+*Shaowei Yao, Tianming Wang, Xiaojun Wan*
+
+*ACL 2020*
+
+This paper proposes a graph transformer architecture to encode the graph structure and applies it to downstream sequence generation tasks (i.e., graph to sequence). Given an input graph, it firstly splits and aggregates it to be four different subgraphs with splitting the original nodes to finer-grained subnodes. Then it uses stacked heterogeneous graph transformer to encode the subgraphs with layer aggregation. The model is evaluated over the AMT-to-text and NMT tasks, and demonstrates SOTA performance on them.
+
+
 *2023-02-14*
 
 #### [Graph Structure Learning for Robust Graph Neural Networks](https://dl.acm.org/doi/10.1145/3394486.3403049)
