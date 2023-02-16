@@ -1,5 +1,16 @@
 
 
+*2023-02-16*
+
+#### [TAGNN: Target Attentive Graph Neural Networks for Session-based Recommendation](https://dl.acm.org/doi/10.1145/3397271.3401319)
+
+*Feng Yu, Yanqiao Zhu, Qiang Liu, Shu Wu, Liang Wang, Tieniu Tan*
+
+*SIGIR 2020*
+
+This paper proposes a gated graph neural network model for session-based recommendation. It computes an embedding for each item over the session graph as well as an embedding for the session. Beyond that, it also implements an attention mechanism between the items and the sessions, to measure the importance of different items for the session.
+
+
 *2023-02-15*
 
 #### [Heterogeneous Graph Transformer for Graph-to-Sequence Learning](https://doi.org/10.18653/v1/2020.acl-main.640)
