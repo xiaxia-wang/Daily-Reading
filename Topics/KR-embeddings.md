@@ -1,6 +1,18 @@
 
 
 
+
+*2023-02-17*
+
+#### [Knowledge Graph Embedding by Adaptive Limit Scoring Loss Using Dynamic Weighting Strategy](https://aclanthology.org/2022.findings-acl.91/)
+
+*Jinfa Yang, Xianghua Ying, Yongjie Shi, Xin Tong, Ruibin Wang, Taiyan Chen, Bowei Xing*
+
+*ACL Findings 2022*
+
+This paper designs an adaptive loss function to emphasize the deviated triples (negative samples) by re-weighting strategy. It can be incorporated in existing KG embedding models to optimize their performance.
+
+
 *2023-02-11*
 
 #### [A Comprehensive Survey of Graph Embedding: Problems, Techniques, and Applications](https://ieeexplore.ieee.org/document/8294302/)
