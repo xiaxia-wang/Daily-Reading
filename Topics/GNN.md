@@ -1,5 +1,16 @@
 
 
+*2023-02-18*
+
+#### [Explainability techniques for graph convolutional networks](https://arxiv.org/pdf/1905.13686.pdf)
+
+*Federico Baldassarre, Hossein Azizpour*
+
+*Arxiv 2019*
+
+This short paper proposes a very initial study of explainable graph neural network. It explores three back-propagation-based analyzing methods to explain the output of a GNN. Experiments are conducted over a toy dataset simulating disease infection chains, and another chemical solubility graph prediction task.
+
+
 *2023-02-16*
 
 #### [TAGNN: Target Attentive Graph Neural Networks for Session-based Recommendation](https://dl.acm.org/doi/10.1145/3397271.3401319)
