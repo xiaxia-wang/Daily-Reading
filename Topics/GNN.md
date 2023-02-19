@@ -1,5 +1,16 @@
 
 
+*2023-02-19*
+
+#### [Explainability in Graph Neural Networks: A Taxonomic Survey](https://arxiv.org/abs/2012.15445)
+
+*Hao Yuan, Haiyang Yu, Shurui Gui, Shuiwang Ji*
+
+*Arxiv 2020*
+
+This paper investigates existing research efforts of the explainability of GNN. It proposes a taxonomy which categorizes explanations of GNN into instance-level and model-level, and further divides the instance-level explanations into 4 subsets. It analyzes each category with an overview of methods and examples.
+
+
 *2023-02-18*
 
 #### [Explainability techniques for graph convolutional networks](https://arxiv.org/pdf/1905.13686.pdf)
