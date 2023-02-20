@@ -1,5 +1,16 @@
 
 
+*2023-02-20*
+
+#### [Explainability Methods for Graph Convolutional Neural Networks](https://ieeexplore.ieee.org/document/8954227/)
+
+*Phillip E. Pope, Soheil Kolouri, Mohammad Rostami, Charles E. Martin, Heiko Hoffmann*
+
+*CVPR 2019*
+
+This paper investigates three methods of explainability of GNN, namely, contrastive gradient-based (CG) salience maps, class activation mapping (CAM), and excitation backpropagation (EB). Basically, the CG method proposes a heat-map based on the importance of model output w.r.t. the input. The CAM method identifies the class-specific features at the last convolutional layer. The EB method generates heap-maps based on the back propagation while ignoring the nonlinearity. It also investigates several variants based on the three main methods.
+
+
 *2023-02-19*
 
 #### [Explainability in Graph Neural Networks: A Taxonomic Survey](https://arxiv.org/abs/2012.15445)
