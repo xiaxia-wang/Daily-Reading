@@ -1,5 +1,16 @@
 
 
+*2023-02-21*
+
+#### [GNNExplainer: Generating Explanations for Graph Neural Networks](https://proceedings.neurips.cc/paper/2019/hash/d80b7040b773199015de6d3b4293c8ff-Abstract.html)
+
+*Zhitao Ying, Dylan Bourgeois, Jiaxuan You, Marinka Zitnik, Jure Leskovec*
+
+*NeurIPs 2019*
+
+This paper proposes GNNExplainer, a model-agnostic approach to generate explanations for any GNN model. Given an input instance, it returns a small subgraph of the input graph together with a subset of node features that are most influential for the prediction.
+
+
 *2023-02-20*
 
 #### [Explainability Methods for Graph Convolutional Neural Networks](https://ieeexplore.ieee.org/document/8954227/)
