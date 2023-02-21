@@ -1,5 +1,16 @@
 
 
+*2023-02-22*
+
+#### [Interpretable Graph Convolutional Neural Networks for Inference on Noisy Knowledge Graphs](https://arxiv.org/abs/1812.00279)
+
+*Daniel Neil, Joss Briody, Alix Lacoste, Aaron Sim, Páidí Creed, Amir Saffari*
+
+*Arxiv 2018*
+
+This paper introduces a graph convolutional neural network (GCNN) model for link prediction over noisy knowledge graphs. The model is based on a regularized attention mechanism. A visualization method is also proposed for interpreting how the learned representation can help dataset denoising.
+
+
 *2023-02-21*
 
 #### [GNNExplainer: Generating Explanations for Graph Neural Networks](https://proceedings.neurips.cc/paper/2019/hash/d80b7040b773199015de6d3b4293c8ff-Abstract.html)
