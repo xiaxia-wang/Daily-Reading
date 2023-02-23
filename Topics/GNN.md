@@ -1,5 +1,16 @@
 
 
+*2023-02-23*
+
+#### [MA-GCL: Model Augmentation Tricks for Graph Contrastive Learning](https://arxiv.org/pdf/2212.07035.pdf)
+
+*Xumeng Gong, Cheng Yang, Chuan Shi*
+
+*AAAI 2023*
+
+This paper proposes data augmentation methods for graph contrastive learning. The motivation is, unlike the assumption in e.g., vision area that typical data augmentation methods cannot change the label of training data, graph data need more precise methods for augmentation. Therefore, this paper proposes three tricks for doing that, including asymmetrical, random, and shuffling tricks. It directly learns the transformation units in the GNN model for each layer, by designing a proper loss function implementing each of these tricks.
+
+
 *2023-02-22*
 
 #### [Interpretable Graph Convolutional Neural Networks for Inference on Noisy Knowledge Graphs](https://arxiv.org/abs/1812.00279)
