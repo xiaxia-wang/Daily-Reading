@@ -1,5 +1,14 @@
 
 
+*2023-02-25*
+
+#### [FreeKD: Free-direction Knowledge Distillation for Graph Neural Networks](https://dl.acm.org/doi/10.1145/3534678.3539320)
+
+*Kaituo Feng, Changsheng Li, Ye Yuan, Guoren Wang*
+
+*KDD 2022*
+
+This paper proposes a knowledge graph distillation method based on reinforcement learning. It collaboratively build two shallower GNNs to exchange knowledge between them via reinforcement learning in a hierarchical way. It incorporates node-level and structure-level actions to determine the propagation of knowledge to be conducted.
 
 
 *2023-02-17*
