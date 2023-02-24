@@ -1,5 +1,16 @@
 
 
+*2023-02-24*
+
+#### [RLogic: Recursive Logical Rule Learning from Knowledge Graphs](https://dl.acm.org/doi/10.1145/3534678.3539421)
+
+*Kewei Cheng, Jiahao Liu, Wei Wang, Yizhou Sun*
+
+*KDD 2022*
+
+This paper proposes a rule learning method over knowledge graphs for link prediction. Its motivation includes that, firstly, most of existing rule learning methods rely on the rule instances appear in the datasets, and secondly, existing methods typically regard the learned rules as independent with each other, instead of in a deductive manner. To address the first limitation, this paper proposes a probabilistic measurement based on the conditional probability to evaluate each rule. For the second limitation, it also learns the probabilistic to replace a continuous pair of relations with a single relation for recursively reducing the relation path. The rules learned in this paper are represented as Horn rules.
+
+
 *2023-01-28*
 
 #### [Inductive Logic Programming](https://link.springer.com/article/10.1007/BF03037089)
