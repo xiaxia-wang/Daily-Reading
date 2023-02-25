@@ -207,7 +207,7 @@ A PDA is a 6-tuple $(Q, \Sigma, \Gamma, \delta, q_0, F)$:
 - $Q$ is a set of states,
 - $\Sigma$ is the input alphabet,
 - $\Gamma$ is the stack alphabet,
-- $\delta： Q \times \Sigma_\varepsilon \times \Gamma_\varepsilon \rightarrow \mathcal{P}(Q \times \Sigma_\varepsilon)$ is the transition function,
+- $\delta： Q \times \Sigma_\varepsilon \times \Gamma_\varepsilon \rightarrow \mathcal{P}(Q \times \Gamma_\varepsilon)$ is the transition function,
 - $q_0 \in Q$ is the start state, and
 - $F \subseteq Q$ is the set of final states.
 
@@ -246,18 +246,21 @@ Pumping lemma for context-free languages:
    S = 0|0S0|0S1|1S0|1S1
 
 #### 2.6
+
 1. The set of strings over the alphabet $\{a, b\}$ with more $a$'s than $b$'s.
    S = TaT
    T = a|aTb|bTa|TT|$\varepsilon$
-2. $\{w#x | w^\mathcal{R} \text{ is a substring of } x \text{ for } w, x \in \{0, 1\}^*\}$
+2. $\{w\#x | w^\mathcal{R} \text{ is a substring of } x \text{ for } w, x \in \{0, 1\}^*\}$
    S = TX
    T = 0T0|1T1|#X
    X = 0X|1X|$\varepsilon$
 
 #### 2.18
+
 1. To prove $C \cap R$ is context-free, construct a PDA $P'$ based on the PDA $P$ which recognizes $C$ and the DFA which recognizes $R$.
 
 #### 2.38
+
 Proof idea: give a counterexample and apply pumping lemma.
 Note: perfect shuffle is to take two strings of the same length from languages A and B, respectively. Then we combine them.
 
@@ -265,3 +268,21 @@ Note: perfect shuffle is to take two strings of the same length from languages A
 
 ### 3.1 Turing Machines
 
+The Turing Machine was first proposed by Alan Turing in 1936.
+
+The differences between finite automata and Turing machines:
+
+- A TM can both read from the tape and write on it
+- The read-write head can move both to the left and right
+- The tape is infinite
+- The special states for rejecting and accepting take effect immediately
+
+A Turing machine $(Q, \Sigma, \Gamma, \delta, q_0, q_\text{accept}, q_\text{reject})$:
+
+- $Q$ is the finite set of states,
+- $\Sigma$ is the input alphabet not containing the blank symbol $_\sqcup$,
+- $\Gamma$ is the tape alphabet, where $_\sqcup \in \Gamma$ and $\Sigma \subseteq \Gamma$,
+- $\delta: Q \times \Gamma \rightarrow Q \times \Gamma \times \{L, R\}$ is the transition function,
+- $q_0 \in Q$ is the start state,
+- $q_{\text{accept}} \in Q$ is the accept state, and
+- $q_{\text{reject}} \in Q$ is the reject state, where $q_{\text{reject}} \neq q_{\text{accept}}$.
