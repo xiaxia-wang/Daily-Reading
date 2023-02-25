@@ -227,3 +227,41 @@ Pumping lemma for context-free languages:
   1. for each $i \geq 0$, $uv^ixy^iz \in A$,
   2. $|vy| > 0$, and
   3. $|vxy| \leq p$.
+
+### Exercises:
+
+#### 2.3
+
+* $T \stackrel{*}{\Rightarrow} T$: true (0 step)
+* $\Rightarrow$: yields (exactly 1 step)
+* $\stackrel{*}{\Rightarrow}$: derives (0 or more steps)
+* The language of the grammar: $\{w \in \Sigma^* | S \stackrel{*}{\Rightarrow} w\}$
+
+#### 2.4
+
+1. $\{w | w \text{ contains at least 3 `1' s.}\}$
+   S = R1R1R1R
+   R = 0R|1R|$\varepsilon$
+2. $\{w | w \text{ the length of w is odd and its middle symbol is 0}\}$
+   S = 0|0S0|0S1|1S0|1S1
+
+#### 2.6
+1. The set of strings over the alphabet $\{a, b\}$ with more $a$'s than $b$'s.
+   S = TaT
+   T = a|aTb|bTa|TT|$\varepsilon$
+2. $\{w#x | w^\mathcal{R} \text{ is a substring of } x \text{ for } w, x \in \{0, 1\}^*\}$
+   S = TX
+   T = 0T0|1T1|#X
+   X = 0X|1X|$\varepsilon$
+
+#### 2.18
+1. To prove $C \cap R$ is context-free, construct a PDA $P'$ based on the PDA $P$ which recognizes $C$ and the DFA which recognizes $R$.
+
+#### 2.38
+Proof idea: give a counterexample and apply pumping lemma.
+Note: perfect shuffle is to take two strings of the same length from languages A and B, respectively. Then we combine them.
+
+## 3. The Church-Turing Thesis
+
+### 3.1 Turing Machines
+
