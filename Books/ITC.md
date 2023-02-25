@@ -286,3 +286,13 @@ A Turing machine $(Q, \Sigma, \Gamma, \delta, q_0, q_\text{accept}, q_\text{reje
 - $q_0 \in Q$ is the start state,
 - $q_{\text{accept}} \in Q$ is the accept state, and
 - $q_{\text{reject}} \in Q$ is the reject state, where $q_{\text{reject}} \neq q_{\text{accept}}$.
+
+A configuation of the TM: For a state $q$ and 2 strings $u, v$ over $\Gamma$, use $uqv$ to represent the current state is $q$, the current tape contents is $uv$, and the current head location is the first symbol of $v$.
+
+The language of Turing machine $M$: the collection of strings that $M$ accepts, denoted $L(M)$.
+
+A language is Turing-recognizable (recursively enumerable language) if some Turing machine recognizes it.
+
+A decider: a TM that always halts on all inputs (either accepts or rejects the input).
+
+A language is Turing-decidable (recursive language) if some TM decides it.
