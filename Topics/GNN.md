@@ -1,5 +1,16 @@
 
 
+*2023-02-26*
+
+#### [On Structural Explanation of Bias in Graph Neural Networks](https://dl.acm.org/doi/10.1145/3534678.3539319)
+
+*Yushun Dong, Song Wang, Yu Wang, Tyler Derr, Jundong Li*
+
+*KDD 2022*
+
+This paper studies the structural explanation of bias in node prediction for GNN. It formulates the problem as to identify a set of edges in the computation graph which mainly accounts for the bias of a given node (binary) prediction, as well as a set of edges which accounts for the fairness. It measures the extent of bias/fairness given by the set of edges as distances (specifically, Wasserstein distance) between the probabilistic distributions. The core idea is the edges in the bias edge set maximally account for the node-level bias, while those in the fairness edge set maximally alleviates the node-level bias.
+
+
 *2023-02-23*
 
 #### [MA-GCL: Model Augmentation Tricks for Graph Contrastive Learning](https://arxiv.org/pdf/2212.07035.pdf)
