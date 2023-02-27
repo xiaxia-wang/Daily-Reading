@@ -1,13 +1,15 @@
 
 
 
+*2023-02-27*
 
+#### [Noisy Interactive Graph Search](https://dl.acm.org/doi/10.1145/3534678.3539267)
 
+*Qianhao Cong, Jing Tang, Kai Han, Yuming Huang, Lei Chen, Yeow Meng Chee*
 
+*KDD 2022*
 
-
-
-
+This paper introduces the problem of noisy interactive graph search, which is formulated as to find a target node in a given hierarchy based on several rounds of noisy reachability queries. The noise is adopted as an one-coin model with a fixed probability to give wrong answer. It firstly uses the Bayesian model to compute the posterior probability of the prediction. Then it also shows the posterior probability is monotonic w.r.t. the number of queries performed in the interaction.
 
 
 *2022-11-30*

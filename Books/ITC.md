@@ -296,3 +296,19 @@ A language is Turing-recognizable (recursively enumerable language) if some Turi
 A decider: a TM that always halts on all inputs (either accepts or rejects the input).
 
 A language is Turing-decidable (recursive language) if some TM decides it.
+
+A Turing-decidable language must be Turing-recognizable, but there are some Turing-recognizable language are non-decidable.
+
+### 3.2 Variants of Turing Machines
+
+Multitape Turing Machine: can be transformed to a single-tape TM by concatenating all the strings on the tape by #.
+
+Nondeterministic Turing Machine: can be transformed to a 3-tape deterministic TM.
+
+A nondeterministic TM is a decider: if all its branches halt on all inputs.
+
+A language is Turing-recognizable iff. some enumerator enumerates it.
+
+An essential feature of these models: have unrestricted access to unlimited memory.
+
+### The Definition of Algorithm
