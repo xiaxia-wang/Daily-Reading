@@ -250,7 +250,7 @@ Pumping lemma for context-free languages:
 1. The set of strings over the alphabet $\{a, b\}$ with more $a$'s than $b$'s.
    S = TaT
    T = a|aTb|bTa|TT|$\varepsilon$
-2. $\{w\#x | w^\mathcal{R} \text{ is a substring of } x \text{ for } w, x \in \{0, 1\}^*\}$
+2. $\{w \# x | w^\mathcal{R} \text{ is a substring of } x \text{ for } w, x \in \{0, 1\}^*\}$
    S = TX
    T = 0T0|1T1|#X
    X = 0X|1X|$\varepsilon$
