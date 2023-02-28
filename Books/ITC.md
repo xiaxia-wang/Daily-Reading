@@ -312,3 +312,12 @@ A language is Turing-recognizable iff. some enumerator enumerates it.
 An essential feature of these models: have unrestricted access to unlimited memory.
 
 ### 3.3 The Definition of Algorithm
+
+🎉️The Church-Turing Thesis: Intuitive notion of algorithms equals to Turing machine algorithms.
+
+An example of Turing recognizer but NOT decider:
+
+- for $\{p | p \text{ is a polynomial over } x \text{ with an integral root}\}$
+- the TM evaluates the value of $x$ as: $0, 1, -1, 2, -2, ...$
+
+If the polynomial has an integral root, the TM will recognize it. But if not, it will run forever. Although in this case we can modify this TM to be a decider by giving its upper and lower bounds of values. (For multivariable polynomials such bounds do not exist.)
