@@ -328,10 +328,33 @@ The encoding of an object $O$ to a string: $\langle O \rangle$.
 
 #### 3.1
 
-(b)
+(b)$q_100, \_q_20, \_xq_3\_, \_q_5x\_, q_5\_x\_, \_q_2x\_, \_xq_2\_, \_x\_q_{\text{accept}}$.
 
 #### 3.2
 
-(a)
+(a) $q_111, xq_31, x1q_3\_, x1\_q_{\text{reject}}$. 
 
 #### 3.3
+
+1. If a language is decidable, then it can be decided by some deterministic Turing machine, which is naturally a nondeterministic Turing machine.
+2. If a nondeterministic TM $N$ can decide some language, i.e., being a decider for language $L$, then we can construct another deterministic TM based on $N$. It runs over all branches of $N$, and enters the (added) reject state after it exhausts all the possible branches.
+
+#### 3.5
+
+1. Yes. The tape alphabet contains "_", and a TM can write any symbol in its alphabet to the tape.
+2. No. The tape alphabet must contain "_" while the input alphabet must not.
+3. Yes. When the head has moved to the left end of the tape.
+4. No. The $q_{\text{accept}}$ cannot be the same as $q_{\text{reject}}$.
+
+#### 3.8
+
+(a) On input string $w$:
+
+1. Scan the tape and mark the first 0 which has not been marked. If no unmarked 0 is found, go to stage 4. Otherwise, move the head back to the front of the tape.
+2. Scan the tape and mark the first 1 which has not been marked. If no unmarked 1 is found, reject.
+3. Move the head back to the front of the tape and go to stage 1.
+4. Move the head back to the front of the tape. Scan the tape to see if any unmarked 1s remain. If none are found, accept; otherwise, reject.
+
+## 4. Decidability
+
+### 4.1 Decidable Languages
