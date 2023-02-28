@@ -357,4 +357,12 @@ The encoding of an object $O$ to a string: $\langle O \rangle$.
 
 ## 4. Decidability
 
+Goal: to explore the limit of algorithmic solvability.
+
 ### 4.1 Decidable Languages
+
+Firstly, we can represent the computational problems by languages by somehow encoding them as set of strings.
+
+The equality problem between two CFGs are undecidable. i.e., $\text{EQ}_{\text{CFG}} = \{\langle G, H \rangle | G, H \text{ are CFGs and } L(G) = L(H)\}$ is undecidable.
+
+### 4.2 The Halting Problem
