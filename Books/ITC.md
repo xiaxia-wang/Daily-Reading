@@ -311,4 +311,4 @@ A language is Turing-recognizable iff. some enumerator enumerates it.
 
 An essential feature of these models: have unrestricted access to unlimited memory.
 
-### The Definition of Algorithm
+### 3.3 The Definition of Algorithm

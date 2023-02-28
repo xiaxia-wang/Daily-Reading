@@ -1,5 +1,17 @@
 
 
+*2023-02-28*
+
+#### [Disentangled Ontology Embedding for Zero-shot Learning](https://dl.acm.org/doi/10.1145/3534678.3539453)
+
+*Yuxia Geng, Jiaoyan Chen, Wen Zhang, Yajing Xu, Zhuo Chen, Jeff Z. Pan, Yufeng Huang, Feiyu Xiong, Huajun Chen*
+
+*KDD 2022*
+
+This paper proposes an ontology embedding method for unseen concepts (i.e., zero-shot) by learning the representations of different semantic aspects from the original graph. It firstly learns multiple disentangled vector representations (embeddings) for each class according to its semantics of different aspects defined in an ontology, and then incorporate these disentangled
+class representations using a graph adversarial network based generative model.
+
+
 *2023-02-25*
 
 #### [FreeKD: Free-direction Knowledge Distillation for Graph Neural Networks](https://dl.acm.org/doi/10.1145/3534678.3539320)
