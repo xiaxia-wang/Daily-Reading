@@ -321,3 +321,17 @@ An example of Turing recognizer but NOT decider:
 - the TM evaluates the value of $x$ as: $0, 1, -1, 2, -2, ...$
 
 If the polynomial has an integral root, the TM will recognize it. But if not, it will run forever. Although in this case we can modify this TM to be a decider by giving its upper and lower bounds of values. (For multivariable polynomials such bounds do not exist.)
+
+The encoding of an object $O$ to a string: $\langle O \rangle$.
+
+### Exercises:
+
+#### 3.1
+
+(b)
+
+#### 3.2
+
+(a)
+
+#### 3.3
