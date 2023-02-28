@@ -366,3 +366,7 @@ Firstly, we can represent the computational problems by languages by somehow enc
 The equality problem between two CFGs are undecidable. i.e., $\text{EQ}_{\text{CFG}} = \{\langle G, H \rangle | G, H \text{ are CFGs and } L(G) = L(H)\}$ is undecidable.
 
 ### 4.2 The Halting Problem
+
+$\text{A}_{\text{TM}} = \{\langle M, w \rangle | M \text{ is a TM and } M \text{ accepts } w\}$ is not decidable.
+
+There are uncountably many languages but only contably many TMs, so there must be some languages are not Turing decidable or even Turing recognizable.
