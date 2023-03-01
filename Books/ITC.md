@@ -332,7 +332,7 @@ The encoding of an object $O$ to a string: $\langle O \rangle$.
 
 #### 3.2
 
-(a) $q_111, xq_31, x1q_3\_, x1\_q_{\text{reject}}$. 
+(a) $q_111, xq_31, x1q_3\_, x1\_q_{\text{reject}}$.
 
 #### 3.3
 
@@ -370,3 +370,13 @@ The equality problem between two CFGs are undecidable. i.e., $\text{EQ}_{\text{C
 $\text{A}_{\text{TM}} = \{\langle M, w \rangle | M \text{ is a TM and } M \text{ accepts } w\}$ is not decidable.
 
 There are uncountably many languages but only contably many TMs, so there must be some languages are not Turing decidable or even Turing recognizable.
+
+Proof idea:
+
+1. For input $\langle M, w \rangle$ where $M$ is a TM and $w$ is a string, assume there is a TM $H$ is a decider for this language.
+2. $H$ accepts $\langle M, w \rangle$ if $M$ accepts $w$, and $H$ rejects $\langle M, w \rangle$ if $M$ rejects $w$.
+3. Construct a new TM $D$: For input $\langle M \rangle$, if $H$ accepts $\langle M, \langle M \rangle \rangle$, then $D$ rejects, and if $H$ rejects $\langle M, \langle M \rangle \rangle$, then $D$ accepts.
+4. Consider $D$ with input $\langle D \rangle$. Here we get the contradiction:
+   * If $H$ accepts $\langle D, \langle D \rangle \rangle$, then $D$ should reject $\langle D \rangle$. Meanwhile, $H$ accepts $\langle D, \langle D \rangle \rangle$ means $D$ accepts $\langle D \rangle$, otherwise $H$ cannot accept $\langle D, \langle D \rangle \rangle$.
+   * If $H$ rejects $\langle D, \langle D \rangle \rangle$, then $D$ should reject $\langle D \rangle$. Meanwhile, $H$ rejects $\langle D, \langle D \rangle \rangle$ means $D$ rejects $\langle D \rangle$, otherwise $H$ cannot reject $\langle D, \langle D \rangle \rangle$.
+5. Therefore, neither such $H$ nor $D$ exists.
