@@ -365,6 +365,8 @@ Firstly, we can represent the computational problems by languages by somehow enc
 
 The equality problem between two CFGs are undecidable. i.e., $\text{EQ}_{\text{CFG}} = \{\langle G, H \rangle | G, H \text{ are CFGs and } L(G) = L(H)\}$ is undecidable.
 
+- because CFG is not closed under complementation or intersection.
+
 ### 4.2 The Halting Problem
 
 $\text{A}_{\text{TM}} = \{\langle M, w \rangle | M \text{ is a TM and } M \text{ accepts } w\}$ is not decidable.
@@ -380,3 +382,7 @@ Proof idea:
    * If $H$ accepts $\langle D, \langle D \rangle \rangle$, then $D$ should reject $\langle D \rangle$. Meanwhile, $H$ accepts $\langle D, \langle D \rangle \rangle$ means $D$ accepts $\langle D \rangle$, otherwise $H$ cannot accept $\langle D, \langle D \rangle \rangle$.
    * If $H$ rejects $\langle D, \langle D \rangle \rangle$, then $D$ should reject $\langle D \rangle$. Meanwhile, $H$ rejects $\langle D, \langle D \rangle \rangle$ means $D$ rejects $\langle D \rangle$, otherwise $H$ cannot reject $\langle D, \langle D \rangle \rangle$.
 5. Therefore, neither such $H$ nor $D$ exists.
+
+But at least $\text{A}_{\text{TM}}$ is Turing-recognizable. We can construct a TM $U$ for the input $\langle M, w \rangle$: if $M$ ever accepts $w$, then it accepts. If $M$ loops on $w$, then $U$ also loops, thus it cannot be a decider.
+
+There are still some Turing-unrecognizable languages.
