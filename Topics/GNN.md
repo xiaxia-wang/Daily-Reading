@@ -1,5 +1,16 @@
 
 
+*2023-03-01*
+
+#### [Adversarial Attack and Defense on Graph Data: A Survey](https://ieeexplore.ieee.org/document/9878092)
+
+*Lichao Sun, Yingtong Dou, Carl Yang, Kai Zhang, Ji Wang, Yixin Liu, Philip S. Yu, Lifang He, Bo Li,*
+
+*IEEE TKDE 2022*
+
+This survey paper summarizes existing research about graph adversarial attack and defense methods. It firstly introduces the fundamental knowledge and the problem of GAT. Then it describes the process of GAT step-by-step, as well as adversarial defense methods. It also summarizes the metrics used in both kinds of works, and proposes an online under-maintain version of collected work in this direction.
+
+
 *2023-02-26*
 
 #### [On Structural Explanation of Bias in Graph Neural Networks](https://dl.acm.org/doi/10.1145/3534678.3539319)
