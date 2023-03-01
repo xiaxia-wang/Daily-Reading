@@ -369,7 +369,7 @@ The equality problem between two CFGs are undecidable. i.e., $\text{EQ}_{\text{C
 
 ### 4.2 The Halting Problem
 
-$\text{A}_{\text{TM}} = \{\langle M, w \rangle | M \text{ is a TM and } M \text{ accepts } w\}$ is not decidable.
+$A_{\text{TM}} = \{\langle M, w \rangle | M \text{ is a TM and } M \text{ accepts } w\}$ is not decidable.
 
 There are uncountably many languages but only contably many TMs, so there must be some languages are not Turing decidable or even Turing recognizable.
 
@@ -383,6 +383,52 @@ Proof idea:
    * If $H$ rejects $\langle D, \langle D \rangle \rangle$, then $D$ should reject $\langle D \rangle$. Meanwhile, $H$ rejects $\langle D, \langle D \rangle \rangle$ means $D$ rejects $\langle D \rangle$, otherwise $H$ cannot reject $\langle D, \langle D \rangle \rangle$.
 5. Therefore, neither such $H$ nor $D$ exists.
 
-But at least $\text{A}_{\text{TM}}$ is Turing-recognizable. We can construct a TM $U$ for the input $\langle M, w \rangle$: if $M$ ever accepts $w$, then it accepts. If $M$ loops on $w$, then $U$ also loops, thus it cannot be a decider.
+But at least $A_{\text{TM}}$ is Turing-recognizable. We can construct a TM $U$ for the input $\langle M, w \rangle$: if $M$ ever accepts $w$, then it accepts. If $M$ loops on $w$, then $U$ also loops, thus it cannot be a decider.
 
 There are still some Turing-unrecognizable languages.
+
+A language is decidable iff. both itself and its complement are Turing-recognizable.
+
+A language is co-Turing-recognizable if it is the complement of a Turing-recognizable language.
+
+Therefore, a Turing-undecidable but recognizable language must have a complement being Turing-unrecognizable.
+
+A Turing-undecidable language itself or its complement must be Turing-unrecognizable.
+
+$\overline{A_{\text{TM}}}$ is not Turing-recognizable.
+
+### Exercises
+
+#### 4.9
+
+Construct a TM being a decider of $\{\langle A \rangle | A \text{ is a DFA and } L(A) \text{ is an infinite language }\}$.
+
+1. Let $k$ be the number of states of the DFA.
+2. Construct a DFA $D$ that accepts all strings of length $k$ or more.
+3. Construct a DFA $M$ such that $L(M) = L(A) \cap L(D)$. (the intersection is closed for regular languages)
+4. Test $L(M) = \emptyset$. If $E_{\text{DFA}}$ accepts, then rejects; if $E_{\text{DFA}}$ rejects, then accepts.
+
+#### 4.11
+
+Similar to 4.9, just construct another DFA $D$ that only accepts strings containing an odd number of 1s.
+
+#### 4.13
+
+Note that, the intersection of a context-free language and a regular language is context-free. Then we can use $E_{\text{CFG}}$ to decide whether $1^* \cap L(G) = \emptyset$.
+
+#### 4.21
+
+Proof idea: construct a DFA based on the NFA, by tracking and merging all reachable states in in each step w.r.t. the input. The accept state is where there are 1+ paths have occurs somewhere before. Then we simply run an $E_{\text{DFA}}$ to decide whether it is empty.
+
+#### 4.23
+
+The language that contains equal number of 0s and 1s is context-free. So the intersectoin of this context-free language and the language that the DFA accepts is context-free. Similar to 4.11, construct a $E_{\text{CFG}}$ to decide whether the intersection is an emptyset.
+
+## 5. Reducibility
+
+### 5.1 Undecidable Problems from Language Theory
+
+If A is reducible to B, solving A cannot be harder than solving B.
+
+* If A is reducible to B and B is decidable, A is also decidable.
+* If A is reducible to B and A is undecidable, B is undecidable.
