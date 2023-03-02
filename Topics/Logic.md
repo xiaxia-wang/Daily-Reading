@@ -1,5 +1,16 @@
 
 
+*2023-03-02*
+
+#### Materialisation-Based Reasoning in DatalogMTL with Bounded Intervals
+
+*Przemysław A. Wał˛ega, Michał Zawidzki, Dingmin Wang, Bernardo Cuenca Grau*
+
+*AAAI 2023*
+
+This paper proposes a fact entailment checking method for an extension of Datalog of predicates/concepts satisfiability with time intervals. The reasoning process is based on forward-chaining and captures repeating patterns between continuous time intervals to block infinite expansion. After obtaining all the available patterns the algorithm is ensured to terminate and is able to return all possible entailment results.
+
+
 *2023-02-24*
 
 #### [RLogic: Recursive Logical Rule Learning from Knowledge Graphs](https://dl.acm.org/doi/10.1145/3534678.3539421)
