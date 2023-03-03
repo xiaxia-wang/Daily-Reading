@@ -1,5 +1,16 @@
 
 
+*2023-03-03*
+
+#### [Automatic Rule Generation for Time Expression Normalization](https://aclanthology.org/2021.findings-emnlp.269/)
+
+*Wentao Ding, Jianhao Chen, Jinmao Li, Yuzhong Qu*
+
+*EMNLP Findings 2022*
+
+This paper proposes a method for learning rule sequences applied for normalizing time expressions. It firstly designs 10 atomic rules to transform the time expression from the source format to the target format. Its goal is to obtain the chain of rules for transforming any input time expression to the standard format. It applies DFS over the graph of available rules, under the assumption that low-redundancy chain of rules (shorter paths) is more ideal.
+
+
 *2023-03-02*
 
 #### Materialisation-Based Reasoning in DatalogMTL with Bounded Intervals
