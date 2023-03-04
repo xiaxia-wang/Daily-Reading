@@ -432,3 +432,36 @@ If A is reducible to B, solving A cannot be harder than solving B.
 
 * If A is reducible to B and B is decidable, A is also decidable.
 * If A is reducible to B and A is undecidable, B is undecidable.
+
+🎉️The Halting Problem: $HALT_{TM} = \{\langle M, w \rangle | M \text{ is a TM and } M \text{ halts on input } w\}$ is undecidable.
+
+- Proof idea: Reducing $A_{TM}$ to $HALT_{TM}$. Using contracdiction, assume $HALT_{TM}$ is decidable, there should be a TM $R$ decides it. Note that $A_{TM}$ is undecidable, we can construct a decider for $A_{TM}$ based on $R$, which contradicts with the undecidability.
+
+$E_{TM} = \{ \langle M \rangle | M \text{ is a TM and } L(M) = \emptyset\}$ is undecidable.
+
+- Proof idea: Assume $E_{TM}$ is decidable, and $R$ is the decider. Then for the input $\langle M, w \rangle$ of $A_{TM}$, we modify $\langle M \rangle$ to $\langle M_1 \rangle$ which rejects all input strings except $w$. Then we construct a TM $S$ based on $R$ to test if $R$ accepts $\langle M_1 \rangle$.
+
+$REGULAR_{TM} = \{ \langle M \rangle | M \text{ is a TM and } L(M) \text{ is a regular language}\}$ is undecidable.
+
+- Proof idea: Assume $REGULAR_{TM}$ is decidable, and $R$ is the decider. For the input $\langle M, w \rangle$ of $A_{TM}$, construct a TM $M_2$ based on $M$: if $M$ rejects $w$, $M_2$ accepts a nonregular language $\{0^n1^n | n \geq 0\}$; if $M$ accepts $w$, $M_2$ also accepts the rest of strings ($\Sigma^*$ is regular). Then we construct a TM $S$ to test if $R$ accepts $\langle M_2 \rangle$.
+
+Rice's Theorem: Testing any property of the languages recognized by Turing machines is undecidable.
+
+Computation History: Let $M$ be a TM and $w$ an input string,
+
+- An accepting computation history for $M$ on $w$:
+  - is a sequence of configuations, $C_!, C_2, ..., C_l$, where
+  - $C_1$ is the start configuation,
+  - $C_l$ is an accepting configuation of $M$, and
+  - each $C_i$ legally follows from $C_{i-1}$.
+- A rejecting computation history is similar.
+
+A linear bounded automata (LBA): a restricted type of TM wherein its tape head isn't permitted to move off the portion of the tape containing the input (i.e., with limited amount of memory which is linear to the input).
+
+$A_{LBA} = \{\langle M, w \rangle | M \text{ is a LBA that accepts string } w\}$ is decidable.
+
+- Proof idea: $M$ can be in only a limited number of configuations w.r.t. the number of states, the size of the tape alphabet, and the length of the tape. Therefore, for a given input, it should halt within a limited number of steps, otherwise it must be in a loop.
+
+$E_{LBA} = \{\langle M \rangle | M \text{ is a LBA where } L(M) = \emptyset\}$ is undecidable.
+
+- Proof idea: By reduction of $A_{TM}$. Assume $E_{LBA}$ is decidable, we can construct a LBA $B$ based on $M$ and $w$ and test whether $L(B)$ is empty. $L(B)$ recognizes all accepting computation histories for $M$ on $w$.
