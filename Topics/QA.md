@@ -8,6 +8,17 @@
 
 
 
+*2023-03-04*
+
+#### [Semantic Framework based Query Generation for Temporal Question Answering over Knowledge Graphs](https://aclanthology.org/2022.emnlp-main.122/)
+
+*Wentao Ding, Hao Chen, Huayu Li, Yuzhong Qu*
+
+*EMNLP 2022*
+
+This paper proposes a model for temporal question answering over knowledge graphs by utilizing intrinsic connections between events to improve performance. Based on several temporal constraints over questions, it proposes interpretation structures for the query. Then it also designs a pipeline for temporal question answering based on the interpretations.
+
+
 *2023-02-07*
 
 #### [Can Open-Domain QA Reader Utilize External Knowledge Efficiently like Humans?](https://knowledge-nlp.github.io/aaai2023/papers/009-QAHuman-poster.pdf)
