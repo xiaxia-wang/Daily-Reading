@@ -1,5 +1,16 @@
 
 
+*2023-03-05*
+
+#### [Subset Node Anomaly Tracking over Large Dynamic Graphs](https://dl.acm.org/doi/10.1145/3534678.3539389)
+
+*Xingzhi Guo, Baojian Zhou, Steven Skiena*
+
+*KDD 2022*
+
+This paper investigates the problem of node anomaly detection using generalized personalized PageRank vectors (PPVs). It formulates the problem of node anomaly tracking as to quantify the status of each node between two snapshots of a dynamic weighted graph with an anomaly measure function. This paper also proposes a framework for node anomaly tracking, in which the PPVs are used as node representations.
+
+
 *2023-02-28*
 
 #### [Disentangled Ontology Embedding for Zero-shot Learning](https://dl.acm.org/doi/10.1145/3534678.3539453)
