@@ -11,6 +11,17 @@
 This paper proposes a neural reasoner for question answering over knowledge graphs. It is motivated by the limitation of modeling entity embeddings under specific distributions (e.g., Beta distribution). Instead, it modifies the embeddings of both queries and entities in a line embedding (LinE) space, in which each dimension is expressed as a sequence of $k$ values. The embeddings are firstly initialized using Beta distribution. Then a MLP-based transformation is applied to generate the LinE embeddings. It also specifically considers the reasoning over hierarchical structures possessed by the KG.
 
 
+*2023-03-07*
+
+#### [LinE: Logical Query Reasoning over Hierarchical Knowledge Graphs](https://dl.acm.org/doi/10.1145/3534678.3539338)
+
+*Zijian Huang, Meng-Fen Chiang, Wang-Chien Lee*
+
+*KDD 2022*
+
+This paper proposes a neural reasoner for question answering over knowledge graphs. It is motivated by the limitation of modeling entity embeddings under specific distributions (e.g., Beta distribution). Instead, it modifies the embeddings of both queries and entities in a line embedding (LinE) space, in which each dimension is expressed as a sequence of $k$ values. The embeddings are firstly initialized using Beta distribution. Then a MLP-based transformation is applied to generate the LinE embeddings. It also specifically considers the reasoning over hierarchical structures possessed by the KG.
+
+
 *2023-03-03*
 
 #### [Automatic Rule Generation for Time Expression Normalization](https://aclanthology.org/2021.findings-emnlp.269/)
