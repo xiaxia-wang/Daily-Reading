@@ -1,5 +1,16 @@
 
 
+*2023-03-09*
+
+#### [GammaE: Gamma Embeddings for Logical Queries on Knowledge Graphs](https://aclanthology.org/2022.emnlp-main.47/)
+
+*Dong Yang, Peijun Qing, Yang Li, Haonan Lu, Xiaodong Lin*
+
+*EMNLP 2022*
+
+This paper proposes a probabilistic embedding model for FOL queries over knowledge graphs. It implements a Gamma mixture method to alleviate the non-closure problem on union operators, and enables query embeddings to have strict boundaries on the negation operator.
+
+
 *2023-03-08*
 
 #### [Embedding Logical Queries on Knowledge Graphs](https://proceedings.neurips.cc/paper/2018/hash/ef50c335cca9f340bde656363ebd02fd-Abstract.html)
