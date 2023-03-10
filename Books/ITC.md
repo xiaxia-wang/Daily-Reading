@@ -465,3 +465,9 @@ $A_{LBA} = \{\langle M, w \rangle | M \text{ is a LBA that accepts string } w\}$
 $E_{LBA} = \{\langle M \rangle | M \text{ is a LBA where } L(M) = \emptyset\}$ is undecidable.
 
 - Proof idea: By reduction of $A_{TM}$. Assume $E_{LBA}$ is decidable, we can construct a LBA $B$ based on $M$ and $w$ and test whether $L(B)$ is empty. $L(B)$ recognizes all accepting computation histories for $M$ on $w$.
+
+$ALL_{CFG} = \{\langle G \rangle | G \text{ is not a CFG and } L(G^*) = \Sigma^*\}$ is undecidable.
+
+- Proof idea: construct a CFG $G$ generates all strings that fail to be an accepting computation history for $M$ on $w$.
+
+### 5.2 A Simple Undecidable Problem
