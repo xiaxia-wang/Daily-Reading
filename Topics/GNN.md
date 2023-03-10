@@ -1,5 +1,16 @@
 
 
+*2023-03-10*
+
+#### [Global Self-Attention as a Replacement for Graph Convolution](https://dl.acm.org/doi/10.1145/3534678.3539296)
+
+*Md. Shamim Hussain, Mohammed J. Zaki, Dharmashankar Subramanian*
+
+*KDD 2022*
+
+This paper proposes a general graph learning model (called Edge-augmented Graph Transformer, EGT) based on global graph attention. It uses global self-attention as an aggregation mechanism rather than static localized convolutional aggregation. It can also take structural information of arbitrary form by adding a dedicated pathway for pairwise structural information.
+
+
 *2023-03-01*
 
 #### [Adversarial Attack and Defense on Graph Data: A Survey](https://ieeexplore.ieee.org/document/9878092)
