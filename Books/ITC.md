@@ -471,3 +471,9 @@ $ALL_{CFG} = \{\langle G \rangle | G \text{ is not a CFG and } L(G^*) = \Sigma^*
 - Proof idea: construct a CFG $G$ generates all strings that fail to be an accepting computation history for $M$ on $w$.
 
 ### 5.2 A Simple Undecidable Problem
+
+The Post Correspondence Problem
+
+- Proof idea: to formulate $A_{TM}$ as an example of PCP.
+
+### 5.3 Mapping Reducibility

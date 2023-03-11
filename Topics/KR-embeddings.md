@@ -1,5 +1,16 @@
 
 
+*2023-03-11*
+
+#### [Dual-Geometric Space Embedding Model for Two-View Knowledge Graphs](https://dl.acm.org/doi/10.1145/3534678.3539350)
+
+*Roshni G. Iyer, Yunsheng Bai, Wei Wang, Yizhou Sun*
+
+*KDD 2022*
+
+This paper introduces a two-view model for knowledge graphs, which divides a KG into an ontology view and an instance view. Based on that, it further proposes an embedding model by mapping the ontology part and instance part of a KG into different non-Euclidean spaces, respectively.
+
+
 *2023-03-05*
 
 #### [Subset Node Anomaly Tracking over Large Dynamic Graphs](https://dl.acm.org/doi/10.1145/3534678.3539389)
