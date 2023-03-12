@@ -477,3 +477,16 @@ The Post Correspondence Problem
 - Proof idea: to formulate $A_{TM}$ as an example of PCP.
 
 ### 5.3 Mapping Reducibility
+
+Computable Function: a function $f: \Sigma^* \rightarrow \Sigma^*$ is a computable function if some TM $M$, on every input $w$, halts with just $f(w)$ on its tape.
+
+Language $A$ is mapping reducible to language $B$, i.e., $A \leq_m B$, if there is a computable function $f: \Sigma^* \rightarrow \Sigma^*$, where for every $w$, 
+
+- $w \in A \Leftrightarrow f(w) \in B$.
+- The function $f$ is called the reduction of $A$ to $B$.
+
+## 6. Advanced Topics in Computability Theory
+
+### 6.1 The Recursion Theorem
+
+Self Reference:

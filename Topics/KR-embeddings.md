@@ -1,5 +1,16 @@
 
 
+*2023-03-12*
+
+#### [Joint Knowledge Graph Completion and Question Answering](https://dl.acm.org/doi/10.1145/3534678.3539289)
+
+*Lihui Liu, Boxin Du, Jiejun Xu, Yinglong Xia, Hanghang Tong*
+
+*KDD 2022*
+
+This paper proposes a model which jointly handles KGC and multi-hop KGQA by formulating them as a multi-task learning problem, using a shared embedding space and an answer scoring module. It allows the two tasks to automatically share latent features and learn the interactions between natural language question decoder and answer scoring module.
+
+
 *2023-03-11*
 
 #### [Dual-Geometric Space Embedding Model for Two-View Knowledge Graphs](https://dl.acm.org/doi/10.1145/3534678.3539350)
