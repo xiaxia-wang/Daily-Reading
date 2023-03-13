@@ -480,7 +480,7 @@ The Post Correspondence Problem
 
 Computable Function: a function $f: \Sigma^* \rightarrow \Sigma^*$ is a computable function if some TM $M$, on every input $w$, halts with just $f(w)$ on its tape.
 
-Language $A$ is mapping reducible to language $B$, i.e., $A \leq_m B$, if there is a computable function $f: \Sigma^* \rightarrow \Sigma^*$, where for every $w$, 
+Language $A$ is mapping reducible to language $B$, i.e., $A \leq_m B$, if there is a computable function $f: \Sigma^* \rightarrow \Sigma^*$, where for every $w$,
 
 - $w \in A \Leftrightarrow f(w) \in B$.
 - The function $f$ is called the reduction of $A$ to $B$.
@@ -489,4 +489,9 @@ Language $A$ is mapping reducible to language $B$, i.e., $A \leq_m B$, if there 
 
 ### 6.1 The Recursion Theorem
 
-Self Reference:
+Self Reference: making a TM that ignores its input and prints out a copy of its own description.
+
+- $A = P_{\langle B \rangle}$, i.e., $A$ takes $\langle B \rangle$ as input, prints $\langle B \rangle$ and halts.
+- $B$ reads $\langle B \rangle$ from the tape, computes $q(\langle B \rangle)$ as the description of $A$, then combines $\langle AB \rangle$ to be a complete TM, i.e., $\langle SELF \rangle$.
+
+Recursion Theorem:

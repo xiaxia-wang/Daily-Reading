@@ -1,5 +1,16 @@
 
 
+*2023-03-13*
+
+#### [Mask and Reason: Pre-Training Knowledge Graph Transformers for Complex Logical Queries](https://dl.acm.org/doi/10.1145/3534678.3539472)
+
+*Xiao Liu, Shiyu Zhao, Kai Su, Yukuo Cen, Jiezhong Qiu, Mengdi Zhang, Wei Wu, Yuxiao Dong, Jie Tang*
+
+*KDD 2022*
+
+This paper proposes a pre-training framework for logical query answering over knowledge graphs. It formulates a KG transformation strategy to turn relations into nodes thus eliminating the edge labels, and proposes a Mixture-of-Experts strategy to enhance the activation component of the transformers' feed-forward layers.
+
+
 *2023-03-09*
 
 #### [GammaE: Gamma Embeddings for Logical Queries on Knowledge Graphs](https://aclanthology.org/2022.emnlp-main.47/)
