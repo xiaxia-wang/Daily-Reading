@@ -1,9 +1,15 @@
 
 
 
+*2023-03-14*
 
+#### [Discovering Invariant and Changing Mechanisms from Data](https://dl.acm.org/doi/10.1145/3534678.3539479)
 
+*Sarah Mameche, David Kaltenpoth, Jilles Vreeken*
 
+*KDD 2022*
+
+This paper investigates the algorithmic model for causation to mechanism changes and instantiating it using Minimum Description Length (MDL). For a continuous variable 𝑌 in multiple contexts C, it identifies variables 𝑋 as causal if the regression functions 𝑔 : 𝑋 →𝑌 have succinct descriptions in all contexts.
 
 
 *2023-01-27*

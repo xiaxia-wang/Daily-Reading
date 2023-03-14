@@ -494,4 +494,23 @@ Self Reference: making a TM that ignores its input and prints out a copy of its 
 - $A = P_{\langle B \rangle}$, i.e., $A$ takes $\langle B \rangle$ as input, prints $\langle B \rangle$ and halts.
 - $B$ reads $\langle B \rangle$ from the tape, computes $q(\langle B \rangle)$ as the description of $A$, then combines $\langle AB \rangle$ to be a complete TM, i.e., $\langle SELF \rangle$.
 
-Recursion Theorem:
+Recursion Theorem: Let $T$ be a TM that computes a function $t: \Sigma^* \times \Sigma^* \rightarrow \Sigma^*$. There is a TM $R$ that computes a function $r: \Sigma^* \rightarrow \Sigma^*$, where for every $w$, $r(w) = t(\langle R \rangle, w)$.
+
+Another method to prove $A_{TM}$is undecidable:
+
+- Assume there is a TM $H$ that decides $A_{TM}$.
+- Construct a TM $B$: on input $w$,
+  - obtain $\langle B \rangle$ via the recursion theorem
+  - run $H$ on input $\langle B, w \rangle$
+  - do the opposite of the output of $H$
+- This means $H$ cannot be a decider of $A_{TM}$.
+
+$MIN_{TM} = \{\langle M \rangle | M \text{ is a minimal TM}\}$ is undecidable and not Turing-recognizable.
+
+- Proof idea: Assume that some enumerator $E$ enumerates $MIN_{TM}$. Then we construct a TM $C$, which can obtain its description $\langle C \rangle$. By running $E$ we can obtain a TM $D$ with a longer description than $C$, however, $D$ can be simulated by $C$ with a shorter description.
+
+The fixed-point version of the recursion theorem: Let $t : \Sigma^* \rightarrow \Sigma^*$ be a computable function. Then there is a TM $F$ for which $t(\langle F \rangle)$ describes a TM equivalent to $F$.
+
+- Proof idea: Construct a TM $F$ that can obtain its description $\langle F \rangle$ via the recursion theorem. Then it may compute $t(\langle F \rangle)$ to obtain the description of another TM $G$. Then it simulate $G$ on $w$, thus $\langle F \rangle = t(\langle F \rangle) = \langle G \rangle$.
+
+### 6.2 Decidability of Logical Theories
