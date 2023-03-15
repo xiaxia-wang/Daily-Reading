@@ -514,3 +514,13 @@ The fixed-point version of the recursion theorem: Let $t : \Sigma^* \rightarrow 
 - Proof idea: Construct a TM $F$ that can obtain its description $\langle F \rangle$ via the recursion theorem. Then it may compute $t(\langle F \rangle)$ to obtain the description of another TM $G$. Then it simulate $G$ on $w$, thus $\langle F \rangle = t(\langle F \rangle) = \langle G \rangle$.
 
 ### 6.2 Decidability of Logical Theories
+
+A formula with no free variables is called a sentence or statement.
+
+The language of a model: the collection of formulas that use only the relation symbols of the model assigns and that use each relation symbols with the correct arity.
+
+For a model $\mathcal{M}$, the theory of $\mathcal{M}$, denoted as $\text{Th}(\mathcal{M})$, is the collection of true sentences in the language of $\mathcal{M}$.
+
+$\text{Th}(\mathcal{N}, +)$ is decidable.
+
+- Proof idea:

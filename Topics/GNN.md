@@ -1,5 +1,16 @@
 
 
+*2023-03-15*
+
+#### [Specformer: Spectral Graph Neural Networks Meet Transformers](https://openreview.net/pdf?id=0pdSt3oyJa1)
+
+*Deyu Bo, Chuan Shi, Lele Wang, Renjie Liao*
+
+*ICLR 2023*
+
+This paper is motivated by the transformer module and tries to apply it to spectral graph neural network models. It uses the transformer module to process the eigenvalues of the spectrum. The self-attention mechanism is expected to capture the influences between the eigenvalues and produce new eigenvalues by decoding for computing graph convolution.
+
+
 *2023-03-10*
 
 #### [Global Self-Attention as a Replacement for Graph Convolution](https://dl.acm.org/doi/10.1145/3534678.3539296)
