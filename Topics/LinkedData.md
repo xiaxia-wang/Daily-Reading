@@ -2,9 +2,15 @@
 
 
 
+*2023-03-16*
 
+#### [Evaluating Knowledge Graph Accuracy Powered by Optimized Human-machine Collaboration](https://dl.acm.org/doi/10.1145/3534678.3539233)
 
+*Yifan Qi, Weiguo Zheng, Liang Hong, Lei Zou*
 
+*KDD 2022*
+
+This paper proposes a quality assessment framework for automatically constructed KGs based on human annotation. It designs a pre-computing algorithm for ranking the triples to be selected and annotated in an iterative manner.
 
 
 *2023-01-02*

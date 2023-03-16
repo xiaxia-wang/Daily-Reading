@@ -523,4 +523,23 @@ For a model $\mathcal{M}$, the theory of $\mathcal{M}$, denoted as $\text{Th}(\m
 
 $\text{Th}(\mathcal{N}, +)$ is decidable.
 
-- Proof idea:
+- Proof idea: Let $\phi = Q_1x_1Q_2x_2...Q_lx_l[\psi]$ be a sentence in the language of $(\mathcal{N}, +)$. For each $i$ from $0$ to $l$, define $\phi_i = Q_{i+1}x_{i+1}Q_{i+2}x_{i+2}...Q_lx_l [\psi]$. Constructing a list of finite automata $A_l, ... A_1$ to recognize the collection of strings that make $\phi_i$ true.
+
+$\text{Th}(\mathcal{N}, +, \times)$ is undecidable (even when restricted to the language of $(\mathcal{N}, +, \times)$).
+
+- Proof idea: Constructing a mapping reduction from $A_{TM}$ to $\text{Th}(\mathcal{N}, +, \times)$.
+
+Kurt Godel's Incompleteness Theorem (informal): in any reasonable system of formalizing the notion of provability in number theory, some true statements are unprovable.
+
+Two reasonable properties of proof:
+
+1. The correctness of a proof of a statement can be checked by machine. i.e., $\{\langle \phi, \pi \rangle | \pi \text{ is a proof of } \phi\}$ is decidable.
+2. The system of proofs is sound. i.e., anything provable is true.
+
+The collection of provable statements in $\text{Th}(\mathcal{N}, +, \times)$ is Turing-recognizable.
+
+Some true statements in $\text{Th}(\mathcal{N}, +, \times)$ is not provable. (Prove by contradiction)
+
+The sentence $\psi_{\text{unprovable}}$ is unprovable.
+
+### Turing Reducibility
