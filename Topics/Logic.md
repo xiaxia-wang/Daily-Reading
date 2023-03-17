@@ -1,5 +1,16 @@
 
 
+*2023-03-17*
+
+#### [Fuzzy Logic Based Logical Query Answering on Knowledge Graphs](https://doi.org/10.1609/aaai.v36i4.20310)
+
+*Xuelu Chen, Ziniu Hu, Yizhou Sun*
+
+*AAAI 2022*
+
+This paper proposes an embedding method for answering FOL queries over knowledge graphs based on fuzzy logic. It designs the embedding vector of entities from a fuzzy space, and requires the fuzzy logical operators to satisfy some rules as model properties.
+
+
 *2023-03-07*
 
 #### [LinE: Logical Query Reasoning over Hierarchical Knowledge Graphs](https://dl.acm.org/doi/10.1145/3534678.3539338)

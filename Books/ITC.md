@@ -543,3 +543,19 @@ Some true statements in $\text{Th}(\mathcal{N}, +, \times)$ is not provable. (Pr
 The sentence $\psi_{\text{unprovable}}$ is unprovable.
 
 ### Turing Reducibility
+
+Mapping reducibility cannot capture the intuitive concept of reducibility.
+
+- e.g., $A_{TM}$ and $\overline{A_{\text{TM}}}$ are intuitively reducible to each other, but $\overline{A_{\text{TM}}}$ is not mapping reducible to $A_{TM}$ because $A_{TM}$ is Turing-recognizable while $\overline{A_{\text{TM}}}$ is not.
+
+An oracle: an external device that is capable of reporting the gold answer, e.g., whether any string $w$ is a member of a language $B$, no matter $B$ is Turing decidable or not.
+
+Language $A$ is Turing reducible to language $B$, denoted as $A \leq_\text{T} B$, if $A$ is decidable relative to $B$.
+
+- e.g., $E_{TM}$ is decidable relative to $A_{TM}$.
+
+If $A \leq_\text{T} B$ and $B$ is decidable, then $A$ is decidable.
+
+Turing reducibility is a generalization of mapping reducibility.
+
+### A Definition of Information
