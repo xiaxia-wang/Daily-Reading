@@ -1,5 +1,16 @@
 
 
+*2023-03-18*
+
+#### [The Logical Expressiveness of Graph Neural Networks](https://openreview.net/forum?id=r1lZ7AEKvB)
+
+*Pablo Barceló, Egor V. Kostylev, Mikaël Monet, Jorge Pérez, Juan L. Reutter, Juan Pablo Silva*
+
+*ICLR 2020*
+
+It is a paper that studies the intersection of logical classifiers with (general) GNNs. Clearly GNNs can capture functions that are not logical classifiers, but one of the ideas of the paper is that if a a GNN captures a logical classifier, then this classifier can be expressed in the Description Logic ALCQ. Also, the converse holds: every ALCQ logical classifier can be captured by a GNN. (they also have some other results about adding readout functions to GNNs, but those are less relevant to us)
+
+
 *2023-03-17*
 
 #### [Fuzzy Logic Based Logical Query Answering on Knowledge Graphs](https://doi.org/10.1609/aaai.v36i4.20310)

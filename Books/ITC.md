@@ -559,3 +559,27 @@ If $A \leq_\text{T} B$ and $B$ is decidable, then $A$ is decidable.
 Turing reducibility is a generalization of mapping reducibility.
 
 ### A Definition of Information
+
+The minimal description $d(x)$ of a binary string $x$: the shortest string $\langle M, w \rangle$ where TM $M$ on input $w$ halts with $x$ on its tape.
+
+- The descriptive complexity (a.k.a. Kolmogorov complexity) of $x$: $\text{K}(x) = |d(x)|$.
+
+Properties of $\text{K}(x)$:
+
+- $\exist c \forall x [\text{K}(x) \leq |x| + c]$
+- $\exist c \forall x [\text{K}(xx) \leq \text{K}(x) + c]$
+- $\exist c \forall x, y [\text{K}(xy) \leq 2\text{K}(x) + \text{K}(y) + c]$, can be further optimized to $\text{K}(xy)\leq 2 \log(\text{K}(x)) + \text{K}(x) + \text{K}(y) + c$
+
+Optimality of $\text{K}(x)$: 
+
+- $\forall x [\text{K}(x) \leq \text{K}_p(x) + c]$, where $\text{K}_p(x) = |d_p(x)|$ and $p(s) = x$, $p$ is a computable function and s is the lexicographically shortest string.
+
+String $x$ is $c$-compressible if $\text{K}(x) \leq |x| - c$. $x$ is incompressible when $c = 1$.
+
+Incompressible strings of every length exist.
+
+The $\text{K}$ measure of complexity is not computable, and no algorithm can decide in general whether strings are incompressible.
+
+## 7. Time Complexity
+
+### 7.1 Measuring Complexity
