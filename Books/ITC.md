@@ -570,7 +570,7 @@ Properties of $\text{K}(x)$:
 - $\exist c \forall x [\text{K}(xx) \leq \text{K}(x) + c]$
 - $\exist c \forall x, y [\text{K}(xy) \leq 2\text{K}(x) + \text{K}(y) + c]$, can be further optimized to $\text{K}(xy)\leq 2 \log(\text{K}(x)) + \text{K}(x) + \text{K}(y) + c$
 
-Optimality of $\text{K}(x)$: 
+Optimality of $\text{K}(x)$:
 
 - $\forall x [\text{K}(x) \leq \text{K}_p(x) + c]$, where $\text{K}_p(x) = |d_p(x)|$ and $p(s) = x$, $p$ is a computable function and s is the lexicographically shortest string.
 
