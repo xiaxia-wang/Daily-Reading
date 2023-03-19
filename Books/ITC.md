@@ -583,3 +583,18 @@ The $\text{K}$ measure of complexity is not computable, and no algorithm can dec
 ## 7. Time Complexity
 
 ### 7.1 Measuring Complexity
+
+The running time: regarded as a function purely of the length of the string representing the input.
+
+Worst-case analysis: the longest running time of all inputs of a particular length.
+
+Average-case analysis: the average of all the running times of inputs of a particular length.
+
+The Running Time of a deterministic TM $M$:
+
+- $f: \mathcal{N} \rightarrow \mathcal{N}$, where $f(n)$ is the maximum number of steps that $M$ uses on any input of length $n$.
+- $M$ runs in time $f(n)$, and $M$ is an $f(n)$ time TM.
+
+Let $f$ and $g$ be functions $f, g: \mathcal{N} \rightarrow \mathcal{R}^+$. Say that $f(n) = O(g(n))$ if positive integers $c$ and $n_0$ exist s.t. for every integer $n \geq n_0$, $f(n) \geq c \cdot g(n)$.
+
+When $f(n) = O(g(n))$ we say that $g(n)$ is an asymptotic upper bound for $f(n)$.
