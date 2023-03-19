@@ -595,6 +595,15 @@ The Running Time of a deterministic TM $M$:
 - $f: \mathcal{N} \rightarrow \mathcal{N}$, where $f(n)$ is the maximum number of steps that $M$ uses on any input of length $n$.
 - $M$ runs in time $f(n)$, and $M$ is an $f(n)$ time TM.
 
-Let $f$ and $g$ be functions $f, g: \mathcal{N} \rightarrow \mathcal{R}^+$. Say that $f(n) = O(g(n))$ if positive integers $c$ and $n_0$ exist s.t. for every integer $n \geq n_0$, $f(n) \geq c \cdot g(n)$.
+Let $f$ and $g$ be functions $f, g: \mathcal{N} \rightarrow \mathcal{R}^+$. Say that $f(n) = O(g(n))$ if positive integers $c$ and $n_0$ exist s.t. for every integer $n \geq n_0$, $f(n) \leq c \cdot g(n)$.
 
 When $f(n) = O(g(n))$ we say that $g(n)$ is an asymptotic upper bound for $f(n)$.
+
+Note that, for logarithms, the base is no longer necessary to be specified, since $O(\cdot)$ can always suppressing constant factors.
+
+- $O(n^c) = O(2^{c \log n}), c > 0$ : polynomial bounds
+- $O(2^{n^\delta}), \delta > 0$: exponential bounds
+
+Let $f$ and $g$ be functions $f, g: \mathcal{N} \rightarrow \mathcal{R}^+$. Say that $f(n) = o(g(n))$ if positive integers $c$ and $n_0$ exist s.t. for every integer $n \geq n_0$, $f(n) < c \cdot g(n)$.
+
+- The difference between $O(\cdot)$ and $o(\cdot)$ is analogous to the difference between $\leq$ and $<$.
