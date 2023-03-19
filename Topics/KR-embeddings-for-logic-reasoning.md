@@ -1,5 +1,16 @@
 
 
+*2023-03-19*
+
+#### [Compute Like Humans: Interpretable Step-by-step Symbolic Computation with Deep Neural Network](https://dl.acm.org/doi/10.1145/3534678.3539276)
+
+*Shuai Peng, Di Fu, Yong Cao, Yijun Liang, Gu Xu, Liangcai Gao, Zhi Tang*
+
+*KDD 2022*
+
+This paper proposes a deep neural network model for simulating math expressions' transformation in a step-by-step manner. The task is formulated as to find an acyclic path of transformation steps based on given start expression and target expression. It is divided into 2 subtasks, (1) valid transformation prediction, and (2) next expression generation. It does not consider the optimality of different paths. The model is built upon the encoder-decoder architecture, with the positional encoding based on the tree structure of the math expression.
+
+
 *2023-03-13*
 
 #### [Mask and Reason: Pre-Training Knowledge Graph Transformers for Complex Logical Queries](https://dl.acm.org/doi/10.1145/3534678.3539472)
