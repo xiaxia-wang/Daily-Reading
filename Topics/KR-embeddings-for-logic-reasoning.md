@@ -1,5 +1,16 @@
 
 
+*2023-03-20*
+
+#### [SMORE: Knowledge Graph Completion and Multi-hop Reasoning in Massive Knowledge Graphs](https://dl.acm.org/doi/10.1145/3534678.3539405)
+
+*Hongyu Ren, Hanjun Dai, Bo Dai, Xinyun Chen, Denny Zhou, Jure Leskovec, Dale Schuurmans*
+
+*KDD 2022*
+
+This paper proposes a unified method for single-hop (i.e., link prediction) and multi-hop reasoning over knowledge graphs. It implements neural transformations to simulate logical relations. To improve the computation efficiency, it proposes a bidirectional negative sampling method to obtain better training data, and operates on the full KG directly in a shared memory environment with multiple GPUs.
+
+
 *2023-03-19*
 
 #### [Compute Like Humans: Interpretable Step-by-step Symbolic Computation with Deep Neural Network](https://dl.acm.org/doi/10.1145/3534678.3539276)
