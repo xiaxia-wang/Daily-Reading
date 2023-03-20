@@ -542,7 +542,7 @@ Some true statements in $\text{Th}(\mathcal{N}, +, \times)$ is not provable. (Pr
 
 The sentence $\psi_{\text{unprovable}}$ is unprovable.
 
-### Turing Reducibility
+### 6.3 Turing Reducibility
 
 Mapping reducibility cannot capture the intuitive concept of reducibility.
 
@@ -558,7 +558,7 @@ If $A \leq_\text{T} B$ and $B$ is decidable, then $A$ is decidable.
 
 Turing reducibility is a generalization of mapping reducibility.
 
-### A Definition of Information
+### 6.4 A Definition of Information
 
 The minimal description $d(x)$ of a binary string $x$: the shortest string $\langle M, w \rangle$ where TM $M$ on input $w$ halts with $x$ on its tape.
 
@@ -607,3 +607,17 @@ Note that, for logarithms, the base is no longer necessary to be specified, sinc
 Let $f$ and $g$ be functions $f, g: \mathcal{N} \rightarrow \mathcal{R}^+$. Say that $f(n) = o(g(n))$ if positive integers $c$ and $n_0$ exist s.t. for every integer $n \geq n_0$, $f(n) < c \cdot g(n)$.
 
 - The difference between $O(\cdot)$ and $o(\cdot)$ is analogous to the difference between $\leq$ and $<$.
+
+The time complexity class $\text{TIME}(t(n))$, is the collection of all languages that are decidable by an $O(t(n))$ time TM.
+
+- e.g., $\{0^k1^k | k \geq 0\} \in \text{TIME}(n^2)$.
+
+Any language that can be decided in $o(n\log n)$ time on a single-tape TM is regular.
+
+Every $t(n)$ ($t(n) > n$) time multitape TM has an equivalent $O(t^2(n))$ time single-tape TM.
+
+The running time of a nondeterministic TM $N$ is a function $f: \mathcal{N} \rightarrow \mathcal{N}$, where $f(n)$ is the maximum number of steps that $N$ uses on any branch of its computation on any input of length $n$.
+
+Every $t(n)$ ($t(n) > n$) time nondeterministic single-tape TM has an equivalent $2^{O(t(n))}$ time deterministic single-tape TM.
+
+### 7.2 The Class P
