@@ -621,3 +621,16 @@ The running time of a nondeterministic TM $N$ is a function $f: \mathcal{N} \rig
 Every $t(n)$ ($t(n) > n$) time nondeterministic single-tape TM has an equivalent $2^{O(t(n))}$ time deterministic single-tape TM.
 
 ### 7.2 The Class P
+
+All reasonable deterministic computational models are polynomial equivalent.
+
+P is the class of languages that are decidable in polynomial time on a deterministic single-tape TM, i.e., $\text{P} = \bigcup_k \text{TIME}(n^k)$.
+
+- P is invariant for all models of computation that are polynomially equivalent to the deterministic single-tape TM.
+- P roughly corresponds to the class of problems that are realistically solvable on a computer.
+
+Every CFL is a member of P.
+
+- Proof idea: dynamic programming
+
+### 7.3 The Class NP

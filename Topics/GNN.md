@@ -1,5 +1,16 @@
 
 
+*2023-03-21*
+
+#### [Learning to Distill Graph Neural Networks](https://dl.acm.org/doi/abs/10.1145/3539597.3570480)
+
+*Cheng Yang, Yuxin Guo, Yao Xu, Chuan Shi, Jiawei Liu, Chunchen Wang, Xin Li, Ning Guo, Hongzhi Yin*
+
+*WSDM 2023*
+
+Knowledge distillation is to train a shallow student model w.r.t. a deep pretrained teacher model with soft feedbacks from the teacher model and the gold labels. Previous work generally implements the "temperature" to be a global hyper-parameter to adjust the distillation process. In contrast, this paper proposes the temperature to be learnable parameters w.r.t. the prediction loss of the student model.
+
+
 *2023-03-15*
 
 #### [Specformer: Spectral Graph Neural Networks Meet Transformers](https://openreview.net/pdf?id=0pdSt3oyJa1)
