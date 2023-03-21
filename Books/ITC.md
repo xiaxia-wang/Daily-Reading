@@ -608,7 +608,7 @@ Let $f$ and $g$ be functions $f, g: \mathcal{N} \rightarrow \mathcal{R}^+$. Say 
 
 - The difference between $O(\cdot)$ and $o(\cdot)$ is analogous to the difference between $\leq$ and $<$.
 
-The time complexity class $\text{TIME}(t(n))$, is the collection of all languages that are decidable by an $O(t(n))$ time TM.
+🚀️ $\text{TIME}(t(n))$: the collection of all languages that are decidable by an $O(t(n))$ time TM.
 
 - e.g., $\{0^k1^k | k \geq 0\} \in \text{TIME}(n^2)$.
 
@@ -634,3 +634,20 @@ Every CFL is a member of P.
 - Proof idea: dynamic programming
 
 ### 7.3 The Class NP
+
+A verifier for a language $A$ is an algorithm $V$, where $A = \{w | V \text{ accepts } \langle w, c \rangle \text{ for some string } c\}$.
+
+- a polynomial time verifier runs in polynomial time in the length of $w$.
+- a language is polnomial verifiable if it has a polynomial time verifier.
+- $c$ is additional information called a certificate or proof.
+
+NP is the class of languages that either:
+
+- have polynomial time verifiers, or
+- solvable in polynomial time on a nondeterministic TM.
+
+P is a subset of NP.
+
+🚀️ $\text{NTIME}(t(n)) = \{L | L \text{ is a language decided by a } O(t(n)) \text{ time nondeterministic TM}\}$
+
+### 7.4 NP Completeness
