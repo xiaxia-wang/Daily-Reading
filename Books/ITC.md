@@ -651,3 +651,11 @@ P is a subset of NP.
 🚀️ $\text{NTIME}(t(n)) = \{L | L \text{ is a language decided by a } O(t(n)) \text{ time nondeterministic TM}\}$
 
 ### 7.4 NP Completeness
+
+Cook-Levin Theorem: $SAT \in P$ iff. $P = NP$.
+
+Language $A$ is polynomial time (mapping) reducible to language $B$ denoted as $A \leq_P B$, if a polynomial time computable function $f: \Sigma^* \rightarrow \Sigma^*$ exists, where for every $w$, $w \in A \Leftrightarrow f(w) \in B$.
+
+- The function $f$ is called the polynomial time reduction of $A$ to $B$.
+
+$3SAT = \{\langle \phi \rangle | \phi \text{ is a satisfiable 3CNF-formula}\}$. 3CNF-formula is all the clauses have 3 literals.
