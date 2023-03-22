@@ -6,6 +6,17 @@
 
 
 
+*2023-03-22*
+
+#### [Multi-View Clustering for Open Knowledge Base Canonicalization](https://dl.acm.org/doi/10.1145/3534678.3539449)
+
+*Wei Shen, Yang Yang, Yinan Liu*
+
+*KDD 2022*
+
+This paper proposes a model for clustering open information extraction results based on two views of actual data, namely, a fact view and a context view. For the fact view, this paper utilizes the KG embeddings to represent the actual data. Meanwhile, for the context view, it uses PLM to compute k-NNs and pseudo labels. These two views are combined iteratively in an EM process, and without further need of supervised training data.
+
+
 *2023-02-04*
 
 #### [Improving Mental Health Support Response Generation with Eventuality-based Knowledge Graph](https://knowledge-nlp.github.io/aaai2023/papers/006-MHKG-oral.pdf)
