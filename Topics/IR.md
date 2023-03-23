@@ -1,6 +1,17 @@
 
 
 
+*2023-03-23*
+
+#### [Knowledge Enhanced Search Result Diversification](https://dl.acm.org/doi/10.1145/3534678.3539459)
+
+*Zhan Su, Zhicheng Dou, Yutao Zhu, Ji-Rong Wen*
+
+*KDD 2022*
+
+This paper proposes a GNN-based model for improving the diversity of document retrieval results. It firstly builds an entity-relation graph based on the document corpus and query entities. Then it applies a GCN to adjust the node weights w.r.t. the entity set covered by the selected document sequence, and aggregates the final document score with the relevance feature and diversity feature.
+
+
 *2023-02-27*
 
 #### [Noisy Interactive Graph Search](https://dl.acm.org/doi/10.1145/3534678.3539267)
