@@ -674,3 +674,7 @@ $3SAT$ is NP-complete.
 - it is usually used to show the NP-completeness of other languages.
 
 ### 7.5 Additional NP-Complete Problems
+
+Useful method to prove some language being NP-complete: find a reduction of $3SAT$ to that language.
+
+## 8. Space Complexity
