@@ -678,3 +678,24 @@ $3SAT$ is NP-complete.
 Useful method to prove some language being NP-complete: find a reduction of $3SAT$ to that language.
 
 ## 8. Space Complexity
+
+For a deterministic TM $M$, the space complexity is the function $f: \mathcal{N} \rightarrow \mathcal{N}$, where $f(n)$ is the maximum number of tape cells that $M$ scans on any input of length $n$.
+
+- If $M$ is a nondeterministic TM where all branches halt on all inputs, $f(n)$ is the maximum number of tape cells that $M$ scans on any branch of its computation for any input of length $n$.
+
+🚀️$\text{SPACE}(f(n)) = \{L | L \text{ is a language decided by an } O(f(n)) \text{ space deterministic TM}\}$
+
+🚀️$\text{NSPACE}(f(n)) =  \{L | L \text{ is a language decided by an } O(f(n)) \text{ space nondeterministic TM} \}$
+
+$\overline{ALL_\text{NFA}} = \Sigma^* - \{\langle A \rangle | A \text{ is a NFA and } L(A) = \Sigma^*\}$ is not known to be in NP or coNP, but in $\text{NSPACE}(O(n))$.
+
+### 8.1 Savitch's Theorem
+
+For any function $f: \mathcal{N} \rightarrow \mathcal{R}^+$, where $f(n) \geq n$, $\text{NSPACE}(f(n)) \subseteq \text{SPACE}(f^2(n))$.
+
+- Proof idea: use a deterministic, recursive algorithm to solve the yieldability problem, by searching for an intermediate configuration and recursively testing whether each of the two parts can be achieved within a half of steps.
+- The yieldability problem: Given 2 configurations of the NTM, $c_1$ and $c_2$, together with a number $t$, the task is to test whether the NTM can get from $c_1$ to $c_2$ within $t$ steps.
+
+Savitch's theorem shows that deterministic machines can simulate nondeterministic machines by using a surprisingly small amount of space.
+
+### 8.2 The Class PSPACE
