@@ -3,6 +3,17 @@
 
 
 
+*2023-03-25*
+
+#### [A Logic Aware Neural Generation Method for Explainable Data-to-text](https://dl.acm.org/doi/10.1145/3534678.3539082)
+
+*Xiexiong Lin, Huaisong Li, Tao Huang, Feng Wang, Linlin Chao, Fuzhen Zhuang, Taifeng Wang, Tianyi Zhang*
+
+*KDD 2022*
+
+This paper proposes a data-to-text application for anti-money laundering system based on input tabular data and expert rules. It firstly builds a logic graph based on expert rules, and extracts the meta paths from the graph. Then the tabular data and meta paths are input into a transformer encoder with an attention-based retriever to extract related statements. The target of the system is to generate descriptive text of risky behaviors of customers, which is implemented as a LSTM-based decoder.
+
+
 *2023-02-06*
 
 #### [Link-BERT: Pretraining a Language Model with Document Links](https://knowledge-nlp.github.io/aaai2023/papers/007-LinkBERT-poster.pdf)
