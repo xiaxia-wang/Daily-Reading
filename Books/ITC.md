@@ -699,3 +699,22 @@ For any function $f: \mathcal{N} \rightarrow \mathcal{R}^+$, where $f(n) \geq n$
 Savitch's theorem shows that deterministic machines can simulate nondeterministic machines by using a surprisingly small amount of space.
 
 ### 8.2 The Class PSPACE
+
+PSPACE is the class of languages that are decidable in polynomial space on a deterministic TM. i.e., $\text{PSPACE} = \bigcup_{k} \text{SPACE}(n^k)$.
+
+$\text{NPSPACE} = \text{PSPACE}$ by Savitch's theorem.
+
+$\text{P} \subseteq \text{NP} \subseteq \text{PSPACE} = \text{NPSPACE} \subseteq \text{EXPTIME}$
+
+### 8.3 PSPACE-Completeness
+
+A language $B$ is PSPACE-complete if:
+
+1. $B$ is in PSPACE.
+2. Every $A$ in PSPACE is polynomial **time** reducible to $B$.
+
+Note: Whenever we define complete problems for a complexity class, the reduction model must be more limited than the model used for defining the class itself. (Therefore, we use polynomial time reducible instead of * space reducible.)
+
+$\text{TQBF} = \{\langle \phi \rangle | \phi \text{ is a true fully quantified Boolean formula}\}$ is PSPACE-complete.
+
+- Proof idea: Firstly, showing $\text{TQBF}$ is in PSPACE by assigning truth values to the variables and recursively evaluating the formulas. Then presenting every language $A$ in PSPACE with a polynomial space-bounded TM for $A$ can be reduced to a $\text{TQBF}$ formula $\phi$. $\phi$ is true iff the machine accepts. The idea is similar to the proof of Savitch's theorem.
