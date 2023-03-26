@@ -1,9 +1,15 @@
 
 
 
+*2023-03-26*
 
+#### [GraphWorld: Fake Graphs Bring Real Insights for GNNs](https://doi.org/10.1145/3534678.3539203)
 
+*John Palowitch, Anton Tsitsulin, Brandon Mayer, Bryan Perozzi*
 
+*KDD 2022*
+
+This paper introduces GraphWorld, a system for benchmarking GNN models on an arbitrarily-large population of synthetic graphs for any conceivable GNN task. It allows a user to efficiently generate a world with millions of statistically diverse datasets. The user has fine-grained control over graph generator parameters, and can benchmark arbitrary GNN models with built-in hyperparameter tuning.
 
 
 *2023-02-02*
