@@ -287,7 +287,7 @@ A Turing machine $(Q, \Sigma, \Gamma, \delta, q_0, q_\text{accept}, q_\text{reje
 - $q_{\text{accept}} \in Q$ is the accept state, and
 - $q_{\text{reject}} \in Q$ is the reject state, where $q_{\text{reject}} \neq q_{\text{accept}}$.
 
-A configuation of the TM: For a state $q$ and 2 strings $u, v$ over $\Gamma$, use $uqv$ to represent the current state is $q$, the current tape contents is $uv$, and the current head location is the first symbol of $v$.
+A configuration of the TM: For a state $q$ and 2 strings $u, v$ over $\Gamma$, use $uqv$ to represent the current state is $q$, the current tape contents is $uv$, and the current head location is the first symbol of $v$.
 
 The language of Turing machine $M$: the collection of strings that $M$ accepts, denoted $L(M)$.
 
@@ -450,9 +450,9 @@ Rice's Theorem: Testing any property of the languages recognized by Turing machi
 Computation History: Let $M$ be a TM and $w$ an input string,
 
 - An accepting computation history for $M$ on $w$:
-  - is a sequence of configuations, $C_!, C_2, ..., C_l$, where
-  - $C_1$ is the start configuation,
-  - $C_l$ is an accepting configuation of $M$, and
+  - is a sequence of configurations, $C_!, C_2, ..., C_l$, where
+  - $C_1$ is the start configuration,
+  - $C_l$ is an accepting configuration of $M$, and
   - each $C_i$ legally follows from $C_{i-1}$.
 - A rejecting computation history is similar.
 
@@ -460,7 +460,7 @@ A linear bounded automata (LBA): a restricted type of TM wherein its tape head i
 
 $A_{LBA} = \{\langle M, w \rangle | M \text{ is a LBA that accepts string } w\}$ is decidable.
 
-- Proof idea: $M$ can be in only a limited number of configuations w.r.t. the number of states, the size of the tape alphabet, and the length of the tape. Therefore, for a given input, it should halt within a limited number of steps, otherwise it must be in a loop.
+- Proof idea: $M$ can be in only a limited number of configurations w.r.t. the number of states, the size of the tape alphabet, and the length of the tape. Therefore, for a given input, it should halt within a limited number of steps, otherwise it must be in a loop.
 
 $E_{LBA} = \{\langle M \rangle | M \text{ is a LBA where } L(M) = \emptyset\}$ is undecidable.
 
@@ -715,6 +715,32 @@ A language $B$ is PSPACE-complete if:
 
 Note: Whenever we define complete problems for a complexity class, the reduction model must be more limited than the model used for defining the class itself. (Therefore, we use polynomial time reducible instead of * space reducible.)
 
-$\text{TQBF} = \{\langle \phi \rangle | \phi \text{ is a true fully quantified Boolean formula}\}$ is PSPACE-complete.
+$TQBF = \{\langle \phi \rangle | \phi \text{ is a true fully quantified Boolean formula}\}$ is PSPACE-complete.
 
 - Proof idea: Firstly, showing $\text{TQBF}$ is in PSPACE by assigning truth values to the variables and recursively evaluating the formulas. Then presenting every language $A$ in PSPACE with a polynomial space-bounded TM for $A$ can be reduced to a $\text{TQBF}$ formula $\phi$. $\phi$ is true iff the machine accepts. The idea is similar to the proof of Savitch's theorem.
+
+$FORMULA-GAME = \{\langle \phi \rangle | \text{Player E has a winning strategy in the formula game associated with } \phi\}$ is PSPACE-complete.
+
+- Proof idea: $\phi \in TQBF$.
+
+### 8.4 The Classes L and NL
+
+$\text{L} = \text{SPACE}(\log n)$.
+
+$\text{NL} = \text{NSPACE}(\log n)$.
+
+$\{0^k1^k | k \geq 0\} \in \text{L}$.
+
+- Proof idea: using a TM that counts the remaining 0s and 1s, and records the counters with logarithmic space.
+
+$PATH = \{\langle G, s, t \rangle | G \text{ is a directed graph that has a directed path from } s \text{ to } t\} \in \text{NL}$.
+
+- Proof idea: a nondeterministic TM can "guess" the next node to go and simply store the current node.
+
+The configuration of $M$ which has a seperate read-only input tape: given the input $w$, a configuration is a setting of state, the work tape, and the positions of the two tape heads.
+
+If $M$ runs in $f(n)$ space and $w$ is an input of length $n$, the number of configurations of $M$ is $n2^{O(f(n))}$.
+
+$\text{NL} \subseteq \text{EXPTIME}$, and Savitch's theorem still holds for any $f(n) \geq \log n$.
+
+### 8.5 NL-Completeness
