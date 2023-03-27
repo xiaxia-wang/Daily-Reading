@@ -3,6 +3,18 @@
 
 
 
+
+*2023-03-27*
+
+#### [JiuZhang: A Chinese Pre-trained Language Model for Mathematical Problem Understanding](https://doi.org/10.1145/3534678.3539131)
+
+*Wayne Xin Zhao, Kun Zhou, Zheng Gong, Beichen Zhang, Yuanhang Zhou, Jing Sha, Zhigang Chen, Shijin Wang, Cong Liu, Ji-Rong Wen*
+
+*KDD 2022*
+
+This paper proposes a pre-trained language model for solving mathematical problems. It designs 3 pre-training tasks based on a model architecture consisting of a shared encoder, a decoder for understanding problems and another decoder for generation. The 3 pre-training tasks are (from easy to hard): (1) masked token prediction, (2) mathematical logic recovering, and (3) solution checking.
+
+
 *2023-03-25*
 
 #### [A Logic Aware Neural Generation Method for Explainable Data-to-text](https://dl.acm.org/doi/10.1145/3534678.3539082)
