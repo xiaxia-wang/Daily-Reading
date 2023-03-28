@@ -741,6 +741,27 @@ The configuration of $M$ which has a seperate read-only input tape: given the in
 
 If $M$ runs in $f(n)$ space and $w$ is an input of length $n$, the number of configurations of $M$ is $n2^{O(f(n))}$.
 
-$\text{NL} \subseteq \text{EXPTIME}$, and Savitch's theorem still holds for any $f(n) \geq \log n$.
+$\text{NL} \subseteq \text{EXPTIME}$ **(NOT TIGHT!!)**, and Savitch's theorem still holds for any $f(n) \geq \log n$.
 
 ### 8.5 NL-Completeness
+
+Language $A$ is log space reducible to language $B$, i.e., $A \leq_L B$, if $A$ is mapping reducible to $B$ by means of a log space computable function $f$.
+
+A language $B$ is NL-complete if:
+
+1. $B \in \text{NL}$.
+2. Every $A$ in NL is log space reducible to $B$.
+
+If $A \leq_L B$ and $B \in \text{L}$, then $A \in \text{L}$.
+
+If any NL-complete language is in L, then $\text{L} = \text{NL}$.
+
+$PATH$ is NL-complete.
+
+- Proof idea: For any language $A$ in NL, construct a graph that represents the computation of the nondeterministic TM for $A$.
+
+🚀️$\text{NL} \subseteq \text{P}$
+
+- Proof idea: Recall that a TM that uses space $f(n)$ runs in time $n2^{O(f(n))}$, and $PATH \in \text{P}$.
+
+### 8.6 NL equals coNL
