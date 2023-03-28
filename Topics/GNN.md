@@ -1,5 +1,16 @@
 
 
+*2023-03-28*
+
+#### [Graph Attention Multi-Layer Perceptron](https://doi.org/10.1145/3534678.3539121)
+
+*Wentao Zhang, Ziqi Yin, Zeang Sheng, Yang Li, Wen Ouyang, Xiaosen Li, Yangyu Tao, Zhi Yang, Bin Cui*
+
+*KDD 2022*
+
+This paper proposes a new GNN architecture named Graph Attention MLP. It consists of node-level feature and label propagation with recursive attention. Then they are feeded into a downstream MLP. In the experiments it achieves slightly better performance than GAT but with much shorter training time.
+
+
 *2023-03-21*
 
 #### [Learning to Distill Graph Neural Networks](https://dl.acm.org/doi/abs/10.1145/3539597.3570480)
