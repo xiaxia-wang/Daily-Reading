@@ -704,7 +704,7 @@ PSPACE is the class of languages that are decidable in polynomial space on a det
 
 $\text{NPSPACE} = \text{PSPACE}$ by Savitch's theorem.
 
-$\text{P} \subseteq \text{NP} \subseteq \text{PSPACE} = \text{NPSPACE} \subseteq \text{EXPTIME}$
+🚀️$\text{P} \subseteq \text{NP} \subseteq \text{PSPACE} = \text{NPSPACE} \subseteq \text{EXPTIME}$
 
 ### 8.3 PSPACE-Completeness
 
@@ -765,3 +765,13 @@ $PATH$ is NL-complete.
 - Proof idea: Recall that a TM that uses space $f(n)$ runs in time $n2^{O(f(n))}$, and $PATH \in \text{P}$.
 
 ### 8.6 NL equals coNL
+
+- Proof idea: Showing $\overline{PATH}$ is in NL, thus establish that every problem in coNL is also in NL.
+
+🚀️$\text{L} \subseteq \text{NL} =  \text{coNL} \subseteq \text{P} \subseteq \text{PSPACE}$
+
+- coNL: the complexity class containing languages that are complements of languages in NL. (Not the complement of the class NL.)
+
+## 9. Intractability
+
+### 9.1 Hierarchy Theorems
