@@ -1,6 +1,18 @@
 
 
 
+
+*2023-03-29*
+
+#### [Interpretability, Then What? Editing Machine Learning Models to Reflect Human Knowledge and Values](https://dl.acm.org/doi/10.1145/3534678.3539074)
+
+*Zijie J. Wang, Alex Kale, Harsha Nori, Peter Stella, Mark E. Nunnally, Duen Horng Chau, Mihaela Vorvoreanu, Jennifer Wortman Vaughan, Rich Caruana*
+
+*KDD 2022*
+
+This paper introduces an interactive system which allows domain experts to manually edit each prediction function within a Generalized Additive Model (GAM), in order to modify the prediction results ("to fix the problematic parts").
+
+
 *2023-03-26*
 
 #### [GraphWorld: Fake Graphs Bring Real Insights for GNNs](https://doi.org/10.1145/3534678.3539203)
