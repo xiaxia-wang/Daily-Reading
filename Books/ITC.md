@@ -775,3 +775,19 @@ $PATH$ is NL-complete.
 ## 9. Intractability
 
 ### 9.1 Hierarchy Theorems
+
+A function $f: \mathcal{N} \rightarrow \mathcal{N}$, where $f(n)$ is at least $O(\log n)$, is called space constructible if the function that maps the string $1^n$ to the binary representation of $f(n)$ is computable in space $O(f(n))$.
+
+- In other words, $f$ is space constructible if some $O(f(n))$ space TM $M$ exists that always halts with the binary representation of $f(n)$ on its tape when started on input $1^n$.
+
+Space Hierarchy Theorem: For any space constructible function $f: \mathcal{N} \rightarrow \mathcal{N}$, a language $A$ exists that is decidable in $O(f(n))$ space but not in $o(f(n))$ space.
+
+- Proof idea: describe a language $A$ that can be decided by an algorithm $D$ in $O(f(n))$ space, and prove that $D$ guarantees that $A$ is different from any language decidable in $o(f(n))$ by diagonalization.
+
+For any two functions $f_1, f_2: \mathcal{N} \rightarrow \mathcal{N}$, where $f_1(n)$ is $o(f_2(n))$ and $f_2$ is space constructible, $\text{SPACE}(f_1(n)) \subsetneq \text{SPACE}(f_2(n))$.
+
+For any 2 real numbers $0 \leq \epsilon_1 \leq \epsilon_2$, $\text{SPACE}(n^{\epsilon_1}) \subsetneq \text{SPACE}(n^{\epsilon_2})$.
+
+$\text{NL} \subsetneq \text{PSPACE} \subsetneq \text{EXPSPACE}$.
+
+- It establishes the existence of decidable problems that are intractable, in the sense that their decision procedures must use more than polynomial space.
