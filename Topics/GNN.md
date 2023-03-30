@@ -1,5 +1,16 @@
 
 
+*2023-03-30*
+
+#### [Compressing Deep Graph Neural Networks via Adversarial Knowledge Distillation](https://dl.acm.org/doi/10.1145/3534678.3539315)
+
+*Huarui He, Jie Wang, Zhanqiu Zhang, Feng Wu*
+
+*KDD 2022*
+
+To improve the discrepancy evaluation of the teacher-student model for knowledge distillation, this paper proposes an automatic discriminator and a generator based on adversarial training, which adaptively detects and decreases the discrepancy between the teacher and student model.
+
+
 *2023-03-28*
 
 #### [Graph Attention Multi-Layer Perceptron](https://doi.org/10.1145/3534678.3539121)
