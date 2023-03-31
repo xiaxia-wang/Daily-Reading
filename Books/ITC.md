@@ -786,8 +786,29 @@ Space Hierarchy Theorem: For any space constructible function $f: \mathcal{N} \r
 
 For any two functions $f_1, f_2: \mathcal{N} \rightarrow \mathcal{N}$, where $f_1(n)$ is $o(f_2(n))$ and $f_2$ is space constructible, $\text{SPACE}(f_1(n)) \subsetneq \text{SPACE}(f_2(n))$.
 
-For any 2 real numbers $0 \leq \epsilon_1 \leq \epsilon_2$, $\text{SPACE}(n^{\epsilon_1}) \subsetneq \text{SPACE}(n^{\epsilon_2})$.
+For any 2 real numbers $0 \leq \epsilon_1 < \epsilon_2$, $\text{SPACE}(n^{\epsilon_1}) \subsetneq \text{SPACE}(n^{\epsilon_2})$.
 
 $\text{NL} \subsetneq \text{PSPACE} \subsetneq \text{EXPSPACE}$.
 
 - It establishes the existence of decidable problems that are intractable, in the sense that their decision procedures must use more than polynomial space.
+
+A function $t: \mathcal{N} \rightarrow \mathcal{N}$, where $t(n)$ is at least $O(n \log n)$, is called time constructible if the function that maps the string $1^n$ to the binary representation of $t(n)$ is computable in time $O(t(n))$.
+
+Time Hierarchy Theorem: For any time constructible function $t: \mathcal{N} \rightarrow \mathcal{N}$, a language $A$ exists that is decidable in $O(t(n))$ time but not decidable in $o(t(n)/\log t(n))$ time.
+
+For any two functions $t_1, t_2: \mathcal{N} \rightarrow \mathcal{N}$, where $t_1(n)$ is $o(t_2(n) / \log t_2(n))$ and $t_2$ is time constructible, $\text{TIME}(t_1(n)) \subsetneq \text{TIME}(t_2(n))$.
+
+For any 2 real numbers $0 \leq \epsilon_1 < \epsilon_2$, $\text{TIME}(n^{\epsilon_1}) \subsetneq \text{TIME}(n^{\epsilon_2})$.
+
+$\text{P} \subsetneq \text{EXPTIME}$.
+
+A language $B$ is EXPSPACE-complete if:
+
+1. $B \in \text{EXPSPACE}$
+2. every $A$ in $\text{EXPSPACE}$ is polynomial time reducible to $B$.
+
+$EQ_{\text{REX}\uparrow} = \{\langle Q, R \rangle | Q \text{ and } R \text{ are equivalent regular expressions with exponentiation}\}$ is EXPSPACE-complete, which is actually intractable.
+
+- Proof idea: (1) sketch an EXPSPACE algorithm for $EQ_{\text{REX}\uparrow}$, (2) show a language $A$ in EXPSPACE is polynomial time reducible to $EQ_{\text{REX}\uparrow}$ using the technique of reductions via computation histories.
+
+### 9.2 Relativization
