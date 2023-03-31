@@ -1,7 +1,15 @@
 
 
 
+*2023-03-31*
 
+#### [ChatGPT is a Knowledgeable but Inexperienced Solver: An Investigation of Commonsense Problem in Large Language Models](https://arxiv.org/abs/2303.16421)
+
+*Ning Bian, Xianpei Han, Le Sun, Hongyu Lin, Yaojie Lu, Ben He*
+
+*Arxiv 2023*
+
+This paper proposes an empirical work to evaluate the ability of LLMs, especially GPTs to answer commonsense questions and exploit commonsense knowledge. This paper firstly introduces 11 commonsense datasets, and categorizes them into 8 different kinds of knowledge (e.g., physical, scientific). Then from each dataset it samples several natural language questions and asks the GPTs for an answer. It also investigates the ability of GPTs to understand and leverage the commonsense knowledge.
 
 
 *2023-03-27*
