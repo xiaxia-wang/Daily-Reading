@@ -812,3 +812,21 @@ $EQ_{\text{REX}\uparrow} = \{\langle Q, R \rangle | Q \text{ and } R \text{ are 
 - Proof idea: (1) sketch an EXPSPACE algorithm for $EQ_{\text{REX}\uparrow}$, (2) show a language $A$ in EXPSPACE is polynomial time reducible to $EQ_{\text{REX}\uparrow}$ using the technique of reductions via computation histories.
 
 ### 9.2 Relativization
+
+An oracle TM $M^A$ is a modified TM that has the additional capability of querying an oracle.
+
+$\text{P}^A$: the class of languages decidable with a polynomial time oracle TM that uses oracle $A$. 
+
+e.g., $\text{NP} \subseteq \text{P}^{SAT}$ and $\text{coNP} \subseteq \text{P}^{SAT}$.
+
+$\text{P}^{SAT}$ contains languages that are not in $\text{P}$, and $\text{NP}^{SAT}$ contains languages that are not in $\text{NP}$.
+
+An oracle $A$ exists whereby $\text{P}^A \neq \text{NP}^A$, and an oracle $B$ exists whereby $\text{P}^B = \text{NP}^B$.
+
+- Proof idea: Let $B$ be any PSPACE-complete problem such as $TQBF$, and exhibit oracle $A$ by construction.
+
+It shows that diagonalization is not sufficient to seperate $\text{P}$ and $\text{NP}$.
+
+To solve the $\text{P}$ vs. $\text{NP}$ question, we must analyze computations, not just simulate them.
+
+### 9.3 Circuit Complexity
