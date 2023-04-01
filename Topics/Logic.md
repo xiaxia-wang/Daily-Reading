@@ -1,5 +1,16 @@
 
 
+*2023-04-01*
+
+#### [A Minimal Deductive System for RDFS with Negative Statements](https://proceedings.kr.org/2022/35/)
+
+*Umberto Straccia, Giovanni Casini*
+
+*KR 2022*
+
+This paper extends RDFS to deal with negative statements under the Open World Assumption (OWA), by extending $\rho df$, a minimal RDFS fragment, to $\rho df_\bot^\neg$. The extended logic remains syntactically a triple language, and can still be handled by general RDFS reasoners (by simply ignoring the extra parts).
+
+
 *2023-03-18*
 
 #### [The Logical Expressiveness of Graph Neural Networks](https://openreview.net/forum?id=r1lZ7AEKvB)
