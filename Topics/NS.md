@@ -1,6 +1,18 @@
 
 
 
+
+*2023-04-02*
+
+#### [Open Relation Extraction with Non-existent and Multi-span Relationships](https://proceedings.kr.org/2022/37/)
+
+*Huifan Yang, Da-Wei Li, Zekun Li, Donglin Yang, Bin Wu*
+
+*KR 2022*
+
+Open relation extraction (ORE) aims to assign semantic relationships among arguments. This paper proposes a query-based open relation extractor to extract single/multi-span relations, and detect non-existent relationships. The model is based on BERT, and implements single-span extraction head for single-span relations, as well as a query-based sequence labeling head for multi-span and non existent relations.
+
+
 *2023-03-14*
 
 #### [Discovering Invariant and Changing Mechanisms from Data](https://dl.acm.org/doi/10.1145/3534678.3539479)
