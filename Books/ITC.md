@@ -815,7 +815,7 @@ $EQ_{\text{REX}\uparrow} = \{\langle Q, R \rangle | Q \text{ and } R \text{ are 
 
 An oracle TM $M^A$ is a modified TM that has the additional capability of querying an oracle.
 
-$\text{P}^A$: the class of languages decidable with a polynomial time oracle TM that uses oracle $A$. 
+$\text{P}^A$: the class of languages decidable with a polynomial time oracle TM that uses oracle $A$.
 
 e.g., $\text{NP} \subseteq \text{P}^{SAT}$ and $\text{coNP} \subseteq \text{P}^{SAT}$.
 
@@ -830,3 +830,19 @@ It shows that diagonalization is not sufficient to seperate $\text{P}$ and $\tex
 To solve the $\text{P}$ vs. $\text{NP}$ question, we must analyze computations, not just simulate them.
 
 ### 9.3 Circuit Complexity
+
+Boolean circuit: a collection of gates (including AND, OR, and NOT) and inputs connected by wires. Cycles aren't permitted.
+
+A circuit family $C$ is an infinite list of circuits, $(C_0, C_1, C_2, ...)$, where $C_n$ has $n$ input variables. $C$ decides a language $A$ over $\{0, 1\}$ if, for every string $w$, $w \in A$ iff $C_n(w) = 1$.
+
+The size of a circuit: the number of gates it contains.
+
+A circuit is size minimal if no smaller circuits is equivalent to it.
+
+The size complexity of a circuit family $(C_0, C_1, C_2, ...)$ is the function $f: \mathcal{N} \rightarrow \mathcal{N}$, where $f(n)$ is the size of $C_n$.
+
+The circuit size complexity of a language is the size complexity of a minimal circuit family for that language.
+
+Let $t: \mathcal{N} \rightarrow \mathcal{N}$ be a function, where $t(n) \geq n$. If $A \in \text{TIME}(t(n))$, then $A$ has circuit complexity $O(t^2(n))$.
+
+- Proof idea: Let $M$ be a TM that decides $A$ in time $t(n)$. For each $n$, construct a circuit $C_n$ that simulates $M$ on inputs of length $n$.
