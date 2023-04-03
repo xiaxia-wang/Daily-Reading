@@ -846,3 +846,15 @@ The circuit size complexity of a language is the size complexity of a minimal ci
 Let $t: \mathcal{N} \rightarrow \mathcal{N}$ be a function, where $t(n) \geq n$. If $A \in \text{TIME}(t(n))$, then $A$ has circuit complexity $O(t^2(n))$.
 
 - Proof idea: Let $M$ be a TM that decides $A$ in time $t(n)$. For each $n$, construct a circuit $C_n$ that simulates $M$ on inputs of length $n$.
+
+$CIRCUIT\text{-}SAT = \{\langle C \rangle | C \text{ is a satisfiable Boolean circuit}\}$.
+
+$CIRCUIT\text{-}SAT$ is NP-complete.
+
+$3SAT$ is NP-complete. (Another proof to the Cook-Levin theorem.)
+
+- Proof idea: reduct $CIRCUIT\text{-}SAT$ to $3SAT$ in polynomial time by using variables in $\phi$ to simulate each variable and each gate in a circuit.
+
+## 10. Advanced Topics in Complexity Theory
+
+### 10.1 Approximation Algorithms
