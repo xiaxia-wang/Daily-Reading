@@ -2,6 +2,18 @@
 
 
 
+
+*2023-04-03*
+
+#### [Looking Inside the Black-Box: Logic-based Explanations for Neural Networks](https://proceedings.kr.org/2022/45/)
+
+*João Ferreira, Manuel de Sousa Ribeiro, Ricardo Gonçalves, João Leite*
+
+*KR 2022*
+
+This paper proposes to extract logical concepts from a trained (and fixed) neural network model. Specifically, based on the fixed neural network model, it selects different tensors from each level, and trains a mapping network to produces connections between neuron activations and human-defined concepts.
+
+
 *2023-04-02*
 
 #### [Open Relation Extraction with Non-existent and Multi-span Relationships](https://proceedings.kr.org/2022/37/)
