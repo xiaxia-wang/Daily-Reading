@@ -858,3 +858,20 @@ $3SAT$ is NP-complete. (Another proof to the Cook-Levin theorem.)
 ## 10. Advanced Topics in Complexity Theory
 
 ### 10.1 Approximation Algorithms
+
+An approximation algorithm for a minimization problem is $k$-optimal if it always finds a solution that is not more than $k$ times optimal. Similarly, for a maximization problem a $k$-optimal approximation algorithm always finds a solution that is at least $1/k$ times the size of the optimal.
+
+### 10.2 Probabilistic Algorithms
+
+A probabilistic TM $M$ is a type of nondeterministic T< in which each nondeterministic step is a "coin-flip" step.
+
+- The probability of branch $b$: $\text{Pr}[b] = 2^{-k}$, where $k$ is the number of coin-flip steps that occur on branch $b$
+- The probability that $M$ accepts $w$: $\text{Pr}[M \text{ accepts } w] = \sum_{b \text{ is an accepting branch }}\text{Pr}[b]$
+- $\text{Pr}[M \text{ rejects } w] = 1 - \text{Pr}[M \text{ accepts } w]$.
+
+For $0 \leq \epsilon < 1/2$, $M$ recognizes language $A$ with error probability $\epsilon$ if:
+
+- $w \in A$ implies $\text{Pr}[M \text{ accepts } w] \geq 1 - \epsilon$
+- $w \notin A$ implies $\text{Pr}[M \text{ rejects } w] \geq 1 - \epsilon$
+
+BPP: the class of languages that are recognized by probabilistic polynomial time TM with an error probability of $1/3$.
