@@ -3,6 +3,17 @@
 
 
 
+*2023-04-05*
+
+#### [Embed2Sym - Scalable Neuro-Symbolic Reasoning via Clustered Embeddings](https://proceedings.kr.org/2022/44/)
+
+*Yaniv Aspis, Krysia Broda, Jorge Lobo, Alessandra Russo*
+
+*KR 2022*
+
+This paper proposes a two-stage model as perception and reasoning for symbolic reasoning tasks. As an example, it deals with the problem of identifying numbers from figures and computing their additions. It firstly gets the embeddings of each figure using a neural network, and conducts k-NN based clustering of embedding vectors. Then, each cluster is labeled with a distinct concept (i.e., the number). Finally, the symbolic reasoning part makes predictions based on the given rules.
+
+
 *2023-04-03*
 
 #### [Looking Inside the Black-Box: Logic-based Explanations for Neural Networks](https://proceedings.kr.org/2022/45/)
