@@ -874,4 +874,20 @@ For $0 \leq \epsilon < 1/2$, $M$ recognizes language $A$ with error probability 
 - $w \in A$ implies $\text{Pr}[M \text{ accepts } w] \geq 1 - \epsilon$
 - $w \notin A$ implies $\text{Pr}[M \text{ rejects } w] \geq 1 - \epsilon$
 
-BPP: the class of languages that are recognized by probabilistic polynomial time TM with an error probability of $1/3$.
+$\text{BPP}$: the class of languages that are recognized by probabilistic polynomial time TM with an error probability of $1/3$.
+
+Given $0 \leq \epsilon < 1/2$, for any polynomial $\text{poly}(n)$ a probabilistic polynomial time TM $M_1$ that operates with error probability $\epsilon$ has an equivalent probabilistic time TM $M_2$ that operates with an error probability of $2^{-\text{poly}(n)}$.
+
+- Proof idea: $M_2$ simulates $M_1$ by running it a polynomial number of times and taking the majority vote of the outcomes.
+
+Fermat's little theorem: If $p$ is prime and $a \in \mathcal{Z}^+_p$ then $a^{p-1} \equiv 1$ (mod $p$).
+
+Fermat test: $p$ passes the test at $a$ iff $a^{p-1} \equiv 1$ (mod $p$).
+
+A number is pseudoprime if it passes Fermat test for all smaller $a$ relatively prime to it. (Exceptions: Carmichael numbers, which are composite).
+
+If $p$ is an odd prime number, $\text{Pr}[PRIME \text{ accepts } p] = 1$.
+
+If $p$ is an odd composite number, $\text{Pr}[PRIME \text{ accepts } p] \leq 2^{-k}$.
+
+$PRIMES \in \text{BPP}$.
