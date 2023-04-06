@@ -874,7 +874,7 @@ For $0 \leq \epsilon < 1/2$, $M$ recognizes language $A$ with error probability 
 - $w \in A$ implies $\text{Pr}[M \text{ accepts } w] \geq 1 - \epsilon$
 - $w \notin A$ implies $\text{Pr}[M \text{ rejects } w] \geq 1 - \epsilon$
 
-$\text{BPP}$: the class of languages that are recognized by probabilistic polynomial time TM with an error probability of $1/3$.
+🚀️$\text{BPP}$: the class of languages that are recognized by probabilistic polynomial time TM with an error probability of $1/3$.
 
 Given $0 \leq \epsilon < 1/2$, for any polynomial $\text{poly}(n)$ a probabilistic polynomial time TM $M_1$ that operates with error probability $\epsilon$ has an equivalent probabilistic time TM $M_2$ that operates with an error probability of $2^{-\text{poly}(n)}$.
 
@@ -891,3 +891,13 @@ If $p$ is an odd prime number, $\text{Pr}[PRIME \text{ accepts } p] = 1$.
 If $p$ is an odd composite number, $\text{Pr}[PRIME \text{ accepts } p] \leq 2^{-k}$.
 
 $PRIMES \in \text{BPP}$.
+
+$\text{RP}$ is the class of languages that are recognized by probabilistic polynomial time TM where inputs in the language are accepted with a probability of at least $1/2$ and inputs not in the language are rejected with a probability of $1$.
+
+A branching program is a directed acyclic graph where all nodes are labeled by variables, except for 3 output nodes labeled 0 or 1. The nodes that are labeled by variables are called query nodes.
+
+$EQ_{\text{ROBP}} = \{\langle B_1, B_2 \rangle | B_1 \text{ and } B_2 \text{ are equivalent read-once branching programs}\} \in \text{BPP}$.
+
+- Proof idea: randomly select a non-boolean assignment to the variables $x_1, \dots, x_m$ and evaluate the equivalence of $B_1$ and $B_2$.
+
+### 10.3 Alternation
