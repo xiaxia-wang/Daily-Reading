@@ -901,3 +901,45 @@ $EQ_{\text{ROBP}} = \{\langle B_1, B_2 \rangle | B_1 \text{ and } B_2 \text{ are
 - Proof idea: randomly select a non-boolean assignment to the variables $x_1, \dots, x_m$ and evaluate the equivalence of $B_1$ and $B_2$.
 
 ### 10.3 Alternation
+
+An alternating TM: a nondeterministic TM with an additional feature that except for $q_{\text{accept}}$ and $q_{\text{reject}}$, the other states are divided into universal and existential states.
+
+$\text{ATIME}(t(n)) = \{L | L \text{ is decided by an } O(t(n)) \text{ time alternating TM} \}$
+
+$\text{ASPACE}(f(n)) = \{L | L \text{ is decided by an } O(f(n)) \text{ space alternating TM}\}$
+
+$TAUT = \{\langle \phi \rangle | \phi \text{ is a tautology}\} \in \text{AP}$
+
+$MIN\text{-}FORMULA = \{\langle \phi \rangle | \phi \text{ is a minimal Boolean formula}\} \in \text{AP}$
+
+For $f(n) \geq n$, $\text{ATIME(f(n))} \subseteq \text{SPACE}(f(n)) \subseteq ATIME(f^2(n))$
+
+- Proof idea:
+  1. Using a deterministic space $O(f(n))$ TM to simulate an alternating time $O(f(n))$ TM $M$ by performing DFS with a   recursion stack.
+  2. Similar to Savitch's theorem, constructing a general procedure for the yieldability problem.
+
+For $f(n) \geq \log n$, $\text{ASPACE}(f(n)) = \text{TIME}(2^{O(f(n))})$
+
+- Proof idea:
+  1. $\text{ASPACE}(f(n)) \subseteq \text{TIME}(2^{O(f(n))})$: Constructing a deterministic time $2^{O(f(n))}$ TM to simulate an alternating time $O(f(n))$ TM $M$.
+  2. $\text{ASPACE}(f(n)) \supseteq \text{TIME}(2^{O(f(n))})$: Recursively guess and verify the contents of the individual cells of the tableau.
+
+$\text{AL} = \text{P}, \text{AP} = \text{PSPACE}, \text{APSPACE} = \text{EXPTIME}$
+
+The Polynomial Time Hierarchy:
+
+- $\sum_i$-alternating TM: an alternating TM that contains at most $i$ runs of universal or extential steps, starting with extential steps.
+- $\prod_i$-alternating TM: similar but starting with universal steps.
+
+$\sum_i \text{TIME}(f(n))$: the class of languages that a $\sum_i$ alternating TM can decide in $O(f(n))$ time.
+
+$\prod_i \text{TIME}(f(n))$: the class of languages that a $\prod_i$ alternating TM can decide in $O(f(n))$ time.
+
+- $\sum_i \text{P} = \bigcup_k \sum_i \text{TIME} (n^k)$
+- $\prod_i \text{P} = \bigcup_k \prod_i \text{TIME}(n^k)$
+
+$\text{PH} =  \bigcup_i \sum_i \text{P} = \bigcup_i \prod_i \text{P}$
+
+- $\text{NP} = \sum_1 \text{P}$, $\text{coNP} = \prod_1 \text{P}$
+
+### 10.4 interactive Proof System
