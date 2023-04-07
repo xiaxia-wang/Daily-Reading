@@ -3,6 +3,18 @@
 
 
 
+
+*2023-04-07*
+
+#### [Learning Generalized Policies without Supervision Using GNNs](https://proceedings.kr.org/2022/49/)
+
+*Simon Ståhlberg, Blai Bonet, Hector Geffner*
+
+*KR 2022*
+
+This paper proposes a GNN model for the classical planning problem, which is related to logic programs and finite-state controllers. It represents the features of states in the planning by node embeddings, and modifies the way of message passing accordingly.
+
+
 *2023-04-05*
 
 #### [Embed2Sym - Scalable Neuro-Symbolic Reasoning via Clustered Embeddings](https://proceedings.kr.org/2022/44/)
