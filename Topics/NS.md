@@ -4,6 +4,18 @@
 
 
 
+
+*2023-04-08*
+
+#### [Learning Typed Rules over Knowledge Graphs](https://proceedings.kr.org/2022/51/)
+
+*Hong Wu, Zhe Wang, Kewen Wang, Yi-Dong Shen*
+
+*KR 2022*
+
+This paper proposes a rule learning method for Horn clauses with class (type) information. It firstly samples related paths starting from some head predicates $p$ in a BFS manner. Then it applies path-based and embedding-based methods to score the paths, supported by the type information and sub/super-class relations. Finally, the generated rules are evaluated using statistical metrics (standard confidence and head coverage).
+
+
 *2023-04-07*
 
 #### [Learning Generalized Policies without Supervision Using GNNs](https://proceedings.kr.org/2022/49/)

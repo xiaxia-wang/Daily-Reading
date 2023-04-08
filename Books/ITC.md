@@ -942,4 +942,4 @@ $\text{PH} =  \bigcup_i \sum_i \text{P} = \bigcup_i \prod_i \text{P}$
 
 - $\text{NP} = \sum_1 \text{P}$, $\text{coNP} = \prod_1 \text{P}$
 
-### 10.4 interactive Proof System
+### 10.4 Interactive Proof Systems
