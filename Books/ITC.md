@@ -966,3 +966,35 @@ $\#SAT = \{\langle \phi \rangle | \phi \text{ is a cnf-formula with exactly } k 
 - Proof idea: present a protocol whereby the Prover persuades the Verifier that $k$ is the actual number of satisfying assignments of a given cnf-formula $\phi$.
 
 ### 10.5 Parallel Computation
+
+A language has simultaneous size-depth circuit complexity at most $(f(n), g(n))$ if a uniform circuit family exists for that language with size complexity $f(n)$ and depth complexity $g(n)$.
+
+For $i \geq 1$, $\text{NC}^i$ is the class of languages that can be decided by a uniform family of circuits with polynomial size and $O(\log^i n )$ depth.
+
+$\text{NC}$ is the class of languages that are in $\text{NC}^i$ for some $i$.
+
+Functions that are computable by such circuit families are called $\text{NC}^i$-computable.
+
+$\text{NC}^1 \subseteq \text{L}$
+
+$\text{NL} \subseteq \text{NC}^2$
+
+$\text{NC} \subseteq \text{P}$
+
+### 10.6 Cryptography
+
+One-way function: a length-preserving function $f$ which
+
+1. is computable in polynomial time.
+2. for every probabilistic polynomial time TM $M$, every $k$, and sufficiently large $n$, if we pick a random $w$ of length $n$ and run $M$ on input $w$, $\text{Pr}[M(f(w)) = y \text{ where } f(y) = f(w)] \leq n^{-k}$.
+
+A trapdoor function $f: \Sigma^* \times \Sigma^* \rightarrow \Sigma^*$ is a length-preserving indexing function that has an auxiliary probabilistic polynomial time TM $G$ and an auxiliary function $h: \Sigma^* \times \Sigma^* \rightarrow \Sigma^*$ that satisfy: ($G$ generates an index $i$ of a function in the index family while simultaneously generating a value $t$ that allows $f_i$ to be inverted quickly.)
+
+1. $f$ and $g$ are computable in polynomial time.
+2. for every probabilistic polynomial time TM $E$, every $k$ and sufficiently large $n$, if we take a random output $\langle i, t \rangle$ of $G$ on $1^n$ and a random $w \in \Sigma^*$, then $\text{Pr}[E(i, f_i(w)) = y, \text{ where } f_i(y) = f_i(w)] \leq n^{-k}$. ($f_i$ is hard to invert in the absent of $t$.)
+3. for every $n$, every $w$ of length $n$, and every output $\langle i, t \rangle$ of $G$ that occurs with nonzero probability for some input to $G$, $h(t, f_i(w)) = y, \text{ where } f_i(y) = f_i(w)$. ($f_i$ is easy to invert when $t$ is known, and $h$ is the invert function.)
+
+A popular applicatoin of the trapdoor function: the RSA cryptosystem.
+
+- Finish at 2023/04/09
+- 🎉️[完结撒花，再接再厉]🎉️
