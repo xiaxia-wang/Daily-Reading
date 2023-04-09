@@ -943,3 +943,26 @@ $\text{PH} =  \bigcup_i \sum_i \text{P} = \bigcup_i \prod_i \text{P}$
 - $\text{NP} = \sum_1 \text{P}$, $\text{coNP} = \prod_1 \text{P}$
 
 ### 10.4 Interactive Proof Systems
+
+The verifier is a function with 3 inputs: input string, random input, partial message history
+
+- $V(w, r, m_1\#m_2\#\cdots\#m_i) = m_{i+1}$
+- $V: \Sigma^* \times \Sigma^* \times \Sigma^* \rightarrow \Sigma^* \cup \{accept, reject\}$
+
+The prover is a function with 2 inputs: input string, partial message history
+
+- $P(w, m_1\#\cdots\#m_i) = m_{i+1}$
+- $P: \Sigma^* \times \Sigma^* \rightarrow \Sigma^*$
+
+A language $A$ is in $\text{IP}$ if some polynomial time function $V$ and arbitrary function $P$ exists, where for every function $\widetilde{P}$ and string $w$:
+
+1. $w \in A$ implies $\text{Pr}[V \leftrightarrow P \text{ accepts } w] \geq \frac{2}{3}$
+2. $w \notin A$ implies $\text{Pr}[V \leftrightarrow \widetilde{P} \text{ accepts } w] \leq \frac{1}{3}$
+
+🚀️$\text{IP} = \text{PSPACE}$
+
+$\#SAT = \{\langle \phi \rangle | \phi \text{ is a cnf-formula with exactly } k \text{ satisfying assignments}\} \in \text{IP}$
+
+- Proof idea: present a protocol whereby the Prover persuades the Verifier that $k$ is the actual number of satisfying assignments of a given cnf-formula $\phi$.
+
+### 10.5 Parallel Computation
