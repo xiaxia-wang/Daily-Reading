@@ -1,5 +1,16 @@
 
 
+*2023-04-09*
+
+#### [How well do Large Language Models perform in Arithmetic tasks](https://arxiv.org/pdf/2304.02015.pdf)
+
+*Zheng Yuan, Hongyi Yuan, Chuanqi Tan, Wei Wang, Songfang Huang*
+
+*Arxiv 2023*
+
+This paper evaluates the ability of LLMs handling arithmetic tasks, such as Euler equation and decimal calculation. It also analyzes the failed cases of ChatGPT and the effectiveness of different prompts.
+
+
 *2023-04-06*
 
 #### [Large Language Model Is Not a Good Few-shot Information Extractor, but a Good Reranker for Hard Samples!](https://arxiv.org/abs/2303.08559)
