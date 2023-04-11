@@ -3,7 +3,7 @@
 
 *2023-04-11*
 
-#### [Querying Large Language Models with SQL](https://arxiv.org/pdf/2304.00472.pdf)
+#### [Querying Large Language Models with SQL[Vision]](https://arxiv.org/pdf/2304.00472.pdf)
 
 *Mohammed Saeed, Nicola De Cao, Paolo Papotti*
 
