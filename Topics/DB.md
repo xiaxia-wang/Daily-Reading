@@ -1,11 +1,15 @@
 
 
 
+*2023-04-11*
 
+#### [Querying Large Language Models with SQL](https://arxiv.org/pdf/2304.00472.pdf)
 
+*Mohammed Saeed, Nicola De Cao, Paolo Papotti*
 
+*Arxiv 2023*
 
-
+This vision paper introduces a new possibility of implementing SQL with LLMs. To leverage the LLMs for SQL query, it firstly decomposes the original query into components. For each components, it uses LLMs in an in-context learning manner to get the query results. The LLMs generally perform as an underlying source of tuple sets, providing relevant answers/intermediate information for the query.
 
 
 *2022-12-12*
