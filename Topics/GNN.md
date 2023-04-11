@@ -1,5 +1,16 @@
 
 
+*2023-04-10*
+
+#### [Graph Mixture of Experts: Learning on Large-Scale Graphs with Explicit Diversity Modeling](https://arxiv.org/pdf/2304.02806.pdf)
+
+*Haotao Wang, Ziyu Jiang, Yan Han, Zhangyang Wang*
+
+*Arxiv 2023*
+
+This paper proposes a Mixture-of-Experts strategy for the message aggregation of graph neural network. Indeed, the different "experts" are 1-hop and 2-hop GCN-like message passing functions with different weights. Besides, it also introduces the loss function to balance the workload between different experts.
+
+
 *2023-03-30*
 
 #### [Compressing Deep Graph Neural Networks via Adversarial Knowledge Distillation](https://dl.acm.org/doi/10.1145/3534678.3539315)
