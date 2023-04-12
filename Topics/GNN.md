@@ -1,5 +1,16 @@
 
 
+*2023-04-12*
+
+#### [MixHop: Higher-Order Graph Convolutional Architectures via Sparsified Neighborhood Mixing](http://proceedings.mlr.press/v97/abu-el-haija19a.html)
+
+*Sami Abu-El-Haija, Bryan Perozzi, Amol Kapoor, Nazanin Alipourfard, Kristina Lerman, Hrayr Harutyunyan, Greg Ver Steeg, Aram Galstyan*
+
+*ICML 2019*
+
+This paper proposes to extend basic GCN models with message aggregation from higher-order neighbors. It proves that the model with higher-order graph convolution layers has different expressiveness power compared with basic GCNs.
+
+
 *2023-04-10*
 
 #### [Graph Mixture of Experts: Learning on Large-Scale Graphs with Explicit Diversity Modeling](https://arxiv.org/pdf/2304.02806.pdf)
