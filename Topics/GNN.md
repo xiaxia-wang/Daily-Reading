@@ -1,5 +1,16 @@
 
 
+*2023-04-14*
+
+#### [GraphMAE: Self-Supervised Masked Graph Autoencoders](https://doi.org/10.1145/3534678.3539321)
+
+*Zhenyu Hou, Xiao Liu, Yukuo Cen, Yuxiao Dong, Hongxia Yang, Chunjie Wang, Jie Tang*
+
+*KDD 2022*
+
+Generally, self-supervised methods can be divided into contrastive learning and generative learning. This paper proposes a generative learning method based on graph autoencoder model to re-construct the graph structure. It improves existing GAE models in 3 ways: (1) incorporating node features as target of reconstruction, (2) using a re-mask strategy with a 1-layer GNN as decoder, and (3) applying scaled cosine error instead of MSE as the loss function.
+
+
 *2023-04-12*
 
 #### [MixHop: Higher-Order Graph Convolutional Architectures via Sparsified Neighborhood Mixing](http://proceedings.mlr.press/v97/abu-el-haija19a.html)
