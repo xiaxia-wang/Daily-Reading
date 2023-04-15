@@ -1,5 +1,16 @@
 
 
+*2023-04-15*
+
+#### [Rethinking GNN-based Entity Alignment on Heterogeneous Knowledge Graphs: New Datasets and A New Method](https://arxiv.org/pdf/2304.03468.pdf)
+
+*Xuhui Jiang, Chengjin Xu, Yinghan Shen, Fenglong Su, Yuanzhuo Wang, Fei Sun, Zixuan Li, Huawei Shen*
+
+*Arxiv 2023*
+
+This paper discusses existing entity alignment methods from the perspectives of datasets and focuses of models. Firstly, it presents that existing benchmarking datasets for the EA task are not well enough (unrealistic overlapping rates, similar structure and scale, etc.) Then it compares and analyzes the important features (entity name, structure, temporal information) for EA based on experiments. It also proposes highly heterogeneous (i.e., more realistic) datasets and a preliminary simple EA model based on the important features.
+
+
 *2023-03-12*
 
 #### [Joint Knowledge Graph Completion and Question Answering](https://dl.acm.org/doi/10.1145/3534678.3539289)
