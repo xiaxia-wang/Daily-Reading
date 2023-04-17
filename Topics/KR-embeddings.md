@@ -1,5 +1,16 @@
 
 
+*2023-04-17*
+
+#### [A Survey on Knowledge Graphs: Representation, Acquisition, and Applications](https://doi.org/10.1109/TNNLS.2021.3070843)
+
+*Shaoxiong Ji, Shirui Pan, Erik Cambria, Pekka Marttinen, Philip S. Yu*
+
+*TNNLS 2022*
+
+This survey paper generally summarizes the research fields related to knowledge graphs, including knowledge representation learning, knowledge acquisition, temporal knowledge graphs and knowledge-aware applications. Each of them are further divided into 3-4 specific research directions. Their basic ideas and representative work are also introduced.
+
+
 *2023-04-15*
 
 #### [Rethinking GNN-based Entity Alignment on Heterogeneous Knowledge Graphs: New Datasets and A New Method](https://arxiv.org/pdf/2304.03468.pdf)
