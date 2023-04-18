@@ -1,4 +1,14 @@
 
+*2023-04-18*
+
+#### [RRHF: Rank Responses to Align Language Models with Human Feedback without tears](https://arxiv.org/pdf/2304.05302.pdf)
+
+*Zheng Yuan, Hongyi Yuan, Chuanqi Tan, Wei Wang, Songfang Huang, Fei Huang*
+
+*Arxiv 2023*
+
+InstructGPT implements RLHF through several stages, including Supervised Fine-Tuning (SFT), reward model training, and Proximal Policy Optimization (PPO). To address the problem that PPO is sensitive to parameter and hard to train, this paper proposes another learning method by aligning model response with human feedback through ranking loss.
+
 
 *2023-04-09*
 
