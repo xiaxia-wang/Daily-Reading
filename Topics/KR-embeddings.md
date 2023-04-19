@@ -1,5 +1,16 @@
 
 
+*2023-04-19*
+
+#### [Hyperbolic Embedding Inference for Structured Multi-Label Prediction](https://proceedings.neurips.cc/paper_files/paper/2022/hash/d51ab0fc62fe2d777c7569952f518f56-Abstract-Conference.html)
+
+*Bo Xiong, Michael Cochez, Mojtaba Nayyeri, Steffen Staab*
+
+*NeurIPS 2022*
+
+This paper investigates the problem of multi-label prediction under implication and mutual exclusion constraints. It considers the problem as an embedding inference task, and formulates a Poincaré ball model to encode different labels. The logical relationships (implication and exclusion) are geometrically encoded using insideness and disjointedness of these convex regions, where labels are separated by linear decision boundaries.
+
+
 *2023-04-17*
 
 #### [A Survey on Knowledge Graphs: Representation, Acquisition, and Applications](https://doi.org/10.1109/TNNLS.2021.3070843)
