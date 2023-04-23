@@ -1,6 +1,18 @@
 
 
 
+
+*2023-04-23*
+
+#### [Shall We Pretrain Autoregressive Language Models with Retrieval? A Comprehensive Study](https://arxiv.org/pdf/2304.06762.pdf)
+
+*Boxin Wang, Wei Ping, Peng Xu, Lawrence McAfee, Zihan Liu, Mohammad Shoeybi, Yi Dong, Oleksii Kuchaiev, Bo Li, Chaowei Xiao, Anima Anandkumar, Bryan Catanzaro*
+
+*Arxiv 2023*
+
+This paper proposes a comprehensive comparison between LMs with or without retrieval as augmentation. It shows that, smaller pretrained LMs with retrieval augmentation generally outperforms the standard GPT on text generation and other tasks. The findings highlight the direction of pretraining autoregressive LMs with retrieval being a promising model in future work.
+
+
 *2023-03-31*
 
 #### [ChatGPT is a Knowledgeable but Inexperienced Solver: An Investigation of Commonsense Problem in Large Language Models](https://arxiv.org/abs/2303.16421)
