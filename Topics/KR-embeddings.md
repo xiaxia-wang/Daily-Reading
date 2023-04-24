@@ -1,5 +1,16 @@
 
 
+*2023-04-24*
+
+#### [Learning to Defer with Limited Expert Predictions](https://arxiv.org/pdf/2304.07306.pdf)
+
+*Patrick Hemmer, Lukas Thede, Michael Vössing, Johannes Jakubik, Niklas Kühl*
+
+*AAAI 2023*
+
+Learning to defer algorithms are used by models to decide whether to generate predictions by itself or to pass them to human experts (comment: feels like a combination of human-in-the-loop and crowdsourcing). This paper proposes a new approach with 3 steps: (1) Training an embedding model with ground truth labels, which is used to extract feature representations. (2) They serve as input for the training of an expertise predictor model to approximate the human expert’s capabilities. (3) The expertise predictor model generates artificial expert predictions for the instances not labeled by the human expert.
+
+
 *2023-04-19*
 
 #### [Hyperbolic Embedding Inference for Structured Multi-Label Prediction](https://proceedings.neurips.cc/paper_files/paper/2022/hash/d51ab0fc62fe2d777c7569952f518f56-Abstract-Conference.html)
