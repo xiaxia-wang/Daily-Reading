@@ -1,5 +1,16 @@
 
 
+*2023-04-25*
+
+#### [Temporal Aggregation and Propagation Graph Neural Networks for Dynamic Representation](https://arxiv.org/pdf/2304.07503)
+
+*Tongya Zheng, Xinchao Wang, Zunlei Feng, Jie Song, Yunzhi Hao, Mingli Song, Xingen Wang, Xinyu Wang, Chun Chen*
+
+*IEEE TKDE 2023*
+
+Compared with previous works which usually generate dynamic representation of the graph with limited neighbors, this paper proposes TAP-GNN (short for Temporal Aggregation and Propagation Graph Neural Networks), which applies temporal graph convolution over the whole neighborhood, supported by AP (aggregation and propagation) blocks.
+
+
 *2023-04-22*
 
 #### [GNNUERS: Fairness Explanation in GNNs for Recommendation via Counterfactual Reasoning](https://arxiv.org/pdf/2304.06182.pdf)
