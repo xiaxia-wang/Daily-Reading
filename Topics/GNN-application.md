@@ -1,5 +1,16 @@
 
 
+*2023-04-26*
+
+#### [Addressing Variable Dependency in GNN-based SAT Solving](https://arxiv.org/pdf/2304.08738.pdf)
+
+*Zhiyuan Yan, Min Li, Zhengyuan Shi, Wenjie Zhang, Yingcong Chen, Hongce Zhang*
+
+*Arxiv 2023*
+
+This paper proposes a new GNN-based architecture for predicting a satisfiable boolean assignment for a given CNF formula. Notice that some previous work cannot handle a kind of CNFs which have symmetric variables and asymmetric values (e.g., a XOR b), this paper incorporates recurrent neural networks, specifically, GRU units, into the model. The bi-directional massage passing on the computation graph follows the topological order of the circuit graph.
+
+
 *2023-04-25*
 
 #### [Temporal Aggregation and Propagation Graph Neural Networks for Dynamic Representation](https://arxiv.org/pdf/2304.07503)
