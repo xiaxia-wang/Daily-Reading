@@ -1,5 +1,16 @@
 
 
+*2023-04-27*
+
+#### [Learn to Explain Efficiently via Neural Logic Inductive Learning](https://openreview.net/pdf?id=SJlh8CEYDB)
+
+*Yuan Yang, Le Song*
+
+*ICLR 2020*
+
+This paper proposes an optimized model for neural logic ILP. Notice that previous work of ILP has several limitations, including (1) the NP-hardness of ILP that involves exponentially growing number of parameters, (2) can only handle chain-like rules, and (3) the relation paths are binded to specific query. To address these problems, this paper proposes a transformer-based model that divides the search space into 3 hierarchical subspaces, and introduces functions to represent unary and binary predicates thus transforming the original queries into skolem forms. It applies multi-head attention to capture the relations in the rule body between the source and target entities.
+
+
 *2023-04-01*
 
 #### [A Minimal Deductive System for RDFS with Negative Statements](https://proceedings.kr.org/2022/35/)
