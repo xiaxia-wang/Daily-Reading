@@ -1,5 +1,17 @@
 
 
+
+*2023-04-28*
+
+#### [Ruleformer: Context-aware Differentiable Rule Mining over Knowledge Graph](https://arxiv.org/pdf/2209.05815.pdf)
+
+*Zezhong Xu, Peng Ye, Hui Chen, Meng Zhao, Huajun Chen, Wen Zhang*
+
+*COLING 2022*
+
+This paper formulates rule mining as a sequence generation problem, and proposes an encoder-decoder model for the link prediction task. Specifically, to mitigate the heavy tailed problem of rarely-seen entities in the KG, it introduces domain and range embeddings for each relation to provide the entity with some background information. It starts with extracting a subgraph of the given source entity, and applies the transformer-based encoder-decoder model to predict the next relation.
+
+
 *2023-04-27*
 
 #### [Learn to Explain Efficiently via Neural Logic Inductive Learning](https://openreview.net/pdf?id=SJlh8CEYDB)
