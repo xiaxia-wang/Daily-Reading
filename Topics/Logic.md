@@ -1,6 +1,18 @@
 
 
 
+
+*2023-04-29*
+
+#### [Anytime Bottom-Up Rule Learning for Knowledge Graph Completion](https://doi.org/10.24963/ijcai.2019/435)
+
+*Christian Meilicke, Melisachew Wudage Chekol, Daniel Ruffinelli, Heiner Stuckenschmidt:*
+
+*IJCAI 2019*
+
+This paper proposes an anytime bottom-up rule learning algorithm, whose basic idea is to sample paths from a given knowledge graph. A sampling strategy is used to efficiently compute the confidences of a rule using scoring function.
+
+
 *2023-04-28*
 
 #### [Ruleformer: Context-aware Differentiable Rule Mining over Knowledge Graph](https://arxiv.org/pdf/2209.05815.pdf)
