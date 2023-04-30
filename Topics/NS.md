@@ -3,6 +3,15 @@
 
 
 
+*2023-04-30*
+
+#### [NeuPSL: Neural Probabilistic Soft Logic](https://arxiv.org/abs/2205.14268)
+
+*Connor Pryor, Charles Dickens, Eriq Augustine, Alon Albalak, William Wang, Lise Getoor*
+
+*IJCAI 2023*
+
+This paper proposes an architecture combining both neural and symbolic inference. It applies an energy function to capture the symbolic potentials where dependencies between relations and attributes of atoms are encoded with weighted first-order logical clauses and linear arithmetic inequalities as rules. (To be honest I do not understand this part very well...but it seems indeed broad and effective.) The experiments were conducted over MNIST-Add1 and MNIST-Add2.
 
 
 *2023-04-08*
