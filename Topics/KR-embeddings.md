@@ -1,5 +1,16 @@
 
 
+*2023-05-02*
+
+#### [Semantic Specialization for Knowledge-based Word Sense Disambiguation](https://arxiv.org/pdf/2304.11340.pdf)
+
+*Sakae Mizuki, Naoaki Okazaki*
+
+*EACL 2023*
+
+This paper proposes a knowledge-based method for word sense disambiguation (WSD) by learning two transformations bringing the sense embedding and the context embedding close to each other. The initial sense and context embeddings are generated using a frozen BERT. For each sense, 3 sets of senses, i.e., related senses, different senses, and unrelated senses, are collected from WordNet. The 2 transformations are implemented as 2-layer feed-forward networks. The loss function to train the transformations incorporates a contrastive loss: bring related senses closer while unrelated senses further away.
+
+
 *2023-04-24*
 
 #### [Learning to Defer with Limited Expert Predictions](https://arxiv.org/pdf/2304.07306.pdf)
