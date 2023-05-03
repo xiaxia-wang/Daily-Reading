@@ -1,5 +1,16 @@
 
 
+*2023-05-03*
+
+#### [Rethinking the Expressive Power of GNNs via Graph Biconnectivity](https://openreview.net/forum?id=r9hNv76KoT3)
+
+*Bohang Zhang, Shengjie Luo, Shengjie Luo, Liwei Wang, Di He*
+
+*ICLR 2023 Best Paper*
+
+This paper investigates the ability of GNNs to identify the biconnectivity of graphs as a measure of their expressive power. Unlike the well-known WL test being an upper-bound of GNNs' expressive power, the problem of graph biconnectivity is easy to solve in practice. However, most of existing GNN models are unable to even identify whether or not a given graph contains a cut vertex or cut edge. Motivated by this, this paper analyzes a special kind of GNN, named Equivariant Subgraph Aggregation Network (ESAN), which is being able to identify the graph biconnectivity. It further proposes a framework called Generalized Distance Weisfeiler-Lehman (GD-WL) test, as an advanced method to test the GNN's expressive power.
+
+
 *2023-04-14*
 
 #### [GraphMAE: Self-Supervised Masked Graph Autoencoders](https://doi.org/10.1145/3534678.3539321)
