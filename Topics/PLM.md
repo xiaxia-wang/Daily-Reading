@@ -2,6 +2,17 @@
 
 
 
+*2023-05-05*
+
+#### [Controlled Text Generation with Natural Language Instructions](https://arxiv.org/pdf/2304.14293)
+
+*Wangchunshu Zhou, Yuchen Eleanor Jiang, Ethan Wilcox, Ryan Cotterell, Mrinmaya Sachan*
+
+*ICML 2023*
+
+This paper is about training a LLM for the controlled text generation task. It considers 5 kinds of constraints: lexical constraints, syntax constraints, semantic constraints, style constraints and length constraints. For training data, it collects a very large corpus containing 1M constraint-text pairs for each kind of constraints, and designs templates to transform the training pair, especially the constraint, to natural language instructions to be fed to the model.
+
+
 *2023-04-23*
 
 #### [Shall We Pretrain Autoregressive Language Models with Retrieval? A Comprehensive Study](https://arxiv.org/pdf/2304.06762.pdf)
