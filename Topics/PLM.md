@@ -2,6 +2,17 @@
 
 
 
+*2023-05-06*
+
+#### [Context Generation Improves Open Domain Question Answering](https://arxiv.org/pdf/2210.06349)
+
+*Dan Su, Mostofa Patwary, Shrimai Prabhumoye, Peng Xu, Ryan Prenger, Mohammad Shoeybi, Pascale Fung, Anima Anandkumar, Bryan Catanzaro*
+
+*EACL 2023*
+
+To improve the performance of closed-book QA (i.e., the model directly answers the question without access to any external knowledge), this paper proposes a two-stage framework, which firstly uses a PLM to generate related contexts for the given question, and then prompts the same LM to generate the answer based on the contexts. Besides, it also marginalizes over the generated contexts to further improve the accuracy and reduce context uncertainty.
+
+
 *2023-05-05*
 
 #### [Controlled Text Generation with Natural Language Instructions](https://arxiv.org/pdf/2304.14293)
