@@ -1,6 +1,17 @@
 
 
 
+*2023-05-08*
+
+#### [Understand the Dynamic World: An End-to-End Knowledge Informed Framework for Open Domain Entity State Tracking](https://arxiv.org/pdf/2304.13854.pdf)
+
+*Mingchen Li, Lifu Huang*
+
+*SIGIR 2023*
+
+Open domain entity state tracking aims to predict reasonable state changes of entities. This paper proposes a model for this purpose by firstly retrieving related entities and attributes from an external knowledge graph, and designing a dynamic encoder-decoder process to generate state changes.
+
+
 *2023-03-24*
 
 #### [Unsupervised Key Event Detection from Massive Text Corpora](https://dl.acm.org/doi/10.1145/3534678.3539395)
