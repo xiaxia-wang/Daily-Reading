@@ -1,6 +1,17 @@
 
 
 
+*2023-05-09*
+
+#### [Multivariate Representation Learning for Information Retrieval](https://arxiv.org/pdf/2304.14522.pdf)
+
+*Hamed Zamani, Michael Bendersky*
+
+*SIGIR 2023*
+
+Instead of using k-dim vectors to represent the queries and documents in dense retrieval, this paper proposes another framework by representing both of them using k-variate normals. The query-document similarity is then computed by KL-divergence between distributions.
+
+
 *2023-05-08*
 
 #### [Understand the Dynamic World: An End-to-End Knowledge Informed Framework for Open Domain Entity State Tracking](https://arxiv.org/pdf/2304.13854.pdf)
