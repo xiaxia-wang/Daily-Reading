@@ -1,5 +1,16 @@
 
 
+*2023-05-10*
+
+#### [Improving Knowledge Graph Entity Alignment with Graph Augmentation](https://arxiv.org/pdf/2304.14585.pdf)
+
+*Feng Xie, Xiang Zeng, Bin Zhou, Yusong Tan*
+
+*PAKDD 2023*
+
+This paper proposes a model for entity alignment with a simple Entity-Relation (ER) encoder to generate latent representations for entities via jointly modeling structural information and relation semantics. Besides, it uses graph augmentation to create two graph views for margin-based alignment learning and contrastive entity representation learning, thus mitigating structural heterogeneity and improving the alignment performance.
+
+
 *2023-05-02*
 
 #### [Semantic Specialization for Knowledge-based Word Sense Disambiguation](https://arxiv.org/pdf/2304.11340.pdf)
