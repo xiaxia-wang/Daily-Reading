@@ -2,6 +2,17 @@
 
 
 
+*2023-05-11*
+
+#### [A Unified Generative Retriever for Knowledge-Intensive Language Tasks via Prompt Learning](https://arxiv.org/pdf/2304.14856.pdf)
+
+*Jiangui Chen, Ruqing Zhang, Jiafeng Guo, Maarten de Rijke, Yiqun Liu, Yixing Fan, Xueqi Cheng*
+
+*SIGIR 2023*
+
+This paper proposes a unified generative retriever model for different knowledge-intensive retrieval tasks, including document retrieval, passage retrieval, sentences retrieval and entity retrieval. It firstly proposes a n-gram-based identifier to identify relevant contexts, and then tries several prompt learning strategy (i.e., discrete prompts, continuous prompts and hybrid prompts) for each of the tasks.
+
+
 *2023-05-06*
 
 #### [Context Generation Improves Open Domain Question Answering](https://arxiv.org/pdf/2210.06349)
