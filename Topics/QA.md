@@ -8,6 +8,17 @@
 
 
 
+*2023-05-12*
+
+#### [Few-shot In-context Learning for Knowledge Base Question Answering](https://arxiv.org/pdf/2305.01750.pdf)
+
+*Tianle LI, Xueguang Ma, Alex Zhuang, Yu Gu, Yu Su, Wenhu Chen*
+
+*ACL 2023*
+
+This paper proposes a KBQA method based on in-context learning. Given an input query, the LLM model firstly generates corresponding logical forms for the query. Then it applies entity and relation binders to ground the variables to the actual dataset, and executes the query under relation- and class- constraints.
+
+
 *2023-03-04*
 
 #### [Semantic Framework based Query Generation for Temporal Question Answering over Knowledge Graphs](https://aclanthology.org/2022.emnlp-main.122/)
