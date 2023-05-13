@@ -1,9 +1,15 @@
 
 
 
+*2023-05-13*
 
+#### [Efficient Approximation Algorithms for the Diameter-Bounded Max-Coverage Group Steiner Tree Problem](https://dl.acm.org/doi/10.1145/3543507.3583257)
 
+*Ke Zhang, Xiaoqing Wang, Gong Cheng*
 
+*TheWebConf 2023*
+
+This paper formalizes the problem of Diameter-bounded max-Coverage GST (DCGST) as a generalized version of typical GST problem. It proposes a first approximation algorithm, analyzes its approximation ratio, and demonstrates its effectiveness over real-world datasets.
 
 
 *2022-10-12*
