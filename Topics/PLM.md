@@ -2,6 +2,18 @@
 
 
 
+
+*2023-05-14*
+
+#### [Entity Tracking in Language Models](https://arxiv.org/pdf/2305.02363.pdf)
+
+*Najoung Kim, Sebastian Schuster*
+
+*ACL 2023*
+
+This paper proposes a task of tracking the states of an entity given an English description of its initial state and following state change operations. By experimenting over several PLMs, the results reveal that only models in the GPT3.5 series, which have been trained on both text and code, are able to perform non-trivial entity tracking. Besides, a smaller language model (i.e., T5) can learn to perform nontrivial entity tracking. These results suggest that language models can learn to track entities but pretraining on text corpora alone does not make this capacity surface.
+
+
 *2023-05-11*
 
 #### [A Unified Generative Retriever for Knowledge-Intensive Language Tasks via Prompt Learning](https://arxiv.org/pdf/2304.14856.pdf)
