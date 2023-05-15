@@ -3,6 +3,18 @@
 
 
 
+
+*2023-05-15*
+
+#### [Faithful Question Answering with Monte-Carlo Planning](https://arxiv.org/pdf/2305.02556.pdf)
+
+*Ruixin Hong, Hongming Zhang, Hong Zhao, Dong Yu, Changshui Zhang*
+
+*ACL 2023*
+
+This paper proposes a model for question answering based on Monte-Carlo planning to conduct step-by-step reasoning. It produces the reasoning steps in the form of an entailment tree, and the answer following from the steps. The entailment tree contains basic facts and novel intermediate conclusions connected by entailment steps, and the entailment step are decided by PLM-based scoring model.
+
+
 *2023-05-14*
 
 #### [Entity Tracking in Language Models](https://arxiv.org/pdf/2305.02363.pdf)
