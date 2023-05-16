@@ -4,6 +4,18 @@
 
 
 
+
+*2023-05-16*
+
+#### [Solving Math Word Problems via Cooperative Reasoning induced Language Models](https://arxiv.org/pdf/2210.16257)
+
+*Xinyu Zhu, Junjie Wang, Lin Zhang, Yuxiang Zhang, Ruyi Gan, Jiaxing Zhang, Yujiu Yang*
+
+*ACL 2023*
+
+This paper proposes a reasoning framework containing cooperative training and inference. By making a PLM output both the answer and corresponding reasoning process for a given question, and also including 2 verifiers at the token-level and sentence-level, the model is able to provide feedback in the whole solution generation process.
+
+
 *2023-05-15*
 
 #### [Faithful Question Answering with Monte-Carlo Planning](https://arxiv.org/pdf/2305.02556.pdf)
