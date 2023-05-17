@@ -2,7 +2,15 @@
 
 
 
+*2023-05-17*
 
+#### [Reasoning with Language Model Prompting: A Survey](https://arxiv.org/pdf/2212.09597.pdf)
+
+*Shuofei Qiao, Yixin Ou, Ningyu Zhang, Xiang Chen, Yunzhi Yao, Shumin Deng, Chuanqi Tan, Fei Huang, Huajun Chen*
+
+*ACL 2023*
+
+Taxonomy, comparison and resources of reasoning methods based on language model prompting.
 
 
 *2023-05-16*
