@@ -2,6 +2,17 @@
 
 
 
+*2023-05-18*
+
+#### [Open-Domain Hierarchical Event Schema Induction by Incremental Prompting and Verification](https://blender.cs.illinois.edu/paper/hierarchicalschema2023.pdf)
+
+*Sha Li, Ruining Zhao, Manling Li, Heng Ji, Chris Callison-Burch, Jiawei Han*
+
+*ACL 2023*
+
+Instead of extracting event instances and learning to generalize their schema, this paper proposes to treat event schema as commonsense knowledge that can be derived from LLMs. It proposes an incremental prompting and verification method for doing so, which consists of 3 major steps, event skeleton construction, event expansion, and event-event relation verification.
+
+
 *2023-05-17*
 
 #### [Reasoning with Language Model Prompting: A Survey](https://arxiv.org/pdf/2212.09597.pdf)
