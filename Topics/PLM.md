@@ -2,6 +2,18 @@
 
 
 
+
+*2023-05-19*
+
+#### [Unlearning Bias in Language Models by Partitioning Gradients](https://blender.cs.illinois.edu/paper/debiasinggradient2023.pdf)
+
+*Charles Yu, Sullam Jeoung, Anish Kasi, Pengfei Yu, Heng Ji*
+
+*ACL 2023*
+
+This paper investigates the problem of biased information captured by PLMs. To mitigate the problem, it proposes a method of partitioned contrastive gradient unlearning to optimize the weights that contribute most to a specific domain of bias, using a first-order approximation based on the gradients of contrastive sentence pairs.
+
+
 *2023-05-18*
 
 #### [Open-Domain Hierarchical Event Schema Induction by Incremental Prompting and Verification](https://blender.cs.illinois.edu/paper/hierarchicalschema2023.pdf)
