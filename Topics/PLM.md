@@ -3,6 +3,18 @@
 
 
 
+
+*2023-05-20*
+
+#### [Revisiting Relation Extraction in the era of Large Language Models](https://arxiv.org/pdf/2305.05003.pdf)
+
+*Somin Wadhwa, Silvio Amir, Byron C. Wallace*
+
+*ACL 2023*
+
+This paper investigates the problem of relation extraction using LLMs by regarding it as a sequence-to-sequence generation task. The key findings include: (1) Few-shot prompting with GPT-3 achieves roughly equivalent performance to existing fully supervised models. (2) Flan-T5 is not as capable in the few-shot setting, but supervising and fine-tuning it with Chain-of-Thought style explanations (generated via GPT-3) yields SOTA results.
+
+
 *2023-05-19*
 
 #### [Unlearning Bias in Language Models by Partitioning Gradients](https://blender.cs.illinois.edu/paper/debiasinggradient2023.pdf)
