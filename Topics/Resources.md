@@ -2,6 +2,18 @@
 
 
 
+
+*2023-05-22*
+
+#### [FactKG: Fact Verification via Reasoning on Knowledge Graphs](https://arxiv.org/pdf/2305.06590.pdf)
+
+*Jiho Kim, Sungjin Park, Yeonsu Kwon, Yohan Jo, James Thorne, Edward Choi*
+
+*ACL 2023*
+
+This paper proposes a dataset named FactKG for fact verification by reasoning over knowledge graphs. It consists of 5 kinds of claims/reasoning, namely, one-hop, conjunction, existence, multi-hop and negation. The facts are extracted from DBpedia, and the claims are generated based on WebNLG.
+
+
 *2023-03-29*
 
 #### [Interpretability, Then What? Editing Machine Learning Models to Reflect Human Knowledge and Values](https://dl.acm.org/doi/10.1145/3534678.3539074)
