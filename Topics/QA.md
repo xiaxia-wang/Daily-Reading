@@ -1,11 +1,15 @@
 
 
 
+*2023-05-23*
 
+#### [Long-Tailed Question Answering in an Open World](https://arxiv.org/pdf/2305.06557.pdf)
 
+*Yi Dai, Hao Lang, Yinhe Zheng, Fei Huang, Yongbin Li*
 
+*ACL 2023*
 
-
+This paper proposes a prompt-enhanced encoder-decoder model for open world long-tailed question answering. The training data is formulated as a tuple consisting of a context $c$, a question $q$ and the answer $a$. Two crucial components of this model are (1) instance-level knowledge sharing, and (2) knowledge mining from a PLM.
 
 
 *2023-05-12*
