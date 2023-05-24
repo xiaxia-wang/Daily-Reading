@@ -1,9 +1,15 @@
 
 
 
+*2023-05-24*
 
+#### [Improving Continual Relation Extraction by Distinguishing Analogous Semantics](https://arxiv.org/pdf/2305.06620.pdf)
 
+*Wenzheng Zhao, Yuanning Cui, Wei Hu*
 
+*ACL 2023*
+
+Existing methods for continual relation extraction usually retain a small set of typical samples to re-train the model, which will potentially results in model overfitting. To address this problem, this paper proposes memory-insensitive relation prototypes and memory augmentation methods, as well as a framework  especially for addressing analogous relations that are typically difficult to process.
 
 
 *2023-03-22*
