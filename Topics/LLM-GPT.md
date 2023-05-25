@@ -1,4 +1,16 @@
 
+
+*2023-05-25*
+
+#### [Are Machine Rationales (Not) Useful to Humans? Measuring and Improving Human Utility of Free-Text Rationales](https://arxiv.org/abs/2305.07095)
+
+*Brihi Joshi, Ziyi Liu, Sahana Ramnath, Aaron Chan, Zhewei Tong, Shaoliang Nie, Qifan Wang, Yejin Choi, Xiang Ren*
+
+*ACL 2023*
+
+As LLMs being able to generate free-text rationales (i.e., chain-of-thoughts as explanation), this paper investigates the ability of LMs to help humans answer questions based on the generated rationales. To achieve this, it proposes a metric Gen-U to estimate the rationale’s helpfulness in answering similar but unseen instances. It also shows that the LMs can be trained to have better human utility by optimizing Gen-U while retaining similar performance on other tasks.
+
+
 *2023-04-18*
 
 #### [RRHF: Rank Responses to Align Language Models with Human Feedback without tears](https://arxiv.org/pdf/2304.05302.pdf)
