@@ -1,5 +1,16 @@
 
 
+*2023-05-26*
+
+#### [Faithful Knowledge Graph Explanations in Commonsense Question Answering](https://aclanthology.org/2022.emnlp-main.743/)
+
+*Guy Aglionby, Simone Teufel*
+
+*EMNLP 2022*
+
+For commonsense QA, this paper argues that faithful graph-based explanations cannot be extracted from a kind of typical models that combine a text encoder with a graph encoder, mainly due to the text encoder separately conducts reasoning. Motivated by this, it presents two empirical changes to the model, which results in the increase of reasoning proportion done by the graph encoder, thus "increasing the explanation faithfulness".
+
+
 *2023-04-26*
 
 #### [Addressing Variable Dependency in GNN-based SAT Solving](https://arxiv.org/pdf/2304.08738.pdf)
