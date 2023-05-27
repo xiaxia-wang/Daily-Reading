@@ -1,6 +1,18 @@
 
 
 
+
+*2023-05-27*
+
+#### [Structured prompt interrogation and recursive extraction of semantics (SPIRES): A method for populating knowledge bases using zero-shot learning](https://arxiv.org/abs/2304.02711)
+
+*J. Harry Caufield, Harshad Hegde, Vincent Emonet, Nomi L. Harris, Marcin P. Joachimiak, Nicolas Matentzoglu, HyeongSik Kim, Sierra A.T. Moxon, Justin T. Reese, Melissa A. Haendel, Peter N. Robinson, Christopher J. Mungall*
+
+*Arxiv 2023*
+
+This paper presents a process to use prompt interrogation for constructing knowledge bases. The result shows its accuracy is comparable to existing relation extraction methods, while being easier, more customizable and more flexible.
+
+
 *2023-05-24*
 
 #### [Improving Continual Relation Extraction by Distinguishing Analogous Semantics](https://arxiv.org/pdf/2305.06620.pdf)
