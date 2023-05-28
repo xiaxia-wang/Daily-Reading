@@ -1,5 +1,16 @@
 
 
+*2023-05-28*
+
+#### [FedHGN: A Federated Framework for Heterogeneous Graph Neural Networks](https://arxiv.org/pdf/2305.09729.pdf)
+
+*Xinyu Fu, Irwin King*
+
+*IJCAI 2023*
+
+This paper proposes a federated graph learning method by collaborative HGNN training among clients with private heterogeneous graphs, which also includes a schema-weight decoupling strategy and a schema coefficients alignment component.
+
+
 *2023-05-03*
 
 #### [Rethinking the Expressive Power of GNNs via Graph Biconnectivity](https://openreview.net/forum?id=r9hNv76KoT3)
