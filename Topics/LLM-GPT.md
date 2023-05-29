@@ -1,5 +1,17 @@
 
 
+
+*2023-05-29*
+
+#### [What In-Context Learning "Learns" In-Context: Disentangling Task Recognition and Task Learning](https://arxiv.org/pdf/2305.09731.pdf)
+
+*Jane Pan, Tianyu Gao, Howard Chen, Danqi Chen*
+
+*ACL 2023*
+
+This paper investigates the in-context learning ability of LLMs by dividing it into task recognition and task learning. It mainly reveals that (1) models can achieve non-trivial performance with only TR, and TR does not further improve with larger models or more demonstrations; (2) LLMs acquire TL as the model scales, and TL’s performance consistently improves with more demonstrations in context.
+
+
 *2023-05-25*
 
 #### [Are Machine Rationales (Not) Useful to Humans? Measuring and Improving Human Utility of Free-Text Rationales](https://arxiv.org/abs/2305.07095)
