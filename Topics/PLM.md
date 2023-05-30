@@ -1,7 +1,15 @@
 
 
 
+*2023-05-30*
 
+#### [Massively Multi-Lingual Event Understanding: Extraction, Visualization, and Search](https://arxiv.org/pdf/2305.10561.pdf)
+
+*Chris Jenkins, Shantanu Agarwal, Joel Barry, Steven Fincke, Elizabeth Boschee*
+
+*ACL 2023*
+
+This paper proposes a system for multi-lingual event extraction and search. It is based on XLM-RoBERTa for multi-lingual extraction. It is compatible with any event ontology that identifies a set of event types and argument roles. The system expects sentence-level English training data that identifies, for each event, one or more anchor spans and zero or more argument spans (with roles). It also supports the identification of time and location extraction.
 
 
 *2023-05-20*
