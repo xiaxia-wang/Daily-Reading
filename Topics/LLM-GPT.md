@@ -1,6 +1,18 @@
 
 
 
+
+*2023-05-31*
+
+#### [From chocolate bunny to chocolate crocodile: Do Language Models Understand Noun Compounds?](https://arxiv.org/pdf/2305.10568.pdf)
+
+*Jordan Coil, Vered Shwartz*
+
+*ACL 2023*
+
+Noun compound interpretation is the task of expressing a noun compound (e.g. chocolate bunny) in a free-text paraphrase that makes the relationship between the constituent nouns explicit (e.g. bunny-shaped chocolate). This paper investigates this task by modifying the noun compounds with rare or novel compounds, e.g., chocolate crocodile, and re-evaluates the performance of LLMs (e.g., GPT-3). The result shows that the outputs from GPT-3 often have significant overlap with a large Web corpus, but the parroting strategy is less beneficial for novel noun compounds.
+
+
 *2023-05-29*
 
 #### [What In-Context Learning "Learns" In-Context: Disentangling Task Recognition and Task Learning](https://arxiv.org/pdf/2305.09731.pdf)
