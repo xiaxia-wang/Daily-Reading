@@ -2,6 +2,17 @@
 
 
 
+*2023-06-01*
+
+#### [Can Language Models Solve Graph Problems in Natural Language?](https://arxiv.org/abs/2305.10037)
+
+*Heng Wang, Shangbin Feng, Tianxing He, Zhaoxuan Tan, Xiaochuang Han, Yulia Tsvetkov*
+
+*Arxiv 2023*
+
+This paper proposes a benchmark of graph-based reasoning tasks designed for evaluating LLMs. The evaluation results on GPT-3/4 demonstrate that: (1) LLMs do possess preliminary graph reasoning abilities. (2) The benefit of advanced prompting methods diminishes with complex problems. (3) Learning from examples did not happen on complex graph reasoning problems. (4) LLMs are (un)surprisingly brittle to spurious correlations in problem settings.
+
+
 *2023-05-31*
 
 #### [From chocolate bunny to chocolate crocodile: Do Language Models Understand Noun Compounds?](https://arxiv.org/pdf/2305.10568.pdf)
