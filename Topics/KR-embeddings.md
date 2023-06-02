@@ -1,5 +1,16 @@
 
 
+*2023-06-02*
+
+#### [Graph Propagation Transformer for Graph Representation Learning](https://arxiv.org/pdf/2305.11424.pdf)
+
+*Zhe Chen, Hao Tan, Tao Wang, Tianrun Shen, Tong Lu, Qiuying Peng, Cheng Cheng, Yue Qi*
+
+*IJCAI 2023*
+
+This paper proposes a transformer-based architecture for graph representation learning. Specifically, it considers three types of message passing as node-to-node, node-to-edge and edge-to-node, and proposes a graph propagation attention mechanism.
+
+
 *2023-05-10*
 
 #### [Improving Knowledge Graph Entity Alignment with Graph Augmentation](https://arxiv.org/pdf/2304.14585.pdf)
