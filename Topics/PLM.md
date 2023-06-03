@@ -1,6 +1,18 @@
 
 
 
+
+*2023-06-03*
+
+#### [Interpretable Word Sense Representations via Definition Generation: The Case of Semantic Change Analysis](https://arxiv.org/pdf/2305.11993.pdf)
+
+*Mario Giulianelli, Iris Luden, Raquel Fernandez, Andrey Kutuzov*
+
+*ACL 2023*
+
+This paper proposes to generate sense labels for a given target word based on a set of its usage examples and usage clusters. Such a generative model is especially useful for interpreting polysemous words. The obtained sense labels can be further used for semantic change analyses.
+
+
 *2023-05-30*
 
 #### [Massively Multi-Lingual Event Understanding: Extraction, Visualization, and Search](https://arxiv.org/pdf/2305.10561.pdf)
