@@ -1,5 +1,17 @@
 
 
+
+*2023-06-04*
+
+#### [Stability and Generalization of ℓp-Regularized Stochastic Learning for GCN](https://arxiv.org/pdf/2305.12085.pdf)
+
+*Shiyu Liu, Linsen Wei, Shaogao Lv, Ming Li*
+
+*IJCAI 2023*
+
+For GCN models, l-1 norm generally promotes sparsity while l-2 norm optimizes the smoothness. This paper further studies the tradeoff between sparsity and smoothness using an l-p norm (1 < p <= 2) and stochastic learning.
+
+
 *2023-05-28*
 
 #### [FedHGN: A Federated Framework for Heterogeneous Graph Neural Networks](https://arxiv.org/pdf/2305.09729.pdf)
