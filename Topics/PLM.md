@@ -2,6 +2,18 @@
 
 
 
+
+*2023-06-05*
+
+#### [Prefix Propagation: Parameter-Efficient Tuning for Long Sequences](https://arxiv.org/pdf/2305.12086.pdf)
+
+*Jonathan Li, Will Aitken, Rohan Bhambhoria, Xiaodan Zhu*
+
+*ACL 2023*
+
+This paper proposes a prefix propagation architecture for generative models by adjusting the representations of the training prompts (i.e., prefixes) in each transformer layer. It shows that prefix propagation approach is especially effective for long documents, while only requires half of the trainable parameters.
+
+
 *2023-06-03*
 
 #### [Interpretable Word Sense Representations via Definition Generation: The Case of Semantic Change Analysis](https://arxiv.org/pdf/2305.11993.pdf)
