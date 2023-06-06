@@ -3,6 +3,18 @@
 
 
 
+
+*2023-06-06*
+
+#### [Direct Fact Retrieval from Knowledge Graphs without Entity Linking](https://arxiv.org/pdf/2305.12416.pdf)
+
+*Jinheon Baek, Alham Fikri Aji, Jens Lehmann, Sung Ju Hwang*
+
+*ACL 2023*
+
+This paper introduces a simple fact retrieval model from KG, by embedding the KG into a dense space using a language model trained by the texts and facts. The fact with closest representation to the query is selected as answer in the prediction phase.
+
+
 *2023-06-05*
 
 #### [Prefix Propagation: Parameter-Efficient Tuning for Long Sequences](https://arxiv.org/pdf/2305.12086.pdf)
