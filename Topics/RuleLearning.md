@@ -2,6 +2,18 @@
 
 
 
+
+*2023-06-07*
+
+#### [Logical Entity Representation in Knowledge-Graphs for Differentiable Rule Learning](https://arxiv.org/pdf/2305.12738.pdf)
+
+*Chi Han, Qizheng He, Charles Yu, Xinya Du, Hanghang Tong, Heng Ji*
+
+*ICLR 2023*
+
+This paper follows the existing differentiable rule learning methods by extending neural representations (functions) for logical connectives (e.g., negation).
+
+
 *2023-04-29*
 
 #### [Anytime Bottom-Up Rule Learning for Knowledge Graph Completion](https://doi.org/10.24963/ijcai.2019/435)
