@@ -1,6 +1,17 @@
 
 
 
+*2023-06-10*
+
+#### [Scalable Rule Learning via Learning Representation](https://doi.org/10.24963/ijcai.2018/297)
+
+*Pouya Ghiasnezhad Omran, Kewen Wang, Zhe Wang*
+
+*IJCAI 2018*
+
+This paper also investigates the problem of path-based rule learning. Instead of using a refinement operator to search the rule space, it applies embedding models to effectively prune the search. Specifically, for a given rule head, it firstly samples a small part from the original KG containing only entities and relations related to the rule head. Then it performs rule search over the embedded subgraph with rule evaluation for instant pruning the search space.
+
+
 *2023-06-09*
 
 #### [Variational Knowledge Graph Reasoning](https://doi.org/10.18653/v1/n18-1165)
