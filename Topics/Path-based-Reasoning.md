@@ -1,6 +1,18 @@
 
 
 
+
+*2023-06-11*
+
+#### [Go for a Walk and Arrive at the Answer: Reasoning Over Paths in Knowledge Bases using Reinforcement Learning](https://openreview.net/forum?id=Syg-YfWCW)
+
+*Rajarshi Das, Shehzaad Dhuliawala, Manzil Zaheer, Luke Vilnis, Ishan Durugkar, Akshay Krishnamurthy, Alex Smola, Andrew McCallum*
+
+*ICLR 2018*
+
+This paper proposes a reinforcement learning method for knowledge graph completion. Specifically, it formulates the problem as given a query entity and a relation, to predict the other entity connected to the given one via the relation. It uses a MDP architecture to search for the reasoning path by representing each state with a 4-tuple consisting of the given entity, given relation, current entity in the path, and the answer entity. It applies a LSTM network to encode the historical states.
+
+
 *2023-06-10*
 
 #### [Scalable Rule Learning via Learning Representation](https://doi.org/10.24963/ijcai.2018/297)
