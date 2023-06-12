@@ -2,6 +2,18 @@
 
 
 
+
+*2023-06-12*
+
+#### [Multi-Hop Knowledge Graph Reasoning with Reward Shaping](https://doi.org/10.18653/v1/d18-1362)
+
+*Xi Victoria Lin, Richard Socher, Caiming Xiong*
+
+*EMNLP 2018*
+
+Similar to some other papers (e.g., MINERVA), this paper also formulates knowledge graph reasoning as a path-based reinforcement learning problem, and uses a MDP model to solve it. Specifically, it improves the model by (1) adopting pre-trained embeddings to estimate the model rewards for reducing the impact of false negative samples, and (2) forcing the agent to explore diverse paths with randomly generated edge masks.
+
+
 *2023-06-11*
 
 #### [Go for a Walk and Arrive at the Answer: Reasoning Over Paths in Knowledge Bases using Reinforcement Learning](https://openreview.net/forum?id=Syg-YfWCW)
