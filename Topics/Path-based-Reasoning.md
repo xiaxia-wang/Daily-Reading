@@ -3,6 +3,18 @@
 
 
 
+
+*2023-06-13*
+
+#### [M-Walk: Learning to Walk over Graphs using Monte Carlo Tree Search](https://proceedings.neurips.cc/paper/2018/hash/c6f798b844366ccd65d99bc7f31e0e02-Abstract.html)
+
+*Yelong Shen, Jianshu Chen, Po-Sen Huang, Yuqing Guo, Jianfeng Gao*
+
+*NeurIPS 2018*
+
+This is another work using reinforcement learning to handle path-based knowledge graph reasoning. To overcome the challenge of sparse rewards, it develops a graph-walking agent called M-Walk, which consists of a deep recurrent neural network and Monte Carlo Tree Search (MCTS). The RNN encodes the state (i.e., history of the walked path) and maps it separately to a policy and Q-values.
+
+
 *2023-06-12*
 
 #### [Multi-Hop Knowledge Graph Reasoning with Reward Shaping](https://doi.org/10.18653/v1/d18-1362)
