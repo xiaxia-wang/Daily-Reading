@@ -2,6 +2,15 @@
 
 
 
+*2023-06-14*
+
+#### [Brainformers: Trading Simplicity for Efficiency](https://arxiv.org/pdf/2306.00008.pdf)
+
+*Yanqi Zhou, Nan Du, Yanping Huang, Daiyi Peng, Chang Lan, Da Huang, Siamak Shakeri, David So, Andrew Dai, Yifeng Lu, Zhifeng Chen, Quoc Le, Claire Cui, James Laundon, Jeff Dean*
+
+*Arxiv 2023*
+
+This paper proposes a complex computation block for transformer-shaped networks called Brainformer. Compared with vanilla transformer block, it changes the way of stacking the feed-forward and attention layers, and also adds some sparsely gated feed-forward layers.
 
 
 *2023-06-06*
