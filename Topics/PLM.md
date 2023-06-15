@@ -2,6 +2,18 @@
 
 
 
+
+*2023-06-15*
+
+#### [Learning Multi-step Reasoning from Arithmetic Task](https://arxiv.org/pdf/2306.01707.pdf)
+
+*Tianduo Wang, Wei Lu*
+
+*ACL 2023*
+
+This paper proposes to enable relatively small LMs with the capability of multi-step mathematical reasoning by continually pre-training (i.e., before fine-tuning) the LM on a synthetic dataset named MSAT, short for Multi-step Arithmetic Task.
+
+
 *2023-06-14*
 
 #### [Brainformers: Trading Simplicity for Efficiency](https://arxiv.org/pdf/2306.00008.pdf)
