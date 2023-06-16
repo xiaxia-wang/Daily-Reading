@@ -1,5 +1,17 @@
 
 
+
+*2023-06-16*
+
+#### [Shrinking Embeddings for Hyper-Relational Knowledge Graphs](https://arxiv.org/pdf/2306.02199.pdf)
+
+*Bo Xiong, Mojtaba Nayyer, Shirui Pan, Steffen Staab*
+
+*ACL 2023*
+
+This paper proposes an embedding-based method for link prediction over hyper-relational knowledge graphs. A hyper-relational fact is represented by a primal triple and a set of qualifiers comprising a key-value pair that allows for expressing complicated semantics. The proposed method ShrinkE models the primal triple as a spatial-functional transformation from the head into a relation-specific box. Each qualifier “shrinks” the box to narrow down the possible answer set and, thus, realizing qualifier monotonicity.
+
+
 *2023-06-02*
 
 #### [Graph Propagation Transformer for Graph Representation Learning](https://arxiv.org/pdf/2305.11424.pdf)
