@@ -1,6 +1,18 @@
 
 
 
+
+*2023-06-17*
+
+#### [Graph-Aware Language Model Pre-Training on a Large Graph Corpus Can Help Multiple Graph Applications](https://arxiv.org/pdf/2306.02592.pdf)
+
+*Han Xie, Da Zheng, Jun Ma, Houyu Zhang, Vassilis N. Ioannidis, Xiang Song, Qing Ping, Sheng Wang, Carl Yang, Yi Xu, Belinda Zeng, Trishul Chilimbi*
+
+*KDD 2023*
+
+This paper introduces an architecture for graph-aware LM pre-training on a large graph corpus. The graph corpus generally refers to a heterogeneous graph in which nodes preserve text information and different types of edges can connect the same pair of nodes. It proposes two ways to pre-train GaLM, i.e., The LMs are pre-trained on a given large graph corpus either with or without the incorporation of GNN aggregators.
+
+
 *2023-06-04*
 
 #### [Stability and Generalization of ℓp-Regularized Stochastic Learning for GCN](https://arxiv.org/pdf/2305.12085.pdf)
