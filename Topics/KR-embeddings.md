@@ -1,6 +1,18 @@
 
 
 
+
+*2023-06-18*
+
+#### [What Makes Entities Similar? A Similarity Flooding Perspective for Multi-sourced Knowledge Graph Embeddings](https://arxiv.org/pdf/2306.02622.pdf)
+
+*Zequn Sun, Jiacheng Huang, Xiaozhou Xu, Qijin Chen, Weijun Ren, Wei Hu*
+
+*ICML 2023*
+
+This paper analyzes the translation-based (e.g., TransE) and aggregation-based (e.g., GCN) entity alignment models via a unified similarity flooding perspective. It regards the learning process of both kinds of models as to find a fix-point of pairwise similarities between two KGs in the embedding space.
+
+
 *2023-06-16*
 
 #### [Shrinking Embeddings for Hyper-Relational Knowledge Graphs](https://arxiv.org/pdf/2306.02199.pdf)
