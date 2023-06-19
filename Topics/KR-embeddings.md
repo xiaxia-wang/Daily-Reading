@@ -2,6 +2,18 @@
 
 
 
+
+*2023-06-19*
+
+#### [Joint Pre-training and Local Re-training: Transferable Representation Learning on Multi-source Knowledge Graphs](https://arxiv.org/pdf/2306.02679.pdf)
+
+*Zequn Sun, Jiacheng Huang, Jinghao Lin, Xiaozhou Xu, Qijin Chen, Wei Hu*
+
+*KDD 2023*
+
+This paper proposes a joint pre-training and re-training framework for learning KG embeddings. It explores three path encoders based on RNNs, recurrent skipping networks and Transformers. A re-training process is applied to the linked subgraph with multi-level knowledge distillation.
+
+
 *2023-06-18*
 
 #### [What Makes Entities Similar? A Similarity Flooding Perspective for Multi-sourced Knowledge Graph Embeddings](https://arxiv.org/pdf/2306.02622.pdf)
