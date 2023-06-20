@@ -1,5 +1,17 @@
 
 
+
+*2023-06-20*
+
+#### [Enabling tabular deep learning when d≫n with an auxiliary knowledge graph](https://arxiv.org/pdf/2306.04766.pdf)
+
+*Camilo Ruiz, Hongyu Ren, Kexin Huang, Jure Leskovec*
+
+*Arxiv 2023*
+
+To overcome the problem of overfitting in tabular data with extremely high d-dimensional features but limited n samples (i.e. d ≫ n), this paper uses an auxiliary KG describing input features to regularize a MLP. Each input feature corresponds to a node in the auxiliary KG. It is based on the inductive bias that two input features corresponding to similar nodes in the auxiliary KG should have similar weight vectors in the MLP’s first layer.
+
+
 *2023-05-26*
 
 #### [Faithful Knowledge Graph Explanations in Commonsense Question Answering](https://aclanthology.org/2022.emnlp-main.743/)
