@@ -3,6 +3,18 @@
 
 
 
+
+*2023-06-21*
+
+#### [Revisiting Inferential Benchmarks for Knowledge Graph Completion](https://arxiv.org/pdf/2306.04814.pdf)
+
+*Shuwen Liu, Bernardo Cuenca Grau, Ian Horrocks, Egor V. Kostylev*
+
+*KR 2023*
+
+This paper proposes a benchmark for KGC satisfying that: there is a set of logical rules so that the missing facts are the results of the rules’ application; the training set includes both premises matching rule antecedents and the corresponding conclusions; the test set consists of the results of applying the rules to the training set; the negative examples are designed to discourage the models from learning rules not entailed by the rule set.
+
+
 *2023-05-22*
 
 #### [FactKG: Fact Verification via Reasoning on Knowledge Graphs](https://arxiv.org/pdf/2305.06590.pdf)
