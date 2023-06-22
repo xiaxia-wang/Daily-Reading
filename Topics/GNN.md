@@ -2,6 +2,18 @@
 
 
 
+
+*2023-06-22*
+
+#### [Path Neural Networks: Expressive and Accurate Graph Neural Networks](https://arxiv.org/pdf/2306.05955.pdf)
+
+*Gaspard Michel, Giannis Nikolentzos, Johannes Lutzeyer, Michalis Vazirgiannis*
+
+*ICML 2023*
+
+This paper proposes Path Neural Networks (PathNNs), that is a model that updates node representations by aggregating paths emanating from nodes. It presents three different variants of the PathNN model that aggregate single shortest paths, all shortest paths and all simple paths of length up to K. It also proves that two of these variants are strictly more powerful than the 1-WL algorithm.
+
+
 *2023-06-17*
 
 #### [Graph-Aware Language Model Pre-Training on a Large Graph Corpus Can Help Multiple Graph Applications](https://arxiv.org/pdf/2306.02592.pdf)
