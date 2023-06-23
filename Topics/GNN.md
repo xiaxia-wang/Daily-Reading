@@ -3,6 +3,18 @@
 
 
 
+
+*2023-06-23*
+
+#### [Finding the Missing-half: Graph Complementary Learning for Homophily-prone and Heterophily-prone Graphs](https://arxiv.org/pdf/2306.07608.pdf)
+
+*Yizhen Zheng, He Zhang, Vincent CS Lee, Yu Zheng, Xiao Wang, Shirui Pan*
+
+*ICML 2023*
+
+Motivated by the existing GNN models usually focus only on either homophilic or heterophilic structures of the input graph and tend to ignore the other part, this paper proposes a new architecture to mitigate the problem. It consists of two modules. The first part, graph complementation, is designed to balance and utilize both kinds of structures in the graph, while the second is a modified GCN module.
+
+
 *2023-06-22*
 
 #### [Path Neural Networks: Expressive and Accurate Graph Neural Networks](https://arxiv.org/pdf/2306.05955.pdf)
