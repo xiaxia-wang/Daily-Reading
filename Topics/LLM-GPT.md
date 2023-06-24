@@ -2,6 +2,18 @@
 
 
 
+
+*2023-06-24*
+
+#### [WebGLM: Towards An Efficient Web-Enhanced Question Answering System with Human Preferences](https://arxiv.org/pdf/2306.07906.pdf)
+
+*Xiao Liu, Hanyu Lai, Hao Yu, Yifan Xu, Aohan Zeng, Zhengxiao Du, Peng Zhang, Yuxiao Dong, Jie Tang*
+
+*KDD 2023*
+
+This paper proposes WebGLM, a LLM-based system with Web search abilities for question answering. The system is compared with WebGPT. This paper also proposes systematic criteria for evaluating Web-enhanced QA systems.
+
+
 *2023-06-01*
 
 #### [Can Language Models Solve Graph Problems in Natural Language?](https://arxiv.org/abs/2305.10037)
