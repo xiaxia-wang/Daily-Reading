@@ -3,6 +3,18 @@
 
 
 
+
+*2023-06-25*
+
+#### [Unifying Large Language Models and Knowledge Graphs: A Roadmap](https://arxiv.org/abs/2306.08302)
+
+*Shirui Pan, Linhao Luo,Yufei Wang, Chen Chen, Jiapu Wang, Xindong Wu*
+
+*Arxiv 2021*
+
+This paper discusses three methods as a roadmap for unifying LLMs and KGs including: (1) KG-enhanced LLMs, which incorporates KGs during the pre-training and inference phases of LLMs, or for the purpose of enhancing understanding of the knowledge learned by LLMs, (2) LLM-augmented KGs, that leverages LLMs for different KG tasks such as embedding, completion, construction, graph-to-text generation, and question answering, (3) Synergized LLMs + KGs, in which LLMs and KGs play equal roles and work in a mutually beneficial way to enhance both LLMs and KGs for bidirectional reasoning driven by both data and knowledge.
+
+
 *2023-06-24*
 
 #### [WebGLM: Towards An Efficient Web-Enhanced Question Answering System with Human Preferences](https://arxiv.org/pdf/2306.07906.pdf)
