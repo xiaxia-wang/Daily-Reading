@@ -4,6 +4,18 @@
 
 
 
+
+*2023-06-26*
+
+#### [Evolving Computation Graphs](https://arxiv.org/pdf/2306.12943.pdf)
+
+*Andreea Deac, Jian Tang*
+
+*ICML 2023*
+
+This paper proposes a model called ECG, short for Evolving Computation Graphs, for enhancing GNNs on heterophilic datasets. Specifically, it designs a module called weak classifier, and applies BGRL (i.e., bootstrapped graph latents, a graph representation learning method) in the model. The general architecture consists of two main steps, (1) embedding extraction, and (2) parallel message passing.
+
+
 *2023-06-23*
 
 #### [Finding the Missing-half: Graph Complementary Learning for Homophily-prone and Heterophily-prone Graphs](https://arxiv.org/pdf/2306.07608.pdf)
