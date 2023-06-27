@@ -3,6 +3,18 @@
 
 
 
+
+*2023-06-27*
+
+#### [Incorporating Graph Information in Transformer-based AMR Parsing](https://arxiv.org/abs/2306.13467)
+
+*Pavlo Vasylenko, Pere-Lluís Huguet Cabot, Abelardo Carlos Martínez Lorenzo, Roberto Navigli*
+
+*ACL 2023*
+
+Abstract Meaning Representation (AMR) is a Semantic Parsing formalism that aims at providing a semantic graph abstraction representing a given text. The task is formulated as a seq2seq task with the input being a sentence and the output being a linearized graph. It incorporates the structural information from a word-aligned graph (WAG) to enrich the encoder's hidden representation. The model is built based on BART.
+
+
 *2023-06-15*
 
 #### [Learning Multi-step Reasoning from Arithmetic Task](https://arxiv.org/pdf/2306.01707.pdf)
