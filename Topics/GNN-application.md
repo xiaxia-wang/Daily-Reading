@@ -1,6 +1,18 @@
 
 
 
+
+*2023-06-28*
+
+#### [Explainable Conversational Question Answering over Heterogeneous Sources via Iterative Graph Neural Networks](https://arxiv.org/abs/2305.01548)
+
+*Philipp Christmann, Rishiraj Saha Roy, Gerhard Weikum*
+
+*SIGIR 2023*
+
+This paper proposes a pipeline for conversational question answering based on multiple information sources, and is able to provide explanatory evidences for the user. It contains 3 major stages, i.e., question understanding stage receives the conversational history as input and generates structural representation (SR) of the information need (using BART), evidence retrieval stage retrieves evidence form heterogeneous information sources, and heterogeneous answering stage constructs a graph, iteratively applies GNN to perform multitask learning to predict the output answer with explanations.
+
+
 *2023-06-20*
 
 #### [Enabling tabular deep learning when d≫n with an auxiliary knowledge graph](https://arxiv.org/pdf/2306.04766.pdf)
