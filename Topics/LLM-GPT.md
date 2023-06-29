@@ -4,6 +4,18 @@
 
 
 
+
+*2023-06-29*
+
+#### [Can ChatGPT Write a Good Boolean Query for Systematic Review Literature Search?](https://arxiv.org/abs/2302.03495)
+
+*Shuai Wang, Harrisen Scells, Bevan Koopman, Guido Zuccon*
+
+*SIGIR 2023*
+
+Systematic reviews are comprehensive reviews of the literature for a highly focused research question. This paper investigates using prompt engineering with ChatGPT to generate boolean queries for systematic reviews. By analyzing the results, it reveals that (1) ChatGPT give good performance with better precision than recall, (2) the type of prompts used has considerable effects on the effectiveness of the queries produced by ChatGPT, (3) guided prompts lead to higher effectiveness than single prompt strategies for both precision and recall, (4) two main issues, i.e., incorrect MeSH terms, and high variability in query effectiveness across multiple requests.
+
+
 *2023-06-25*
 
 #### [Unifying Large Language Models and Knowledge Graphs: A Roadmap](https://arxiv.org/abs/2306.08302)
