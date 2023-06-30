@@ -2,6 +2,18 @@
 
 
 
+
+*2023-06-30*
+
+#### [Schema-aware Reference as Prompt Improves Data-Efficient Knowledge Graph Construction](https://arxiv.org/abs/2210.10709)
+
+*Yunzhi Yao, Shengyu Mao, Ningyu Zhang, Xiang Chen, Shumin Deng, Xi Chen, Huajun Chen*
+
+*SIGIR 2023*
+
+This paper proposes a plug-in approach of schema-augmented prompting methods for KG construction. It is applied for triple-form event extraction. In a (offline) reference store construction process, it builds a map between example texts and a schema graph. In the real extraction phase, given the input text, it firstly retrieves similar text contexts in the reference store, and uses the mapped schema graph information to enhance the prompts thus benefiting KG construction.
+
+
 *2023-05-27*
 
 #### [Structured prompt interrogation and recursive extraction of semantics (SPIRES): A method for populating knowledge bases using zero-shot learning](https://arxiv.org/abs/2304.02711)
