@@ -4,6 +4,18 @@
 
 
 
+
+*2023-07-01*
+
+#### [Sequence-to-Sequence Knowledge Graph Completion and Question Answering](https://aclanthology.org/2022.acl-long.201.pdf)
+
+*Apoorv Saxena, Adrian Kochsiek, Rainer Gemulla*
+
+*ACL 2022*
+
+Unlike typical KGE methods that represent each entity with an embedding, this paper formulates KG link prediction as a sequence-to-sequence task and exchanges the triple scoring approach taken by prior KGE methods with autoregressive decoding.
+
+
 *2023-06-27*
 
 #### [Incorporating Graph Information in Transformer-based AMR Parsing](https://arxiv.org/abs/2306.13467)
