@@ -5,6 +5,18 @@
 
 
 
+
+*2023-07-02*
+
+#### [Large Language Models are Versatile Decomposers: Decompose Evidence and Questions for Table-based Reasoning](https://arxiv.org/abs/2301.13808)
+
+*Yunhu Ye, Binyuan Hui, Min Yang, Binhua Li, Fei Huang, Yongbin Li*
+
+*SIGIR 2023*
+
+This paper proposes to use LLM for decomposing both large tables and complex questions for table-based reasoning for QA. On the one hand, it applies LLM to decompose large tables into small sub-tables while retaining the useful evidences and giving up the redundancy for a given question. On the other hand, it also  uses a LLM to decompose complex questions into chain of steps (as sub-questions), which is more convenient for SQL query generation.
+
+
 *2023-06-29*
 
 #### [Can ChatGPT Write a Good Boolean Query for Systematic Review Literature Search?](https://arxiv.org/abs/2302.03495)
