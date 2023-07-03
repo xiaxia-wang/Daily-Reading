@@ -1,5 +1,17 @@
 
 
+
+*2023-07-03*
+
+#### [Normalizing Flow-based Neural Process for Few-Shot Knowledge Graph Completion](https://arxiv.org/abs/2304.08183)
+
+*Linhao Luo, Reza Haffari, Yuan Fang Li, Shirui Pan*
+
+*SIGIR 2023*
+
+Neural Processes (NPs) combine the stochastic process and neural networks to define a distribution over prediction functions with limited observed data. Normalizing flows (NFs) [36] employ a sequence of bijective mapping functions to transform a simple distribution into a complex target distribution. This paper applies the NPs and normalized flows in an encoder-decoder model for KGC.
+
+
 *2023-05-21*
 
 #### [KGA: A General Machine Unlearning Framework Based on Knowledge Gap Alignment](https://arxiv.org/pdf/2305.06535.pdf)
