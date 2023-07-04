@@ -4,6 +4,18 @@
 
 
 
+
+*2023-07-04*
+
+#### [Topic-enhanced Graph Neural Networks for Extraction-based Explainable Recommendation](https://le-wu.com/files/Publications/CONFERENCES/SIGIR-23-shuai.pdf)
+
+*Jie Shuai, Le Wu, Kun Zhang, Peijie Sun, Richang Hong, Meng Wang*
+
+*SIGIR 2023*
+
+This paper proposes a topic-based GNN model based on user reviews to achieve explainable recommendation. It first uses a pre-trained topic model to analyze reviews at the topic level, and designs a sentence-enhanced topic graph to explicitly model user preference, where topics are intermediate nodes between users and items. Corresponding sentences serve as edge features. Secondly, a review-enhanced rating graph is built to implicitly model user preference. The user and item representations from two graphs are then used for final rating prediction and explanation extraction.
+
+
 *2023-06-13*
 
 #### [M-Walk: Learning to Walk over Graphs using Monte Carlo Tree Search](https://proceedings.neurips.cc/paper/2018/hash/c6f798b844366ccd65d99bc7f31e0e02-Abstract.html)
