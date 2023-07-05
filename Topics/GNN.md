@@ -5,6 +5,18 @@
 
 
 
+
+*2023-07-05*
+
+#### [Self-Supervised Graph Structure Refinement for Graph Neural Networks](https://dl.acm.org/doi/10.1145/3539597.3570455)
+
+*Jianan Zhao, Qianlong Wen, Mingxuan Ju, Chuxu Zhang, Yanfang Ye*
+
+*WSDM 2023*
+
+Graph structure learning (GSL) aims to learn the adjacency matrix for graph neural networks. While existing methods usually learn the adjacency matrix and optimize for the downstream task in a joint manner, this paper proposes a pretrain-finetune pipeline for GSL. By regarding GSL as a link prediction task, it firstly uses a multi-view contrastive learning framework with both intra- and inter-view for pretraining. Then the graph structure is refined by modifying edges based on the pretrained model, and finetuned on the downstream task.
+
+
 *2023-06-26*
 
 #### [Evolving Computation Graphs](https://arxiv.org/pdf/2306.12943.pdf)
