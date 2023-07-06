@@ -3,7 +3,15 @@
 
 
 
+*2023-07-06*
 
+#### [BLADE: Biased Neighborhood Sampling based Graph Neural Network for Directed Graphs](https://dl.acm.org/doi/10.1145/3539597.3570430)
+
+*Srinivas Virinchi, Anoop Saladi*
+
+*WSDM 2023*
+
+This paper studies the problem of node recommendation in non-attributed directed graphs, which is to recommend top-k nodes with highest likelihood of a link with the query node. To learn the edge direction, it applies an asymmetric loss function and dual embeddings for each node. It also uses a biased sampling scheme to generate locally varying neighborhoods based on the graph structure.
 
 
 *2023-07-05*
