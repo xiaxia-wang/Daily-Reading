@@ -3,6 +3,18 @@
 
 
 
+
+*2023-07-07*
+
+#### [Global Counterfactual Explainer for Graph Neural Networks](https://dl.acm.org/doi/10.1145/3539597.3570376)
+
+*Zexi Huang, Mert Kosan, Sourav Medya, Sayan Ranu, Ambuj K. Singh*
+
+*WSDM 2023*
+
+Counterfactual reasoning aims to find a way as explanation, by minimal changes in the input graph for changing the GNN prediction. Existing methods for counterfactual explanation of GNNs are limited to instance-specific local reasoning, while this paper aims to find a small set of representative counterfactual graphs that explains all input graphs. To achieve this, it proposes GCFExplainer that powered by vertex-reinforced random walks on an edit map of graphs with a greedy summary.
+
+
 *2023-07-06*
 
 #### [BLADE: Biased Neighborhood Sampling based Graph Neural Network for Directed Graphs](https://dl.acm.org/doi/10.1145/3539597.3570430)
