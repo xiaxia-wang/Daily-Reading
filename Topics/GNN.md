@@ -3,6 +3,16 @@
 
 
 
+*2023-07-08*
+
+#### [GraphPrompt: Unifying Pre-Training and Downstream Tasks for Graph Neural Networks](https://dl.acm.org/doi/10.1145/3543507.3583386)
+
+*Zemin Liu, Xingtong Yu, Yuan Fang, Xinming Zhang*
+
+*WWW 2023*
+
+This paper proposes a pretraining-prompting framework for GNN, by applying link prediction as pre-training because it is self-supervised without requiring extra annotation. Afterwards, it applies prompts to guide node classification and graph classification as downstream tasks.
+
 
 *2023-07-07*
 
