@@ -3,6 +3,18 @@
 
 
 
+
+*2023-07-09*
+
+#### [Graph Neural Networks without Propagation](https://dl.acm.org/doi/10.1145/3543507.3583419)
+
+*Liang Yang, Qiuliang Zhang, Runjie Shi, Wenmiao Zhou, Bingxin Niu, Chuan Wang, Xiaochun Cao, Dongxiao He, Zhen Wang, Yuanfang Guo*
+
+*WWW 2023*
+
+Unlike typical GNNs using propagation-based message passing, this paper employs low-rank matrix decomposition as a local operator to update node features based on the ego-network of each node.
+
+
 *2023-07-08*
 
 #### [GraphPrompt: Unifying Pre-Training and Downstream Tasks for Graph Neural Networks](https://dl.acm.org/doi/10.1145/3543507.3583386)
