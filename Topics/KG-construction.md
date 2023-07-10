@@ -3,6 +3,18 @@
 
 
 
+
+*2023-07-10*
+
+#### [Wikidata as a seed for Web Extraction](https://dl.acm.org/doi/10.1145/3543507.3583236)
+
+*Kunpeng Guo, Dennis Diefenbach, Antoine Gourru, Christophe Gravier*
+
+*WWW 2023*
+
+This paper proposes a pipeline for extracting facts from Web pages to be added in Wikidata, which is motivated by QA-based relation extraction from textual data. The framework consists of different modules: knowledge selection (which identifies facts to be completed), data cleaning (which fetches websites that contain the underlying fact and perform general cleaning), relation extraction (which extracts the actual fact from a website), object-linking (which links the identifies object to a Wikidata item), WikidataComplete integration (which proposes extracted facts to users for fact verification).
+
+
 *2023-06-30*
 
 #### [Schema-aware Reference as Prompt Improves Data-Efficient Knowledge Graph Construction](https://arxiv.org/abs/2210.10709)
