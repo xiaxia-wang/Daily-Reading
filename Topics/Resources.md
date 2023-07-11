@@ -4,6 +4,18 @@
 
 
 
+
+*2023-07-11*
+
+#### [MLN4KB: an efficient Markov logic network engine for large-scale knowledge bases and structured logic rules](https://dl.acm.org/doi/10.1145/3543507.3583248)
+
+*Huang Fang, Yang Liu, Yunfeng Cai, Mingming Sun*
+
+*WWW 2023*
+
+Motivated by existing MLN models generally have the inefficient problem, this paper focuses on a certain class of first-order logic rules that are regarded as sufficiently expressive, and develops a highly efficient MLN inference engine called MLN4KB. It is implemented as a Julia package that supports both maximum a posteriori (MAP) inference and learning the weights of rules.
+
+
 *2023-06-21*
 
 #### [Revisiting Inferential Benchmarks for Knowledge Graph Completion](https://arxiv.org/pdf/2306.04814.pdf)
