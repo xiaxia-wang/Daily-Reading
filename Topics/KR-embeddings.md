@@ -3,6 +3,18 @@
 
 
 
+
+*2023-07-12*
+
+#### [Heterogeneous Federated Knowledge Graph Embedding Learning and Unlearning](https://dl.acm.org/doi/10.1145/3543507.3583305)
+
+*Xiangrong Zhu, Guangyao Li, Wei Hu*
+
+*WWW 2023*
+
+This paper proposes a framework for federated learning and unlearning of KG embedding. It is based on a client-server architecture, where each client contains a learning module and an unlearning module. In the learning process, it maintains local and global embeddings in parallel that mutually reinforce each other but are not identical. For the unlearning module, it conducts a retroactive interference step with hard and soft confusions followed by a passive decay step.
+
+
 *2023-06-19*
 
 #### [Joint Pre-training and Local Re-training: Transferable Representation Learning on Multi-source Knowledge Graphs](https://arxiv.org/pdf/2306.02679.pdf)
