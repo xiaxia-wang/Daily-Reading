@@ -1,6 +1,18 @@
 
 
 
+
+*2023-07-13*
+
+#### [Knowledge Graph Question Answering with Ambiguous Query](https://dl.acm.org/doi/10.1145/3543507.3583316)
+
+*Lihui Liu, Yuzhong Chen, Mahashweta Das, Hao Yang, Hanghang Tong*
+
+*WWW 2023*
+
+This paper proposes a model for ambiguous question answering over knowledge graphs. It firstly applies an embedding-based model to find top-k candidate answers for the input query. Then a query inference part is used to infer the true relation between the anchor entity and each of the candidates. After that, a neighborhood embedding based VGAE model is used to prune low quality relations, and the rest of relations are used for query ranking and answer re-ranking.
+
+
 *2023-05-23*
 
 #### [Long-Tailed Question Answering in an Open World](https://arxiv.org/pdf/2305.06557.pdf)
