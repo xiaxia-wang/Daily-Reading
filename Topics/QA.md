@@ -2,6 +2,18 @@
 
 
 
+
+*2023-07-14*
+
+#### [Hierarchy-Aware Multi-Hop Question Answering over Knowledge Graphs](https://dl.acm.org/doi/10.1145/3543507.3583376)
+
+*Junnan Dong, Qinggang Zhang, Xiao Huang, Keyu Duan, Qiaoyu Tan, Zhimeng Jiang*
+
+*WWW 2023*
+
+Given a complex question containing question entities and a domain specific KG, the answer entities (i.e., candidates) are firstly extracted, as well as a subgraph containing question entities, answer entities and their k-hop neighbors. With these being the input, the problem of hierarchy-aware multi-hop QA is formulated as finding the target answer entities among the given ones. The performance is evaluated using the prediction accuracy.
+
+
 *2023-07-13*
 
 #### [Knowledge Graph Question Answering with Ambiguous Query](https://dl.acm.org/doi/10.1145/3543507.3583316)
