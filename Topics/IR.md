@@ -1,6 +1,18 @@
 
 
 
+
+*2023-07-15*
+
+#### [TRAVERS: A Diversity-Based Dynamic Approach to Iterative Relevance Search over Knowledge Graphs](https://dl.acm.org/doi/10.1145/3543507.3583429)
+
+*Ziyang Li, Yu Gu, Yulin Shen, Wei Hu, Gong Cheng*
+
+*WWW 2023*
+
+Traditional relevance search task (over KG) requires the user to provide example question-answer pairs, which are sometimes not so useful and cannot handle cases with code start. Motivated by this, this paper proposes a labeling-based iterative relevance search method that asks the user to label current answer entities in an iterative manner. The labels will be used as reward to optimize answer entities in the next iteration. It performs a learning-to-rank process involving two rankers, i.e., a diversity-oriented ranker for supporting cold start and avoiding converging to sub-optimum caused by noisy labels, and a relevance-oriented ranker capable of handling unbalanced labels.
+
+
 *2023-05-09*
 
 #### [Multivariate Representation Learning for Information Retrieval](https://arxiv.org/pdf/2304.14522.pdf)
