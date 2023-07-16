@@ -4,6 +4,17 @@
 
 
 
+*2023-07-16*
+
+#### [Structure Pretraining and Prompt Tuning for Knowledge Graph Transfer](https://dl.acm.org/doi/10.1145/3543507.3583301)
+
+*Wen Zhang, Yushan Zhu, Mingyang Chen, Yuxia Geng, Yufeng Huang, Yajing Xu, Wenting Song, Huajun Chen*
+
+*WWW 2023*
+
+This paper introduces a pretraining-finetuning model for learning knowledge graph representation. Based on traditional Transformer layers, it reforms the input triples as sequences of tokens, and extracts subgraphs to constrain the interactions between entities. The pretraining tasks include masked entity modeling, masked relation modeling, and entity pair modeling.
+
+
 *2023-07-12*
 
 #### [Heterogeneous Federated Knowledge Graph Embedding Learning and Unlearning](https://dl.acm.org/doi/10.1145/3543507.3583305)
