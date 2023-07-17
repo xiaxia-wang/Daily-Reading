@@ -4,6 +4,18 @@
 
 
 
+
+*2023-07-17*
+
+#### [Link Prediction with Attention Applied on Multiple Knowledge Graph Embedding Models](https://dl.acm.org/doi/10.1145/3543507.3583358)
+
+*Cosimo Gregucci, Mojtaba Nayyeri, Daniel Hernández, Steffen Staab*
+
+*WWW 2023*
+
+This paper proposes an integrated KGE model by combining several existing models, in which attention is used to find the most suitable model for an input query. Meanwhile, the representation of queries and candidate answers are mapped onto a Poincare ball, which is regarded better for retaining the hierarchical graph structure.
+
+
 *2023-07-16*
 
 #### [Structure Pretraining and Prompt Tuning for Knowledge Graph Transfer](https://dl.acm.org/doi/10.1145/3543507.3583301)
