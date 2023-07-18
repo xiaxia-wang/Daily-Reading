@@ -2,6 +2,18 @@
 
 
 
+
+*2023-07-18*
+
+#### [Knowledge Graph Completion with Counterfactual Augmentation](https://dl.acm.org/doi/10.1145/3543507.3583401)
+
+*Heng Chang, Jie Cai, Jia Li*
+
+*WWW 2023*
+
+This paper proposes an instantiation of a casual model for KG based on counterfactual facts estimation. It further incorporates it into existing KGC models and achieves performance improvement.
+
+
 *2023-06-28*
 
 #### [Explainable Conversational Question Answering over Heterogeneous Sources via Iterative Graph Neural Networks](https://arxiv.org/abs/2305.01548)
