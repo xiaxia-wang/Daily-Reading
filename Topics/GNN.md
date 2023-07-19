@@ -4,6 +4,18 @@
 
 
 
+
+*2023-07-19*
+
+#### [Message Function Search for Knowledge Graph Embedding](https://dl.acm.org/doi/10.1145/3543507.3583546)
+
+*Shimin Di, Lei Chen*
+
+*WWW 2023*
+
+This paper proposes an integrated message passing module to be applied in GNN models. Motivated by existing GNNs usually have a single message passing function and can only handle some kind of KGs, this paper firstly proposes a message passing module as a MLP, in which the operators (i.e., intermediate message passing functions) can be customized (i.e., optimized) for the input KG. An algorithm is also proposed for searching the best combination of functions in a data-aware manner.
+
+
 *2023-07-09*
 
 #### [Graph Neural Networks without Propagation](https://dl.acm.org/doi/10.1145/3543507.3583419)
