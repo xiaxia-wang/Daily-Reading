@@ -2,6 +2,18 @@
 
 
 
+
+*2023-07-20*
+
+#### [Improving Content Retrievability in Search with Controllable Query Generation](https://dl.acm.org/doi/10.1145/3543507.3583261)
+
+*Gustavo Penha, Enrico Palumbo, Maryam Aziz, Alice Wang, Hugues Bouchard*
+
+*WWW 2023*
+
+This paper proposes a query generation method being able to improve: (1) the training data used for dense retrieval models, and (2) the distribution of narrow and broad intent queries issued in the system. It is proposed as a generative model based on the Transformer architecture, whose input is the entity with all its serialized metadata, and an optional input query is used as weakly supervised label.
+
+
 *2023-07-15*
 
 #### [TRAVERS: A Diversity-Based Dynamic Approach to Iterative Relevance Search over Knowledge Graphs](https://dl.acm.org/doi/10.1145/3543507.3583429)
