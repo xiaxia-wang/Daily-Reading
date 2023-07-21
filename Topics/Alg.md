@@ -1,6 +1,18 @@
 
 
 
+
+*2023-07-21*
+
+#### [Everything Evolves in Personalized PageRank](https://dl.acm.org/doi/10.1145/3543507.3583474)
+
+*Zihao Li, Dongqi Fu, Jingrui He*
+
+*WWW 2023*
+
+This paper aims to solve the Personalized PageRank effectively and efficiently in a fully dynamic setting, by tracking the exact solution at each time stamp. It proposes an offset score propagation method and shows its correctness. It can be applied for dynamic knowledge graph alignment.
+
+
 *2023-05-13*
 
 #### [Efficient Approximation Algorithms for the Diameter-Bounded Max-Coverage Group Steiner Tree Problem](https://dl.acm.org/doi/10.1145/3543507.3583257)
