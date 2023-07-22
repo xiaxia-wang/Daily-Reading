@@ -3,6 +3,18 @@
 
 
 
+
+*2023-07-22*
+
+#### [A Reference-Dependent Model for Web Search Evaluation: Understanding and Measuring the Experience of Boundedly Rational Users](https://dl.acm.org/doi/pdf/10.1145/3543507.3583551)
+
+*Nuo Chen, Jiqun Liu, Tetsuya Sakai*
+
+*WWW 2023*
+
+Generally, the user's actions in Web search interaction are associated with relative gains and losses to reference points, known as the reference dependence effect. This paper proposes an evaluation metric, namely Reference Dependent Metric (ReDeM), for assessing query-level search by incorporating the effect of reference dependence into the modelling of user search behavior. The experimental results show that, integrating ReDeMs with a proper reference point achieves better correlations with user satisfaction than existing metrics, such as Discounted Cumulative Gain (DCG) and Rank-Biased Precision (RBP).
+
+
 *2023-07-20*
 
 #### [Improving Content Retrievability in Search with Controllable Query Generation](https://dl.acm.org/doi/10.1145/3543507.3583261)
