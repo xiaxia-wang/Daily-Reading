@@ -5,6 +5,18 @@
 
 
 
+
+*2023-07-23*
+
+#### [PaGE-Link: Path-based Graph Neural Network Explanation for Heterogeneous Link Prediction](https://dl.acm.org/doi/10.1145/3543507.3583511)
+
+*Shichang Zhang, Jiani Zhang, Xiang Song, Soji Adeshina, Da Zheng, Christos Faloutsos, Yizhou Sun*
+
+*WWW 2023*
+
+This paper proposes a GNN-based model for explaining link prediction results produced by the model. Given a GNN model and a predicted link on a heterogeneous graph (e.g., user-item-attribute in e-commerce), the model generates paths as explanation for the predicted link.
+
+
 *2023-07-04*
 
 #### [Topic-enhanced Graph Neural Networks for Extraction-based Explainable Recommendation](https://le-wu.com/files/Publications/CONFERENCES/SIGIR-23-shuai.pdf)
