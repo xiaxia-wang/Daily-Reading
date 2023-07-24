@@ -3,6 +3,15 @@
 
 
 
+*2023-07-24*
+
+#### [Can Pre-trained Language Models Understand Chinese Humor](https://dl.acm.org/doi/10.1145/3539597.3570431)
+
+*Yuyan Chen, Zhixu Li, Jiaqing Liang, Yanghua Xiao, Bang Liu, Yunwen Chen*
+
+*WSDM 2023*
+
+To investigate the capability of PLMs to understand humor, this paper conducts three evaluation steps with four tasks. The tasks include humor recognition, humor type classification, humor level classification and punchline detection. The evaluation steps include evaluating original PLM, knowledge-enhanced PLM and humor interpretation. It also proposes a Chinese humor datasets w.r.t. the four tasks.
 
 
 *2023-07-01*
