@@ -3,6 +3,16 @@
 
 
 
+*2023-07-25*
+
+#### [Effective Seed-Guided Topic Discovery by Integrating Multiple Types of Contexts](https://dl.acm.org/doi/10.1145/3539597.3570475)
+
+*Yu Zhang, Yunyi Zhang, Martin Michalski, Yucheng Jiang, Yu Meng, Jiawei Han*
+
+*WSDM 2023*
+
+Seed-guided topic discovery aims to find coherent topics based on the user-provided seed words. To achieve this, this paper integrates three types of context signals to model the correlation between seed words and topic-indicative terms, i.e., word embeddings learned from local contexts, pre-trained language model representations obtained from general-domain training, and topic-indicative sentences retrieved based on seed information.
+
 
 *2023-07-18*
 
