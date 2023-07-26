@@ -3,6 +3,18 @@
 
 
 
+
+*2023-07-26*
+
+#### [Search Behavior Prediction: A Hypergraph Perspective](https://dl.acm.org/doi/10.1145/3539597.3570403)
+
+*Yan Han, Edward W. Huang, Wenqing Zheng, Nikhil Rao, Zhangyang Wang, Karthik Subbian*
+
+*WSDM 2023*
+
+Typical user-item correlations in e-commerce are modeled as bipartite graph for downstreaming tasks. To address the challenges of (1) long-tail distribution, and (2) disassortative mixing (i.e., infrequently queries are more likely to link to popular items), this paper models the user-item correlations as a hypergraph, where all items appear in the same customer session are treated as a single hypernode. An attention-based model is proposed to use information from both the original query-item edges and item-item hyperedges.
+
+
 *2023-07-25*
 
 #### [Effective Seed-Guided Topic Discovery by Integrating Multiple Types of Contexts](https://dl.acm.org/doi/10.1145/3539597.3570475)
