@@ -2,6 +2,18 @@
 
 
 
+
+*2023-07-27*
+
+#### [Graph Summarization via Node Grouping: A Spectral Algorithm](https://dl.acm.org/doi/10.1145/3539597.3570441)
+
+*Arpit Merchant, Michael Mathioudakis, Yanhao Wang*
+
+*WSDM 2023*
+
+Graph summarization via node grouping builds a concise graph by grouping neighboring nodes into supernodes and encoding edges as superedges to minimize loss of adjacency information. This paper reformulates the loss minimization as an integer maximization problem, and proposes a two-stage algorithm to solve that. It first assigns nodes to supernodes with k-means clustering on the k largest (in magnitude) eigenvectors of the adjacency matrix, and secondly uses a greedy heuristic to further improve the summary.
+
+
 *2023-07-21*
 
 #### [Everything Evolves in Personalized PageRank](https://dl.acm.org/doi/10.1145/3543507.3583474)
