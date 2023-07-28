@@ -3,6 +3,16 @@
 
 
 
+*2023-07-28*
+
+#### [Heterogeneous Graph-based Context-aware Document Ranking](https://dl.acm.org/doi/10.1145/3539597.3570390)
+
+*Shuting Wang, Zhicheng Dou, Yutao Zhu*
+
+*WSDM 2023*
+
+Context-aware document ranking aims to rerank candidate documents of query $𝑞_𝑖$ based on its search context (i.e., queries $q_1$ to $q_{i-1}$ and corresponding clicked documents) so as to rank the clicked document as high as possible, and each candidate document is scored by its relevance with respect to the current query and its context. This paper proposes a GNN-based method consisting of a session graph and a query graph with shared parameters.
+
 
 *2023-07-22*
 
