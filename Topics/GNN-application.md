@@ -3,6 +3,16 @@
 
 
 
+*2023-07-29*
+
+#### [Graph Sequential Neural ODE Process for Link Prediction on Dynamic and Sparse Graphs](https://dl.acm.org/doi/10.1145/3539597.3570465)
+
+*Linhao Luo, Gholamreza Haffari, Shirui Pan*
+
+*WSDM 2023*
+
+This paper proposes a Graph Sequential Neural ODE Process model for link prediction over dynamic graphs. Specifically, it uses a dynamic GNN encoder and a sequential ODE aggregator to model the dynamic-changing stochastic process. A neural ordinary differential equation (ODE) is a continuous-time model that defines the derivative of the hidden state with a neural network.
+
 
 *2023-07-26*
 
