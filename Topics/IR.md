@@ -2,6 +2,16 @@
 
 
 
+*2023-07-31*
+
+#### [A Bird's-eye View of Reranking: From List Level to Page Level](https://dl.acm.org/doi/10.1145/3539597.3570399)
+
+*Yunjia Xi, Jianghao Lin, Weiwen Liu, Xinyi Dai, Weinan Zhang, Rui Zhang, Ruiming Tang, Yong Yu*
+
+*WSDM 2023*
+
+This paper proposes a dual-attention based model for page-level reranking, which requires a to rerank multiple lists of products simultaneously with a unified model. To achieve this, it applies hierarchical dual-side attention and a spatial-scaled attention network to learn the fine-grained spatial-aware item interactions across lists.
+
 
 *2023-07-28*
 
