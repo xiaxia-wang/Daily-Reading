@@ -2,6 +2,17 @@
 
 
 
+*2023-08-01*
+
+#### [Modeling Fine-grained Information via Knowledge-aware Hierarchical Graph for Zero-shot Entity Retrieval](https://dl.acm.org/doi/10.1145/3539597.3570415)
+
+*Taiqiang Wu, Xingyu Bai, Weigang Guo, Weijie Liu, Siheng Li, Yujiu Yang*
+
+*WSDM 2023*
+
+Notice that existing sentence-embedding based models cannot fully capture the mentions for entities, this paper proposes a model to learn extra fine-grained information based on an entity graph with hierarchical graph attention to obtain entity embeddings.
+
+
 *2023-07-31*
 
 #### [A Bird's-eye View of Reranking: From List Level to Page Level](https://dl.acm.org/doi/10.1145/3539597.3570399)
