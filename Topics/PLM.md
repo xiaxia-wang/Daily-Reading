@@ -3,6 +3,18 @@
 
 
 
+
+*2023-08-02*
+
+#### [Weakly Supervised Explainable Phrasal Reasoning with Neural Fuzzy Logic](https://openreview.net/forum?id=Hu4r-dedqR0)
+
+*Zijun Wu, Zi Xuan Zhang, Atharva Naik, Zhijian Mei, Mauajama Firdaus, Lili Mou*
+
+*ICLR 2023*
+
+Natural language inference (NLI) aims to determine the relationship between two sentences, such as Entailment, Contradiction, and Neutral. This paper proposes a reasoning method which detects relationships between phrases in the two sentences, and induces an overall label for the sentence pair. The model firstly obtains phrases as semantic units, and aligns corresponding phrases by embedding similarity. The NLI labels are then predicted for the aligned phrases. Finally, sentence-level labels are induced from phrasal labels in a fuzzy logic manner.
+
+
 *2023-07-24*
 
 #### [Can Pre-trained Language Models Understand Chinese Humor](https://dl.acm.org/doi/10.1145/3539597.3570431)
