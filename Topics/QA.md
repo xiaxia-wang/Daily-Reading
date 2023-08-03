@@ -3,6 +3,18 @@
 
 
 
+
+*2023-08-03*
+
+#### [DecAF: Joint Decoding of Answers and Logical Forms for Question Answering over Knowledge Bases](https://openreview.net/forum?id=XHc5zRPxqV9)
+
+*Donghan Yu, Sheng Zhang, Patrick Ng, Henghui Zhu, Alexander Hanbo Li, Jun Wang, Yiqun Hu, William Wang, Zhiguo Wang, Bing Xiang*
+
+*ICLR 2023*
+
+Compared with directly obtaining answers from the texts, generating logical forms for KBQA shows higher accuracy but suffers from non-execution issue. To address this problem, this paper proposes to decode the  answer together with its logical form. It firstly applies free-text retrieval to get relevant texts from the knowledge base. Then it separately uses two encoder-decoder pipeline to get direct answers and the logical form, and combines them as the output.
+
+
 *2023-07-14*
 
 #### [Hierarchy-Aware Multi-Hop Question Answering over Knowledge Graphs](https://dl.acm.org/doi/10.1145/3543507.3583376)
