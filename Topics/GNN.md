@@ -5,6 +5,17 @@
 
 
 
+*2023-08-04*
+
+#### [Logical Message Passing Networks with One-hop Inference on Atomic Formulas](https://openreview.net/forum?id=SoyOsp7i_l)
+
+*Zihao Wang, Yangqiu Song, Ginny Wong, Simon See*
+
+*ICLR 2023*
+
+This paper proposes a Logical Message Passing Neural Network (LMPNN) that connects local one-hop inferences on atomic formulas to the global logical reasoning, based on the underlying entity embed
+
+
 *2023-07-19*
 
 #### [Message Function Search for Knowledge Graph Embedding](https://dl.acm.org/doi/10.1145/3543507.3583546)
