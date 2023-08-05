@@ -1,6 +1,18 @@
 
 
 
+
+*2023-08-05*
+
+#### [Encoding Recurrence into Transformers](https://openreview.net/pdf?id=7YfHla7IxBJ)
+
+*Feiqing Huang, Kexin Lu, Yuxi Cai, Zhen Qin, Yanwen Fang, Guangjian Tian, Guodong Li*
+
+*ICLR 2023*
+
+This paper proposes to equivalently replace a RNN layer with a set of simple RNNs, and further by a multi-head self-attention block. It further proposes a new module named Self-Attention with Recurrence, which can incorporate the recurrent dynamics into a transformer.
+
+
 *2023-07-03*
 
 #### [Normalizing Flow-based Neural Process for Few-Shot Knowledge Graph Completion](https://arxiv.org/abs/2304.08183)
