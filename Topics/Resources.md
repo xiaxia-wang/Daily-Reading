@@ -3,6 +3,15 @@
 
 
 
+*2023-08-06*
+
+#### [WikiWhy: Answering and Explaining Cause-and-Effect Questions](https://openreview.net/pdf?id=vaxnu-Utr4l)
+
+*Matthew Ho, Aditya Sharma, Justin Chang, Michael Saxon, Sharon Levy, Yujie Lu, William Yang Wang*
+
+*ICLR 2023*
+
+This paper proposes a QA dataset named WikiWhy, containing explanations of "why the answer is true" in natural language. It consists of over 9,000 “why” question-answer-rationale triples, grounded on Wikipedia facts across a diverse set of topics. Each rationale is a set of supporting statements connecting the question to the answer.
 
 
 *2023-07-11*
