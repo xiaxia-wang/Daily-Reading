@@ -2,6 +2,18 @@
 
 
 
+
+*2023-08-07*
+
+#### [What learning algorithm is in-context learning? Investigations with linear models](https://openreview.net/pdf?id=0g0X4H8yN4I)
+
+*Ekin Akyürek, Dale Schuurmans, Jacob Andreas, Tengyu Ma, Denny Zhou*
+
+*ICLR 2023*
+
+This paper investigates the hypothesis that transformer-based in-context learners implement standard learning algorithms implicitly by encoding smaller models in their activations, and updating these implicit models as new examples appear in the context. The hypothesis is evaluated with the problem of linear regression, and demonstrated with several source of evidence.
+
+
 *2023-08-05*
 
 #### [Encoding Recurrence into Transformers](https://openreview.net/pdf?id=7YfHla7IxBJ)
