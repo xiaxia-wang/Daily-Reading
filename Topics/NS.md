@@ -2,6 +2,16 @@
 
 
 
+*2023-08-08*
+
+#### [Learning where and when to reason in neuro-symbolic inference](https://openreview.net/pdf?id=en9V5F8PR-)
+
+*Cristina Cornelio, Jan Stuehmer, Shell Xu Hu, Timothy M. Hospedales*
+
+*ICLR 2023*
+
+This paper proposes a pipeline for solving visual-sudoku problems by combining both neural and symbolic reasoners. Specifically, an input instance is firstly processed by a neuro-solver that outputs an approximate solution. The solution is then analyzed by a mask-predictor to identify the components that do not satisfy domain-knowledge constraints. The masking output is combined with the solution predicted by the neuro-solver, and fed to a symbolic solver to correct the errors identified by the mask-predictor.
+
 
 *2023-04-30*
 
