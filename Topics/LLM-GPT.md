@@ -1,9 +1,15 @@
 
 
 
+*2023-08-09*
 
+#### [Selection-Inference: Exploiting Large Language Models for Interpretable Logical Reasoning](https://openreview.net/pdf?id=3Pf3Wg6o-A4)
 
+*Antonia Creswell, Murray Shanahan, Irina Higgins*
 
+*ICLR 2023*
+
+This paper investigates the ability of LLMs to perform multi-step logical reasoning tasks. Motivated by the fact that LLMs usually perform well on single step inference and entailments, this paper further proposes a selection-inference module to guide the model with an interpretable, causal reasoning chain leading to the final answer. In the experiment, it uses pre-trained, frozen language models in a 5-shot generalisation setting with prompt engineering to implement the selection and inference modules.
 
 
 *2023-07-02*
