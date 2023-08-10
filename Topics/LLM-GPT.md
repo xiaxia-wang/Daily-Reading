@@ -1,6 +1,18 @@
 
 
 
+
+*2023-08-10*
+
+#### [Draft, Sketch, and Prove: Guiding Formal Theorem Provers with Informal Proofs](https://openreview.net/pdf?id=SMa9EAovKMC)
+
+*Albert Qiaochu Jiang, Sean Welleck, Jin Peng Zhou, Timothée Lacroix, Jiacheng Liu, Wenda Li, Mateja Jamnik, Guillaume Lample, Yuhuai Wu*
+
+*ICLR 2023*
+
+This paper investigates the task of automatic formal proof generation based on informal sketches. The informal drafts are firstly produced either by ordinary human user or LLMs. Then a mapping model is prompted to match the parts of informal sketches to a high-level structure of the formal proof. Finally, an off-the-shelf automated prover is executed to fill-in the gaps of the formal proof.
+
+
 *2023-08-09*
 
 #### [Selection-Inference: Exploiting Large Language Models for Interpretable Logical Reasoning](https://openreview.net/pdf?id=3Pf3Wg6o-A4)
