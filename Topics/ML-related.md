@@ -3,6 +3,18 @@
 
 
 
+
+*2023-08-11*
+
+#### [A Survey on the Explainability of Supervised Machine Learning](https://jair.org/index.php/jair/article/view/12228)
+
+*Nadia Burkart, Marco F. Huber*
+
+*JAIR 2021*
+
+This paper discusses the essential definitions, an overview of different principles and methodologies of explainable supervised machine learning.
+
+
 *2023-08-07*
 
 #### [What learning algorithm is in-context learning? Investigations with linear models](https://openreview.net/pdf?id=0g0X4H8yN4I)
