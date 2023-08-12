@@ -4,6 +4,18 @@
 
 
 
+
+*2023-08-12*
+
+#### [Learning with Logical Constraints but without Shortcut Satisfaction](https://openreview.net/pdf?id=M2unceRvqhh)
+
+*Zenan Li, Zehua Liu, Yuan Yao, Jingwei Xu, Taolue Chen, Xiaoxing Ma, Jian Lü*
+
+*ICLR 2023*
+
+Noticing that existing methods with loss function including logical constraints may be bypassed with shortcuts thus not fully exploiting intrinsic knowledge, this paper designs a new loss function for logical constraints. It introduces an additional random variable for the logical constraint indicating its satisfaction degree, and formulates it as a distributional loss which is compatible with the neural network’s original training loss under a variational framework.
+
+
 *2023-08-11*
 
 #### [A Survey on the Explainability of Supervised Machine Learning](https://jair.org/index.php/jair/article/view/12228)
