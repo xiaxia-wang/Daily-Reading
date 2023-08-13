@@ -2,6 +2,18 @@
 
 
 
+
+*2023-08-13*
+
+#### [Ask Me Anything: A simple strategy for prompting language models](https://openreview.net/pdf?id=bhUPJnS2g0X)
+
+*Simran Arora, Avanika Narayan, Mayee F. Chen, Laurel J. Orr, Neel Guha, Kush Bhatia, Ines Chami, Christopher Ré*
+
+*ICLR 2023*
+
+Observed that question-answering (QA) prompts, which encourage open-ended generation (“Who went to the park?”) tend to outperform those that restrict the model outputs (“John went to the park. True or False?”), this paper proposes a simple prompting method named Ask Me Anything (AMA). It recursively uses the LLM to transform task inputs to the effective QA format, generates multiple questions per input, and applies these prompts to collect several noisy votes for the input’s true label.
+
+
 *2023-08-10*
 
 #### [Draft, Sketch, and Prove: Guiding Formal Theorem Provers with Informal Proofs](https://openreview.net/pdf?id=SMa9EAovKMC)
