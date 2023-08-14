@@ -5,6 +5,18 @@
 
 
 
+
+*2023-08-14*
+
+#### [Sparse Mixture-of-Experts are Domain Generalizable Learners](https://openreview.net/pdf?id=RecZ9nB9Q4)
+
+*Bo Li, Yifei Shen, Jingkang Yang, Yezhen Wang, Jiawei Ren, Tong Che, Jun Zhang, Ziwei Liu*
+
+*ICLR 2023*
+
+To address the problem of domain generalization, this paper proposes a model built upon vision transformers, in which the network's robustness to distribution shifts is characterized by the architecture's alignment with the correlations in the dataset.
+
+
 *2023-08-12*
 
 #### [Learning with Logical Constraints but without Shortcut Satisfaction](https://openreview.net/pdf?id=M2unceRvqhh)
