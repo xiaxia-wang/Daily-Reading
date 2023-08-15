@@ -2,6 +2,18 @@
 
 
 
+
+*2023-08-15*
+
+#### [Binding Language Models in Symbolic Languages](https://openreview.net/pdf?id=lH1PV42cbF)
+
+*Zhoujun Cheng, Tianbao Xie, Peng Shi, Chengzu Li, Rahul Nadkarni, Yushi Hu, Caiming Xiong, Dragomir Radev, Mari Ostendorf, Luke Zettlemoyer, Noah A. Smith, Tao Yu*
+
+*ICLR 2023*
+
+This paper builds a pipeline for solving tasks described in natural language by mapping it to an executable program and obtaining the answer by executing it (as in a fixed, interpretable way, instead of directly getting the answer with the LM as a black box). It involves two stages, parsing and execution. In the parsing stage, a LM maps the input to a customized program. In the execution stage, another LM serves to realize the API call (e.g., just like pretending the SQL engine) and return values. A deterministic program interpreter is used to generate the final answer.
+
+
 *2023-08-08*
 
 #### [Learning where and when to reason in neuro-symbolic inference](https://openreview.net/pdf?id=en9V5F8PR-)
