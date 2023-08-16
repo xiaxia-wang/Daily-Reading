@@ -4,6 +4,18 @@
 
 
 
+
+*2023-08-16*
+
+#### [NLIRE: A Natural Language Inference method for Relation Extraction](https://www.jws-volumes.com/_files/ugd/c6c160_e11821035f99466591d8fa2ca0f71aec.pdf)
+
+*Wenfei Hu, Lu Liu, Yupeng Sun, Yu Wu, Zhicheng Liu, Ruixin Zhang, Tao Peng*
+
+*JoWS System paper*
+
+This is the only "system" paper among all issues of JoWS in the past 3 years. However, although it is categorized as system paper, it is more like a "weak" version of research paper, with all the sections, contributions, or writing style matching the structure of research paper - which is quite different from what I assume a system paper should be like.
+
+
 *2023-07-10*
 
 #### [Wikidata as a seed for Web Extraction](https://dl.acm.org/doi/10.1145/3543507.3583236)
