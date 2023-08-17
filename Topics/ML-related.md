@@ -2,8 +2,15 @@
 
 
 
+*2023-08-17*
 
+#### [Is Reinforcement Learning (Not) for Natural Language Processing: Benchmarks, Baselines, and Building Blocks for Natural Language Policy Optimization](https://openreview.net/pdf?id=8aHzds2uUyB)
 
+*Rajkumar Ramamurthy, Prithviraj Ammanabrolu, Kianté Brantley, Jack Hessel, Rafet Sifa, Christian Bauckhage, Hannaneh Hajishirzi, Yejin Choi*
+
+*ICLR 2023*
+
+This paper proposes to solve NLP tasks in a reinforcement learning view. It uses an open-sourced library for optimizing language generators with RL, and presents a benchmark consisting of 6 natural language generation tasks with reward functions from human preference. Besides, it also provides an RL algorithm named NLPO that learns to effectively reduce the combinatorial action space in language generation.
 
 
 *2023-08-14*
