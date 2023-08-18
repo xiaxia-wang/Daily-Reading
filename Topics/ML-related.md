@@ -2,6 +2,18 @@
 
 
 
+
+*2023-08-18*
+
+#### [Effects of Graph Convolutions in Multi-layer Networks](https://openreview.net/pdf?id=P-73JPgRs0R)
+
+*Aseem Baranwal, Kimon Fountoulakis, Aukosh Jagannath*
+
+*ICLR 2023*
+
+This paper theoretically explores the effects of graph convolution in multi-layer networks with a node classification problem. It shows that a single graph convolution enables a multi-layer network to classify the nodes with a larger threshold (by a factor) of the distance between the means of node features. In a graph with a higher density, two graph convolutions will further improve the factor.
+
+
 *2023-08-17*
 
 #### [Is Reinforcement Learning (Not) for Natural Language Processing: Benchmarks, Baselines, and Building Blocks for Natural Language Policy Optimization](https://openreview.net/pdf?id=8aHzds2uUyB)
