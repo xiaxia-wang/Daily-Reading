@@ -3,6 +3,18 @@
 
 
 
+
+*2023-08-19*
+
+#### [Relational Attention: Generalizing Transformers for Graph-Structured Tasks](https://openreview.net/pdf?id=cFuMmbWiN6)
+
+*Cameron Diao, Ricky Loynd*
+
+*ICLR 2023*
+
+This paper proposes an adapted version of transformer blocks for relational graphs, named Relational Transformer. In addition to accepting node vectors representing entity features (as do all transformers), RT also accepts edge vectors representing relation features, which may include edge-presence flags from an adjacency matrix. (But overall it operators on a fully-connected graph, unconstrained by any input adjacency matrix.)
+
+
 *2023-08-18*
 
 #### [Effects of Graph Convolutions in Multi-layer Networks](https://openreview.net/pdf?id=P-73JPgRs0R)
