@@ -3,6 +3,18 @@
 
 
 
+
+*2023-08-20*
+
+#### [Automatically Correcting Large Language Models: Surveying the landscape of diverse self-correction strategies](https://arxiv.org/abs/2308.03188)
+
+*Liangming Pan, Michael Saxon, Wenda Xu, Deepak Nathani, Xinyi Wang, William Yang Wang*
+
+*Arxiv 2023*
+
+Self-correction for LLM is to prompt the model to fix problems in its own output. This survey paper categorizes existing methods for self-correction into three kinds, namely, training-time, generation-time and post-hoc correction, as well as their applications.
+
+
 *2023-08-13*
 
 #### [Ask Me Anything: A simple strategy for prompting language models](https://openreview.net/pdf?id=bhUPJnS2g0X)
