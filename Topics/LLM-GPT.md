@@ -4,6 +4,18 @@
 
 
 
+
+*2023-08-21*
+
+#### [Neuro-Symbolic Procedural Planning with Commonsense Prompting](https://openreview.net/pdf?id=iOc57X9KM54)
+
+*Yujie Lu, Weixi Feng, Wanrong Zhu, Wenda Xu, Xin Eric Wang, Miguel P. Eckstein, William Yang Wang*
+
+*ICLR 2023*
+
+Procedural planning aims to implement complex high-level goals by decomposition into simpler low-level steps. This paper proposes to leverage an external knowledge graph to automatically produce causal prompts for LLMs to conduct procedural planning.
+
+
 *2023-08-20*
 
 #### [Automatically Correcting Large Language Models: Surveying the landscape of diverse self-correction strategies](https://arxiv.org/abs/2308.03188)
