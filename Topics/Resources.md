@@ -3,6 +3,18 @@
 
 
 
+
+*2023-08-22*
+
+#### [STREET: A Multi-Task Structured Reasoning and Explanation Benchmark](https://openreview.net/pdf?id=1C_kSW1-k0)
+
+*Danilo Neves Ribeiro, Shen Wang, Xiaofei Ma, Henghui Zhu, Rui Dong, Deguang Kong, Juliette Burger, Anjelica Ramos, Zhiheng Huang, William Yang Wang, George Karypis, Bing Xiang, Dan Roth*
+
+*ICLR 2023*
+
+This paper proposes a benchmarking dataset for multi-task and multi-domain natural language reasoning and explanation. The answers in the dataset contain annotated or generated reasoning graphs, where the models are expected to produce step-by-step structured explanations describing how premises in the question are used for making intermediate conclusions that can prove the correctness of a certain answer.
+
+
 *2023-08-06*
 
 #### [WikiWhy: Answering and Explaining Cause-and-Effect Questions](https://openreview.net/pdf?id=vaxnu-Utr4l)
