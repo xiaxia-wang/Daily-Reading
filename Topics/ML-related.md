@@ -4,6 +4,18 @@
 
 
 
+
+*2023-08-23*
+
+#### [No Reason for No Supervision: Improved Generalization in Supervised Models](https://openreview.net/pdf?id=3Y5Uhf5KgGK)
+
+*Mert Bülent Sariyildiz, Yannis Kalantidis, Karteek Alahari, Diane Larlus*
+
+*ICLR 2023*
+
+This paper proposes a supervised training setup that incorporates multi-crop data augmentation and an expendable projector that can produce models with favorable performance both on the training task and transfer tasks.
+
+
 *2023-08-19*
 
 #### [Relational Attention: Generalizing Transformers for Graph-Structured Tasks](https://openreview.net/pdf?id=cFuMmbWiN6)
