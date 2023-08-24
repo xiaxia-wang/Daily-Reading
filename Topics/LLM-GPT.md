@@ -3,6 +3,15 @@
 
 
 
+*2023-08-24*
+
+#### [Language Models Are Greedy Reasoners: A Systematic Formal Analysis of Chain-of-Thought](https://openreview.net/pdf?id=qFVVBzXxR2V)
+
+*Abulhair Saparov, He He*
+
+*ICLR 2023*
+
+This paper proposes a synthetic question-answering dataset for evaluating the reasoning capabilities of LLMs. To generate each example, it firstly samples an ontology as a tree, and secondly produces a symbolic proof from the ontology. Thirdly, it converts the ontology into a natural language context, and finally, the proof is converted into a natural language question, chain-of-thought, and an answer label (True or False).
 
 
 *2023-08-21*
