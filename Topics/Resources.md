@@ -4,6 +4,18 @@
 
 
 
+
+*2023-08-25*
+
+#### [Dr.Spider: A Diagnostic Evaluation Benchmark towards Text-to-SQL Robustness](https://openreview.net/pdf?id=Wc5bmZZU9cy)
+
+*Shuaichen Chang, Jun Wang, Mingwen Dong, Lin Pan, Henghui Zhu, Alexander Hanbo Li, Wuwei Lan, Sheng Zhang, Jiarong Jiang, Joseph Lilien, Steve Ash, William Yang Wang, Zhiguo Wang, Vittorio Castelli, Patrick Ng, Bing Xiang*
+
+*ICLR 2023*
+
+This paper proposes a benchmark for evaluating text-to-sql robustness. Specifically, it designs 17 kinds of perturbations including database, natural language question, and SQL perturbation test sets to measure the robustness from different angles. This benchmark would be helpful for diagnosing weakness of existing methods.
+
+
 *2023-08-22*
 
 #### [STREET: A Multi-Task Structured Reasoning and Explanation Benchmark](https://openreview.net/pdf?id=1C_kSW1-k0)
