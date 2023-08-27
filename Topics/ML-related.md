@@ -4,6 +4,15 @@
 
 
 
+*2023-08-27*
+
+#### [On the duality between contrastive and non-contrastive self-supervised learning](https://openreview.net/pdf?id=kDEL91Dufpa)
+
+*Quentin Garrido, Yubei Chen, Adrien Bardes, Laurent Najman, Yann LeCun*
+
+*ICLR 2023*
+
+This paper investigates the theoretical and empirical similarities of the so-called contrastive and non-constrastive learning methods, especially the covariance regularization-based non-contrastive methods. It proposes to unify both kinds of approaches with a pair of contrastive and non-contrastive criteria based on F-norm and embedding normalizations.
 
 
 *2023-08-26*
