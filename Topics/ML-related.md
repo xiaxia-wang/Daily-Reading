@@ -3,6 +3,16 @@
 
 
 
+*2023-08-28*
+
+#### [Do We Really Need Complicated Model Architectures For Temporal Networks?](https://openreview.net/pdf?id=ayPPc0SyLv1)
+
+*Weilin Cong, Si Zhang, Jian Kang, Baichuan Yuan, Hao Wu, Xin Zhou, Hanghang Tong, Mehrdad Mahdavi*
+
+*ICLR 2023*
+
+This paper proposes a simple but effective network architecture for temporal graph learning. Specifically, it only includes a link encoder based on MLP, a node encoder of mean-pooling of neighbors, and an MLP-based link classifier for link predictions. It demonstrates good performance in practice.
+
 
 *2023-08-27*
 
