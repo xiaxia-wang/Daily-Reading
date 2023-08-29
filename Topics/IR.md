@@ -2,6 +2,18 @@
 
 
 
+
+*2023-08-29*
+
+#### [Large Language Models for Information Retrieval: A Survey](https://arxiv.org/abs/2308.07107)
+
+*Yutao Zhu, Huaying Yuan, Shuting Wang, Jiongnan Liu, Wenhan Liu, Chenlong Deng, Zhicheng Dou, Ji-Rong Wen*
+
+*Arxiv 2023*
+
+This paper reviews existing research efforts of LLMs in the field of information retrieval, and organizes them according to different modules of IR, including rewriter, retriever, reranker and reader.
+
+
 *2023-08-01*
 
 #### [Modeling Fine-grained Information via Knowledge-aware Hierarchical Graph for Zero-shot Entity Retrieval](https://dl.acm.org/doi/10.1145/3539597.3570415)
