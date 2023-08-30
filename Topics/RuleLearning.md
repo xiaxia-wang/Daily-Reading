@@ -3,6 +3,18 @@
 
 
 
+
+*2023-08-30*
+
+#### [Answering Complex Logical Queries on Knowledge Graphs via Query Computation Tree Optimization](https://proceedings.mlr.press/v202/bai23b.html)
+
+*Yushi Bai, Xin Lv, Juanzi Li, Lei Hou*
+
+*ICML 2023*
+
+This paper also handles the problem of answering logical queries with neural adjacency matrices representing different operators. For a given FOL query, it performs forward/backward propagation on the tree-like computation graph with matrices for transformation.
+
+
 *2023-06-07*
 
 #### [Logical Entity Representation in Knowledge-Graphs for Differentiable Rule Learning](https://arxiv.org/pdf/2305.12738.pdf)
