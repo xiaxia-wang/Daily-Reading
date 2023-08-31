@@ -3,6 +3,18 @@
 
 
 
+
+*2023-08-31*
+
+#### [On the Impact of Knowledge Distillation for Model Interpretability](https://proceedings.mlr.press/v202/han23b.html)
+
+*Hyeongrok Han, Siwon Kim, Hyun-Soo Choi, Sungroh Yoon*
+
+*ICML 2023*
+
+This paper argues that knowledge distillation of models can not only enhance the performance but also improve the interpretability. It measures the model's interpretability by the number of concept detectors introduced in network dissection, and attributes the improvement of interpretability to the class similarity transferred from the teacher model to the student model.
+
+
 *2023-08-28*
 
 #### [Do We Really Need Complicated Model Architectures For Temporal Networks?](https://openreview.net/pdf?id=ayPPc0SyLv1)
