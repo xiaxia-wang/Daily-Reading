@@ -2,6 +2,15 @@
 
 
 
+*2023-09-01*
+
+#### [Efficient Training of Language Models using Few-Shot Learning](https://proceedings.mlr.press/v202/j-reddi23a.html)
+
+*Sashank J. Reddi, Sobhan Miryoosefi, Stefani Karp, Shankar Krishnan, Satyen Kale, Seungyeon Kim, Sanjiv Kumar*
+
+*ICML 2023*
+
+This paper proposes a generic framework for training few-shot learners in a staged manner. The key component of the framework (i.e., seq2seq network with K layers, just like standard Transformer) is to stack a good few-shot learner on a good small language model to provide a good initializer for the larger language model.
 
 
 *2023-08-02*
