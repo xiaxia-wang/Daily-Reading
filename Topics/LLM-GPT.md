@@ -3,6 +3,18 @@
 
 
 
+
+*2023-09-02*
+
+#### [Exploring the Benefits of Training Expert Language Models over Instruction Tuning](https://proceedings.mlr.press/v202/jang23a.html)
+
+*Joel Jang, Seungone Kim, Seonghyeon Ye, Doyoung Kim, Lajanugen Logeswaran, Moontae Lee, Kyungjae Lee, Minjoon Seo*
+
+*ICML 2023*
+
+This paper argues that instead of using large amount of multi-task data for prompt-tuning a general LM, fine-tuning an "expert" LM on a single task provides better performance. Following this, it also proposes separately training LMs on a single task brings benefits include (1) avoiding negative task transfer, (2) being able to continually learn new tasks without having to re-train on previous tasks to avoid catastrophic forgetting, and (3) showing compositional capabilities when merging individual experts together.
+
+
 *2023-08-24*
 
 #### [Language Models Are Greedy Reasoners: A Systematic Formal Analysis of Chain-of-Thought](https://openreview.net/pdf?id=qFVVBzXxR2V)
