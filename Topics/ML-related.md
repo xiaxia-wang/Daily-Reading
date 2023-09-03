@@ -4,6 +4,18 @@
 
 
 
+
+*2023-09-03*
+
+#### [Learning Unnormalized Statistical Models via Compositional Optimization](https://proceedings.mlr.press/v202/jiang23g.html)
+
+*Wei Jiang, Jiayu Qin, Lingyu Wu, Changyou Chen, Tianbao Yang, Lijun Zhang*
+
+*ICML 2023*
+
+Existing noise contrastive estimation methods for learning unnormalized statistical models suffer from bad performance and slow convergence. This paper proposes a direct approach for optimizing negative log-likelyhood of models by converting it to a stochastic compositional optimization (SCO) problem.
+
+
 *2023-08-31*
 
 #### [On the Impact of Knowledge Distillation for Model Interpretability](https://proceedings.mlr.press/v202/han23b.html)
