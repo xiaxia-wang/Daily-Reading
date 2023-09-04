@@ -4,6 +4,18 @@
 
 
 
+
+*2023-09-04*
+
+#### [Automatically Auditing Large Language Models via Discrete Optimization](https://proceedings.mlr.press/v202/jones23a.html)
+
+*Erik Jones, Anca D. Dragan, Aditi Raghunathan, Jacob Steinhardt*
+
+*ICML 2023*
+
+This paper formulates auditing LLMs as a discrete optimizing problem, and proposes an algorithm for automatically searching for input-output pairs that match a target behavior (e.g., toxic output). To improve the search efficiency, it further decomposes the optimizing target as a linear approximation and an autoregressive part.
+
+
 *2023-09-02*
 
 #### [Exploring the Benefits of Training Expert Language Models over Instruction Tuning](https://proceedings.mlr.press/v202/jang23a.html)
