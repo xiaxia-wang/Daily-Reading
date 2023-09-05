@@ -4,6 +4,16 @@
 
 
 
+*2023-09-05*
+
+#### [Editing Large Language Models: Problems, Methods, and Opportunities](https://arxiv.org/abs/2305.13172)
+
+*Yunzhi Yao, Peng Wang, Bozhong Tian, Siyuan Cheng, Zhoubo Li, Shumin Deng, Huajun Chen, Ningyu Zhang*
+
+*Arxiv 2023*
+
+This paper summarizes existing methods for editing LLMs, including parameter-preserving and -modifying methods, compares their performance, and proposes a new dataset for evaluating them, especially in terms of generalization and efficiency.
+
 
 *2023-09-04*
 
