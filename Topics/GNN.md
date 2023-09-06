@@ -5,6 +5,18 @@
 
 
 
+
+*2023-09-06*
+
+#### [On the Expressive Power of Geometric Graph Neural Networks](https://proceedings.mlr.press/v202/joshi23a.html)
+
+*Chaitanya K. Joshi, Cristian Bodnar, Simon V. Mathis, Taco Cohen, Pietro Lio*
+
+*ICML 2023*
+
+This paper proposes a geometric version of the WL test for discriminating geometric graphs embedded in Euclidean space. It concludes that (1) Invariant layers have limited expressivity as they cannot distinguish one-hop identical geometric graphs; (2) Equivariant layers distinguish a larger class of graphs by propagating geometric information beyond local neighbourhoods; (3) Higher order tensors and scalarisation enable maximally powerful geometric GNNs; and (4) GWL’s discrimination-based perspective is equivalent to universal approximation.
+
+
 *2023-08-04*
 
 #### [Logical Message Passing Networks with One-hop Inference on Atomic Formulas](https://openreview.net/forum?id=SoyOsp7i_l)
