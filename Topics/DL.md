@@ -9,6 +9,18 @@
 
 
 
+
+*2023-09-07*
+
+#### [Tighter Bounds on the Expressivity of Transformer Encoders](https://proceedings.mlr.press/v202/chiang23a.html)
+
+*David Chiang, Peter Cholak, Anand Pillay*
+
+*ICML 2023*
+
+This paper relates the expressivity of transformers to a logic called FOC[+; MOD], by characterizing the language that a transformer encoder recognizes.
+
+
 *2022-12-17*
 
 #### [Controlled Query Evaluation in OWL 2 QL: A "Longest Honeymoon" Approach](https://doi.org/10.1007/978-3-031-19433-7_25)
