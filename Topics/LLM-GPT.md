@@ -4,6 +4,18 @@
 
 
 
+
+*2023-09-08*
+
+#### [Large Language Models Struggle to Learn Long-Tail Knowledge](https://proceedings.mlr.press/v202/kandpal23a.html)
+
+*Nikhil Kandpal, Haikang Deng, Adam Roberts, Eric Wallace, Colin Raffel*
+
+*ICML 2023*
+
+This paper explores the relationship between the knowledge learned by an LLM and the information in its pretraining data. Specifically, it studies how an LLM’s ability to answer a question relates to how many documents associated with that question were seen during pretraining. The results indicate a strong correlational and causal relationships between accuracy and relevant document count for numerous question answering datasets (e.g., TriviaQA), pretraining corpora (e.g., ROOTS), and model sizes (e.g., 176B parameters). It also concludes that model scaling and retrieval-augmentation help better capture the knowledge that rarely appears in the pretraining data.
+
+
 *2023-09-05*
 
 #### [Editing Large Language Models: Problems, Methods, and Opportunities](https://arxiv.org/abs/2305.13172)
