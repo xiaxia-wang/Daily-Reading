@@ -5,6 +5,18 @@
 
 
 
+
+*2023-09-09*
+
+#### [Leveraging Proxy of Training Data for Test-Time Adaptation](https://proceedings.mlr.press/v202/kang23a.html)
+
+*Juwon Kang, Nayeong Kim, Donghyeon Kwon, Jungseul Ok, Suha Kwak*
+
+*ICML 2023*
+
+Test-time adaptation (TTA) is the task of adapting a trained model to an arbitrary test domain using unlabeled input data on-the-fly during testing. This paper proposes two lightweight proxies of the training data and a TTA method that fully exploits them.
+
+
 *2023-09-03*
 
 #### [Learning Unnormalized Statistical Models via Compositional Optimization](https://proceedings.mlr.press/v202/jiang23g.html)
