@@ -6,6 +6,18 @@
 
 
 
+
+*2023-09-10*
+
+#### [On the Relationship Between Explanation and Prediction: A Causal View](https://proceedings.mlr.press/v202/karimi23a.html)
+
+*Amir-Hossein Karimi, Krikamol Muandet, Simon Kornblith, Bernhard Schölkopf, Been Kim*
+
+*ICML 2023*
+
+This paper investigates the relationship between the model prediction (Y) and the explanation (E) with a casual influence view. It measures the treatment effect when intervening on their casual ancestors, i.e., the hyperparameters and the inputs used to generate saliency-based Es or Ys.
+
+
 *2023-09-09*
 
 #### [Leveraging Proxy of Training Data for Test-Time Adaptation](https://proceedings.mlr.press/v202/kang23a.html)
