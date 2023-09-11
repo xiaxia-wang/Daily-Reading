@@ -7,6 +7,18 @@
 
 
 
+
+*2023-09-11*
+
+#### [Trainability, Expressivity and Interpretability in Gated Neural ODEs](https://proceedings.mlr.press/v202/kim23b.html)
+
+*Timothy Doyeon Kim, Tankut Can, Kamesh Krishnamurthy*
+
+*ICML 2023*
+
+Neural ordinary differential equations (nODEs) is a class of dynamical models with a velocity field parametrized by a deep neural network, which can potentially implement more complex computations in lower dimensions than classical RNNs. This paper introduces a gating interaction for nODEs, designs a new measure of expressivity related to the network capacity, and demonstrates its superiority.
+
+
 *2023-09-10*
 
 #### [On the Relationship Between Explanation and Prediction: A Causal View](https://proceedings.mlr.press/v202/karimi23a.html)
