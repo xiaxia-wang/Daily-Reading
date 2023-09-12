@@ -7,6 +7,16 @@
 
 
 
+*2023-09-12*
+
+#### [PAC Prediction Sets for Large Language Models of Code](https://proceedings.mlr.press/v202/khakhar23a.html)
+
+*Adam Khakhar, Stephen Mell, Osbert Bastani*
+
+*ICML 2023*
+
+This paper investigates the task of constructing PAC sets for code generation. It introduces a notion of partial programs as prediction sets for code generation, and proposes an algorithm for construction PAC prediction sets under this setting.
+
 
 *2023-09-11*
 
