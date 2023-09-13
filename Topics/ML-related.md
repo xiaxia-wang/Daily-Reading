@@ -7,6 +7,18 @@
 
 
 
+
+*2023-09-13*
+
+#### [Learnability and Algorithm for Continual Learning](https://proceedings.mlr.press/v202/kim23x.html)
+
+*Gyuhak Kim, Changnan Xiao, Tatsuya Konishi, Bing Liu*
+
+*ICML 2023*
+
+Class Incremental Learning (CIL) learns a sequence of tasks consisting of disjoint sets of concepts or classes. At any time, a single model is built that can be applied to predict or classify test instances of any classes learned thus far without providing any task related information for each test instance. This paper shows CIL is learnable.
+
+
 *2023-09-12*
 
 #### [PAC Prediction Sets for Large Language Models of Code](https://proceedings.mlr.press/v202/khakhar23a.html)
