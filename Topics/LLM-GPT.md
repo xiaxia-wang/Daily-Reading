@@ -5,6 +5,18 @@
 
 
 
+
+*2023-09-14*
+
+#### [A Watermark for Large Language Models](https://proceedings.mlr.press/v202/kirchenbauer23a.html)
+
+*John Kirchenbauer, Jonas Geiping, Yuxin Wen, Jonathan Katz, Ian Miers, Tom Goldstein*
+
+*ICML 2023*
+
+This paper proposes a watermarking method for LLMs based on the selection of synonyms when there are multiple choices for generating texts. A watermark is a hidden pattern in text that is imperceptible to humans, while making the text algorithmically identifiable as synthetic. The proposed watermarking method uses a list of "favored" words in text generation, which is invisible to humans while can be captured by computing entropy and probability distribution among words.
+
+
 *2023-09-08*
 
 #### [Large Language Models Struggle to Learn Long-Tail Knowledge](https://proceedings.mlr.press/v202/kandpal23a.html)
