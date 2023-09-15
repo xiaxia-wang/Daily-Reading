@@ -6,6 +6,18 @@
 
 
 
+
+*2023-09-15*
+
+#### [GOAT: A Global Transformer on Large-scale Graphs](https://proceedings.mlr.press/v202/kong23a.html)
+
+*Kezhi Kong, Jiuhai Chen, John Kirchenbauer, Renkun Ni, C. Bayan Bruss, Tom Goldstein*
+
+*ICML 2023*
+
+This paper proposes a scalable global graph transformer model where each node theoretically attends to all nodes in the graph. For efficient implementation, it proposes a dimensionality reduction algorithm based on k-means thus reducing the memory complexity from quadratic to linear.
+
+
 *2023-09-06*
 
 #### [On the Expressive Power of Geometric Graph Neural Networks](https://proceedings.mlr.press/v202/joshi23a.html)
