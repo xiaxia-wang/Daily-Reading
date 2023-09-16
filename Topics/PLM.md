@@ -2,6 +2,18 @@
 
 
 
+
+*2023-09-16*
+
+#### [Pretraining Language Models with Human Preferences](https://proceedings.mlr.press/v202/korbak23a.html)
+
+*Tomasz Korbak, Kejian Shi, Angelica Chen, Rasika Vinayak Bhalerao, Christopher L. Buckley, Jason Phang, Samuel R. Bowman, Ethan Perez*
+
+*ICML 2023*
+
+This paper investigates the problem of pretraining LMs to be aligned with human preferences. It proposes 5 objectives for pretraining, including conditional training, dataset filtering, unlikelihood loss, reward-weighted regression (RWR) and advantage-weighted regression (AWR, the last 2 are offline RL algorithms). It evaluates on three tasks, namely, generating non-toxic text, test without personally identifiable information and PEP8-compliant Python. The results show that conditional training seems more promising in aligning with human preferences.
+
+
 *2023-09-01*
 
 #### [Efficient Training of Language Models using Few-Shot Learning](https://proceedings.mlr.press/v202/j-reddi23a.html)
