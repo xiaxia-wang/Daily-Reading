@@ -8,6 +8,18 @@
 
 
 
+
+*2023-09-17*
+
+#### [TabDDPM: Modelling Tabular Data with Diffusion Models](https://proceedings.mlr.press/v202/kotelnikov23a.html)
+
+*Akim Kotelnikov, Dmitry Baranchuk, Ivan Rubachev, Artem Babenko*
+
+*ICML 2023*
+
+This paper introduces a diffusion model that can be applied to tabular data with mixed data types. To sum up, it uses the multinomial diffusion to model the categorical and binary features, and the Gaussian diffusion to model the numerical ones.
+
+
 *2023-09-13*
 
 #### [Learnability and Algorithm for Continual Learning](https://proceedings.mlr.press/v202/kim23x.html)
