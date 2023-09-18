@@ -9,6 +9,18 @@
 
 
 
+
+*2023-09-18*
+
+#### [Towards Bridging the Gaps between the Right to Explanation and the Right to be Forgotten](https://proceedings.mlr.press/v202/krishna23a.html)
+
+*Satyapriya Krishna, Jiaqi Ma, Himabindu Lakkaraju*
+
+*ICML 2023*
+
+This paper investigates the problem of generating explanations by the model under the circumstance of required data removal. Specifically, it first defines the problem of finding robust counterfactual explanations in the presence of training data removal, and provides an algorithm to solve it.
+
+
 *2023-09-17*
 
 #### [TabDDPM: Modelling Tabular Data with Diffusion Models](https://proceedings.mlr.press/v202/kotelnikov23a.html)
