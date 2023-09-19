@@ -5,6 +5,15 @@
 
 
 
+*2023-09-19*
+
+#### [Graph Neural Tangent Kernel: Convergence on Large Graphs](https://proceedings.mlr.press/v202/krishnagopal23a.html)
+
+*Sanjukta Krishnagopal, Luana Ruiz*
+
+*ICML 2023*
+
+This paper investigates the training dynamics of GNNs with graph neural tangent kernals (GNTKs) and graphons. It proves that, on a sequence of graphs, the GNTKs converge to the graphon neural tangent kernal (NTK).
 
 
 *2023-09-15*
