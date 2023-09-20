@@ -5,6 +5,18 @@
 
 
 
+
+*2023-09-20*
+
+#### [E(n) Equivariant Message Passing Simplicial Networks](https://proceedings.mlr.press/v202/eijkelboom23a.html)
+
+*Floor Eijkelboom, Rob Hesselink, Erik J. Bekkers*
+
+*ICML 2023*
+
+A common model used on geometric graphs is the E(n) Equivariant Graph Neural Network (EGNN), which augments the message passing formulation to use the positional information while being equivariant to the Euclidean group E(n). This paper proposes a new model E(n) Equivariant Message Passing Simplicial Networks, to learn on geometric graphs and point clouds that is equivariant to rotations, translations and reflections.
+
+
 *2023-09-19*
 
 #### [Graph Neural Tangent Kernel: Convergence on Large Graphs](https://proceedings.mlr.press/v202/krishnagopal23a.html)
