@@ -7,7 +7,15 @@
 
 
 
+*2023-09-21*
 
+#### [Hyperparameters in Reinforcement Learning and How To Tune Them](https://proceedings.mlr.press/v202/eimer23a.html)
+
+*Theresa Eimer, Marius Lindauer, Roberta Raileanu*
+
+*ICML 2023*
+
+This paper investigates the best practice for hyperparameter optimization in a reinforcement learning process. The results show that compared to tuning hyperparameters by hand, existing HPO tools are capable of producing better performing, more stable, and more easily comparable RL agents, while using fewer computational resources.
 
 
 *2023-09-18*
