@@ -7,6 +7,18 @@
 
 
 
+
+*2023-09-22*
+
+#### [Explainable Data-Driven Optimization: From Context to Decision and Back Again](https://proceedings.mlr.press/v202/forel23a.html)
+
+*Alexandre Forel, Axel Parmentier, Thibaut Vidal*
+
+*ICML 2023*
+
+This paper investigates the problem of explaining data-driven optimization. It firstly define two classes of explanations, i.e., relative and absolute explanations. Then it presents algorithms to find relative and absolute explanations for the random forest and NN predictors.
+
+
 *2023-09-21*
 
 #### [Hyperparameters in Reinforcement Learning and How To Tune Them](https://proceedings.mlr.press/v202/eimer23a.html)
