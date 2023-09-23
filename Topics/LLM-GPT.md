@@ -6,6 +6,17 @@
 
 
 
+*2023-09-23*
+
+#### [SparseGPT: Massive Language Models Can be Accurately Pruned in One-Shot](https://proceedings.mlr.press/v202/frantar23a.html)
+
+*Elias Frantar, Dan Alistarh*
+
+*ICML 2023*
+
+This paper proposes to prune the GPT model family to at least 50% sparsity of parameters in one-shot without retraining. It is based on a set of techniques including post-training pruning, layer-wise pruning, mask selection and weight reconstruction. It further proposes an algorithm for the pruning process.
+
+
 *2023-09-14*
 
 #### [A Watermark for Large Language Models](https://proceedings.mlr.press/v202/kirchenbauer23a.html)
