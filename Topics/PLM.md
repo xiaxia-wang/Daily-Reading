@@ -3,6 +3,18 @@
 
 
 
+
+*2023-09-24*
+
+#### [Specializing Smaller Language Models towards Multi-Step Reasoning](https://proceedings.mlr.press/v202/fu23d.html)
+
+*Yao Fu, Hao Peng, Litu Ou, Ashish Sabharwal, Tushar Khot*
+
+*ICML 2023*
+
+This paper investigates the reasoning ability for small-scale language models given few-shot chain-of-thought prompts. It demonstrates that (1) balancing LM's performance on multiple tasks is a delicate matter, as improvements on one task may compromise others, and (2) by intentionally paying the price of decreased generic ability, the model's ability for a specific task, e.g., multi-step math reasoning, can be clearly improved.
+
+
 *2023-09-16*
 
 #### [Pretraining Language Models with Human Preferences](https://proceedings.mlr.press/v202/korbak23a.html)
