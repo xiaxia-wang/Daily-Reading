@@ -4,6 +4,18 @@
 
 
 
+
+*2023-09-26*
+
+#### [Cramming: Training a Language Model on a single GPU in one day](https://proceedings.mlr.press/v202/geiping23a.html)
+
+*Jonas Geiping, Tom Goldstein*
+
+*ICML 2023*
+
+This paper investigates the downstream performance achievable with a transformer-based LM trained from scratch with masked language modeling for a single day on a single consumer GPU. By analyzing why scaling down is hard, and which modification actually improve the performance, it provides evidence that the performance closely follows scaling laws observed in large-compute settings.
+
+
 *2023-09-24*
 
 #### [Specializing Smaller Language Models towards Multi-Step Reasoning](https://proceedings.mlr.press/v202/fu23d.html)
