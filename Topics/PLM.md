@@ -5,6 +5,18 @@
 
 
 
+
+*2023-09-27*
+
+#### [Transformers Meet Directed Graphs](https://proceedings.mlr.press/v202/geisler23a.html)
+
+*Simon Geisler, Yujia Li, Daniel J. Mankowitz, Ali Taylan Cemgil, Stephan Günnemann, Cosmin Paduraru*
+
+*ICML 2023*
+
+This paper studies the transformer models for directed graphs by proposing a two direction- and structure-aware positional encodings for directed graphs, i.e., (1) the eigenvectors of the Magnetic Laplacian – a direction-aware generalization of the combinatorial Laplacian, and (2) directional random walk encodings.
+
+
 *2023-09-26*
 
 #### [Cramming: Training a Language Model on a single GPU in one day](https://proceedings.mlr.press/v202/geiping23a.html)
