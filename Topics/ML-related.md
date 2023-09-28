@@ -5,7 +5,15 @@
 
 
 
+*2023-09-28*
 
+#### [Dividing and Conquering a BlackBox to a Mixture of Interpretable Models: Route, Interpret, Repeat](https://proceedings.mlr.press/v202/ghosh23c.html)
+
+*Shantanu Ghosh, Ke Yu, Forough Arabshahi, Kayhan Batmanghelich*
+
+*ICML 2023*
+
+This paper proposes a post-hoc method to explain for a black-box ML model. Given such a model, it iteratively carves out a mixture of interpretable experts (MoIE) and a residual network, where each interpretable model handles a subset of examples and explains them in FOL.
 
 
 *2023-09-22*
