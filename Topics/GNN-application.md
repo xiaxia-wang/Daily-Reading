@@ -3,6 +3,18 @@
 
 
 
+
+*2023-09-29*
+
+#### [Linkless Link Prediction via Relational Distillation](https://proceedings.mlr.press/v202/guo23f.html)
+
+*Zhichun Guo, William Shiao, Shichang Zhang, Yozen Liu, Nitesh V. Chawla, Neil Shah, Tong Zhao*
+
+*ICML 2023*
+
+This paper explores to distill link prediction-relevant knowledge from GNN models to MLPs. Specifically, it applies teacher-student models to (1) logit-based matching of predicted link existence probabilities, and (2) representation-based matching of the generated latent node representations.
+
+
 *2023-07-29*
 
 #### [Graph Sequential Neural ODE Process for Link Prediction on Dynamic and Sparse Graphs](https://dl.acm.org/doi/10.1145/3539597.3570465)
