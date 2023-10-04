@@ -7,6 +7,18 @@
 
 
 
+
+*2023-10-04*
+
+#### [Text Generation with Diffusion Language Models: A Pre-training Approach with Continuous Paragraph Denoise](https://proceedings.mlr.press/v202/lin23d.html)
+
+*Zhenghao Lin, Yeyun Gong, Yelong Shen, Tong Wu, Zhihao Fan, Chen Lin, Nan Duan, Weizhu Chen*
+
+*ICML 2023*
+
+A diffusion language model consists of an encoder and a diffusion-based decoder, which simulates a (reverse) discrete-time Markov process by gradually subtracting a Gaussian noise from the noisy data, thus recovering the target text. Therefore, diffusion language models are non-autoregressive language models. This paper proposes a pre-trianed diffusion model with a continuous paragraph denoise objective, in which the training objective contains the squared error between the predicted and true noise, the reconstruction error and the target embeddings.
+
+
 *2023-09-30*
 
 #### [LongCoder: A Long-Range Pre-trained Language Model for Code Completion](https://proceedings.mlr.press/v202/guo23j.html)

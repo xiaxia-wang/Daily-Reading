@@ -4,6 +4,18 @@
 
 
 
+
+*2023-10-03*
+
+#### [Variational Open-Domain Question Answering](https://proceedings.mlr.press/v202/lievin23a.html)
+
+*Valentin Liévin, Andreas Geert Motzfeldt, Ida Riis Jensen, Ole Winther*
+
+*ICML 2023*
+
+Open-domain question answering (ODQA) consists of augmenting LMs with external knowledge bases indexed with a retrieval mechanism. This paper proposes a variational inference framework for end-to-end training and evaluation of retrieval-augmented models by extending a previous Renyi divergence metric.
+
+
 *2023-08-03*
 
 #### [DecAF: Joint Decoding of Answers and Logical Forms for Question Answering over Knowledge Bases](https://openreview.net/forum?id=XHc5zRPxqV9)

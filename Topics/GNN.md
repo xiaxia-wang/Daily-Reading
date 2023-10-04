@@ -7,6 +7,16 @@
 
 
 
+*2023-10-01*
+
+#### [Alternately Optimized Graph Neural Networks](https://proceedings.mlr.press/v202/han23c.html)
+
+*Haoyu Han, Xiaorui Liu, Haitao Mao, MohamadAli Torkamani, Feng Shi, Victor Lee, Jiliang Tang*
+
+*ICML 2023*
+
+This paper proposes a new optimization framework for GNN, by considering the typical end-to-end node classification problem as a bi-level optimization process. It uses a single-level optimization problem to couple the node features and graph structure information through a multi-view semi-supervised learning framework.
+
 
 *2023-09-20*
 

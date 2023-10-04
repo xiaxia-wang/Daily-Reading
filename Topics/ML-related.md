@@ -5,6 +5,18 @@
 
 
 
+
+*2023-10-02*
+
+#### [Does a Neural Network Really Encode Symbolic Concepts?](https://proceedings.mlr.press/v202/li23at.html)
+
+*Mingjie Li, Quanshi Zhang*
+
+*ICML 2023*
+
+This paper investigates the "real ability" of deep neural networks to encode concepts (i.e., as labels to be predicted for the input data sample). Specifically, it examines the DNNs from 4 perspectives: sparsity of the encoded concepts, transferability over different samples, transferability across different DNNs, and discrimination power of concepts.
+
+
 *2023-09-28*
 
 #### [Dividing and Conquering a BlackBox to a Mixture of Interpretable Models: Route, Interpret, Repeat](https://proceedings.mlr.press/v202/ghosh23c.html)
