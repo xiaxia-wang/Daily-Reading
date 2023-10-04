@@ -6,6 +6,18 @@
 
 
 
+
+*2023-09-30*
+
+#### [LongCoder: A Long-Range Pre-trained Language Model for Code Completion](https://proceedings.mlr.press/v202/guo23j.html)
+
+*Daya Guo, Canwen Xu, Nan Duan, Jian Yin, Julian J. McAuley*
+
+*ICML 2023*
+
+This paper proposes a sparse-transformer based model for long code completion task. Specifically, it employs a sliding window mechanism for self-attention and uses two new tokens, i.e., bridge tokens for aggregating local information, and memory tokens for highlighting and memorizing important statements. The sparse mechanism makes it time-efficient.
+
+
 *2023-09-27*
 
 #### [Transformers Meet Directed Graphs](https://proceedings.mlr.press/v202/geisler23a.html)
