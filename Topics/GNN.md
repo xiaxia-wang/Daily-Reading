@@ -7,6 +7,18 @@
 
 
 
+
+*2023-10-05*
+
+#### [Structural Re-weighting Improves Graph Domain Adaptation](https://proceedings.mlr.press/v202/liu23u.html)
+
+*Shikun Liu, Tianchun Li, Yongbin Feng, Nhan Tran, Han Zhao, Qiang Qiu, Pan Li*
+
+*ICML 2023*
+
+To minimize the distributional gap between training data and real-world data in applications, typical graph domain adaptation (gda) methods aligning the distributions of node representations output by a single GNN encoder shared across the training and testing domains, which yields sub-optimal performance. This paper first identifies a type of distributional shift of node attributes and demonstrates that existing GDA methods are sub-optimal for this shift, and then proposes a structural re-weighting scheme to address this issue.
+
+
 *2023-10-01*
 
 #### [Alternately Optimized Graph Neural Networks](https://proceedings.mlr.press/v202/han23c.html)
