@@ -7,6 +7,16 @@
 
 
 
+*2023-10-06*
+
+#### [Dink-Net: Neural Clustering on Large Graphs](https://proceedings.mlr.press/v202/liu23v.html)
+
+*Yue Liu, Ke Liang, Jun Xia, Sihang Zhou, Xihong Yang, Xinwang Liu, Stan Z. Li*
+
+*ICML 2023*
+
+This paper proposes a method for node clustering on large graphs. It aggregates the two-step framework, i.e., representation learning and clustering optimization, into an end-to-end pipeline, where the clustering centers are initialized as learnable neural parameters.
+
 
 *2023-10-05*
 
