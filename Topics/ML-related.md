@@ -6,6 +6,18 @@
 
 
 
+
+*2023-10-07*
+
+#### [A Closer Look at Few-shot Classification Again](https://proceedings.mlr.press/v202/luo23e.html)
+
+*Xu Luo, Hao Wu, Ji Zhang, Lianli Gao, Jing Xu, Jingkuan Song*
+
+*ICML 2023*
+
+Few-shot classification consists of a training phase where a model is learned on a relatively large dataset and an adaptation phase where the learned model is adapted to previously-unseen tasks with limited labeled samples. This paper observes that the performance of few-shot classification models does not increase with the size of training datasets, instead, it is related to the number of training classes. It also proposes to split the training and adaptation process, and optimizes them in a disentangled manner.
+
+
 *2023-10-02*
 
 #### [Does a Neural Network Really Encode Symbolic Concepts?](https://proceedings.mlr.press/v202/li23at.html)
