@@ -3,6 +3,18 @@
 
 
 
+
+*2023-10-08*
+
+#### [Which Tricks are Important for Learning to Rank?](https://proceedings.mlr.press/v202/lyzhin23a.html)
+
+*Ivan Lyzhin, Aleksei Ustimenko, Andrey Gulin, Liudmila Prokhorenkova*
+
+*ICML 2023*
+
+This paper empirically compares several learning-to-rank models and investigates two questions: (1) Is direct optimization of a smoothed ranking loss preferable over optimizing a convex surrogate? (2) How to properly construct and smooth surrogate ranking losses?
+
+
 *2023-08-29*
 
 #### [Large Language Models for Information Retrieval: A Survey](https://arxiv.org/abs/2308.07107)
