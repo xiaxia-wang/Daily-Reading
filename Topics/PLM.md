@@ -7,6 +7,16 @@
 
 
 
+*2023-10-09*
+
+#### [A Kernel-Based View of Language Model Fine-Tuning](https://proceedings.mlr.press/v202/malladi23a.html)
+
+*Sadhika Malladi, Alexander Wettig, Dingli Yu, Danqi Chen, Sanjeev Arora*
+
+*ICML 2023*
+
+This paper proposes to use the Neural Tangent Kernel (NTK)—which originated as a model to study the gradient descent dynamics of infinitely wide networks with suitable random initialization—to describe fine-tuning of pre-trained LMs. It demonstrates that formulating the downstream task as a masked word prediction problem through prompting often induces kernel-based dynamics during fine-tuning.
+
 
 *2023-10-04*
 
