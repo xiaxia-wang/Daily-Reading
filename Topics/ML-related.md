@@ -7,6 +7,18 @@
 
 
 
+
+*2023-10-10*
+
+#### [Cross-Entropy Loss Functions: Theoretical Analysis and Applications](https://proceedings.mlr.press/v202/mao23b.html)
+
+*Anqi Mao, Mehryar Mohri, Yutao Zhong*
+
+*ICML 2023*
+
+This paper analyzes the theoretical guarantee of cross-entropy loss functions when being used as a surrogate loss. Specifically, it analyzes the comp-sum loss family, including cross-entropy, generalized cross-entropy, the mean absolute error and other cross-entropy-like losses. It presents H-consistency bounds for these loss functions, and presents a new family of loss functions, i.e., smooth adversarial comp-sum losses which are derived from the comp-sum counterparts by adding a related smooth term.
+
+
 *2023-10-07*
 
 #### [A Closer Look at Few-shot Classification Again](https://proceedings.mlr.press/v202/luo23e.html)
