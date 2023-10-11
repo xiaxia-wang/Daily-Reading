@@ -3,6 +3,18 @@
 
 
 
+
+*2023-10-11*
+
+#### [Neuro-Symbolic Continual Learning: Knowledge, Reasoning Shortcuts and Concept Rehearsal](https://proceedings.mlr.press/v202/marconato23a.html)
+
+*Emanuele Marconato, Gianpaolo Bontempo, Elisa Ficarra, Simone Calderara, Andrea Passerini, Stefano Teso*
+
+*ICML 2023*
+
+This paper investigates the task of neuro-symbolic continual learning, which handles the issue of catastrophic forgetting by leveraging prior knowledge, and overcomes the problem of reasoning shortcuts. Reasoning shortcuts appears when the model predicts correct labels while knowledge is not enough to support the prediction, usually related to how the knowledge and training data are structured. This paper also proposes a model to effectively learn high-quality knowledge based on a small number of densely annotated examples and a concept rehearsal strategy.
+
+
 *2023-08-15*
 
 #### [Binding Language Models in Symbolic Languages](https://openreview.net/pdf?id=lH1PV42cbF)
