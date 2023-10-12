@@ -7,6 +7,18 @@
 
 
 
+
+*2023-10-12*
+
+#### [Tuning Language Models as Training Data Generators for Augmentation-Enhanced Few-Shot Learning](https://proceedings.mlr.press/v202/meng23b.html)
+
+*Yu Meng, Martin Michalski, Jiaxin Huang, Yu Zhang, Tarek F. Abdelzaher, Jiawei Han*
+
+*ICML 2023*
+
+This paper proposes a new approach by using the PLM as a sample generator to enhance few-shot learning. Specifically, it firstly tunes a PLM on the original few-shot samples and uses it as a generator to produce more synthetic training samples. In this process it applies a weighted maximum likelihood based on a discriminative meta learning objective. Finally, another classification PLM is tuned on the augmented sample set to address the specific task.
+
+
 *2023-10-09*
 
 #### [A Kernel-Based View of Language Model Fine-Tuning](https://proceedings.mlr.press/v202/malladi23a.html)
