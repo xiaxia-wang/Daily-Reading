@@ -5,6 +5,17 @@
 
 
 
+*2023-10-13*
+
+#### [Learning Deductive Reasoning from Synthetic Corpus based on Formal Logic](https://proceedings.mlr.press/v202/morishita23a.html)
+
+*Terufumi Morishita, Gaku Morio, Atsuki Yamaguchi, Yasuhiro Sogawa*
+
+*ICML 2023*
+
+This paper builds a synthetic corpus consisting of deductive reasoning examples for training language models. Specifically, the examples originate from (some simple) FOL deductive rules. The rules are converted to proof trees. Factual distractors are generated based on the proof trees. Then NL templates are used to convert rules and distractors to NL sentences as contexts. Finally, examples are assembled, with each of them containing a set of facts, some hypothesis, a proof pipeline and the label (proved or not).
+
+
 *2023-08-25*
 
 #### [Dr.Spider: A Diagnostic Evaluation Benchmark towards Text-to-SQL Robustness](https://openreview.net/pdf?id=Wc5bmZZU9cy)
