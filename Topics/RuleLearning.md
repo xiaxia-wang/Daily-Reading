@@ -4,6 +4,18 @@
 
 
 
+
+*2023-10-14*
+
+#### [Do Machine Learning Models Learn Statistical Rules Inferred from Data?](https://proceedings.mlr.press/v202/naik23a.html)
+
+*Aaditya Naik, Yinjun Wu, Mayur Naik, Eric Wong*
+
+*ICML 2023*
+
+This paper proposes an approach to extract statistical rules from the training data, and incorporates them in the test time to model adaptation thus improving performance. Specifically, the statistical rules are usually characterized as an interval for a random variable with lower and upper thresholds. In the test time, it first finds the violated rules, then updates the model to have fewer violations.
+
+
 *2023-08-30*
 
 #### [Answering Complex Logical Queries on Knowledge Graphs via Query Computation Tree Optimization](https://proceedings.mlr.press/v202/bai23b.html)
