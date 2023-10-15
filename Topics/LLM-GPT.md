@@ -5,6 +5,18 @@
 
 
 
+
+*2023-10-15*
+
+#### [Can Large Language Models Reason about Program Invariants?](https://proceedings.mlr.press/v202/pei23a.html)
+
+*Kexin Pei, David Bieber, Kensen Shi, Charles Sutton, Pengcheng Yin*
+
+*ICML 2023*
+
+This paper investigates the application of using LLMs to identify program invariants. Typical invariant prediction approaches usually rely on dynamic analysis which requires multiple traces collected from executing the codes. However, this paper shows that LMs trained on source codes and fine-tuned for invariant generation are able to perform static invariant prediction with a scratch-pad approach.
+
+
 *2023-09-25*
 
 #### [The Unreasonable Effectiveness of Few-shot Learning for Machine Translation](https://proceedings.mlr.press/v202/garcia23a.html)
