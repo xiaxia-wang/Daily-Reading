@@ -8,6 +8,18 @@
 
 
 
+
+*2023-10-16*
+
+#### [HyperTuning: Toward Adapting Large Language Models without Back-propagation](https://proceedings.mlr.press/v202/phang23a.html)
+
+*Jason Phang, Yi Mao, Pengcheng He, Weizhu Chen*
+
+*ICML 2023*
+
+This paper introduces a new fine-turning approach for LMs based on the notion of hyper network. Specifically,  a hypernetwork is an auxiliary model being used to generate (a part of) parameters for a primary network. Motivated by the idea, this paper proposes a set of T5-based hypermodels that output soft prefixes or LoRA parameters for a frozen T5 model from few-shot examples.
+
+
 *2023-10-12*
 
 #### [Tuning Language Models as Training Data Generators for Augmentation-Enhanced Few-Shot Learning](https://proceedings.mlr.press/v202/meng23b.html)
