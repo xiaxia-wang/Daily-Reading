@@ -6,6 +6,18 @@
 
 
 
+
+*2023-10-17*
+
+#### [Synthetic Prompting: Generating Chain-of-Thought Demonstrations for Large Language Models](https://proceedings.mlr.press/v202/shao23a.html)
+
+*Zhihong Shao, Yeyun Gong, Yelong Shen, Minlie Huang, Nan Duan, Weizhu Chen*
+
+*ICML 2023*
+
+This paper proposes a prompt generation method, which is based on a few handcrafted examples. It generates more examples and selects effective demonstrations to improve reasoning. Specifically, it applies an alternating forward-backward process, in which the backward process involves generating a question for the given reasoning chain, and the forward process produces a better reasoning chain for the generated question.
+
+
 *2023-10-15*
 
 #### [Can Large Language Models Reason about Program Invariants?](https://proceedings.mlr.press/v202/pei23a.html)
