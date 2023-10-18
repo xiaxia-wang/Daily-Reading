@@ -7,6 +7,17 @@
 
 
 
+*2023-10-18*
+
+#### [Relevant Walk Search for Explaining Graph Neural Networks](https://proceedings.mlr.press/v202/xiong23b.html)
+
+*Ping Xiong, Thomas Schnake, Michael Gastegger, Grégoire Montavon, Klaus-Robert Müller, Shinichi Nakajima*
+
+*ICML 2023*
+
+This paper proposes a max-product based approach of relevant walk search over GNN, which provides instance-level explanations for the model by searching for the most prominent feature interaction path. It also proposes an efficient polynomial-time algorithm for fining the top-K relevant walks.
+
+
 *2023-10-06*
 
 #### [Dink-Net: Neural Clustering on Large Graphs](https://proceedings.mlr.press/v202/liu23v.html)
