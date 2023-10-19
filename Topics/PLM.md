@@ -6,7 +6,15 @@
 
 
 
+*2023-10-19*
 
+#### [Why do Nearest Neighbor Language Models Work?](https://proceedings.mlr.press/v202/xu23a.html)
+
+*Frank F. Xu, Uri Alon, Graham Neubig*
+
+*ICML 2023*
+
+kNN-LM extends a trained base LM by linearly interpolating the output distribution with a kNN model. The nearest neighbors are retrieved according to the distances between the current context embedding of the base LM and all the context embeddings in the datastore. This paper investigates the reason of the superior performance of kNN-LMs, including (1) ensembling the  output of softmax, (2) using approximate nearest neighbor search, and (3) adding a temperature term.
 
 
 *2023-10-16*
