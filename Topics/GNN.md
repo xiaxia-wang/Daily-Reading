@@ -7,6 +7,18 @@
 
 
 
+
+*2023-10-20*
+
+#### [LazyGNN: Large-Scale Graph Neural Networks via Lazy Propagation](https://proceedings.mlr.press/v202/xue23c.html)
+
+*Rui Xue, Haoyu Han, MohamadAli Torkamani, Jian Pei, Xiaorui Liu*
+
+*ICML 2023*
+
+Typical deep GNN models suffer from scalability issues due to the exponential neighborhood search requirement. To address the problem, this paper proposes a shallower GNN model LazyGNN, which introduces a mixing of current and history features using a hyperparameter in each layer. It demonstrates compatible performance with deep models while being much more efficient compared with existing GNN models.
+
+
 *2023-10-18*
 
 #### [Relevant Walk Search for Explaining Graph Neural Networks](https://proceedings.mlr.press/v202/xiong23b.html)
