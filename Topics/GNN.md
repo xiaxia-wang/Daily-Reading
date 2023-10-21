@@ -8,6 +8,18 @@
 
 
 
+
+*2023-10-21*
+
+#### [Graph Generative Model for Benchmarking Graph Neural Networks](https://proceedings.mlr.press/v202/yoon23d.html)
+
+*Minji Yoon, Yue Wu, John Palowitch, Bryan Perozzi, Russ Salakhutdinov*
+
+*ICML 2023*
+
+This paper proposes a graph generative model to produce benchmarking graph datasets for evaluating GNN models while maintaining the data privacy. Specifically, given a source graph represented by the adjacency matrix, node features and node label matrices, the target is to produce a new graph which can reflect similar performance measurements w.r.t. the source graph for GNN models, being scalable and can guarantee data privacy. To achieve this, the paper proposes to learn the distribution of the computation graph by reforming the task into a discrete-value sequence generation problem.
+
+
 *2023-10-20*
 
 #### [LazyGNN: Large-Scale Graph Neural Networks via Lazy Propagation](https://proceedings.mlr.press/v202/xue23c.html)
