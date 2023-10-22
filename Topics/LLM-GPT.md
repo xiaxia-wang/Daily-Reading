@@ -7,6 +7,18 @@
 
 
 
+
+*2023-10-22*
+
+#### [Bag of Tricks for Training Data Extraction from Language Models](https://proceedings.mlr.press/v202/yu23c.html)
+
+*Weichen Yu, Tianyu Pang, Qian Liu, Chao Du, Bingyi Kang, Yan Huang, Min Lin, Shuicheng Yan*
+
+*ICML 2023*
+
+This paper investigates the effectiveness of tricks of training data extraction for language models. Specifically, it measures the precision, recall and Hamming distance increment brought by different tricks including sampling, probability distribution adjustment, exposure bias reduction, look ahead, sentence-level criteria and token-level criteria. The empirical results show that several of these tricks improve the results significantly, while interactions between different tricks are more subtle than expected. Besides, the commonly used versatile methods for general text generation are not always effective for extraction tasks.
+
+
 *2023-10-17*
 
 #### [Synthetic Prompting: Generating Chain-of-Thought Demonstrations for Large Language Models](https://proceedings.mlr.press/v202/shao23a.html)
