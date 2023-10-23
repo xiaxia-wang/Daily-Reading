@@ -7,6 +7,16 @@
 
 
 
+*2023-10-23*
+
+#### [Prompting Large Language Model for Machine Translation: A Case Study](https://proceedings.mlr.press/v202/zhang23m.html)
+
+*Biao Zhang, Barry Haddow, Alexandra Birch*
+
+*ICML 2023*
+
+This paper investigates the prompting techniques for machine translation by LLM. Specifically, it evaluates different kinds of prompts including monolingual data, cross-lingual, cross-domain and sentence-to-document transfer learning for prompting. The results shows, (1) the number and the quality of prompt examples matter, where using suboptimal examples degenerates translation; (2) several features of prompt examples, such as semantic similarity, show significant Spearman correlation with their prompting performance; yet, none of the correlations are strong enough; (3) using pseudo parallel prompt examples constructed from monolingual data via zero-shot prompting could improve translation; and (4) improved performance is achievable by transferring knowledge from prompt examples selected in other settings.
+
 
 *2023-10-22*
 
