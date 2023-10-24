@@ -6,6 +6,18 @@
 
 
 
+
+*2023-10-24*
+
+#### [The Wisdom of Hindsight Makes Language Models Better Instruction Followers](https://proceedings.mlr.press/v202/zhang23ab.html)
+
+*Tianjun Zhang, Fangchen Liu, Justin Wong, Pieter Abbeel, Joseph E. Gonzalez*
+
+*ICML 2023*
+
+This paper proposes to view the process of RLHF in a more direct reinforcement learning manner. It converts the feedback to instruction by relabeling the original instruction and trains the model for better alignment in a supervised manner. It proposes a two-phase algorithm for this approach, with the labels for the reasoning task consist of only true or false.
+
+
 *2023-10-19*
 
 #### [Why do Nearest Neighbor Language Models Work?](https://proceedings.mlr.press/v202/xu23a.html)
