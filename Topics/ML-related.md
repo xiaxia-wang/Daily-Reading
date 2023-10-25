@@ -8,6 +8,18 @@
 
 
 
+
+*2023-10-25*
+
+#### [On Enhancing Expressive Power via Compositions of Single Fixed-Size ReLU Network](https://proceedings.mlr.press/v202/zhang23ad.html)
+
+*Shijun Zhang, Jianfeng Lu, Hongkai Zhao*
+
+*ICML 2023*
+
+This paper investigates the expressive power of neural networks. Specifically, it demonstrates that the repeated composition of a single fixed-size ReLU network can approximate 1-Lipschitz continuous function on $[0, 1]^d$ with an arbitrarily small error.
+
+
 *2023-10-10*
 
 #### [Cross-Entropy Loss Functions: Theoretical Analysis and Applications](https://proceedings.mlr.press/v202/mao23b.html)
