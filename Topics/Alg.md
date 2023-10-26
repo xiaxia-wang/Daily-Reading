@@ -3,6 +3,18 @@
 
 
 
+
+*2023-10-26*
+
+#### [Fast Online Node Labeling for Very Large Graphs](https://proceedings.mlr.press/v202/zhou23k.html)
+
+*Baojian Zhou, Yifan Sun, Reza Babanezhad Harikandeh*
+
+*ICML 2023*
+
+This paper proposes an online node labeling framework under the transductive learning setting. Based on an online relaxation technique it provides an approximate algorithm with an effective regret.
+
+
 *2023-07-27*
 
 #### [Graph Summarization via Node Grouping: A Spectral Algorithm](https://dl.acm.org/doi/10.1145/3539597.3570441)
