@@ -8,6 +8,16 @@
 
 
 
+*2023-10-27*
+
+#### [From Relational Pooling to Subgraph GNNs: A Universal Framework for More Expressive Graph Neural Networks](https://proceedings.mlr.press/v202/zhou23n.html)
+
+*Cai Zhou, Xiyuan Wang, Muhan Zhang*
+
+*ICML 2023*
+
+Weisfeiler-Lehman test (1-WL) is a common graph isomorphism test, which also bounds the expressivity of message passing neural networks (MPNNs). k-dimensional Weisfeiler-Lehman test has stronger expressivity. It assigns colors to all k-tuples and iteratively updates them. This paper proposes k-WL with l labels as k,l-WL being an enhanced test framework, and demonstrates its expressivity hierarchy.
+
 
 *2023-10-21*
 
