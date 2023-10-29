@@ -5,6 +5,18 @@
 
 
 
+
+*2023-10-29*
+
+#### [Deep Active Alignment of Knowledge Graph Entities and Schemata](https://dl.acm.org/doi/10.1145/3589304)
+
+*Jiacheng Huang, Zequn Sun, Qijin Chen, Xiaozhou Xu, Weijun Ren, Wei Hu*
+
+*SIGMOD 2023*
+
+This paper proposes a framework for knowledge graph alignment, aiming to not only align the entities from different KGs but also align the classes and relations in the KG. It proposes a deep active framework for achieving this, which consists of 3 main modules, i.e., an embedding-based joint alignment module producing the alignment between the KGs, an inference power measurement module that estimates the similarity of entity, class and relation pairs, and a batch active learning module to interactively enhance the alignment by getting truth labels from the oracle.
+
+
 *2023-07-17*
 
 #### [Link Prediction with Attention Applied on Multiple Knowledge Graph Embedding Models](https://dl.acm.org/doi/10.1145/3543507.3583358)
