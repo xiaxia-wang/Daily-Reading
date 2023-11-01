@@ -4,6 +4,18 @@
 
 
 
+
+*2023-11-01*
+
+#### [CompressGraph: Efficient Parallel Graph Analytics with Rule-Based Compression](https://dl.acm.org/doi/abs/10.1145/3588684)
+
+*Zheng Chen, Feng Zhang, JiaWei Guan, Jidong Zhai, Xipeng Shen, Huanchen Zhang, Wentong Shu, Xiaoyong Du*
+
+*SIGMOD 2023*
+
+This paper proposes CompressGraph as an efficient rule-based graph analytics engine that leverages data redundancy in graphs to achieve both performance boost and space reduction for common graph applications. Its main advantages include (1) the rule-based abstraction supports the reuse of intermediate results during graph traversal, (2) it has intense expressiveness for a wide range of graph applications, and (3) it scales well under high parallelism because the context-free rules have few dependencies.
+
+
 *2023-10-31*
 
 #### [Near-Duplicate Sequence Search at Scale for Neural Language Model Memorization Evaluation](https://dl.acm.org/doi/abs/10.1145/3589324)
