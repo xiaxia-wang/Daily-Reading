@@ -7,6 +7,16 @@
 
 
 
+*2023-11-02*
+
+#### [Do Transformers Really Perform Badly for Graph Representation?](https://proceedings.neurips.cc/paper/2021/hash/f1c1592588411002af340cbaedd6fc33-Abstract.html)
+
+*Chengxuan Ying, Tianle Cai, Shengjie Luo, Shuxin Zheng, Guolin Ke, Di He, Yanming Shen, Tie-Yan Liu*
+
+*NeurIPS 2021*
+
+This is an initial work to apply the idea of transformer to graphs, especially for graph representation learning. On the one hand, it represents the node features as Q, K, V, like a typical transformer, and meanwhile it also utilizes structural encodings to capture the graph structural information, including spatial encoding for connections between nodes, edge encoding, and centrality encoding to capture the node importance.
+
 
 *2023-10-27*
 
