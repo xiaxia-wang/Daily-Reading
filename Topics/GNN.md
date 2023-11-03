@@ -7,6 +7,18 @@
 
 
 
+
+*2023-11-03*
+
+#### [Structure-Aware Transformer for Graph Representation Learning](https://proceedings.mlr.press/v162/chen22r.html)
+
+*Dexiong Chen, Leslie O'Bray, Karsten M. Borgwardt*
+
+*ICML 2022*
+
+This paper proposes a model to encode the graph structural information into the attention mechanism. Given an input graph, it first extracts k-hop subgraphs using a structure extractor and updates the node representation using a GNN model with attention over subgraphs. Then it applies a usual transformer layer on top of that. To achieve a trade-off between computational efficiency and expressiveness, it implements k-subtree and k-subgraph extractors to compute local structures around each node.
+
+
 *2023-11-02*
 
 #### [Do Transformers Really Perform Badly for Graph Representation?](https://proceedings.neurips.cc/paper/2021/hash/f1c1592588411002af340cbaedd6fc33-Abstract.html)
