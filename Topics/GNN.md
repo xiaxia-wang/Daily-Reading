@@ -8,6 +8,18 @@
 
 
 
+
+*2023-11-04*
+
+#### [Recipe for a General, Powerful, Scalable Graph Transformer](https://papers.nips.cc/paper_files/paper/2022/hash/5d4834a159f1547b267a05a4e2b7cf5e-Abstract-Conference.html)
+
+*Ladislav Rampásek, Michael Galkin, Vijay Prakash Dwivedi, Anh Tuan Luu, Guy Wolf, Dominique Beaini*
+
+*NeurIPS 2022*
+
+This paper proposes an architecture of a general graph transformer. It decouples the positional and structural encodings as local positional encodings and local structural encodings. Then it incorporates graph features including node features, global features and edge features into a general network layer which consists of MPNN layers and global attention layers to be a plug-and-play module.
+
+
 *2023-11-03*
 
 #### [Structure-Aware Transformer for Graph Representation Learning](https://proceedings.mlr.press/v162/chen22r.html)
