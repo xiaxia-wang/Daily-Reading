@@ -9,6 +9,18 @@
 
 
 
+
+*2023-11-07*
+
+#### [Heterogeneous Temporal Graph Neural Network Explainer](https://dl.acm.org/doi/10.1145/3583780.3614909)
+
+*Jiazheng Li, Chunhui Zhang, Chuxu Zhang*
+
+*CIKM 2023*
+
+This paper proposes a link-prediction model for temporal knowledge graphs with an explanation generation module. Specifically, it has a typical encoder-decoder pipeline for the link prediction task. After getting the node embeddings from the encoder, it also feeds them into an explainer network which samples subgraphs and applies a MLP network to compute the importance score for the subgraphs and identifies the one that contributes most to the prediction.
+
+
 *2023-11-04*
 
 #### [Recipe for a General, Powerful, Scalable Graph Transformer](https://papers.nips.cc/paper_files/paper/2022/hash/5d4834a159f1547b267a05a4e2b7cf5e-Abstract-Conference.html)
