@@ -1,5 +1,17 @@
 
 
+
+*2023-11-08*
+
+#### [Combining Inductive and Deductive Reasoning for Query Answering over Incomplete Knowledge Graphs](https://dl.acm.org/doi/10.1145/3583780.3614816)
+
+*Medina Andresel, Trung-Kien Tran, Csaba Domokos, Pasquale Minervini, Daria Stepanova*
+
+*CIKM 2023*
+
+This paper proposes an embedding-based method by taking both inductive and deductive reasoning into consideration for question answering. Specifically, it applies ontology-aware data sampling to obtain the training data for the embedding model (e.g., Query2Box, etc.). It considers the DL-Lite_R as the description logic fragment, and uses a set of query shapes (DAGs) in the process of ontology-based data sampling.
+
+
 *2023-03-20*
 
 #### [SMORE: Knowledge Graph Completion and Multi-hop Reasoning in Massive Knowledge Graphs](https://dl.acm.org/doi/10.1145/3534678.3539405)
