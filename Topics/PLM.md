@@ -7,6 +7,18 @@
 
 
 
+
+*2023-11-09*
+
+#### [GripRank: Bridging the Gap between Retrieval and Generation via the Generative Knowledge Improved Passage Ranking](https://dl.acm.org/doi/10.1145/3583780.3614901)
+
+*Jiaqi Bai, Hongcheng Guo, Jiaheng Liu, Jian Yang, Xinnian Liang, Zhao Yan, Zhoujun Li*
+
+*CIKM 2023*
+
+To improve the retrieval-enhanced text generation model performance, this paper proposes a generative passage estimator for ranking the candidate passages. Motivated by the problem that sometimes the most similar passage to the passage retriever does not able to answer the query, the proposed generative passage estimator is a generative language model that measures how likely a candidate passage can be used to guide the answer generation to the given query.
+
+
 *2023-10-24*
 
 #### [The Wisdom of Hindsight Makes Language Models Better Instruction Followers](https://proceedings.mlr.press/v202/zhang23ab.html)
