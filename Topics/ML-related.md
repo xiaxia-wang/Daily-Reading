@@ -8,6 +8,16 @@
 
 
 
+*2023-11-10*
+
+#### [Deep Integrated Explanations](https://dl.acm.org/doi/10.1145/3583780.3614836)
+
+*Oren Barkan, Yehonatan Elisha, Jonathan Weill, Yuval Asher, Amit Eshel, Noam Koenigstein*
+
+*CIKM 2023*
+
+This paper introduces Deep Integrated Explanations (DIX), a comprehensive approach aimed at explaining vision models, which finds applicability across both CNN and ViT architectures. DIX employs integration over the internal model representations and their gradients, facilitating the extraction of insights from any activation (or attention) map within the network.
+
 
 *2023-10-25*
 
