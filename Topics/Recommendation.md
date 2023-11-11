@@ -3,6 +3,18 @@
 
 
 
+
+*2023-11-11*
+
+#### [How Expressive are Graph Neural Networks in Recommendation?](https://dl.acm.org/doi/10.1145/3583780.3614917)
+
+*Xuheng Cai, Lianghao Xia, Xubin Ren, Chao Huang*
+
+*CIKM 2023*
+
+This paper studies the problem of measuring the expressiveness of GNN models in the recommendation context. Specifically, it first introduces expressiveness metrics on three levels, i.e., graph level, node level, and link level. In particular, it proposes a topological closeness metric to evaluate GNNs’ ability to capture the structural distance between nodes, which closely aligns with the recommendation objective.
+
+
 *2023-11-06*
 
 #### [Recommendation as Instruction Following: A Large Language Model Empowered Recommendation Approach](https://arxiv.org/abs/2305.07001)
