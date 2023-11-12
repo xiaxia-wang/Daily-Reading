@@ -5,6 +5,18 @@
 
 
 
+
+*2023-11-12*
+
+#### [AMIE: association rule mining under incomplete evidence in ontological knowledge bases](https://dl.acm.org/doi/10.1145/2488388.2488425)
+
+*Luis Antonio Galárraga, Christina Teflioudi, Katja Hose, Fabian M. Suchanek*
+
+*WWW 2013*
+
+This paper proposes a rule mining model named AMIE from RDF-style KBs under the OWA setting. It focuses on mining chain-like closed Horn rules, i.e., every variable in the rule appears at least twice. AMIE relies on a "language bias" to restrict the search space, i.e., every atom in the rule is transitively connected via a sharing variable to every other atom.
+
+
 *2023-10-14*
 
 #### [Do Machine Learning Models Learn Statistical Rules Inferred from Data?](https://proceedings.mlr.press/v202/naik23a.html)
