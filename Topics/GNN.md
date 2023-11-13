@@ -10,6 +10,18 @@
 
 
 
+
+*2023-11-13*
+
+#### [Generalization Analysis of Message Passing Neural Networks on Large Random Graphs](https://papers.nips.cc/paper_files/paper/2022/hash/1eeaae7c89d9484926db6974b6ece564-Abstract-Conference.html)
+
+*Sohir Maskey, Ron Levie, Yunseok Lee, Gitta Kutyniok*
+
+*NeurIPS 2022*
+
+This paper studies the generalization error of MPNNs in graph classification and regression. By assuming that graphs of different classes are sampled from different random graph models, it shows that, when training a MPNN on a dataset sampled from such a distribution, the generalization gap increases in the complexity of the MPNN, and decreases, not only with respect to the number of training samples, but also with the average number of nodes in the graphs. This shows how a MPNN with high complexity can generalize from a small dataset of graphs, as long as the graphs are large.
+
+
 *2023-11-07*
 
 #### [Heterogeneous Temporal Graph Neural Network Explainer](https://dl.acm.org/doi/10.1145/3583780.3614909)
