@@ -8,7 +8,15 @@
 
 
 
+*2023-11-14*
 
+#### [Wasserstein Barycenter Matching for Graph Size Generalization of Message Passing Neural Networks](https://proceedings.mlr.press/v202/chu23a.html)
+
+*Xu Chu, Yujie Jin, Xin Wang, Shanghang Zhang, Yasha Wang, Wenwu Zhu, Hong Mei*
+
+*ICML 2023*
+
+To address the uncontrollable convergence rate caused by correlations across nodes in the underlying dimensional signal-generating space, this paper proposes to use Wasserstein bary centers as graph-level consensus to combat node-level correlations. Specifically, it proposes a Wasserstein bary center matching (WBM) layer that represents an input graph by Wasserstein distances between its MPNN-filtered node embeddings versus some learned class-wise bary centers. Theoretically, it shows that the convergence rate of an MPNN with a WBM layer is controllable and independent to the dimensionality of the signal-generating space.
 
 
 *2023-11-13*
