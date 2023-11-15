@@ -6,6 +6,15 @@
 
 
 
+*2023-11-15*
+
+#### [Relevance-based Infilling for Natural Language Counterfactuals](https://dl.acm.org/doi/10.1145/3583780.3615029)
+
+*Lorenzo Betti, Carlo Abrate, Francesco Bonchi, Andreas Kaltenbrunner*
+
+*CIKM 2023*
+
+In the context of an NLP classification task, a counterfactual is a piece of text that, while being as similar as possible to the original text, is classified differently by the model. This paper introduces RELITC, an approach to generate counterfactuals for text classifiers that first masks important words for the classifier and then infills them through a masked language model conditioned on the counterfactual class.
 
 
 *2023-11-09*
