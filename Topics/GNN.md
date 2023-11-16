@@ -6,6 +6,15 @@
 
 
 
+*2023-11-16*
+
+#### [Bridged-GNN: Knowledge Bridge Learning for Effective Knowledge Transfer](https://dl.acm.org/doi/10.1145/3583780.3614796)
+
+*Wendong Bi, Xueqi Cheng, Bingbing Xu, Xiaoqian Sun, Easton Li Xu, Huawei Shen*
+
+*CIKM 2023*
+
+This paper proposes an architecture for knowledge transfer based on GNN models, which includes an adaptive knowledge retrieval module for building a bridge-graph and a graph knowledge transfer module. It defines the task of knowledge transfer as knowledge bridge learning that conducts sample-wise knowledge transfers within the learned scope.
 
 
 *2023-11-14*
