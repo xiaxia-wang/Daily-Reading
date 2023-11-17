@@ -5,6 +5,18 @@
 
 
 
+
+*2023-11-17*
+
+#### [Inducing Causal Structure for Abstractive Text Summarization](https://dl.acm.org/doi/10.1145/3583780.3614934)
+
+*Lu Chen, Ruqing Zhang, Wei Huang, Wei Chen, Jiafeng Guo, Xueqi Cheng*
+
+*CIKM 2023*
+
+This paper proposes a model for causal structure-guided generative text summarization. Specifically, it separately learns the hidden factors for the core-content, side-content, document style and summary style, and combines them into the generative model of the summary. The decoder consists a reconstruction module to simulate the input text, and a prediction module to provide the generated summary. The loss function includes the reconstruction loss, prediction loss, KL loss and a content-guidance loss.
+
+
 *2023-11-01*
 
 #### [CompressGraph: Efficient Parallel Graph Analytics with Rule-Based Compression](https://dl.acm.org/doi/abs/10.1145/3588684)
