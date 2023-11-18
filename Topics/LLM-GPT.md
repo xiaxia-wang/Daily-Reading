@@ -7,6 +7,18 @@
 
 
 
+
+*2023-11-18*
+
+#### [Hallucination Detection: Robustly Discerning Reliable Answers in Large Language Models](https://dl.acm.org/doi/10.1145/3583780.3614905)
+
+*Yuyan Chen, Qiang Fu, Yichen Yuan, Zhihao Wen, Ge Fan, Dayiheng Liu, Dongmei Zhang, Zhixu Li, Yanghua Xiao*
+
+*CIKM 2023*
+
+This paper proposes a PLM-based model for hallucination detection for LLMs. Specifically, it first constructs a dataset including QA pairs, and evaluates the generated answers of LLMs as positive/negative hallucination examples. Then it formulates the discriminator as a classification model based on multiple metrics such as LLM self-evaluation metrics, human metrics, machine metrics and composite metrics. It conducts evaluation on several PLMs as backbone.
+
+
 *2023-10-23*
 
 #### [Prompting Large Language Model for Machine Translation: A Case Study](https://proceedings.mlr.press/v202/zhang23m.html)
