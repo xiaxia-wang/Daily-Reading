@@ -4,6 +4,18 @@
 
 
 
+
+*2023-11-19*
+
+#### [LLMRec: Large Language Models with Graph Augmentation for Recommendation](https://arxiv.org/abs/2311.00423)
+
+*Wei Wei, Xubin Ren, Jiabin Tang, Qinyong Wang, Lixin Su, Suqi Cheng, Junfeng Wang, Dawei Yin, Chao Huang*
+
+*WSDM 2024*
+
+This paper proposes to use LLM to generate extra information for augmenting the user-item interation graph thus improving the recommendation performance. Specifically, it applies LLM to (1) generate pseudo user-item edges as extra positive/negative examples, (2) generate user profiles such as name, gender from the recommendation history, and (3) encode the generated information as auxiliary features used as input for the recommender.
+
+
 *2023-11-11*
 
 #### [How Expressive are Graph Neural Networks in Recommendation?](https://dl.acm.org/doi/10.1145/3583780.3614917)
