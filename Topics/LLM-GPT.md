@@ -8,6 +8,18 @@
 
 
 
+
+*2023-11-20*
+
+#### [G-Eval: NLG Evaluation using GPT-4 with Better Human Alignment](https://arxiv.org/abs/2303.16634)
+
+*Yang Liu, Dan Iter, Yichong Xu, Shuohang Wang, Ruochen Xu, Chenguang Zhu*
+
+*Arxiv 2023*
+
+To automatically evaluate the text generation performance of LLMs, this paper present G-EVAL, a framework of using LLMs with chain-of-thoughts (CoT) and a form-filling paradigm, to assess the quality of NLG outputs. It evaluates with two generation tasks, text summarization and dialogue generation.
+
+
 *2023-11-18*
 
 #### [Hallucination Detection: Robustly Discerning Reliable Answers in Large Language Models](https://dl.acm.org/doi/10.1145/3583780.3614905)
