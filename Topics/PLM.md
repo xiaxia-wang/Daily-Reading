@@ -6,6 +6,18 @@
 
 
 
+
+*2023-11-21*
+
+#### [LEMON: Language-Based Environment Manipulation via Execution-Guided Pre-training](https://aclanthology.org/2022.findings-emnlp.33/)
+
+*Qi Shi, Qian Liu, Bei Chen, Yu Zhang, Ting Liu, Jian-Guang Lou*
+
+*EMNLP Findings 2022*
+
+This paper investigates the task of language-based environment manipulation, by formulating it as a conversational process which starts and ends in some specific states. It proposes an execution-guided pre-training strategy based on a synthetic corpus for the base model of BART.
+
+
 *2023-11-15*
 
 #### [Relevance-based Infilling for Natural Language Counterfactuals](https://dl.acm.org/doi/10.1145/3583780.3615029)
