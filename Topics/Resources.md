@@ -5,6 +5,18 @@
 
 
 
+
+*2023-11-22*
+
+#### [Did Aristotle Use a Laptop? A Question Answering Benchmark with Implicit Reasoning Strategies](https://doi.org/10.1162/tacl_a_00370)
+
+*Mor Geva, Daniel Khashabi, Elad Segal, Tushar Khot, Dan Roth, Jonathan Berant*
+
+*TACL 2021*
+
+This paper proposes a (textual) question answering benchmarking dataset for evaluating multi-hop reasoning of the system. Specifically, the questions in this dataset do not explicitly mention the required reasoning steps but implicitly contains the requirement for reasoning. Meanwhile, it provides the decomposition of reasoning steps with Wikipedia paragraphs that contain the answers to each reasoning step.
+
+
 *2023-10-13*
 
 #### [Learning Deductive Reasoning from Synthetic Corpus based on Formal Logic](https://proceedings.mlr.press/v202/morishita23a.html)
