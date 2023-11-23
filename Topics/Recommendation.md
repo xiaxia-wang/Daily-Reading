@@ -5,6 +5,18 @@
 
 
 
+
+*2023-11-23*
+
+#### [Session-based Recommendations with Recurrent Neural Networks](https://github.com/hidasib/GRU4Rec)
+
+*Balázs Hidasi, Alexandros Karatzoglou, Linas Baltrunas, Domonkos Tikk*
+
+*ICLR 2016*
+
+This is an early work that uses RNN, specifically, GRU-based network models, to simulate the long history of user-item interactions for recommendation.
+
+
 *2023-11-19*
 
 #### [LLMRec: Large Language Models with Graph Augmentation for Recommendation](https://arxiv.org/abs/2311.00423)
