@@ -6,7 +6,15 @@
 
 
 
+*2023-11-24*
 
+#### [A Multitask, Multilingual, Multimodal Evaluation of ChatGPT on Reasoning, Hallucination, and Interactivity](https://arxiv.org/abs/2302.04023)
+
+*Yejin Bang, Samuel Cahyawijaya, Nayeon Lee, Wenliang Dai, Dan Su, Bryan Wilie, Holy Lovenia, Ziwei Ji, Tiezheng Yu, Willy Chung, Quyet V. Do, Yan Xu, Pascale Fung*
+
+*Arxiv 2023*
+
+As title, an extensive technical evaluation of ChatGPT using 23 datasets covering 8 different common NLP application tasks.
 
 
 *2023-11-20*
