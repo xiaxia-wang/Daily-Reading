@@ -6,6 +6,18 @@
 
 
 
+
+*2023-11-25*
+
+#### [Evaluating the Logical Reasoning Ability of ChatGPT and GPT-4](https://arxiv.org/abs/2304.03439)
+
+*Hanmeng Liu, Ruoxi Ning, Zhiyang Teng, Jian Liu, Qiji Zhou, Yue Zhang*
+
+*Arxiv 2023*
+
+This report evaluates the performance of ChatGPT and GPT-4 on multi-choice reading comprehension and natural language inference tasks (in prompt-style) with benchmarks requiring logical reasoning. The results show that both ChatGPT and GPT-4 perform quite well on most existing benchmark datasets, and GPT-4 is even better than ChatGPT. However, their performance drops significantly when handling newly released and out-of-distribution datasets, which suggests the remaining challenge for LLMs on these datasets.
+
+
 *2023-11-24*
 
 #### [A Multitask, Multilingual, Multimodal Evaluation of ChatGPT on Reasoning, Hallucination, and Interactivity](https://arxiv.org/abs/2302.04023)
