@@ -5,6 +5,15 @@
 
 
 
+*2023-11-26*
+
+#### [Don't Generate, Discriminate: A Proposal for Grounding Language Models to Real-World Environments](https://aclanthology.org/2023.acl-long.270/)
+
+*Yu Gu, Xiang Deng, Yu Su*
+
+*ACL 2023*
+
+This paper proposes a generic framework for grounded language understanding that capitalizes on the discriminative ability of LMs instead of their generative ability. It consists of a symbolic agent and a neural LM where the agent explores the environment to incrementally construct valid plans, and the LM evaluates the plausibility of the candidate plans to guide the search process. It is evaluated on the KBQA task and achieved relatively good results.
 
 
 *2023-11-25*
