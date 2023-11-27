@@ -8,6 +8,18 @@
 
 
 
+
+*2023-11-27*
+
+#### [A Simple Interpretable Transformer for Fine-Grained Image Classification and Analysis](https://arxiv.org/abs/2311.04157)
+
+*Dipanjyoti Paul, Arpita Chowdhury, Xinqi Xiong, Feng-Ju Chang, David Carlyn, Samuel Stevens, Kaiya Provost, Anuj Karpatne, Bryan Carstens, Daniel Rubenstein, Charles Stewart, Tanya Berger-Wolf, Yu Su, Wei-Lun Chao*
+
+*Arxiv 2023*
+
+This paper investigates a transformer-based proactive approach for interpretable image classification, which learns "class-specific" queries as input to the decoder, and uses the cross-attention weights as the interpretation.
+
+
 *2023-11-10*
 
 #### [Deep Integrated Explanations](https://dl.acm.org/doi/10.1145/3583780.3614836)
