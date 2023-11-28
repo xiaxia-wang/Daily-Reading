@@ -5,6 +5,18 @@
 
 
 
+
+*2023-11-28*
+
+#### [Making Large Language Models Perform Better in Knowledge Graph Completion](https://arxiv.org/abs/2310.06671)
+
+*Yichi Zhang, Zhuo Chen, Wen Zhang, Huajun Chen*
+
+*Arxiv 2023*
+
+This paper proposes a new LLM-based method for knowledge graph completion. To feed the structural information of the KG into the LLM, it propose a knowledge prefix adapter (KoPA), which employs structural embedding pre-training to capture the structural information, and project it into the textual token space as input prefix for the LLM.
+
+
 *2023-11-26*
 
 #### [Don't Generate, Discriminate: A Proposal for Grounding Language Models to Real-World Environments](https://aclanthology.org/2023.acl-long.270/)
