@@ -7,6 +7,18 @@
 
 
 
+
+*2023-11-29*
+
+#### [Harnessing the Power of Large Language Models for Natural Language to First-Order Logic Translation](https://arxiv.org/abs/2305.15541)
+
+*Yuan Yang, Siheng Xiong, Ali Payani, Ehsan Shareghi, Faramarz Fekri*
+
+*Arxiv 2023*
+
+This paper introduces LOGICLLAMA, a LLaMA-7B model fine-tuned for NL-FOL translation using LoRA on a single GPU. LOGICLLAMA is capable of directly translating natural language into FOL rules, which outperforms GPT-3.5. LOGICLLAMA is also equipped to correct FOL rules predicted by GPT-3.5, and can achieve similar performance as GPT-4 with a fraction of the cost.
+
+
 *2023-11-21*
 
 #### [LEMON: Language-Based Environment Manipulation via Execution-Guided Pre-training](https://aclanthology.org/2022.findings-emnlp.33/)
