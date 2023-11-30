@@ -6,6 +6,18 @@
 
 
 
+
+*2023-11-30*
+
+#### [LLM4Vis: Explainable Visualization Recommendation using ChatGPT](https://arxiv.org/abs/2310.07652)
+
+*Lei Wang, Songheng Zhang, Yun Wang, Ee-Peng Lim, Yong Wang*
+
+*EMNLP 2023*
+
+Visualization recommendation aims to find the most appropriate type of visualization approach for a given dataset. To achieve this, this paper proposes a prompt-based pipeline, which involves feature description, example selection, and explanation generation (by LLM). Then in the test phase, it searches for the top-k nearest examples from the example set, and combines them with the input test example to generate the visualization recommendation.
+
+
 *2023-11-23*
 
 #### [Session-based Recommendations with Recurrent Neural Networks](https://github.com/hidasib/GRU4Rec)
