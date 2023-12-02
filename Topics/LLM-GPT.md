@@ -6,6 +6,18 @@
 
 
 
+
+*2023-12-02*
+
+#### [Leveraging Large Language Models to Generate Answer Set Programs](https://proceedings.kr.org/2023/37/)
+
+*Adam Ishay, Zhun Yang, Joohyung Lee*
+
+*KR 2023*
+
+This paper evaluates the ability of LLMs to transform natural language descriptions of logic puzzles into answer set programs by designing prompts to convert descriptions into answer set programs in a step by step manner and in-context learning.
+
+
 *2023-11-28*
 
 #### [Making Large Language Models Perform Better in Knowledge Graph Completion](https://arxiv.org/abs/2310.06671)
