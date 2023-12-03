@@ -6,6 +6,18 @@
 
 
 
+
+*2023-12-03*
+
+#### [Explainable Representations for Relation Prediction in Knowledge Graphs](https://proceedings.kr.org/2023/62/)
+
+*Rita Torres Sousa, Sara Silva, Catia Pesquita*
+
+*KR 2023*
+
+This paper proposes explainable representations for link prediction over knowledge graphs, which is based on identifying similar subgraphs between entities and learning representations for each subgraph. Then the embeddings of entity pairs are generated based on their mutual classes. These embbedings are then fed into a supervised ML model with a perturbation-style learning process to generate the explanations.
+
+
 *2023-10-29*
 
 #### [Deep Active Alignment of Knowledge Graph Entities and Schemata](https://dl.acm.org/doi/10.1145/3589304)
