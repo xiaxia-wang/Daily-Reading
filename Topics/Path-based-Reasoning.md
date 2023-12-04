@@ -6,6 +6,18 @@
 
 
 
+
+*2023-12-04*
+
+#### [On the Correspondence Between Monotonic Max-Sum GNNs and Datalog](https://proceedings.kr.org/2023/64/)
+
+*David Tena Cucala, Bernardo Cuenca Grau, Boris Motik, Egor V. Kostylev*
+
+*KR 2023*
+
+This paper investigates the max-sum GNN model which is based on a canonical encoding scheme for a graph and extra restrictions (e.g., non-negative weight matrices and activation functions) to the model.
+
+
 *2023-07-23*
 
 #### [PaGE-Link: Path-based Graph Neural Network Explanation for Heterogeneous Link Prediction](https://dl.acm.org/doi/10.1145/3543507.3583511)
