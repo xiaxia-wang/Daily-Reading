@@ -10,6 +10,18 @@
 
 
 
+
+*2023-12-05*
+
+#### [Combining Global and Local Merges in Logic-based Entity Resolution](https://proceedings.kr.org/2023/74/)
+
+*Meghyn Bienvenu, Gianluca Cima, Víctor Gutiérrez-Basulto, Yazmín Ibáñez-García*
+
+*KR 2023*
+
+This paper is an extension of a previous rule-based entity resolution approach that only utilizes global merging of entities. To support both global and local merges, this paper introduces an extended approach where local merges may enable global merges and vice versa, and explores the computational properties of the resulting formalism.
+
+
 *2023-09-07*
 
 #### [Tighter Bounds on the Expressivity of Transformer Encoders](https://proceedings.mlr.press/v202/chiang23a.html)
