@@ -6,6 +6,18 @@
 
 
 
+
+*2023-12-06*
+
+#### [Newton-Cotes Graph Neural Networks: On the Time Evolution of Dynamic Systems](https://arxiv.org/abs/2305.14642)
+
+*Lingbing Guo, Weiqing Wang, Zhuo Chen, Ningyu Zhang, Zequn Sun, Yixuan Lai, Qiang Zhang, Huajun Chen*
+
+*NeurIPS 2023*
+
+This paper investigates the GNN-based system dynamics following the observation that they actually share a common paradigm that learns the integration of the velocity over the interval between the initial and terminal coordinates. Then it proposes a new approach to predict the integration based on several velocity estimations with Newton–Cotes formulas and theoretically prove its effectiveness.
+
+
 *2023-11-16*
 
 #### [Bridged-GNN: Knowledge Bridge Learning for Effective Knowledge Transfer](https://dl.acm.org/doi/10.1145/3583780.3614796)
