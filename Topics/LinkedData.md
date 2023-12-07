@@ -2,6 +2,18 @@
 
 
 
+
+*2023-12-07*
+
+#### [Triple Trustworthiness Measurement for Knowledge Graph](https://dl.acm.org/doi/10.1145/3308558.3313586)
+
+*Shengbin Jia, Yang Xiang, Xiaojun Chen, Kun Wang, Shijia E*
+
+*WWW 2019*
+
+This paper proposes an approach to measure the triple trustworthiness from three levels including entity level, relation level and KG global level. It proposes three estimators and fuses their estimation as the final output. The first estimator is based on an algorithm named ResourceRank which characterizes the association strength between an entity pair. The second estimator measures the possibility of a specific relation $r$ between an entity pair based on the Translation-based energy function (TEF). The third estimator relies on the reachable paths of a given entity pair on the KG to infer the trustworthiness.
+
+
 *2023-03-16*
 
 #### [Evaluating Knowledge Graph Accuracy Powered by Optimized Human-machine Collaboration](https://dl.acm.org/doi/10.1145/3534678.3539233)
