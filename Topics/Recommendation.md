@@ -7,6 +7,18 @@
 
 
 
+
+*2023-12-09*
+
+#### [Towards Deeper, Lighter and Interpretable Cross Network for CTR Prediction](https://dl.acm.org/doi/10.1145/3583780.3615089)
+
+*Fangye Wang, Hansu Gu, Dongsheng Li, Tun Lu, Peng Zhang, Ning Gu*
+
+*CIKM 2023*
+
+CTR prediction aims to estimate the probability of a user clicking on a recommended item or an advertisement on a web page. This paper proposes a Gated Cross Network (GCN) that captures explicit high-order feature interactions and dynamically filters important interactions with an information gate in each order. Then it also uses a Field-level Dimension Optimization (FDO) approach to learn condensed dimensions for each field based on their importance.
+
+
 *2023-11-30*
 
 #### [LLM4Vis: Explainable Visualization Recommendation using ChatGPT](https://arxiv.org/abs/2310.07652)
