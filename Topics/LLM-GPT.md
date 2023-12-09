@@ -7,6 +7,18 @@
 
 
 
+
+*2023-12-08*
+
+#### [UHGEval: Benchmarking the Hallucination of Chinese Large Language Models via Unconstrained Generation](https://arxiv.org/abs/2311.15296)
+
+*Xun Liang, Shichao Song, Simin Niu, Zhiyu Li, Feiyu Xiong, Bo Tang, Zhaohui Wy, Dawei He, Peng Cheng, Zhonghao Wang, Haiying Deng*
+
+*Arxiv 2023*
+
+This paper introduces a benchmark dataset using unconstrained hallucination generation, comprising a dataset curated for hallucinated news continuation, which encompasses over 5,000 instances annotated at the keyword level. Besides, it also proposes an evaluation framework to facilitate comprehensive assessments.
+
+
 *2023-12-02*
 
 #### [Leveraging Large Language Models to Generate Answer Set Programs](https://proceedings.kr.org/2023/37/)
