@@ -8,6 +8,18 @@
 
 
 
+
+*2023-12-10*
+
+#### [Recommender Systems with Generative Retrieval](https://arxiv.org/abs/2305.05065)
+
+*Shashank Rajput, Nikhil Mehta, Anima Singh, Raghunandan H. Keshavan, Trung Vu, Lukasz Heldt, Lichan Hong, Yi Tay, Vinh Q. Tran, Jonah Samost, Maciej Kula, Ed H. Chi, Maheswaran Sathiamoorthy*
+
+*NeurIPS 2023*
+
+Modern recommender systems perform large-scale retrieval by embedding queries and item candidates in the same unified space, followed by approximate nearest neighbor search to select top candidates given a query embedding. In contrast, this paper enables the retrieval model to autoregressively decode the identifiers of the target candidates by creating semantically meaningful tuple of codewords to serve as a Semantic ID for each item. Given Semantic IDs for items in a user session, a Transformer-based seq2seq model is trained to predict the Semantic ID of the next item that the user will interact with.
+
+
 *2023-12-09*
 
 #### [Towards Deeper, Lighter and Interpretable Cross Network for CTR Prediction](https://dl.acm.org/doi/10.1145/3583780.3615089)
