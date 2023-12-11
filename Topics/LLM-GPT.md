@@ -8,6 +8,18 @@
 
 
 
+
+*2023-12-11*
+
+#### [StructGPT: A General Framework for Large Language Model to Reason over Structured Data](https://arxiv.org/abs/2305.09645)
+
+*Jinhao Jiang, Kun Zhou, Zican Dong, Keming Ye, Wayne Xin Zhao, Ji-Rong Wen*
+
+*EMNLP 2023*
+
+This paper proposes an Iterative Reading-then-Reasoning (IRR) framework to solve question answering tasks based on structured data, called StructGPT. The framework constructs the specialized interfaces to collect relevant evidence from structured data (i.e., reading), and let LLMs concentrate on the reasoning task based on the collected information (i.e., reasoning). Specially, it proposes an invoking-linearization-generation procedure to support LLMs in reasoning on the structured data with the help of the interfaces.
+
+
 *2023-12-08*
 
 #### [UHGEval: Benchmarking the Hallucination of Chinese Large Language Models via Unconstrained Generation](https://arxiv.org/abs/2311.15296)
