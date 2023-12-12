@@ -9,6 +9,18 @@
 
 
 
+
+*2023-12-12*
+
+#### [A Survey of Large Language Models](https://arxiv.org/abs/2303.18223)
+
+*Wayne Xin Zhao, Kun Zhou, Junyi Li, Tianyi Tang, Xiaolei Wang, Yupeng Hou, Yingqian Min, Beichen Zhang, Junjie Zhang, Zican Dong, Yifan Du, Chen Yang, Yushuo Chen, Zhipeng Chen, Jinhao Jiang, Ruiyang Ren, Yifan Li, Xinyu Tang, Zikang Liu, Peiyu Liu, Jian-Yun Nie, Ji-Rong Wen*
+
+*Arxiv 2023*
+
+This is so far the most comprehensive survey of LLMs including their theoretical foundation and available tools. (Still in updating. Chinese version and github resources link are available.)
+
+
 *2023-12-11*
 
 #### [StructGPT: A General Framework for Large Language Model to Reason over Structured Data](https://arxiv.org/abs/2305.09645)
