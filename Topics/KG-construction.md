@@ -5,6 +5,18 @@
 
 
 
+
+*2023-12-13*
+
+#### [Schema-adaptable Knowledge Graph Construction](https://arxiv.org/abs/2305.08703)
+
+*Hongbin Ye, Honghao Gui, Xin Xu, Xi Chen, Huajun Chen, Ningyu Zhang*
+
+*EMNLP 2023 Findings*
+
+This paper proposes a task called schema-adaptable KGC, which aims to continually extract entity, relation, and event based on a dynamically changing schema graph without re-training. It first converts existing datasets based on horizontal schema expansion, vertical schema expansion, and hybrid schema expansion, and then evaluates several baseline encoder-decoder models for this task.
+
+
 *2023-08-16*
 
 #### [NLIRE: A Natural Language Inference method for Relation Extraction](https://www.jws-volumes.com/_files/ugd/c6c160_e11821035f99466591d8fa2ca0f71aec.pdf)
