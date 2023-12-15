@@ -4,6 +4,18 @@
 
 
 
+
+*2023-12-15*
+
+#### [GATrust: A Multi-Aspect Graph Attention Network Model for Trust Assessment in OSNs](https://doi.org/10.1109/TKDE.2022.3174044)
+
+*Nan Jiang, Jie Wen, Jin Li, Ximeng Liu, Di Jin*
+
+*IEEE TKDE 2023*
+
+To capture the pairwise trustworthiness in online social networks, existing approaches typically use GCNs that overlooked the various user features. This paper proposes a model in which each layer contains a GAT module and two GCN module for aggregating the users' context-specific information, network topological structure information, and locally-generated social trust relationships.
+
+
 *2023-09-29*
 
 #### [Linkless Link Prediction via Relational Distillation](https://proceedings.mlr.press/v202/guo23f.html)
