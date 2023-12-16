@@ -5,6 +5,18 @@
 
 
 
+
+*2023-12-16*
+
+#### [KGTrust: Evaluating Trustworthiness of SIoT via Knowledge Enhanced Graph Neural Networks](https://dl.acm.org/doi/10.1145/3543507.3583549)
+
+*Zhizhi Yu, Di Jin, Cuiying Huo, Zhiqiang Wang, Xiulong Liu, Heng Qi, Jia Wu, Lingfei Wu*
+
+*WWW 2023*
+
+Social Internet of Things (SIoT) is an emerging paradigm that injects the notion of social networking into smart objects, i.e., things. To better utilize the various information provided in SIoT, this paper proposes a knowledge-enhanced GNN model for trust evaluation. It first extracts useful knowledge from users’ comment behaviors and external structured triples related to object descriptions, and further introduces a discriminative convolutional layer that utilizes heterogeneous graph structure, node semantics, and augmented trust relationships to learn node embeddings from the perspective of a user as a trustor or a trustee.
+
+
 *2023-12-15*
 
 #### [GATrust: A Multi-Aspect Graph Attention Network Model for Trust Assessment in OSNs](https://doi.org/10.1109/TKDE.2022.3174044)
