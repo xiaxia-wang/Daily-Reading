@@ -8,6 +8,18 @@
 
 
 
+
+*2023-12-17*
+
+#### [Make Your Decision Convincing! A Unified Two-Stage Framework: Self-Attribution and Decision-Making](https://arxiv.org/abs/2310.13610)
+
+*Yanrui Du, Sendong Zhao, Haochun Wang, Yuhan Chen, Rui Bai, Zewen Qiang, Muzhen Cai, Bing Qin*
+
+*EMNLP 2023 Findings*
+
+This paper proposes a unified two-stage prompt-based framework known as Self-Attribution and Decision-Making (SADM), to improve the causal relations between the predictions and explanations given by LLMs, i.e., to mitigate the problem of LLMs giving right answer with wrong explanation, or right explanation with wrong answer.
+
+
 *2023-11-29*
 
 #### [Harnessing the Power of Large Language Models for Natural Language to First-Order Logic Translation](https://arxiv.org/abs/2305.15541)
