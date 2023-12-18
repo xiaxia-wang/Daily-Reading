@@ -7,6 +7,18 @@
 
 
 
+
+*2023-12-18*
+
+#### [How Powerful are Graph Neural Networks?](https://openreview.net/forum?id=ryGs6iA5Km)
+
+*Keyulu Xu, Weihua Hu, Jure Leskovec, Stefanie Jegelka*
+
+*ICLR 2019*
+
+This paper firstly analyzes the theoretical expressive power of graph neural networks by connecting the MPNN framework with 1-WL test. It proves that the 1-WL test is both the upper bound and the lower bound for the expressive power of MPNN. Further, it introduces GIN as a GNN architecture that reaches the maximum expressive power within this theoretical framework.
+
+
 *2023-12-06*
 
 #### [Newton-Cotes Graph Neural Networks: On the Time Evolution of Dynamic Systems](https://arxiv.org/abs/2305.14642)
