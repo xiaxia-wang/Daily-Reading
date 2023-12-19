@@ -10,6 +10,18 @@
 
 
 
+
+*2023-12-19*
+
+#### [RecExplainer: Aligning Large Language Models for Recommendation Model Interpretability](https://arxiv.org/abs/2311.10947)
+
+*Yuxuan Lei, Jianxun Lian, Jing Yao, Xu Huang, Defu Lian, Xing Xie*
+
+*Arxiv 2023*
+
+This paper proposes to use LLMs for explaining recommendation models. Specifically, it considers two ways for aligning the LLM with the recommendation model, including (1) behavior alignment for which the LLM is trained to emulate the recommendation model’s predictive patterns—given a user’s profile as input, the LLM is fine-tuned to predict the items that the recommendation model would suggest to the user, and (2) intention alignment aims to incorporate the embeddings from the recommendation model to the LLM's prompts in a cross-modal manner.
+
+
 *2023-12-14*
 
 #### [ControlRec: Bridging the Semantic Gap between Language Model and Personalized Recommendation](https://arxiv.org/abs/2311.16441)
