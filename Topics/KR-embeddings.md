@@ -7,6 +7,18 @@
 
 
 
+
+*2023-12-20*
+
+#### [Meta-Knowledge Transfer for Inductive Knowledge Graph Embedding](https://dl.acm.org/doi/10.1145/3477495.3531757)
+
+*Mingyang Chen, Wen Zhang, Yushan Zhu, Hongting Zhou, Zonggang Yuan, Changliang Xu, Huajun Chen*
+
+*SIGIR 2022*
+
+To achieve inductive knowledge graph embedding, this paper proposes a model MorsE that learns not entity embeddings but transferable meta-knowledge to be used for producing entity embeddings. The meta-knowledge is modeled by entity-independent modules and learned by meta learning. Specifically, it designs modules that can produce entity embeddings based on the neighbor structural information. To achieve this, it proposes an entity initializer to initialize the embedding of each entity using the information of relations connected to it, and a GNN Modulator to modulate the initialized embedding for each entity based on its multi-hop neighborhood structure.
+
+
 *2023-12-03*
 
 #### [Explainable Representations for Relation Prediction in Knowledge Graphs](https://proceedings.kr.org/2023/62/)
