@@ -10,6 +10,18 @@
 
 
 
+
+*2023-12-21*
+
+#### [Label Words are Anchors: An Information Flow Perspective for Understanding In-Context Learning](https://aclanthology.org/2023.emnlp-main.609/)
+
+*Lean Wang, Lei Li, Damai Dai, Deli Chen, Hao Zhou, Fandong Meng, Jie Zhou, Xu Sun*
+
+*EMNLP 2023 Best Paper*
+
+This paper investigates the working mechanism of ICL through an information flow lens. It shows that label words in the demonstration examples function as anchors: (1) semantic information aggregates into label word representations during the shallow computation layers’ processing; (2) the consolidated information in label words serves as a reference for LLMs’ final predictions. Based on the findings, it also proposes an anchor re-weighting method to improve ICL performance, a demonstration compression technique to expedite inference, and an analysis framework for diagnosing ICL errors in GPT2-XL.
+
+
 *2023-12-12*
 
 #### [A Survey of Large Language Models](https://arxiv.org/abs/2303.18223)
