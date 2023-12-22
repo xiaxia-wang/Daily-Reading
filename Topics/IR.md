@@ -4,6 +4,18 @@
 
 
 
+
+*2023-12-22*
+
+#### [Is ChatGPT Good at Search? Investigating Large Language Models as Re-Ranking Agents](https://arxiv.org/abs/2304.09542)
+
+*Weiwei Sun, Lingyong Yan, Xinyu Ma, Shuaiqiang Wang, Pengjie Ren, Zhumin Chen, Dawei Yin, Zhaochun Ren*
+
+*EMNLP 2023 Outstanding*
+
+This paper investigates the passage reranking ability of LLMs with prompts. Specifically, it reveals with experiments that properly instructed LLMs can deliver even superior results to state-of-the-art supervised methods on popular IR benchmarks. Further, it proposes a new test set aiming to verify the model’s ability to rank unknown knowledge. Besides, it tries to distill the ranking capabilities of ChatGPT into small specialized models with a permutation distillation scheme.
+
+
 *2023-10-08*
 
 #### [Which Tricks are Important for Learning to Rank?](https://proceedings.mlr.press/v202/lyzhin23a.html)
