@@ -6,6 +6,18 @@
 
 
 
+
+*2023-12-23*
+
+#### [SODA: Million-scale Dialogue Distillation with Social Commonsense Contextualization](https://aclanthology.org/2023.emnlp-main.799/)
+
+*Hyunwoo Kim, Jack Hessel, Liwei Jiang, Peter West, Ximing Lu, Youngjae Yu, Pei Zhou, Ronan Bras, Malihe Alikhani, Gunhee Kim, Maarten Sap, Yejin Choi*
+
+*EMNLP 2023 Outstanding*
+
+This paper presents SODA as the first publicly available, million-scale high-quality social dialogue dataset. Besides, it trains COSMO as a generalizable conversation model that is significantly more natural and consistent on unseen datasets than best-performing conversation models (e.g., GODEL, BlenderBot-1, Koala, Vicuna).
+
+
 *2023-11-22*
 
 #### [Did Aristotle Use a Laptop? A Question Answering Benchmark with Implicit Reasoning Strategies](https://doi.org/10.1162/tacl_a_00370)
