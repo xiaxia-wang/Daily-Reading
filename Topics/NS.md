@@ -4,6 +4,18 @@
 
 
 
+
+*2023-12-24*
+
+#### [LINC: A Neurosymbolic Approach for Logical Reasoning by Combining Language Models with First-Order Logic Provers](https://arxiv.org/pdf/2310.15164.pdf)
+
+*Theo X. Olausson, Alex Gu, Ben Lipkin, Cedegao E. Zhang, Armando Solar-Lezama, Joshua B. Tenenbaum, Roger P. Levy*
+
+*EMNLP 2023 Outstanding*
+
+This paper handles the logical reasoning task by using LLMs as semantic parser to translate premises and conclusions from natural language to expressions in first-order logic, and uses an external symbolic solver to perform deductive inference.
+
+
 *2023-10-11*
 
 #### [Neuro-Symbolic Continual Learning: Knowledge, Reasoning Shortcuts and Concept Rehearsal](https://proceedings.mlr.press/v202/marconato23a.html)
