@@ -11,6 +11,18 @@
 
 
 
+
+*2023-12-25*
+
+#### [Logic-LM: Empowering Large Language Models with Symbolic Solvers for Faithful Logical Reasoning](https://arxiv.org/abs/2305.12295)
+
+*Liangming Pan, Alon Albalak, Xinyi Wang, William Yang Wang*
+
+*EMNLP 2023 Findings*
+
+To handle the logical reasoning task, this paper utilizes LLMs to translate the natural language problem into a symbolic formulation. Afterward, a deterministic symbolic solver performs inference on the formulated problem. Besides, it introduces a self-refinement module which utilizes the symbolic solver’s error messages to revise symbolic formalizations. The system's effectiveness is demonstrated on five logical reasoning datasets: ProofWriter, PrOntoQA, FOLIO, LogicalDeduction, and AR-LSAT, which inclues deductive reasoning problems, FOL reasoning problems, constraint satisfaction problems (CSP), and analytical reasoning (AR) problems.
+
+
 *2023-12-21*
 
 #### [Label Words are Anchors: An Information Flow Perspective for Understanding In-Context Learning](https://aclanthology.org/2023.emnlp-main.609/)
