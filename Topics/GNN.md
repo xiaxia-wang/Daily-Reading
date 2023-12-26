@@ -8,6 +8,18 @@
 
 
 
+
+*2023-12-26*
+
+#### [Permutation Invariant Graph Generation via Score-Based Generative Modeling](https://proceedings.mlr.press/v108/niu20a.html)
+
+*Chenhao Niu, Yang Song, Jiaming Song, Shengjia Zhao, Aditya Grover, Stefano Ermon*
+
+*AISTATS 2020*
+
+This paper proposes a permutation invariant approach to modeling graphs using a score-based generative modeling. In particular, it designs a permutation equivariant, multi-channel graph neural network to model the gradient of the data distribution at the input graph (a.k.a., the score function). This permutation equivariant model of gradients implicitly defines a permutation invariant distribution for graphs. Then the GNN model is trained with score matching and sampled with annealed Langevin dynamics.
+
+
 *2023-12-18*
 
 #### [How Powerful are Graph Neural Networks?](https://openreview.net/forum?id=ryGs6iA5Km)
