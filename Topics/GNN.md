@@ -9,6 +9,18 @@
 
 
 
+
+*2023-12-27*
+
+#### [NVDiff: Graph Generation through the Diffusion of Node Vectors](https://arxiv.org/abs/2211.10794)
+
+*Xiaohui Chen, Yukun Li, Aonan Zhang, Li-Ping Liu*
+
+*Arxiv 2023*
+
+To combine the generation process of nodes and edges in graph generation instead of conducting them in parallel, this paper takes the VGAE (variational graph auto-encoders) structure and uses a score-based generative model (SGM) as a flexible prior to sample node vectors. By modeling only node vectors in the latent space, NVDiff significantly reduces the dimension of the diffusion process and thus improves sampling speed.
+
+
 *2023-12-26*
 
 #### [Permutation Invariant Graph Generation via Score-Based Generative Modeling](https://proceedings.mlr.press/v108/niu20a.html)
