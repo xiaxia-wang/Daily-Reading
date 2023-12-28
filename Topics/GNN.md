@@ -10,6 +10,18 @@
 
 
 
+
+*2023-12-28*
+
+#### [DiGress: Discrete Denoising diffusion for graph generation](https://openreview.net/forum?id=UaAD-Nu86WX)
+
+*Clement Vignac, Igor Krawczuk, Antoine Siraudin, Bohan Wang, Volkan Cevher, Pascal Frossard*
+
+*ICLR 2023*
+
+Unlike typical graph generative models which represent the graph into continuous space, this paper introduces DiGress as a discrete denoising diffusion model for generating graphs with categorical node and edge attributes. It utilizes a discrete diffusion process that progressively edits graphs with noise, through the process of adding or removing edges and changing the categories. A graph transformer network is trained to revert this process, simplifying the problem of distribution learning over graphs into a sequence of node and edge classification tasks.
+
+
 *2023-12-27*
 
 #### [NVDiff: Graph Generation through the Diffusion of Node Vectors](https://arxiv.org/abs/2211.10794)
