@@ -11,6 +11,18 @@
 
 
 
+
+*2023-12-29*
+
+#### [Efficient and degree-guided graph generation via discrete diffusion modeling](https://dl.acm.org/doi/10.5555/3618408.3618589)
+
+*Xiaohui Chen, Jiaxing He, Xu Han, Liping Liu*
+
+*ICML 2023*
+
+This paper proposes EDGE as an efficient discrete graph generative model, which is developed by reversing a discrete diffusion process that randomly removes edges until obtaining an empty graph. Specifically, it only focuses on a small portion of graph nodes and only adds edges between these nodes to improve the computational efficiency. Besides, it can explicitly model the node degrees of training graphs and then gain performance improvement in capturing graph statistics.
+
+
 *2023-12-28*
 
 #### [DiGress: Discrete Denoising diffusion for graph generation](https://openreview.net/forum?id=UaAD-Nu86WX)
