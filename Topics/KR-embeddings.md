@@ -8,6 +8,18 @@
 
 
 
+
+*2023-12-30*
+
+#### [Relation-aware Ensemble Learning for Knowledge Graph Embedding](https://aclanthology.org/2023.emnlp-main.1034/)
+
+*Ling Yue, Yongqi Zhang, Quanming Yao, Yong Li, Xian Wu, Ziheng Zhang, Zhenxi Lin, Yefeng Zheng*
+
+*EMNLP 2023*
+
+This paper proposes an ensemble approach to learn the entity embeddings in a relation-aware manner. To handle the large search space of aggregating weights for each relation of different methods, it uses a divide-search-combine algorithm that searches the relation-wise ensemble weights independently.
+
+
 *2023-12-20*
 
 #### [Meta-Knowledge Transfer for Inductive Knowledge Graph Embedding](https://dl.acm.org/doi/10.1145/3477495.3531757)
