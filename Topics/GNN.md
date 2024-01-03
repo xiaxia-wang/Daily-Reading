@@ -13,6 +13,18 @@
 
 
 
+
+*2024-01-03*
+
+#### [Knowledge Distillation on Graphs: A Survey](https://arxiv.org/abs/2302.00219)
+
+*Yijun Tian, Shichao Pei, Xiangliang Zhang, Chuxu Zhang, Nitesh V. Chawla*
+
+*Arxiv 2023*
+
+This paper summarizes the recent approaches on knowledge distillation on graphs (KDG). Specifically, it first introduces KDG challenges and bases, then categorizes and summarizes existing works of KDG by answering the following three questions: 1) what to distillate, 2) who to whom, and 3) how to distillate, and finally, shares some thoughts on future research directions.
+
+
 *2024-01-02*
 
 #### [Spectral Augmentation for Self-Supervised Learning on Graphs](https://openreview.net/forum?id=DjzBCrMBJ_p)
