@@ -5,6 +5,18 @@
 
 
 
+
+*2023-12-31*
+
+#### [CTRL: Connect Collaborative and Language Model for CTR Prediction](https://arxiv.org/abs/2306.02841)
+
+*Xiangyang Li, Bo Chen, Lu Hou, Ruiming Tang*
+
+*Arxiv 2023*
+
+Traditional click-through rate (CTR) prediction models convert the tabular data into one-hot vectors while ignoring the essential semantic information. To address this problem, this paper first converts the original tabular data into textual data, regards them as two different modalities and separately feeds them into the collaborative CTR model and pre-trained language model. Then it preforms a cross-modal knowledge alignment procedure to align the collaborative and semantic signals.
+
+
 *2023-12-22*
 
 #### [Is ChatGPT Good at Search? Investigating Large Language Models as Re-Ranking Agents](https://arxiv.org/abs/2304.09542)
