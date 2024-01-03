@@ -13,6 +13,17 @@
 
 
 
+*2024-01-02*
+
+#### [Spectral Augmentation for Self-Supervised Learning on Graphs](https://openreview.net/forum?id=DjzBCrMBJ_p)
+
+*Lu Lin, Jinghui Chen, Hongning Wang*
+
+*ICLR  2023*
+
+This paper proposes a spectral augmentation method which uses graph spectrum to capture structural properties and guide topology augmentations for graph self-supervised learning. The proposed method also brings promising generalization capability in transfer learning.
+
+
 *2024-01-01*
 
 #### [Revisiting Graph Contrastive Learning from the Perspective of Graph Spectrum](https://openreview.net/forum?id=L0U7TUWRt_X)
