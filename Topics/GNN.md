@@ -12,6 +12,18 @@
 
 
 
+
+*2024-01-01*
+
+#### [Revisiting Graph Contrastive Learning from the Perspective of Graph Spectrum](https://openreview.net/forum?id=L0U7TUWRt_X)
+
+*Nian Liu, Xiao Wang, Deyu Bo, Chuan Shi, Jian Pei*
+
+*NeurIPS 2022*
+
+This paper investigates the problem of what information is essentially encoded into the learned representations by graph contrastive learning (GCL). It answers the question by establishing connections between GCL and graph spectrum. It finds that the difference of the high-frequency parts between two augmented graphs should be larger than that of low-frequency parts, and the learned representations by GCL essentially encode the low-frequency information. Based on these, it proposes a general GCL plug-in module which further improves the existing GCL performance.
+
+
 *2023-12-29*
 
 #### [Efficient and degree-guided graph generation via discrete diffusion modeling](https://dl.acm.org/doi/10.5555/3618408.3618589)
