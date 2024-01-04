@@ -14,6 +14,18 @@
 
 
 
+
+*2024-01-04*
+
+#### [Graph-based Knowledge Distillation: A survey and experimental evaluation](https://arxiv.org/abs/2302.14643)
+
+*Jing Liu, Tongya Zheng, Guanzheng Zhang, Qinfen Hao*
+
+*Arxiv 2023*
+
+This paper first introduces the background of graph and KD. It then provides a comprehensive summary of three types of Graph-based Knowledge Distillation methods, namely, Graph-based Knowledge Distillation for deep neural networks (DKD), Graph-based Knowledge Distillation for GNNs (GKD), and Self-Knowledge Distillation based Graph-based Knowledge Distillation (SKD). Each type is further divided into knowledge distillation methods based on the output layer, middle layer, and constructed graph.
+
+
 *2024-01-03*
 
 #### [Knowledge Distillation on Graphs: A Survey](https://arxiv.org/abs/2302.00219)
