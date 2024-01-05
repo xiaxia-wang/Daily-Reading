@@ -12,6 +12,18 @@
 
 
 
+
+*2024-01-05*
+
+#### [Thought Propagation: An Analogical Approach to Complex Reasoning with Large Language Models](https://arxiv.org/abs/2310.03965)
+
+*Junchi Yu, Ran He, Rex Ying*
+
+*Arxiv 2023*
+
+To overcome the problem of existing LLM reasoning that prompting approaches cannot reuse insights of solving similar problems and suffer from accumulated errors in multi-step reasoning from scratch, this paper proposes Thought Propagation (TP), which explores the analogous problems and leverages their solutions to enhance the complex reasoning ability of LLMs. Specifically, it first prompts LLMs to propose and solve a set of analogous problems that are related to the input one. Then, it reuses the results of analogous problems to directly yield a new solution or derive a knowledge-intensive plan for execution to amend the initial solution obtained from scratch.
+
+
 *2023-12-25*
 
 #### [Logic-LM: Empowering Large Language Models with Symbolic Solvers for Faithful Logical Reasoning](https://arxiv.org/abs/2305.12295)
