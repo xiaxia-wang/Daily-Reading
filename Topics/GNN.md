@@ -15,6 +15,16 @@
 
 
 
+
+*2024-01-06*
+
+#### [One For All: Towards Training One Graph Model For All Classification Tasks](https://openreview.net/forum?id=4IT2pgc9v6)
+
+*Hao Liu, Jiarui Feng, Lecheng Kong, Ningyue Liang, Dacheng Tao, Yixin Chen, Muhan Zhang*
+
+This paper proposes a general framework that uses a single graph model for multiple classification tasks over graphs, including node classification, link prediction, and graph classification. Specifically, it proposes text-attributed graphs to unify different graph data by describing nodes and edges with natural language and uses language models to encode the diverse and possibly cross-domain text attributes to feature vectors in the same embedding space. Besides, it introduces the concept of nodes-of-interest to standardize different tasks with a single task representation. For in-context learning on graphs, it introduces a novel graph prompting paradigm that appends prompting substructures to the input graph, which enables it to address varied tasks without fine-tuning.
+
+
 *2024-01-04*
 
 #### [Graph-based Knowledge Distillation: A survey and experimental evaluation](https://arxiv.org/abs/2302.14643)
