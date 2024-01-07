@@ -16,6 +16,18 @@
 
 
 
+
+*2024-01-07*
+
+#### [All in One: Multi-task Prompting for Graph Neural Networks](https://dl.acm.org/doi/10.1145/3580305.3599256)
+
+*Xiangguo Sun, Hong Cheng, Jia Li, Bo Liu, Jihong Guan*
+
+*KDD 2023 Best Research Paper*
+
+Given the situation that graph tasks with node level, edge level, and graph level are far diversified, making the pre-training pretext often incompatible with these multiple tasks, this paper proposes a multi-task prompting method for graph models. Specifically, it first unifies the format of graph prompts and language prompts with the prompt token, token structure, and inserting pattern.  To narrow the gap between various graph tasks and pre-training strategies, it reformulates downstream problems to the graph-level task, and introduces meta-learning to efficiently learn a better initialization for the multi-task prompt of graphs.
+
+
 *2024-01-06*
 
 #### [One For All: Towards Training One Graph Model For All Classification Tasks](https://openreview.net/forum?id=4IT2pgc9v6)
