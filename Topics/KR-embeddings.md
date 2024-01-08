@@ -9,6 +9,18 @@
 
 
 
+
+*2024-01-08*
+
+#### [APAN: Asynchronous Propagation Attention Network for Real-time Temporal Graph Embedding](https://dl.acm.org/doi/10.1145/3448016.3457564)
+
+*Xuhong Wang, Ding Lyu, Mengjian Li, Yang Xia, Qi Yang, Xinwen Wang, Xinguang Wang, Ping Cui, Yupu Yang, Bowen Sun, Zhenyu Guo*
+
+*SIGMOD 2021*
+
+Due to the high time complexity of querying k-hop neighbors, most graph algorithms cannot be deployed in a giant dense temporal network to execute millisecond-level inference. Different from previous graph algorithms, this paper decouples model inference and graph computation to alleviate the damage of the heavy graph query operation to the speed of model inference.
+
+
 *2023-12-30*
 
 #### [Relation-aware Ensemble Learning for Knowledge Graph Embedding](https://aclanthology.org/2023.emnlp-main.1034/)
