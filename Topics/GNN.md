@@ -17,6 +17,18 @@
 
 
 
+
+*2024-01-09*
+
+#### [FreeDyG: Frequency Enhanced Continuous-Time Dynamic Graph Model for Link Prediction](https://openreview.net/forum?id=82Mc5ilInM)
+
+*Anonymous*
+
+*ICLR 2024 in Submission*
+
+This paper proposes a link prediction model for continuous-time dynamic graphs. It extracts node representations based on their historical first-hop neighbors thus transforming the dynamic graph learning problem into time series analysis where node interactions are observed over sequential time points. Unlike previous works that primarily focus on the time domain, it focuses on the frequency domain to capture the periodic and "shift" behaviors of interaction patterns.
+
+
 *2024-01-07*
 
 #### [All in One: Multi-task Prompting for Graph Neural Networks](https://dl.acm.org/doi/10.1145/3580305.3599256)
