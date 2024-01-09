@@ -6,6 +6,18 @@
 
 
 
+
+*2024-01-10*
+
+#### [Unified Named Entity Recognition as Word-Word Relation Classification](https://aaai-2022.virtualchair.net/poster_aaai742)
+
+*Jingye Li, Hao Fei, Jiang Liu, Shengqiong Wu, Meishan Zhang, Chong Teng, Donghong Ji, Fei Li*
+
+*AAAI 2022*
+
+Existing NER methods mainly include span-based and sequence-to-sequence models, where the former merely focus on boundary identification and the latter may suffer from exposure bias. This paper proposes an alternative NER approach by modeling the unified NER as word-word relation classification, which models the neighboring relations between entity words with Next-Neighboring-Word (NNW) and Tail-Head-Word-* (THW-*) relations.
+
+
 *2022-12-09*
 
 #### [Towards Neural Network Interpretability Using Commonsense Knowledge Graphs](https://doi.org/10.1007/978-3-031-19433-7_5)
