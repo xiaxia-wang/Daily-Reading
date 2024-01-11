@@ -11,6 +11,18 @@
 
 
 
+
+*2024-01-11*
+
+#### [STEM: Unleashing the Power of Embeddings for Multi-task Recommendation](https://arxiv.org/abs/2308.13537)
+
+*Liangcai Su, Junwei Pan, Ximei Wang, Xi Xiao, Shijie Quan, Xihua Chen, Jie Jiang*
+
+*AAAi 2024*
+
+A key challenge for multitask learning (MTL) where all tasks employ a shared-embedding paradigm is negative transfer. Existing studies explored negative transfer on all samples, but surprisingly, an evaluation shows that negative transfer still occurs in existing MTL methods on samples that receive comparable feedback across tasks. Based on this, the paper assumes it is limited by the shared embeddings, and proposes a Shared and Task-specific EMbeddings (STEM) scheme that aims to incorporate both shared and task-specific embeddings to effectively capture task-specific user preferences.
+
+
 *2023-12-19*
 
 #### [RecExplainer: Aligning Large Language Models for Recommendation Model Interpretability](https://arxiv.org/abs/2311.10947)
