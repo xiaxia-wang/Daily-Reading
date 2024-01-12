@@ -6,10 +6,15 @@
 
 
 
+*2024-01-12*
 
+#### [AT4CTR: Auxiliary Match Tasks for Enhancing Click-Through Rate Prediction](https://arxiv.org/abs/2312.06683)
 
+*Qi Liu, Xuyang Hou, Defu Lian, Zhe Wang, Haoran Jin, Jia Cheng, Jun Lei*
 
+*AAAI 2024*
 
+This paper proposes auxiliary match tasks to enhance Click-through rate (CTR) prediction by alleviating the data sparsity problem. Specifically, it designs two match tasks inspired by collaborative filtering to enhance the relevance modeling between user and item. The first match task aim at pulling closer the representation between the user and the item regarding the positive samples, and the second match task is next item prediction.
 
 
 *2024-01-11*
