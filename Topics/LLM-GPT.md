@@ -13,6 +13,18 @@
 
 
 
+
+*2024-01-13*
+
+#### [When Do Program-of-Thoughts Work for Reasoning?](https://arxiv.org/abs/2308.15452)
+
+*Zhen Bi, Ningyu Zhang, Yinuo Jiang, Shumin Deng, Guozhou Zheng, Huajun Chen*
+
+*AAAI 2024*
+
+This paper explores the correlation between program-of-thoughts and LLM's ability for reasoning, by proposing a measurement of program-of-thoughts' complexity. Specifically, it considers the abstract syntax tree to encode the structural information and calculates logical complexity by considering the difficulty and the cyclomatic complexity. Experiments demonstrate the positive correlation between the proposed complexity measure and LLM's reasoning ability.
+
+
 *2024-01-05*
 
 #### [Thought Propagation: An Analogical Approach to Complex Reasoning with Large Language Models](https://arxiv.org/abs/2310.03965)
