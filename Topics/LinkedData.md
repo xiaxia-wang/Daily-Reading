@@ -3,6 +3,18 @@
 
 
 
+
+*2024-01-14*
+
+#### [Dataset Discovery and Exploration: A Survey](https://dl.acm.org/doi/10.1145/3626521)
+
+*Norman W. Paton, Jiaoyan Chen, Zhenyu Wu*
+
+*ACM Computing Surveys*
+
+Data discovery is the process of identifying datasets that may meet an information need, and data exploration is the process of understanding the properties of candidate datasets and the relationships between them. Data discovery and data exploration often go hand in hand and benefit from tool support. This article surveys research areas that contribute to data discovery and exploration, particularly considering dataset search, data navigation, data annotation and schema inference. For each of these areas, it identifies key dimensions that can be used to characterize approaches and the values they hold, and apply these dimensions to describe and compare prominent results.
+
+
 *2023-12-07*
 
 #### [Triple Trustworthiness Measurement for Knowledge Graph](https://dl.acm.org/doi/10.1145/3308558.3313586)
