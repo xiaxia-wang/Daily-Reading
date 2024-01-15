@@ -10,6 +10,18 @@
 
 
 
+
+*2024-01-15*
+
+#### [Learning Latent Relations for Temporal Knowledge Graph Reasoning](https://aclanthology.org/2023.acl-long.705/)
+
+*Mengqi Zhang, Yuwei Xia, Qiang Liu, Shu Wu, Liang Wang*
+
+*ACL 2023*
+
+This paper focuses on the link prediction task over temporal knowledge graphs. In particular, it first uses a structural encoder (SE) to get representations of entities at each timestamp, then applies a relation prediction module (LRL) to mine the intra- and inter-time relations, and finally extracts the temporal representations from the output of SE and LRL for entity prediction.
+
+
 *2024-01-08*
 
 #### [APAN: Asynchronous Propagation Attention Network for Real-time Temporal Graph Embedding](https://dl.acm.org/doi/10.1145/3448016.3457564)
