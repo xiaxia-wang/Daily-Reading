@@ -14,6 +14,18 @@
 
 
 
+
+*2024-01-16*
+
+#### [GPT4Table: Can Large Language Models Understand Structured Table Data? A Benchmark and Empirical Study](https://arxiv.org/abs/2305.13062)
+
+*Yuan Sui, Mengyu Zhou, Mingjie Zhou, Shi Han, Dongmei Zhang*
+
+*WSDM 2024*
+
+This paper proposes a benchmark for evaluating the structural understanding capabilities (SUC) of LLMs, which includes 7 tasks such as table partition, cell lookup and column retrieval. Evaluation on GPT-3.5 and GPT-4 demonstrate that the performance varied depending on several input choices, including table input format, content order, role prompting, and partition marks. It further proposes a self-augmentation structural prompting method based on the findings.
+
+
 *2024-01-13*
 
 #### [When Do Program-of-Thoughts Work for Reasoning?](https://arxiv.org/abs/2308.15452)
