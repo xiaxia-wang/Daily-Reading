@@ -18,6 +18,18 @@
 
 
 
+
+*2024-01-17*
+
+#### [Pitfalls in Link Prediction with Graph Neural Networks: Understanding the Impact of Target-link Inclusion & Better Practices](https://arxiv.org/abs/2306.00899)
+
+*Jing Zhu, Yuhang Zhou, Vassilis N. Ioannidis, Shengyi Qian, Wei Ai, Xiang Song, Danai Koutra*
+
+*WSDM 2024*
+
+This paper first identifies the problem of including the edges being predicted at training/test time, which is a common practice in link prediction tasks, of low-degree nodes. In particular, it demonstrates 3 issues related to this practice, i.e., overfitting, distribution shift, and implicit test leakage. To address these issues, it proposes an effective GNN training framework by excluding edges which are incident to low-degree nodes in the training/test time, thus improving the accuracy especially for sparse graphs.
+
+
 *2024-01-09*
 
 #### [FreeDyG: Frequency Enhanced Continuous-Time Dynamic Graph Model for Link Prediction](https://openreview.net/forum?id=82Mc5ilInM)
