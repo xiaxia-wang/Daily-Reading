@@ -6,6 +6,18 @@
 
 
 
+
+*2024-01-18*
+
+#### [Knowledge Graph Context-Enhanced Diversified Recommendation](https://arxiv.org/abs/2310.13253)
+
+*Xiaolong Liu, Liangwei Yang, Zhiwei Liu, Mingdai Yang, Chen Wang, Hao Peng, Philip S. Yu*
+
+*WSDM 2024*
+
+This paper investigates diversified recommendation with knowledge graphs as context, where the KGs act as repositories of interconnected information concerning entities and items. It first proposes metrics of entity and relation coverage to quantify the diversity within the KG, and introduces the diversified embedding learning approach to characterize diversity-aware user representations. Besides, it encodes KG items while preserving contextual integrity using conditional alignment and uniformity techniques.
+
+
 *2024-01-12*
 
 #### [AT4CTR: Auxiliary Match Tasks for Enhancing Click-Through Rate Prediction](https://arxiv.org/abs/2312.06683)
