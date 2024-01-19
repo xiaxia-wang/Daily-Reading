@@ -6,6 +6,18 @@
 
 
 
+
+*2024-01-19*
+
+#### [Unified Pretraining for Recommendation via Task Hypergraphs](https://arxiv.org/abs/2310.13286)
+
+*Mingdai Yang, Zhiwei Liu, Liangwei Yang, Xiaolong Liu, Chen Wang, Hao Peng, Philip S. Yu*
+
+*WSDM 2024*
+
+This paper proposes a multitask pretraining model for recommendation. It introduces task hypergraphs for different pretext recommendation tasks, and applies a transitional attention layer to discriminatively learn from each task. The trainable parameters are only the initial user and item embeddings, while the hypergraph embeddings are conducted in a standard way of matrix factorization.
+
+
 *2023-12-16*
 
 #### [KGTrust: Evaluating Trustworthiness of SIoT via Knowledge Enhanced Graph Neural Networks](https://dl.acm.org/doi/10.1145/3543507.3583549)
