@@ -15,6 +15,18 @@
 
 
 
+
+*2024-01-20*
+
+#### [Let the LLMs Talk: Simulating Human-to-Human Conversational QA via Zero-Shot LLM-to-LLM Interactions](https://arxiv.org/abs/2312.02913)
+
+*Zahra Abbasiantaeb, Yifei Yuan, Evangelos Kanoulas, Mohammad Aliannejadi*
+
+*WSDM 2024*
+
+To simulate the human-to-human conversational question-answering process, this paper proposes to use two LLMs (specifically, two GPT-4 models) for the role of 'teacher' and 'student' interacting on a specific topic, where the 'student' LLM generates questions to explore the topic, and the 'teacher' LLM answers the questions. Both LLMs are used in a zero-shot manner. The evaluation over both models shows that the 'teacher' LLM generates lengthier answers that tend to be more accurate and complete, while the 'student' LLM generates more diverse questions, covering more aspects of a given topic.
+
+
 *2024-01-16*
 
 #### [GPT4Table: Can Large Language Models Understand Structured Table Data? A Benchmark and Empirical Study](https://arxiv.org/abs/2305.13062)
