@@ -11,6 +11,18 @@
 
 
 
+
+*2024-01-21*
+
+#### [Knowledge Hypergraphs: Prediction Beyond Binary Relations](https://www.ijcai.org/proceedings/2020/303)
+
+*Bahare Fatemi, Perouz Taslakian, David Vázquez, David Poole*
+
+*IJCAI 2020*
+
+This paper works with knowledge hypergraph where relations are defined over any number of entities. It proposes HSimplE and HypE as two embedding-based methods that work directly with knowledge hypergraphs. For both models, the prediction is a function of the relation embedding, the entity embeddings and their corresponding positions in the relation. It also introduces benchmark datasets for knowledge hyperlink prediction.
+
+
 *2024-01-15*
 
 #### [Learning Latent Relations for Temporal Knowledge Graph Reasoning](https://aclanthology.org/2023.acl-long.705/)
