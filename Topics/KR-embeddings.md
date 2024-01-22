@@ -12,6 +12,18 @@
 
 
 
+
+*2024-01-22*
+
+#### [LHP: Logical hypergraph link prediction](https://www.sciencedirect.com/science/article/pii/S0957417423003433?via%3Dihub)
+
+*Yang Yang, Xue Li, Yi Guan, Haotian Wang, Chaoran Kong, Jingchi Jiang*
+
+*Expert Systems with Applications 2023*
+
+This paper proposes a hyperlink prediction approach for knowledge hypergraph completion, where each directed hyperlink $(h, r, t)$ consists a head $h$, and a tail $t$ as conjunctions of entities, respectively. It proposes a prediction model with an information aggregating layer and a constrained scoring layer, which also holds permutation invariance.
+
+
 *2024-01-21*
 
 #### [Knowledge Hypergraphs: Prediction Beyond Binary Relations](https://www.ijcai.org/proceedings/2020/303)
