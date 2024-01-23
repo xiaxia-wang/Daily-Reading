@@ -19,6 +19,18 @@
 
 
 
+
+*2024-01-23*
+
+#### [A Generalized Neural Diffusion Framework on Graphs](https://arxiv.org/abs/2312.08616)
+
+*Yibo Li, Xiao Wang, Hongrui Liu, Chuan Shi*
+
+*AAAI 2024*
+
+This paper proposes a general diffusion equation framework with a fidelity term for graph diffusion networks. It also proposes a high-order neighbor-aware diffusion equation, and derives a new type of graph diffusion network based on the framework.
+
+
 *2024-01-17*
 
 #### [Pitfalls in Link Prediction with Graph Neural Networks: Understanding the Impact of Target-link Inclusion & Better Practices](https://arxiv.org/abs/2306.00899)
