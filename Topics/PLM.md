@@ -9,6 +9,18 @@
 
 
 
+
+*2024-01-24*
+
+#### [A Branching Decoder for Set Generation](https://openreview.net/forum?id=riNuqYiD66)
+
+*Zixian Huang et al.*
+
+*ICLR 2024*
+
+Typical approaches usually handle set generation as a sequential generation problem, such as generating a set of keywords for summarizing a paper. In contrast, this paper proposes a parallel approach that generates each element in the set in an independent manner, which is closer to the unordered nature of sets, and also improves the generation efficiency.
+
+
 *2023-12-17*
 
 #### [Make Your Decision Convincing! A Unified Two-Stage Framework: Self-Attribution and Decision-Making](https://arxiv.org/abs/2310.13610)
