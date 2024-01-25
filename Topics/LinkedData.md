@@ -4,6 +4,18 @@
 
 
 
+
+*2024-01-25*
+
+#### [Generating examples of paths summarizing RDF dataset](https://ceur-ws.org/Vol-1695/paper3.pdf)
+
+*Jindrich Mynarz, Marek Dud ́as, Paolo Tomeo, Vojtech Sv ́atek*
+
+*Posters and Demos Track of SEMANTiCS and SuCCESS 2016*
+
+This paper proposes to select example paths from an RDF dataset based on path patterns, in order to provide a concrete view for the user to understand the dataset. Specifically, it discusses three selection approach, i.e., random, diversity-oriented and representative-oriented. The latter two are based on a proposed distinctiveness metric to measure the difference between entities.
+
+
 *2024-01-14*
 
 #### [Dataset Discovery and Exploration: A Survey](https://dl.acm.org/doi/10.1145/3626521)
