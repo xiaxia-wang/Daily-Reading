@@ -5,6 +5,18 @@
 
 
 
+
+*2024-01-26*
+
+#### [Visualizing large-scale RDF data using Subsets, Summaries, and Sampling in Oracle](https://ieeexplore.ieee.org/document/5447795/)
+
+*Seema Sundara, Medha Atre, Vladimir Kolovski, Souripriya Das, Zhe Wu, Eugene Inseok Chong, Jagannathan Srinivasan*
+
+*ICDE 2010*
+
+This paper proposes to visualize large scale RDF data by using (1) Subsets: to present only relevant data for visualization, (2) Summaries: to capture the essence of RDF data being viewed, where summarized data can be expanded on demand thereby allowing users to create hybrid (summary-detail) fisheye views of RDF data, and (3) Sampling: to further optimize visualization of large-scale data where a representative sample suffices. The visualization scheme works with both asserted and inferred triples (generated using RDF(S) and OWL semantics).
+
+
 *2024-01-25*
 
 #### [Generating examples of paths summarizing RDF dataset](https://ceur-ws.org/Vol-1695/paper3.pdf)
