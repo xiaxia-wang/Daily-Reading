@@ -6,6 +6,18 @@
 
 
 
+
+*2024-01-27*
+
+#### [Estimating Characteristic Sets for RDF Dataset Profiles Based on Sampling](https://link.springer.com/chapter/10.1007/978-3-030-49461-2_10)
+
+*Lars Heling, Maribel Acosta:*
+
+*ESWC 2020*
+
+The characteristic set of an entity is defined as the set of properties describing it in the KG, and each property in a characteristic set is associated with an average frequency of occurrence among all the entities having this characteristic set. For a given KG, the instantiated characteristic sets, the amount of entities belong to each characteristic set, and the average frequency of each property in each characteristic set are jointly regarded as a statistical profile of the KG, which requires to be estimated when the complete KG is not accessible. This paper also proposes to sample a subset of entities with their characteristic sets, compute the profile based on them, and project it back to the original scale of the KG as estimation.
+
+
 *2024-01-26*
 
 #### [Visualizing large-scale RDF data using Subsets, Summaries, and Sampling in Oracle](https://ieeexplore.ieee.org/document/5447795/)
