@@ -7,6 +7,18 @@
 
 
 
+
+*2024-01-28*
+
+#### [Characteristic sets profile features: Estimation and application to SPARQL query planning](https://doi.org/10.3233/SW-222903)
+
+*Lars Heling, Maribel Acosta*
+
+*Semantic Web 2023*
+
+As an extension of the previous paper, this paper follows the concept of the characteristic set, and proposes an implementation for estimating the KG profile using SPARQL query planning.
+
+
 *2024-01-27*
 
 #### [Estimating Characteristic Sets for RDF Dataset Profiles Based on Sampling](https://link.springer.com/chapter/10.1007/978-3-030-49461-2_10)
