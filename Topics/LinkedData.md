@@ -8,6 +8,18 @@
 
 
 
+
+*2024-01-29*
+
+#### [Structural Properties as Proxy for Semantic Relevance in RDF Graph Sampling](https://link.springer.com/chapter/10.1007/978-3-319-11915-1_6)
+
+*Laurens Rietveld, Rinke Hoekstra, Stefan Schlobach, Christophe Guéret*
+
+*ISWC 2014*
+
+This paper proposes to sample a small subgraph in replace of the original large KG to facilitate downstream application, by maximizing the answer coverage for potential SPARQL queries. To fulfill this, it computes the network centrality metrics for each entity, such as PageRank score, indegree and outdegree. Then the triples are ranked by the maximum weight of the nodes they associate with, and the top-ranked ones are sampled as the output summary.
+
+
 *2024-01-28*
 
 #### [Characteristic sets profile features: Estimation and application to SPARQL query planning](https://doi.org/10.3233/SW-222903)
