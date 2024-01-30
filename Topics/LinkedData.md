@@ -9,6 +9,18 @@
 
 
 
+
+*2024-01-30*
+
+#### [Summarizing RDF graphs using Node Importance and Query History](https://ieeexplore.ieee.org/document/9492214/)
+
+*Jimao Guo, Yi Wang*
+
+*ICSS 2021*
+
+In addition to graph centrality metrics when extracting the KG summary, this paper also takes query log into consideration to maximize the coverage of potential query answers. Not only with centrality measures such as indegree and outdegree, it also counts the relative frequency of each entitiy and property that appeared in the query log, where frequently appeared elements are preferred.
+
+
 *2024-01-29*
 
 #### [Structural Properties as Proxy for Semantic Relevance in RDF Graph Sampling](https://link.springer.com/chapter/10.1007/978-3-319-11915-1_6)
