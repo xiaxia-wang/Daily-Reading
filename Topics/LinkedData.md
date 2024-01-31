@@ -10,6 +10,18 @@
 
 
 
+
+*2024-01-31*
+
+#### [RDF Snippets for Semantic Web Search Engines](https://link.springer.com/chapter/10.1007/978-3-540-88873-4_27)
+
+*Xi Bai, Renaud Delbru, Giovanni Tummarello*
+
+*OTM 2008*
+
+This paper proposes an approach for snippet generation that aims to show how the RDF document is relevant to a keyword query. Preference is given to RDF triples that describe central entities or contain query keywords. The proposed algorithm relies on manually defined ranking of predicates.
+
+
 *2024-01-30*
 
 #### [Summarizing RDF graphs using Node Importance and Query History](https://ieeexplore.ieee.org/document/9492214/)
