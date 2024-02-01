@@ -4,6 +4,18 @@
 
 
 
+
+*2024-02-01*
+
+#### [Keyword Search over Knowledge Graphs via Static and Dynamic Hub Labelings](https://dl.acm.org/doi/10.1145/3366423.3380110)
+
+*Yuxuan Shi, Gong Cheng, Evgeny Kharlamov*
+
+*WWW 2020*
+
+This paper proposes practical approximation algorithms with a guaranteed quality to solve the GST problem. It relies on Hub Labeling (HL), which is a structure that labels each vertex in a graph with a list of vertices reachable from it for computing distances and shortest paths. It proposes two HLs: one is a conventional static HL that uses a new heuristic to improve pruned landmark labeling, and the other is a dynamic HL that inverts and aggregates query-relevant static labels to more efficiently process vertex sets.
+
+
 *2023-10-26*
 
 #### [Fast Online Node Labeling for Very Large Graphs](https://proceedings.mlr.press/v202/zhou23k.html)
