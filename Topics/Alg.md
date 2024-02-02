@@ -5,6 +5,18 @@
 
 
 
+
+*2024-02-02*
+
+#### [Keyword-Based Knowledge Graph Exploration Based on Quadratic Group Steiner Trees](https://www.ijcai.org/proceedings/2021/215)
+
+*Yuxuan Shi, Gong Cheng, Trung-Kien Tran, Jie Tang, Evgeny Kharlamov*
+
+*IJCAI 2021*
+
+Aiming to improve the cohesiveness of an answer where entities have small semantic distances from each other, this paper proposes the quadratic group Steiner tree problem (QGSTP) where the cost function extends standard GST with quadratic terms representing semantic distances. Then a branch-and-bound best-first EXACT algorithm is proposed and applied on medium-sized KGs.
+
+
 *2024-02-01*
 
 #### [Keyword Search over Knowledge Graphs via Static and Dynamic Hub Labelings](https://dl.acm.org/doi/10.1145/3366423.3380110)
