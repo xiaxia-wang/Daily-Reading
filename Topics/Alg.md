@@ -6,6 +6,18 @@
 
 
 
+
+*2024-02-03*
+
+#### [Efficient Computation of Semantically Cohesive Subgraphs for Keyword-Based Knowledge Graph Exploration](https://dl.acm.org/doi/10.1145/3442381.3449900)
+
+*Yuxuan Shi, Gong Cheng, Trung-Kien Tran, Evgeny Kharlamov, Yulin Shen*
+
+*WWW 2021*
+
+This paper proposes two approximation algorithms for QGSTP and proves their approximation ratios. To improve the practical performance, the algorithms also incorporate pruning and ranking strategies.
+
+
 *2024-02-02*
 
 #### [Keyword-Based Knowledge Graph Exploration Based on Quadratic Group Steiner Trees](https://www.ijcai.org/proceedings/2021/215)
