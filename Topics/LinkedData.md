@@ -11,6 +11,18 @@
 
 
 
+
+*2024-02-04*
+
+#### [iSummary: Workload-Based, Personalized Summaries for Knowledge Graphs](https://link.springer.com/chapter/10.1007/978-3-031-33455-9_12)
+
+*Giannis Vassiliou, Fanouris Alevizakis, Nikolaos Papadakis, Haridimos Kondylakis*
+
+*ESWC 2023*
+
+This paper proposes a personalized summary extraction approach, where the user's interest is expressed by selecting one or a few entities in the KG. Then the importance of each entity in the KG to be included in the summary is computed from a set of SPARQL query logs, where higher co-occurrence with the user-selected entity represents higher importance. The result summary is a connected tree with maximized total node weights rooted from the user-selected entity.
+
+
 *2024-01-31*
 
 #### [RDF Snippets for Semantic Web Search Engines](https://link.springer.com/chapter/10.1007/978-3-540-88873-4_27)
