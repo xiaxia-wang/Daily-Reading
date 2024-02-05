@@ -12,6 +12,18 @@
 
 
 
+
+*2024-02-05*
+
+#### [Harnessing relationships for domain-specific subgraph extraction: A recommendation use case](https://ieeexplore.ieee.org/document/7840663)
+
+*Sarasi Lalithsena, Pavan Kapanipathi, Amit P. Sheth*
+
+*IEEE BigData 2016*
+
+This paper proposes to identify a minimal domain-specific subgraph by statistic and semantic-based metrics. Specifically, it explores the k-hop subgraph rooted from a given entity, and computes the strength of domain-specific relations between each entity and the root entity for ranking and recommendation.
+
+
 *2024-02-04*
 
 #### [iSummary: Workload-Based, Personalized Summaries for Knowledge Graphs](https://link.springer.com/chapter/10.1007/978-3-031-33455-9_12)
