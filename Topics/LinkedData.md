@@ -13,6 +13,18 @@
 
 
 
+
+*2024-02-06*
+
+#### [Domain-specific hierarchical subgraph extraction: A recommendation use case](https://ieeexplore.ieee.org/document/8257982)
+
+*Sarasi Lalithsena, Sujan Perera, Pavan Kapanipathi, Amit P. Sheth*
+
+*IEEE BigData 2017*
+
+This paper uses Wikipedia category hierarchy to optimize domain-specific summary extraction. By classifying the categories in WCH as domain-specific and -unspecific ones, the entities within domain-unspecific categories are eliminated from the result summary, thus improving the overall domain-specificity.
+
+
 *2024-02-05*
 
 #### [Harnessing relationships for domain-specific subgraph extraction: A recommendation use case](https://ieeexplore.ieee.org/document/7840663)
