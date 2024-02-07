@@ -9,9 +9,15 @@
 
 
 
+*2024-02-07*
 
+#### [Summarizing Semantic Associations Based on Focused Association Graph](https://link.springer.com/chapter/10.1007/978-3-642-35527-1_47)
 
+*Xiaowei Jiang, Xiang Zhang, Wei Gui, Feifei Gao, Peng Wang, Fengbo Zhou*
 
+*ADMA 2012*
+
+For a given set of entities representing the user's interest, this paper proposes a summary extraction approach by considering semantic associations. Specifically, the result summary is a Steiner tree where edges are instances of popular link patterns of the given KG.
 
 
 *2024-02-06*
