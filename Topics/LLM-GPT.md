@@ -16,6 +16,18 @@
 
 
 
+
+*2024-02-08*
+
+#### [Proving Test Set Contamination for Black-Box Language Models](https://openreview.net/attachment?id=KS8mIvetg2&name=pdf)
+
+*Anonymous Authors*
+
+*ICLR 2024 Oral*
+
+This paper proposes an approach for speculating potential test set contamination of LLMs without having access to the training corpus or the model weights. Specifically, it relies on a key insight that if a language model shows a preference for any particular ordering of the dataset – a canonical ordering that appears in publicly available repositories – this violates exchangeability and can only occur by observing the dataset during training.
+
+
 *2024-01-20*
 
 #### [Let the LLMs Talk: Simulating Human-to-Human Conversational QA via Zero-Shot LLM-to-LLM Interactions](https://arxiv.org/abs/2312.02913)
