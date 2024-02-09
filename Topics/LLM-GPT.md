@@ -17,6 +17,18 @@
 
 
 
+
+*2024-02-09*
+
+#### [BooookScore: A systematic exploration of book-length summarization in the era of LLMs](https://openreview.net/forum?id=7Ttk3RzDeu)
+
+*Anonymous Authors*
+
+*ICLR 2024 Oral*
+
+This paper evaluates the ability of LLMs to generate summaries for book-length texts via hierarchical and incremental workflows. With the help of human annotation, it first proposes a protocol for evaluating the coherence of summaries. Then it implements an automatic LLM-based metric to assess the summary coherence, and presents a systematic evaluation of existing SOTA LLMs on generating summaries from book-length texts -- which suggests potential improvements.
+
+
 *2024-02-08*
 
 #### [Proving Test Set Contamination for Black-Box Language Models](https://openreview.net/attachment?id=KS8mIvetg2&name=pdf)
