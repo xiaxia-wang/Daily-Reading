@@ -18,6 +18,18 @@
 
 
 
+
+*2024-02-10*
+
+#### [Understanding In-Context Learning in Transformers and LLMs by Learning to Learn Discrete Functions](https://openreview.net/forum?id=ekeyCgeRfC)
+
+*Anonymous Authors*
+
+*ICLR 2024 Oral*
+
+To investigate the ability of Transformers to implement learning algorithms and learn other forms (apart from gradient-based ones) of algorithms, this paper firstly finds that Transformers can nearly match the optimal learning algorithm for 'simpler' tasks, while their performance deteriorates on more 'complex' tasks. Besides, when provided a *teaching sequence*, i.e. a set of examples that uniquely identifies a function in a class, the Transformers learn more sample-efficiently.
+
+
 *2024-02-09*
 
 #### [BooookScore: A systematic exploration of book-length summarization in the era of LLMs](https://openreview.net/forum?id=7Ttk3RzDeu)
