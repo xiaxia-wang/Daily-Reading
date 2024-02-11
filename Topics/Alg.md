@@ -7,6 +7,18 @@
 
 
 
+
+*2024-02-11*
+
+#### [Hypertree Decompositions: A Survey](https://link.springer.com/content/pdf/10.1007/3-540-44683-4_5.pdf)
+
+*Georg Gottlob, Nicola Leone, Francesco Scarcello*
+
+*MFCS 2001*
+
+This paper reviews several classical problems related to hypertree decomposition, and shows that some important NP hard problems become tractable if restricted to instances whose associated hypergraphs are of bounded hypertree width.
+
+
 *2024-02-03*
 
 #### [Efficient Computation of Semantically Cohesive Subgraphs for Keyword-Based Knowledge Graph Exploration](https://dl.acm.org/doi/10.1145/3442381.3449900)
