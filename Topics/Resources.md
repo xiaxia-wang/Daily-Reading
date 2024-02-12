@@ -7,6 +7,18 @@
 
 
 
+
+*2024-02-12*
+
+#### [LUBM: A benchmark for OWL knowledge base systems](https://www.sciencedirect.com/science/article/pii/S1570826805000132?via%3Dihub)
+
+*Yuanbo Guo, Zhengxiang Pan, Jeff Heflin*
+
+*Journal of Web Semantics 2005*
+
+This paper proposes the Lehigh University Benchmark (LUBM), which features an ontology for the university domain, synthetic OWL data scalable to an arbitrary size, 14 extensional queries representing a variety of properties, and several performance metrics. The LUBM can be used to evaluate systems with different reasoning capabilities and storage mechanisms.
+
+
 *2023-12-23*
 
 #### [SODA: Million-scale Dialogue Distillation with Social Commonsense Contextualization](https://aclanthology.org/2023.emnlp-main.799/)
