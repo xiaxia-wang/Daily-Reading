@@ -7,6 +7,18 @@
 
 
 
+
+*2024-02-13*
+
+#### [Understanding the Reasoning Ability of Language Models From the Perspective of Reasoning Paths Aggregation](https://arxiv.org/abs/2402.03268)
+
+*Xinyi Wang, Alfonso Amayuelas, Kexun Zhang, Liangming Pan, Wenhu Chen, William Yang Wang*
+
+*Arxiv 2024*
+
+To understand how pre-training with a next-token prediction objective contributes to the emergence of such reasoning capability, this paper proposes that an LM can be viewed as deriving new conclusions by aggregating indirect reasoning paths seen at pre-training time. Specifically, it formalizes the reasoning paths as random walk paths on the knowledge/reasoning graphs. Analyses of learned LM distributions suggest that a weighted sum of relevant random walk path probabilities is a reasonable way to explain how LMs reason.
+
+
 *2023-12-04*
 
 #### [On the Correspondence Between Monotonic Max-Sum GNNs and Datalog](https://proceedings.kr.org/2023/64/)
