@@ -19,6 +19,18 @@
 
 
 
+
+*2024-02-14*
+
+#### [Controlled Text Generation via Language Model Arithmetic](https://openreview.net/forum?id=SLw9fp4yI6)
+
+*Jasper Dekoninck, Marc Fischer, Luca Beurer-Kellner, Martin Vechev*
+
+*ICLR 2024 Spotlight*
+
+This paper proposes an inference framework named model arithmetic, for composing and biasing LLMs without the need for model (re)training or highly specific datasets. Specifically, it relies on the KL-divergence to combine multiple models with biased topics, which is applied for controlled text generation tasks.
+
+
 *2024-02-10*
 
 #### [Understanding In-Context Learning in Transformers and LLMs by Learning to Learn Discrete Functions](https://openreview.net/forum?id=ekeyCgeRfC)
