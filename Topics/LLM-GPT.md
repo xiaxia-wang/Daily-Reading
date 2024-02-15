@@ -20,6 +20,18 @@
 
 
 
+
+*2024-02-15*
+
+#### [The mechanistic basis of data dependence and abrupt learning in an in-context classification task](https://openreview.net/forum?id=aN4Jf6Cx69)
+
+*Gautam Reddy*
+
+*ICLR 2024 Oral*
+
+This paper characterizes the loss landscape of an in-context classification task and identify the factors that lead to abrupt transitions during learning. By identifying progress measures and designing experiments, it shows that ICL is driven by the abrupt formation of an induction head. It constructs a minimal two-parameter model of an induction head stacked with a deep classifier, which reproduces all data distributional dependencies and captures the dynamics of learning. Then it develops a phenomenological model of an induction head’s loss landscape. The analysis enables to trace the abrupt learning phenomenon to cliffs in the landscape created by nested nonlinearities in a multilayer attention-based network.
+
+
 *2024-02-14*
 
 #### [Controlled Text Generation via Language Model Arithmetic](https://openreview.net/forum?id=SLw9fp4yI6)
