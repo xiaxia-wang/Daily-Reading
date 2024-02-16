@@ -20,6 +20,18 @@
 
 
 
+
+*2024-02-16*
+
+#### [Graph Neural Networks for Learning Equivariant Representations of Neural Networks](https://openreview.net/forum?id=oO6FsMyDBt)
+
+*Miltiadis Kofinas, Boris Knyazev, Yan Zhang, Yunlu Chen, Gertjan J. Burghouts, Efstratios Gavves, Cees G. M. Snoek, David W. Zhang*
+
+*ICLR 2024 Oral*
+
+This paper applies a graph neural network model to capture the permutation invariance in typical neural networks such as CNN. Specifically, it firstly represents the neural network as a layered computation graph, where $W_{i, j}$ is viewed as edge feature, and $b_i$ is viewed as node feacture. Then it adopts a GNN model that includes edge features to process the computation graph, which enables a single model to learn from neural graphs with diverse architectures.
+
+
 *2024-01-23*
 
 #### [A Generalized Neural Diffusion Framework on Graphs](https://arxiv.org/abs/2312.08616)
