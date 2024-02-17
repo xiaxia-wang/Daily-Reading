@@ -1,6 +1,18 @@
 
 
 
+
+*2024-02-17*
+
+#### [Knowledge Graph Reasoning over Entities and Numerical Values](https://dl.acm.org/doi/abs/10.1145/3580305.3599399)
+
+*Jiaxin Bai, Chen Luo, Zheng Li, Qingyu Yin, Bing Yin, Yangqiu Song*
+
+*KDD 2023*
+
+This paper proposes an approach for query answering over knowledge graphs that involves numerical reasoning. Specifically, the input query is processed sequentially by relational projection, attribute projection, numerical projection and reverse attribute projection. Besides, this paper provides a test set for query answering with numerical values based on FB15k, DB15k, and YAGO15k.
+
+
 *2023-11-08*
 
 #### [Combining Inductive and Deductive Reasoning for Query Answering over Incomplete Knowledge Graphs](https://dl.acm.org/doi/10.1145/3583780.3614816)
