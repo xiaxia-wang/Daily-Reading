@@ -11,6 +11,18 @@
 
 
 
+
+*2024-02-18*
+
+#### [Description logic programs: combining logic programs with description logic](https://dl.acm.org/doi/10.1145/775152.775160)
+
+*Benjamin N. Grosof, Ian Horrocks, Raphael Volz, Stefan Decker*
+
+*WWW 2003*
+
+This paper proposes how to interoperate, semantically and inferentially, between the Semantic Web approaches to rules (RuleML Logic Programs) and ontologies (OWL/DAML+OIL Description Logic). Specifically, it studies two new KRs, Description Logic Programs (DLP), which is defined by the expressive intersection of the two approaches, and the closely related Description Horn Logic (DHL).
+
+
 *2023-12-05*
 
 #### [Combining Global and Local Merges in Logic-based Entity Resolution](https://proceedings.kr.org/2023/74/)
