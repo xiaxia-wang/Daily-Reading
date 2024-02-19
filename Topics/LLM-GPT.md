@@ -21,6 +21,18 @@
 
 
 
+
+*2024-02-19*
+
+#### [Phenomenal Yet Puzzling: Testing Inductive Reasoning Capabilities of Language Models with Hypothesis Refinement](https://openreview.net/forum?id=bNt7oajl2a)
+
+*Linlu Qiu, Liwei Jiang, Ximing Lu, Melanie Sclar, Valentina Pyatkin, Chandra Bhagavatula, Bailin Wang, Yoon Kim, Yejin Choi, Nouha Dziri, Xiang Ren*
+
+*ICLR 2024 Oral*
+
+This work investigates LMs’ inductive reasoning capabilities through the lens of iterative hypothesis refinement: hypotheses generation, selection, and refinement. The results show that LMs are particularly good at generating candidate rules, and when coupled with a symbolic interpreter that can provide accurate feedback with which to refine hypotheses, this hybrid induction approach is effective. However, a closer inspection shows that LMs are often unable to correctly applying their own proposed rules.
+
+
 *2024-02-15*
 
 #### [The mechanistic basis of data dependence and abrupt learning in an in-context classification task](https://openreview.net/forum?id=aN4Jf6Cx69)
