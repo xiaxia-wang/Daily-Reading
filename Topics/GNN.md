@@ -21,6 +21,18 @@
 
 
 
+
+*2024-02-20*
+
+#### [Beyond Weisfeiler-Lehman: A Quantitative Framework for GNN Expressiveness](https://openreview.net/forum?id=HSKaGOi7Ar)
+
+*Anonymous so far*
+
+*ICLR 2024 Oral*
+
+This paper proposes a framework for quantitatively studying the expressiveness of GNN architectures by  identifying a fundamental expressivity measure termed homomorphism expressivity, which quantifies the ability of GNN models to count graphs under homomorphism.
+
+
 *2024-02-16*
 
 #### [Graph Neural Networks for Learning Equivariant Representations of Neural Networks](https://openreview.net/forum?id=oO6FsMyDBt)
