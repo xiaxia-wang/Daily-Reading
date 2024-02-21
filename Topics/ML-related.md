@@ -9,6 +9,18 @@
 
 
 
+
+*2024-02-21*
+
+#### ["What Data Benefits My Classifier?" Enhancing Model Performance and Interpretability through Influence-Based Data Selection](https://openreview.net/forum?id=HE9eUQlAvo)
+
+*Anshuman Chhabra, Peizhao Li, Prasant Mohapatra, Hongfu Liu*
+
+*ICLR 2024 Oral*
+
+Unlike typical approaches focusing on model architecture or learning algorithms to improve classification performance, this paper explores the direction of estimating the influence from the perspective of the data feature space. Additionally, it proposes data selection approaches based on influence that enhance model utility, fairness, and robustness.
+
+
 *2023-11-27*
 
 #### [A Simple Interpretable Transformer for Fine-Grained Image Classification and Analysis](https://arxiv.org/abs/2311.04157)
