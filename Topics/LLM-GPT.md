@@ -22,6 +22,18 @@
 
 
 
+
+*2024-02-22*
+
+#### [LEGO-Prover: Neural Theorem Proving with Growing Libraries](https://openreview.net/forum?id=3f5PALef5B)
+
+*Anonymous so far*
+
+*ICLR 2024 Oral*
+
+To improve the performance of LLM-based theorem prover, this paper presents LEGO-Prover, which employs a growing library containing verified lemmas as skills to augment the capability of LLMs used in theorem proving. By constructing the proof modularly, LEGO-Prover enables LLMs to utilize existing skills retrieved from the library and to create new skills during the proving process.
+
+
 *2024-02-19*
 
 #### [Phenomenal Yet Puzzling: Testing Inductive Reasoning Capabilities of Language Models with Hypothesis Refinement](https://openreview.net/forum?id=bNt7oajl2a)
