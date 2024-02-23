@@ -22,6 +22,18 @@
 
 
 
+
+*2024-02-23*
+
+#### [SaNN: Simple Yet Powerful Simplicial-aware Neural Networks](https://openreview.net/forum?id=eUgS9Ig8JG)
+
+*Sravanthi Gurugubelli, Sundeep Prabhakar Chepuri*
+
+*ICLR 2024 Spotlight*
+
+Simplicial neural networks (SNNs) are deep models for higher-order graph representation learning that learn low-dimensional embeddings of simplices in a simplicial complex by aggregating features of their respective upper, lower, boundary, and coboundary adjacent simplices. This paper proposes a scalable simplicial-aware neural network (SaNN) model with a constant run-time and memory requirements independent of the size of the simplicial complex and the density of interactions in it. SaNN is based on pre-aggregated simplicial-aware features as inputs to a neural network, thus having a strong simplicial-structural inductive bias.
+
+
 *2024-02-20*
 
 #### [Beyond Weisfeiler-Lehman: A Quantitative Framework for GNN Expressiveness](https://openreview.net/forum?id=HSKaGOi7Ar)
