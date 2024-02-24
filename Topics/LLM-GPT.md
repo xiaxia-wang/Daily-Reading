@@ -23,6 +23,18 @@
 
 
 
+
+*2024-02-24*
+
+#### [Overthinking the Truth: Understanding how Language Models Process False Demonstrations](https://openreview.net/forum?id=Tigr1kMDZy)
+
+*Danny Halawi, Jean-Stanislas Denain, Jacob Steinhardt*
+
+*ICLR 2024 Spotlight*
+
+This paper studies harmful imitation through the lens of a LM’s internal representations, and identifies two related phenomena: overthinking and false induction heads. The overthinking phenomenon appears when decoding predictions from intermediate layers, given correct vs. incorrect few-shot demonstrations. At early layers, both demonstrations induce similar model behavior, but the behavior diverges sharply at some “critical layer”, after which the accuracy given incorrect demonstrations progressively decreases. The false induction heads are a possible mechanistic cause of overthinking: these are heads in late layers that attend to and copy false information from previous demonstrations, whose ablation reduces overthinking.
+
+
 *2024-02-22*
 
 #### [LEGO-Prover: Neural Theorem Proving with Growing Libraries](https://openreview.net/forum?id=3f5PALef5B)
