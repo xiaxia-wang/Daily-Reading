@@ -10,6 +10,18 @@
 
 
 
+
+*2024-02-25*
+
+#### [MT-Ranker: Reference-free machine translation evaluation by inter-system ranking](https://openreview.net/forum?id=Rry1SeSOQL)
+
+*Ibraheem Muhammad Moosa, Rui Zhang, Wenpeng Yin*
+
+*ICLR 2024 Spotlight*
+
+This paper proposes a reference-free MT evaluation approach by formulating it as a pairwise ranking problem. Given the source sentence and a pair of translations, the system predicts which translation is better. In addition to the formulation, it shows that this paradigm demonstrates superior correlation with human judgments by merely using indirect supervision from natural language inference and weak supervision from synthetic data.
+
+
 *2024-02-21*
 
 #### ["What Data Benefits My Classifier?" Enhancing Model Performance and Interpretability through Influence-Based Data Selection](https://openreview.net/forum?id=HE9eUQlAvo)
