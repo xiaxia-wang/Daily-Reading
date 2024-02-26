@@ -4,24 +4,15 @@
 
 
 
+*2024-02-26*
 
+#### [MuSR: Testing the Limits of Chain-of-thought with Multistep Soft Reasoning](https://openreview.net/forum?id=jenyYQzue1)
 
+*Zayne Rea Sprague, Xi Ye, Kaj Bostrom, Swarat Chaudhuri, Greg Durrett*
 
+*ICLR 2024 Spotlight*
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+This paper introduces a reasoning benchmark, MuSR, consisting of 756 examples across three domains that challenge state-of-the-art LLMs such as GPT-4, Llama 2, and Vicuna. The benchmark is built with an algorithm for generating natural language narratives grounded in reasoning trees, by firstly generating gold facts that are used to deduce the correct answer, and then using an LLM to create a reasoning tree leading to those deductions from facts in a story combined with commonsense. After that, a narrative one chunk is iteratively generated at a time using the facts.
 
 
 *2024-02-24*
