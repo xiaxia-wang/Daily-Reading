@@ -11,6 +11,18 @@
 
 
 
+
+*2024-02-27*
+
+#### [Predictive, scalable and interpretable knowledge tracing on structured domains](https://openreview.net/forum?id=NgaLU2fP5D)
+
+*Hanqi Zhou, Robert Bamler, Charley M Wu, Álvaro Tejero-Cantero*
+
+*ICLR 2024 Spotlight*
+
+Knowledge tracing aims to track learning progress by predicting a learner’s performance on different knowledge components based on past learning interactions. This paper proposes a intelligent tutoring system that models both individual cognitive traits and the prerequisite structure of knowledge influence learning dynamics.
+
+
 *2024-02-25*
 
 #### [MT-Ranker: Reference-free machine translation evaluation by inter-system ranking](https://openreview.net/forum?id=Rry1SeSOQL)
