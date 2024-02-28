@@ -10,6 +10,18 @@
 
 
 
+
+*2024-02-28*
+
+#### [Memorization Capacity of Multi-Head Attention in Transformers](https://openreview.net/forum?id=MrR3rMxqqv)
+
+*Sadegh Mahdavi, Renjie Liao, Christos Thrampoulidis*
+
+*ICLR 2024 Spotlight*
+
+This paper presents a lower bound on the memorization capacity of multi-head attention layers under a set of input-data assumptions. The results demonstrate that memorization increases with the number of heads, monotonically with the context size, and monotonically with the head dimension up to the context size. These findings are supported by experimental results obtained using synthetic data.
+
+
 *2024-01-24*
 
 #### [A Branching Decoder for Set Generation](https://openreview.net/forum?id=riNuqYiD66)
