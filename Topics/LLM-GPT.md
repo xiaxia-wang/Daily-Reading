@@ -4,6 +4,18 @@
 
 
 
+
+*2024-02-29*
+
+#### [In-Context Pretraining: Language Modeling Beyond Document Boundaries](https://openreview.net/forum?id=LXVswInHOo)
+
+*Weijia Shi, Sewon Min, Maria Lomeli, Chunting Zhou, Margaret Li, Xi Victoria Lin, Noah A. Smith, Luke Zettlemoyer, Wen-tau Yih, Mike Lewis*
+
+*ICLR 2024 Spotlight*
+
+This paper proposes in-context pretraining, an approach where language models are trained on a sequence of related documents, thereby encouraging them to read and reason across document boundaries. Different from standard pretraining strategy that places randomly shuffled documents in the input context, in-context pretraining places related documents in the same context.
+
+
 *2024-02-26*
 
 #### [MuSR: Testing the Limits of Chain-of-thought with Multistep Soft Reasoning](https://openreview.net/forum?id=jenyYQzue1)
