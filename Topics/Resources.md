@@ -8,6 +8,18 @@
 
 
 
+
+*2024-03-01*
+
+#### [What's In My Big Data?](https://openreview.net/forum?id=RvfPnOkPV4)
+
+*Yanai Elazar, Akshita Bhagia, Ian Helgi Magnusson, Abhilasha Ravichander, Dustin Schwenk, Alane Suhr, Evan Pete Walsh, Dirk Groeneveld, Luca Soldaini, Sameer Singh, Hannaneh Hajishirzi, Noah A. Smith, Jesse Dodge*
+
+*ICLR 2024 Spotlight*
+
+This paper introduces a set of toolkits for analyzing corpora used to pretrain language models, and illustrates how the toolkits can be used to uncover various (but mostly trivial statistical) properties of widely used corpora, such as the amount of duplicate content. The findings also suggest some flaws of existing corpora.
+
+
 *2024-02-12*
 
 #### [LUBM: A benchmark for OWL knowledge base systems](https://www.sciencedirect.com/science/article/pii/S1570826805000132?via%3Dihub)
