@@ -23,6 +23,18 @@
 
 
 
+
+*2024-03-02*
+
+#### [Improving Generalization in Equivariant Graph Neural Networks with Physical Inductive Biases](https://openreview.net/forum?id=3oTPsORaDH)
+
+*Yang Liu, Jiashun Cheng, Haihong Zhao, Tingyang Xu, Peilin Zhao, Fugee Tsung, Jia Li, Yu Rong*
+
+*ICLR 2024 Spotlight*
+
+This paper proposes second-order equivariant graph neural ordinary differential equation as a method for modeling dynamics by computing second derivatives with equivariant GNNs. It theoretically analyzes the method's expressivity and empirically demonstrates the method on n-body problems, molecular dynamics, and motion capture.
+
+
 *2024-02-23*
 
 #### [SaNN: Simple Yet Powerful Simplicial-aware Neural Networks](https://openreview.net/forum?id=eUgS9Ig8JG)
