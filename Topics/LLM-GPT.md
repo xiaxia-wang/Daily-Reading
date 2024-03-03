@@ -5,6 +5,18 @@
 
 
 
+
+*2024-03-03*
+
+#### [Linearity of Relation Decoding in Transformer Language Models](https://openreview.net/forum?id=w7LU2s14kE)
+
+*Evan Hernandez, Arnab Sen Sharma, Tal Haklay, Kevin Meng, Martin Wattenberg, Jacob Andreas, Yonatan Belinkov, David Bau*
+
+*ICLR 2024 Spotlight*
+
+Much of the knowledge encoded in transformer language models (LMs) may be expressed in terms of relations: relations between words and their synonyms, entities and their attributes, etc. This paper shows that, for a subset of relations, this computation is well-approximated by a single linear transformation on the subject representation. Linear relation representations can be obtained by constructing a first-order approximation to the LM from a single prompt, and they exist for a variety of factual, commonsense, and linguistic relations. Meanwhile, there are also many cases in which LM predictions capture relational knowledge accurately, but this knowledge is not linearly encoded in their representations.
+
+
 *2024-02-29*
 
 #### [In-Context Pretraining: Language Modeling Beyond Document Boundaries](https://openreview.net/forum?id=LXVswInHOo)
