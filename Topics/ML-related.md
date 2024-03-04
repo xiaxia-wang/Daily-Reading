@@ -12,6 +12,18 @@
 
 
 
+
+*2024-03-04*
+
+#### [On the Provable Advantage of Unsupervised Pretraining](https://openreview.net/forum?id=rmXXKxQpOR)
+
+*Jiawei Ge, Shange Tang, Jianqing Fan, Chi Jin*
+
+*ICLR 2024 Spotlight*
+
+This paper studies a generic framework where the unsupervised representation learning task is specified by an abstract class of latent variable models Φ and the downstream task is specified by a class of prediction functions Ψ. It considers a natural approach of using Maximum Likelihood Estimation (MLE) for unsupervised pretraining and Empirical Risk Minimization (ERM) for learning downstream tasks. It proves that with some informative condition, unsupervised learning is able to achieve better excess risk than supervised learning, thus showing its advantage.
+
+
 *2024-02-27*
 
 #### [Predictive, scalable and interpretable knowledge tracing on structured domains](https://openreview.net/forum?id=NgaLU2fP5D)
