@@ -2,6 +2,18 @@
 
 
 
+
+*2024-03-05*
+
+#### [On the Markov Property of Neural Algorithmic Reasoning: Analyses and Methods](https://openreview.net/forum?id=Kn7tWhuetn)
+
+*Montgomery Bohde, Meng Liu, Alexandra Saxton, Shuiwang Ji*
+
+*ICLR 2024 Spotlight*
+
+A common paradigm of neural algorithmic reasoning uses historical embeddings in predicting the results of future execution steps. This paper argues that such historical dependence intrinsically contradicts the Markov nature of algorithmic reasoning tasks. Motivated by this, it presents ForgetNet, which does not use historical embeddings and thus is consistent with the Markov nature of the tasks. To address challenges in training ForgetNet at early stages, it further introduces G-ForgetNet, which uses a gating mechanism to allow for the selective integration of historical embeddings.
+
+
 *2024-02-17*
 
 #### [Knowledge Graph Reasoning over Entities and Numerical Values](https://dl.acm.org/doi/abs/10.1145/3580305.3599399)
