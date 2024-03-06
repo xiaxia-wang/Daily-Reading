@@ -21,7 +21,15 @@
 
 
 
+*2024-03-06*
 
+#### [Hybrid Directional Graph Neural Network for Molecules](https://openreview.net/forum?id=BBD6KXIGJL)
+
+*Junyi An, Chao Qu, Zhipeng Zhou, Fenglei Cao, Xu Yinghui, Yuan Qi, Furao Shen*
+
+*ICLR 2024 Spotlight*
+
+The equivariant operations in each layer of a GNN model may impose excessive constraints on the function form and network flexibility. This paper proposes a new model called the Hybrid Directional Graph Neural Network (HDGNN), which combines strictly equivariant operations with learnable modules, and is applied in chemical molecule properties prediction.
 
 
 *2024-03-02*
