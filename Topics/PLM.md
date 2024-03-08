@@ -11,6 +11,18 @@
 
 
 
+
+*2024-03-08*
+
+#### [Making Pre-trained Language Models Great on Tabular Prediction](https://openreview.net/forum?id=anzIzGZuLi)
+
+*Jiahuan Yan, Bo Zheng, Hongxia Xu, Yiheng Zhu, Danny Chen, Jimeng Sun, Jian Wu, Jintai Chen*
+
+*ICLR 2024 Spotlight*
+
+This paper presents TP-BERTa, a specifically pre-trained LM model for tabular data prediction. Concretely, a relative magnitude tokenization converts scalar numerical feature values to finely discrete, high-dimensional tokens, and an intra-feature attention approach integrates feature values with corresponding feature names.
+
+
 *2024-02-28*
 
 #### [Memorization Capacity of Multi-Head Attention in Transformers](https://openreview.net/forum?id=MrR3rMxqqv)
