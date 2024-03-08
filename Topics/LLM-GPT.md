@@ -6,6 +6,18 @@
 
 
 
+
+*2024-03-07*
+
+#### [Unbiased Watermark for Large Language Models](https://openreview.net/forum?id=uWVC5FVidc)
+
+*Zhengmian Hu, Lichang Chen, Xidong Wu, Yihan Wu, Hongyang Zhang, Heng Huang*
+
+*ICLR 2024 Spotlight*
+
+As existing studies suggested a trade-off between watermark strength and output quality, this study examines how significantly watermarks impact the quality of model-generated outputs. Surprisingly, this work demonstrates that it is possible to integrate watermarks without affecting the output probability distribution with appropriate implementation, which is referred to in this paper as an unbiased watermark.
+
+
 *2024-03-03*
 
 #### [Linearity of Relation Decoding in Transformer Language Models](https://openreview.net/forum?id=w7LU2s14kE)
