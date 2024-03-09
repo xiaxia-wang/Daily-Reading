@@ -7,6 +7,18 @@
 
 
 
+
+*2024-03-09*
+
+#### [MetaMath: Bootstrap Your Own Mathematical Questions for Large Language Models](https://openreview.net/forum?id=N8N0hgNDRt)
+
+*Longhui Yu, Weisen Jiang, Han Shi, Jincheng YU, Zhengying Liu, Yu Zhang, James Kwok, Zhenguo Li, Adrian Weller, Weiyang Liu*
+
+*ICLR 2024 Spotlight*
+
+To improve the LLMs's ability on solving mathematical problems, this paper proposes a finetuned language model that specializes in mathematical reasoning. It firstly rewrites the original question from multiple perspectives, which results in a new dataset called MetaMathQA, and then finetunes the LLaMA-2 models on MetaMathQA.
+
+
 *2024-03-07*
 
 #### [Unbiased Watermark for Large Language Models](https://openreview.net/forum?id=uWVC5FVidc)
