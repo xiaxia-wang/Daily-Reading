@@ -12,6 +12,18 @@
 
 
 
+
+*2024-03-10*
+
+#### [SNIP: Bridging Mathematical Symbolic and Numeric Realms with Unified Pre-training](https://openreview.net/forum?id=KZSEgJGPxu)
+
+*Kazem Meidani, Parshin Shojaee, Chandan K. Reddy, Amir Barati Farimani*
+
+*ICLR 2024 Spotlight*
+
+The authors propose pre-training for mathematical expressions via multi-modal contrastive learning that jointly encodes the symbolic and numerical parts of the expressions via a dual-encoder scheme. The tasks considered are property prediction and symbolic regression.    The proposed method is then used for a qualitative assessment of the learned embeddings and for downstream symbolic regression tasks (with a added a decoder). It results competitive w.r.t. recent baselines on these benchmarks.
+
+
 *2024-03-08*
 
 #### [Making Pre-trained Language Models Great on Tabular Prediction](https://openreview.net/forum?id=anzIzGZuLi)
