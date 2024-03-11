@@ -13,6 +13,18 @@
 
 
 
+
+*2024-03-11*
+
+#### [Fantastic Gains and Where to Find Them: On the Existence and Prospect of General Knowledge Transfer between Any Pretrained Model](https://openreview.net/forum?id=m50eKHCttz)
+
+*Karsten Roth, Lukas Thede, A. Sophia Koepke, Oriol Vinyals, Olivier Hénaff, Zeynep Akata*
+
+*ICLR 2024 Spotlight*
+
+This paper demonstrates the existence of complementary knowledge between different pretrained models, as evidenced by their distinct predictions on each sample, and further investigates the potential for transferring this knowledge without performance degradation. Given the limitations of existing knowledge distillation approaches, the authors frame the problem as a continual learning task and introduce a data partitioning scheme to maintain the useful knowledge of the student while learning from a teacher model. Empirical results show the effectiveness of the proposed approach across a variety of pretrained model pairs, including both strong and weak models.
+
+
 *2024-03-04*
 
 #### [On the Provable Advantage of Unsupervised Pretraining](https://openreview.net/forum?id=rmXXKxQpOR)
