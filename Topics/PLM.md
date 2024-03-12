@@ -13,6 +13,18 @@
 
 
 
+
+*2024-03-12*
+
+#### [Evaluating the Zero-shot Robustness of Instruction-tuned Language Models](https://openreview.net/forum?id=g9diuvxN6D)
+
+*Jiuding Sun, Chantal Shaib, Byron C Wallace*
+
+*ICLR 2024 Spotlight*
+
+This paper answers two questions: (1) How sensitive are instruction-tuned models to the particular phrasings of instructions, (2) How can we make them more robust to such natural language variation? To answer the former, it collects a set of instructions manually written by NLP practitioners and evaluates the variance and average performance of these instructions as compared to instruction phrasings observed during instruction fine-tuning. The result shows novel (unseen) instructions typically lead to performance degredation. To solve this problem, it proposes a soft-embedding approach to maximize the similarity between representations of semantically equivalent instructions.
+
+
 *2024-03-10*
 
 #### [SNIP: Bridging Mathematical Symbolic and Numeric Realms with Unified Pre-training](https://openreview.net/forum?id=KZSEgJGPxu)
