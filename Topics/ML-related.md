@@ -14,6 +14,18 @@
 
 
 
+
+*2024-03-13*
+
+#### [From Sparse to Soft Mixtures of Experts](https://openreview.net/forum?id=jxpsAj7ltE)
+
+*Joan Puigcerver, Carlos Riquelme Ruiz, Basil Mustafa, Neil Houlsby*
+
+*ICLR 2024 Spotlight*
+
+While the router in sparse MoE layers learns to assign individual input tokens to each of the available slots, in soft MoE layers each slot is the result of a weighted average of all the input tokens. Learning to make discrete assignments introduces several optimization and implementation issues that soft MoE sidesteps. Therefore, this paper explores the soft MoE approach with the image classification task. The result suggests the superiority of soft MoE compared to sparse MoE.
+
+
 *2024-03-11*
 
 #### [Fantastic Gains and Where to Find Them: On the Existence and Prospect of General Knowledge Transfer between Any Pretrained Model](https://openreview.net/forum?id=m50eKHCttz)
