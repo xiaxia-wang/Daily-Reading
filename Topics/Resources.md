@@ -9,6 +9,18 @@
 
 
 
+
+*2024-03-14*
+
+#### [DyVal: Graph-informed Dynamic Evaluation of Large Language Models](https://openreview.net/forum?id=gjfOL9z5Xr)
+
+*Kaijie Zhu, Jiaao Chen, Jindong Wang, Neil Zhenqiang Gong, Diyi Yang, Xing Xie*
+
+*ICLR 2024 Spotlight*
+
+This paper introduces DyVal, an evaluation framework for LLMs based on the structural advantage of directed acyclic graphs to dynamically generate evaluation samples with controllable complexities. DyVal generates challenging evaluation sets on reasoning tasks including mathematics, logical reasoning, and algorithm problems.
+
+
 *2024-03-01*
 
 #### [What's In My Big Data?](https://openreview.net/forum?id=RvfPnOkPV4)
