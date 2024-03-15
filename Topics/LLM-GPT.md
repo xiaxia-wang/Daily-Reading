@@ -8,6 +8,18 @@
 
 
 
+
+*2024-03-15*
+
+#### [At Which Training Stage Does Code Data Help LLMs Reasoning?](https://openreview.net/forum?id=KIPJKST4gw)
+
+*YINGWEI MA, Yue Liu, Yue Yu, Yuanliang Zhang, Yu Jiang, Changjian Wang, Shanshan Li*
+
+*ICLR 2024 Spotlight*
+
+This paper investigates the impact of code data on LLMs at the pre-training stage and the fine-tuning stage. First, pre-training LLMs with the mixture of code and text can significantly enhance LLMs’ general reasoning capability almost without negative transfer on other tasks. Second, at the instruction-tuning stage, code data endows LLMs the task-specific reasoning capability. Moreover, the dynamic mixing strategy of code and text data assists LLMs to learn reasoning capability step-by-step during training.
+
+
 *2024-03-09*
 
 #### [MetaMath: Bootstrap Your Own Mathematical Questions for Large Language Models](https://openreview.net/forum?id=N8N0hgNDRt)
