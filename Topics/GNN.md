@@ -21,6 +21,18 @@
 
 
 
+
+*2024-03-16*
+
+#### [One For All: Towards Training One Graph Model For All Classification Tasks](https://openreview.net/forum?id=4IT2pgc9v6)
+
+*Hao Liu, Jiarui Feng, Lecheng Kong, Ningyue Liang, Dacheng Tao, Yixin Chen, Muhan Zhang*
+
+*ICLR 2024 Spotlight*
+
+This paper proposes a general framework for node classification over graphs based on LMs. Specifically, it proposes text-attributed graphs to unify different graph data by describing nodes and edges with natural language and uses LMs to encode the diverse and possibly cross-domain text attributes to feature vectors in the same embedding space. Further, it introduces the concept of nodes-of-interest to standardize different tasks with a single task representation. For in-context learning on graphs, it introduces a novel graph prompting paradigm that appends prompting substructures to the input graph, which enables it to address varied tasks without fine-tuning.
+
+
 *2024-03-06*
 
 #### [Hybrid Directional Graph Neural Network for Molecules](https://openreview.net/forum?id=BBD6KXIGJL)
