@@ -14,6 +14,18 @@
 
 
 
+
+*2024-03-17*
+
+#### [On the Stability of Iterative Retraining of Generative Models on their own Data](https://openreview.net/forum?id=JORAfH2xFd)
+
+*Quentin Bertrand, Joey Bose, Alexandre Duplessis, Marco Jiralerspong, Gauthier Gidel*
+
+*ICLR 2024 Spotlight*
+
+This paper provides a theoretical understanding of when generative models iteratively re-trained on their own data diverge from the original target distribution. It develops a framework to study the impact of training generative models on mixed datasets (of real and synthetic data). It proves the stability of iterative training under the condition that the initial generative models approximate the data distribution well enough, and the proportion of clean training data (w.r.t. synthetic data) is large enough.
+
+
 *2024-03-12*
 
 #### [Evaluating the Zero-shot Robustness of Instruction-tuned Language Models](https://openreview.net/forum?id=g9diuvxN6D)
