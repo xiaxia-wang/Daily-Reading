@@ -9,6 +9,18 @@
 
 
 
+
+*2024-03-18*
+
+#### [KnowLA: Enhancing Parameter-efficient Finetuning with Knowledgeable Adaptation](https://openreview.net/pdf?id=dmTNWtJ58V)
+
+*Xindi Luo, Zequn Sun, Jing Zhao, Zhe Zhao, Wei Hu*
+
+*NAACL 2024*
+
+This paper proposes a knowledgeable adaptation method by inserting an adaptation layer into a LLM to integrate the embeddings of entities that appear in the input text. The adaptation layer is trained in combination with LoRA on instruction data.
+
+
 *2024-03-15*
 
 #### [At Which Training Stage Does Code Data Help LLMs Reasoning?](https://openreview.net/forum?id=KIPJKST4gw)
