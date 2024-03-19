@@ -15,6 +15,18 @@
 
 
 
+
+*2024-03-19*
+
+#### [Pre-Training and Fine-Tuning Generative Flow Networks](https://openreview.net/forum?id=ylhiMfpqkm)
+
+*Ling Pan, Moksh Jain, Kanika Madan, Yoshua Bengio*
+
+*ICLR 2024 Spotlight*
+
+Generative Flow Networks (GFlowNets) are amortized samplers that learn stochastic policies to sequentially generate compositional objects from a given unnormalized reward distribution. This paper introduces an approach for reward-free pre-training of GFlowNets. By framing the training as a self-supervised problem, it proposes an outcome-conditioned GFlowNet (OC-GFN) that learns to explore the candidate space.
+
+
 *2024-03-13*
 
 #### [From Sparse to Soft Mixtures of Experts](https://openreview.net/forum?id=jxpsAj7ltE)
