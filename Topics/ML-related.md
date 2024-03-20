@@ -16,6 +16,18 @@
 
 
 
+
+*2024-03-20*
+
+#### [Equivariant Matrix Function Neural Networks](https://openreview.net/forum?id=yrgQdA5NkI)
+
+*Ilyes Batatia, Lars Leon Schaaf, Gabor Csanyi, Christoph Ortner, Felix Andreas Faber*
+
+*ICLR 2024 Spotlight*
+
+This paper proposes Matrix Function Neural Networks (MFNs), a new framework of Graph Neural Networks using the concept of Matrix Functions. They are good in modelling non-local interactions through analytic matrix equivariant functions, which are useful especially for scientific and physical data such as large conjugated molecules, metals, or amorphous materials.
+
+
 *2024-03-19*
 
 #### [Pre-Training and Fine-Tuning Generative Flow Networks](https://openreview.net/forum?id=ylhiMfpqkm)
