@@ -22,6 +22,18 @@
 
 
 
+
+*2024-03-21*
+
+#### [Link Prediction with Relational Hypergraphs](https://arxiv.org/abs/2402.04062)
+
+*Xingyue Huang, Miguel Romero Orth, Pablo Barceló, Michael M. Bronstein, İsmail İlkan Ceylan*
+
+*Arxiv 2024*
+
+The presence of relational hyperedges makes link prediction a task between $k$ nodes for varying choices of $k$, which is substantially harder than link prediction with knowledge graphs, where every relation is binary ($k = 2$). This paper proposes two frameworks for link prediction with relational hypergraphs and conduct analysis of the expressive power of the resulting model architectures via corresponding relational Weisfeiler-Lehman algorithms.
+
+
 *2024-03-16*
 
 #### [One For All: Towards Training One Graph Model For All Classification Tasks](https://openreview.net/forum?id=4IT2pgc9v6)
