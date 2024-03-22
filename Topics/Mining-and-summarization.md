@@ -6,6 +6,19 @@
 
 
 
+
+
+*2024-03-22*
+
+#### [Domain Adaptation and Summary Distillation for Unsupervised Query Focused Summarization](https://ieeexplore.ieee.org/document/10185622)
+
+*Jiancheng Du, Yang Gao*
+
+*IEEE TKDE 2023*
+
+This paper proposes an unsupervised domain adaptation and summary distillation method (DASD). It firstly transforms a large-scale query-free benchmark into a query-focused dataset (Query-CNNDM) while preserving its informative summaries. To achieve the domain adaptation for unsupervised query-focused abstractive summarization (QFS), it designs a query-aware gap sentence generation (q-GSG) strategy to equip the model with the capability of learning target textual knowledge and obtaining a good initialization at the target domain. For instance-specific regularization, it trains a teacher model with the Query-CNNDM to generate pseudo-labels for summary distillation.
+
+
 *2023-11-17*
 
 #### [Inducing Causal Structure for Abstractive Text Summarization](https://dl.acm.org/doi/10.1145/3583780.3614934)
