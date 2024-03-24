@@ -17,6 +17,18 @@
 
 
 
+
+*2024-03-24*
+
+#### [Faithful and Efficient Explanations for Neural Networks via Neural Tangent Kernel Surrogate Models](https://openreview.net/forum?id=yKksu38BpM)
+
+*Andrew William Engel, Zhichao Wang, Natalie Frank, Ioana Dumitriu, Sutanay Choudhury, Anand Sarwate, Tony Chiang*
+
+*ICLR 2024 Spotlight*
+
+This paper investigates to use surrogate models to kernel general linear models. Specifically, it defines and evaluates new kernel functions for faithful approximation of an underlying neural network, and shows that approximate empirical neural tangent kernel surrogate models are consistently correlated to the underlying neural network across experiments.
+
+
 *2024-03-20*
 
 #### [Equivariant Matrix Function Neural Networks](https://openreview.net/forum?id=yrgQdA5NkI)
