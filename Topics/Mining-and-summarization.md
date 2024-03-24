@@ -8,6 +8,18 @@
 
 
 
+
+*2024-03-23*
+
+#### [A Survey on Neural Data-to-Text Generation](https://ieeexplore.ieee.org/document/10215344)
+
+*Yupian Lin, Tong Ruan, Jingping Liu, Haofen Wang*
+
+*IEEE TKDE 2023*
+
+Data-to-text Generation (D2T) aims to generate textual natural language statements that can fluently and precisely describe the structured data such as graphs, tables, and meaning representations (MRs) in the form of key-value pairs. This paper provides a comprehensive review on existing neural data-to-text generation approaches by firstly introducing available D2T resources, and surveying existing works based on the taxonomy along two axes: neural end-to-end D2T and neural modular D2T. Then it discusses the potential applications and adverse impacts.
+
+
 *2024-03-22*
 
 #### [Domain Adaptation and Summary Distillation for Unsupervised Query Focused Summarization](https://ieeexplore.ieee.org/document/10185622)
