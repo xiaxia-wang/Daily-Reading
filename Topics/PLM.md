@@ -15,6 +15,18 @@
 
 
 
+
+*2024-03-25*
+
+#### [GraphTranslator: Aligning Graph Model to Large Language Model for Open-ended Tasks](https://arxiv.org/abs/2402.07197)
+
+*Mengmei Zhang, Mingwei Sun, Peng Wang, Shen Fan, Yanhu Mo, Xiaoxiao Xu, Hong Liu, Cheng Yang, Chuan Shi*
+
+*WWW 2024*
+
+Pretrained graph models are usually able to handle pre-defined tasks but not for open-ended ones, while LLMs offer the capability to address open-ended tasks. This paper proposes a model that can solve both pre-defined and open-ended tasks by combining both paradigms, where the graph model is leveraged for pre-defined tasks, and the LLM is extended as the interface of the graph model for open-ended tasks.
+
+
 *2024-03-17*
 
 #### [On the Stability of Iterative Retraining of Generative Models on their own Data](https://openreview.net/forum?id=JORAfH2xFd)
