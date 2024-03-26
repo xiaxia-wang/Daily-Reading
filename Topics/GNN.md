@@ -23,6 +23,18 @@
 
 
 
+
+*2024-03-26*
+
+#### [Graph Fairness Learning under Distribution Shifts](https://arxiv.org/abs/2401.16784)
+
+*Yibo Li, Xiao Wang, Yujie Xing, Shaohua Fan, Ruijia Wang, Yaoqi Liu, Chuan Shi*
+
+*WWW 2024*
+
+This paper investigates the problem of fair prediction under distribution shifts, which relies on the assumption that the test data distribution is not the same as training data distribution. It proposes a model for fair prediction under distribution shifts with three modules, including a generative adversarial debiasing module, a graph generation module, and a group alignment module.
+
+
 *2024-03-21*
 
 #### [Link Prediction with Relational Hypergraphs](https://arxiv.org/abs/2402.04062)
