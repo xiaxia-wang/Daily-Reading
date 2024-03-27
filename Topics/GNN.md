@@ -24,6 +24,18 @@
 
 
 
+
+*2024-03-27*
+
+#### [Data-centric Graph Learning: A Survey](https://arxiv.org/abs/2310.04987)
+
+*Yuxin Guo, Deyu Bo, Cheng Yang, Zhiyuan Lu, Zhongjian Zhang, Jixi Liu, Yufei Peng, Chuan Shi*
+
+*Arxiv 2024*
+
+This survey reviews graph learning approaches from the data-centric perspective. It categorizes existing data-centric graph learning methods by the stages in the graph learning pipeline, including pre-processing, training, and inference. Then it highlights the processing methods for different data structures in the graph data, i.e., topology, feature and label. Besides, it analyzes the potential influence of problematic graph data on the graph models and discusses how to alleviate these problems in a data-centric manner.
+
+
 *2024-03-26*
 
 #### [Graph Fairness Learning under Distribution Shifts](https://arxiv.org/abs/2401.16784)
