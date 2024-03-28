@@ -7,6 +7,18 @@
 
 
 
+
+*2024-03-28*
+
+#### [PPM : A Pre-trained Plug-in Model for Click-through Rate Prediction](https://arxiv.org/abs/2403.10049)
+
+*Yuanbo Gao, Peng Lin, Dongyue Wang, Feng Mei, Xiwei Zhao, Sulong Xu, Jinghe Hu*
+
+*WWW 2024*
+
+This paper proposes a pre-trained plug-in CTR model, namely PPM. PPM employs multi-modal features as input and utilizes large scale data for pre-training. Then, PPM is plugged in IDRec model to enhance unified model’s performance and iteration efficiency. Upon incorporating IDRec model, certain intermediate results within the network are cached, with only a subset of the parameters participating in training and serving. Hence, our approach can successfully deploy an end-to-end model without causing huge latency increases.
+
+
 *2024-01-18*
 
 #### [Knowledge Graph Context-Enhanced Diversified Recommendation](https://arxiv.org/abs/2310.13253)
