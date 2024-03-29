@@ -6,6 +6,18 @@
 
 
 
+
+*2024-03-29*
+
+#### [Document-level Relationship Extraction by Bidirectional Constraints of Beta Rules](https://aclanthology.org/2023.emnlp-main.138.pdf)
+
+*Yichun Liu, Zizhong Zhu, Xiaowang Zhang, Zhiyong Feng, Daoqi Chen, Yaxin Li*
+
+*EMNLP 2023*
+
+This paper proposes bidirectional constraints of beta rules (BCBR) as a logic constraint framework for rule learning. It first introduces a new rule miner which simulates rules by beta distribution, and proposes forward and reverse logic constraints based on beta rules. Then it formulates rule consistency loss with bidirectional constraints to regulate the output of document-level relation extraction models.
+
+
 *2023-11-12*
 
 #### [AMIE: association rule mining under incomplete evidence in ontological knowledge bases](https://dl.acm.org/doi/10.1145/2488388.2488425)
