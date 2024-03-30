@@ -8,6 +8,18 @@
 
 
 
+
+*2024-03-30*
+
+#### [Wukong: Towards a Scaling Law for Large-Scale Recommendation](https://arxiv.org/abs/2403.02545)
+
+*Buyun Zhang, Liang Luo, Yuxin Chen, Jade Nie, Xi Liu, Daifeng Guo, Yanli Zhao, Shen Li, Yuchen Hao, Yantao Yao, Guna Lakshminarayanan, Ellie Dingqiao Wen, Jongsoo Park, Maxim Naumov, Wenlin Chen*
+
+*Arxiv 2024*
+
+To capture the scaling law in the recommendation field, this paper proposes an effective network architecture based purely on stacked factorization machines, and a synergistic upscaling strategy, to establish a scaling law in the domain of recommendation. This unique design makes it possible to capture diverse, any-order of interactions simply through taller and wider layers.
+
+
 *2024-03-28*
 
 #### [PPM : A Pre-trained Plug-in Model for Click-through Rate Prediction](https://arxiv.org/abs/2403.10049)
