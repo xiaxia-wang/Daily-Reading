@@ -6,6 +6,18 @@
 
 
 
+
+*2024-03-31*
+
+#### [ACORDAR 2.0 A Test Collection for Ad Hoc Dataset Retrieval with Densely Pooled Datasets and Question-Style Queries]()
+
+*Qiaosheng Chen, Weiqing Luo, Zixian Huang, Tengteng Lin, Xiaxia Wang, Ahmet Soylu, Basil Ell, Baifan Zhou, Evgeny Kharlamov and Gong Cheng*
+
+*SIGIR 2024*
+
+This paper proposes an improved version of a test collection for ad hoc dataset search, by incorporating dense retrieval models in the pooling process to avoid lexical bias, and using LLMs to rewrite keyword queries into question-style queries to diversify available query forms.
+
+
 *2023-12-31*
 
 #### [CTRL: Connect Collaborative and Language Model for CTR Prediction](https://arxiv.org/abs/2306.02841)
