@@ -9,6 +9,18 @@
 
 
 
+
+*2024-04-01*
+
+#### [Can Small Language Models be Good Reasoners for Sequential Recommendation?](https://arxiv.org/abs/2403.04260)
+
+*Yuling Wang, Changxin Tian, Binbin Hu, Yanhua Yu, Ziqi Liu, Zhiqiang Zhang, Jun Zhou, Liang Pang, Xiao Wang*
+
+*WWW 2024*
+
+This paper proposes a distillation-based model for sequential recommendation. Specifically, it utilizes a frozen large LM to produce CoT prompts and rationales. Then feeds both to the small student model as prompts and labels to let the student model acquire step-by-step recommendation capability.
+
+
 *2024-03-30*
 
 #### [Wukong: Towards a Scaling Law for Large-Scale Recommendation](https://arxiv.org/abs/2403.02545)
