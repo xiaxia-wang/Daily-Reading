@@ -6,6 +6,18 @@
 
 
 
+
+*2024-04-02*
+
+#### [Knowledge graph extension with a pre-trained language model via unified learning method](https://linkinghub.elsevier.com/retrieve/pii/S0950705122013417)
+
+*Bonggeun Choi, Youngjoong Ko*
+
+*Knowledge-Based Systems 2023*
+
+This paper proposes a knowledge graph extension approach, i.e., to link new entity with some existing entity in the graph, by formulating it as a classification task. Specifically, given a pair as (head-entity, relation), it aims to find the target entity to form a triple (head-entity, relation, target-entity) by classifying all existing entities, which is hard to scale to large graphs.
+
+
 *2023-12-13*
 
 #### [Schema-adaptable Knowledge Graph Construction](https://arxiv.org/abs/2305.08703)
