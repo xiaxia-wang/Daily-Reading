@@ -5,6 +5,18 @@
 
 
 
+
+*2024-04-03*
+
+#### [Enhancing Complex Question Answering over Knowledge Graphs through Evidence Pattern Retrieval](https://arxiv.org/abs/2402.02175)
+
+*Wentao Ding, Jinmao Li, Liangchuan Luo, Yuzhong Qu*
+
+*WWW 2024*
+
+This paper proposes an IR-based KGQA approach by improving the subgraph extraction module. Specifically, it firstly uses dense retrieval to obtain atomic patterns formed by resource pairs, and then enumerates their combinations to construct candidate evidence patterns. These evidence patterns are scored using a neural model, and the best one is selected to extract a subgraph for downstream answer reasoning.
+
+
 *2023-10-03*
 
 #### [Variational Open-Domain Question Answering](https://proceedings.mlr.press/v202/lievin23a.html)
