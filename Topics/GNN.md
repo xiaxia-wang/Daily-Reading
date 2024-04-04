@@ -25,6 +25,18 @@
 
 
 
+
+*2024-04-04*
+
+#### [Globally Interpretable Graph Learning via Distribution Matching](https://arxiv.org/abs/2306.10447)
+
+*Yi Nian, Yurui Chang, Wei Jin, Lu Lin*
+
+*WWW 2024*
+
+This paper investigates the global interpretation for GNN models, whose goal is to generate a few compact interpretive graphs to summarize class discriminative patterns the GNN model learns for decision making. It assumes that if the interpretation indeed contains essential patterns the model captures during training, then if use these interpretive graphs to train a model from scratch, this surrogate model should present similar behavior as the original model. Based on this, it proposes a new metric as model fidelity, which evaluates the predictive similarity between the surrogate model (trained via interpretative graphs) and the original model (normally trained via the training set). Then it also proposes a global interpretable graph learning model that can provide graph patterns as global interpretation during training.
+
+
 *2024-03-27*
 
 #### [Data-centric Graph Learning: A Survey](https://arxiv.org/abs/2310.04987)
