@@ -13,6 +13,18 @@
 
 
 
+
+*2024-04-05*
+
+#### [Toward Practical Entity Alignment Method Design: Insights from New Highly Heterogeneous Knowledge Graph Datasets](https://arxiv.org/abs/2304.03468)
+
+*Xuhui Jiang, Chengjin Xu, Yinghan Shen, Yuanzhuo Wang, Fenglong Su, Fei Sun, Zixuan Li, Zhichao Shi, Jian Guo, Huawei Shen*
+
+*WWW 2024*
+
+This paper focuses on the entity alignment (EA) task over heterogeneous knowledge graphs. First, it argues that existing EA benchmarks usually hold too strong assumptions that are not close to practical application, such as the two KGs having similar density, structure, and the entities are almost 1-to-1 mapped to each other KG. By proposing new EA datasets with relatively different scale and density, it shows the structural information are not well utilized by most existing GNN-based EA models. Motivated by this, it further proposes a new EA model based on entity name, local structure (by random walk) and temporal information.
+
+
 *2024-01-22*
 
 #### [LHP: Logical hypergraph link prediction](https://www.sciencedirect.com/science/article/pii/S0957417423003433?via%3Dihub)
