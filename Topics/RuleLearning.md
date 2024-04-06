@@ -7,6 +7,18 @@
 
 
 
+
+*2024-04-06*
+
+#### [Learning Interpretable Rules for Scalable Data Representation and Classification](https://ieeexplore.ieee.org/document/10302393)
+
+*Zhuo Wang, Wei Zhang, Ning Liu, Jianyong Wang*
+
+*TAPMI 2023*
+
+This paper proposes a rule learning model for classification task, including "logical layers" to simulate the conjunction and disjunction operators in the rule body. However, it provides neither the rule extraction algorithms, nor formal guarantee for the faithfulness of extracted rules.
+
+
 *2024-03-29*
 
 #### [Document-level Relationship Extraction by Bidirectional Constraints of Beta Rules](https://aclanthology.org/2023.emnlp-main.138.pdf)
