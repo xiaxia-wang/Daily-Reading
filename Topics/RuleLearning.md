@@ -8,6 +8,18 @@
 
 
 
+
+*2024-04-07*
+
+#### [Differentiable Learning of Rules with Constants in Knowledge Graphs](https://www.sciencedirect.com/science/article/pii/S0950705123004367)
+
+*Zezhong Xu, Peng Ye, Juan Li, Huajun Chen, Wen Zhang*
+
+*Knowledge-Based Systems 2023*
+
+This paper extends the idea of Neural-LP framework for rule learning, and includes constants connected to each variable in the rule body. It provides rule extraction algorithm, but no faithfulness guarantee, and the performance is just close / slightly better than DRUM.
+
+
 *2024-04-06*
 
 #### [Learning Interpretable Rules for Scalable Data Representation and Classification](https://ieeexplore.ieee.org/document/10302393)
