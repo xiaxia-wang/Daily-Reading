@@ -14,6 +14,18 @@
 
 
 
+
+*2024-04-08*
+
+#### [A Survey on Hypergraph Representation Learning](https://dl.acm.org/doi/10.1145/3605776)
+
+*Alessia Antelmi, Gennaro Cordasco, Mirko Polato, Vittorio Scarano, Carmine Spagnuolo, Dingqi Yang*
+
+*ACM Computing Surveys 2023*
+
+This paper reviews recent works on hypergraph representation learning by offering a new taxonomy of hypergraph embedding methods, including three main families of techniques, i.e., spectral, proximity-preserving, and deep neural networks.
+
+
 *2024-04-05*
 
 #### [Toward Practical Entity Alignment Method Design: Insights from New Highly Heterogeneous Knowledge Graph Datasets](https://arxiv.org/abs/2304.03468)
