@@ -10,6 +10,18 @@
 
 
 
+
+*2024-04-09*
+
+#### [Large Language Models are few(1)-shot Table Reasoners](https://arxiv.org/abs/2210.06710)
+
+*Wenhu Chen*
+
+*EACL 2023*
+
+This work preliminarily evaluates the performance of LLMs on reasoning tasks over tabular data. Specifically, it tests several LLMs over tabular data benchmarks for QA that involves reasoning. The results show that, when combined with chain-of-thoughts prompting, LLMs can achieve very strong performance with only 1-shot demonstration. However, it also shows that the performance degrades vastly with the increase of table size, and smaller models do not perform well enough.
+
+
 *2024-03-18*
 
 #### [KnowLA: Enhancing Parameter-efficient Finetuning with Knowledgeable Adaptation](https://openreview.net/pdf?id=dmTNWtJ58V)
