@@ -11,6 +11,18 @@
 
 
 
+
+*2024-04-10*
+
+#### [cTBLS: Augmenting Large Language Models with Conversational Tables](https://arxiv.org/abs/2303.12024)
+
+*Anirudh S Sundar, Larry Heck*
+
+*Arxiv 2023*
+
+This paper proposes Conversational Tables (cTBLS), a three-step encoder-decoder architecture designed to augment LLMs with tabular data in conversational settings. Dense Table Retrieval identifies the table most relevant to the initial query. The retrieved table is provided to the state tracker for follow-up queries. State Tracking ranks cells in the table based on their ability to answer a follow-up query. Response Generation utilizes a LLM Decoder provided with the ranked cell information and the follow-up query to convert tabular data into a natural language response and continue the conversation.
+
+
 *2024-04-09*
 
 #### [Large Language Models are few(1)-shot Table Reasoners](https://arxiv.org/abs/2210.06710)
