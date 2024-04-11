@@ -16,6 +16,18 @@
 
 
 
+
+*2024-04-11*
+
+#### [Exploring the Potential of Large Language Models (LLMs) in Learning on Graphs](https://arxiv.org/abs/2307.03393)
+
+*Zhikai Chen, Haitao Mao, Hang Li, Wei Jin, Hongzhi Wen, Xiaochi Wei, Shuaiqiang Wang, Dawei Yin, Wenqi Fan, Hui Liu, Jiliang Tang*
+
+*KDD 2024*
+
+This paper explores two potential pipelines to incorporate LLMs to node classification tasks on text-attributed graphs. (1) LLMs-as-Enhancers: LLMs are adopted to enhance the textual information; subsequently, GNNs utilize refined textual data to generate predictions. (2) LLMs-as-Predictors: LLMs are adapted to generate the final predictions, where structural and attribute information is present completely through natural languages.
+
+
 *2024-03-25*
 
 #### [GraphTranslator: Aligning Graph Model to Large Language Model for Open-ended Tasks](https://arxiv.org/abs/2402.07197)
