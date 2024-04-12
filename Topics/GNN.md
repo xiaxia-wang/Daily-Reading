@@ -26,6 +26,18 @@
 
 
 
+
+*2024-04-12*
+
+#### [On the Theoretical Expressive Power and the Design Space of Higher-Order Graph Transformers](https://arxiv.org/abs/2404.03380)
+
+*Cai Zhou, Rose Yu, Yusu Wang*
+
+*AISTATS 2024*
+
+This paper studies the theoretical expressive power of order-$k$ graph transformers and sparse variants. It first shows that, an order-$k$ graph transformer without additional structural information is less expressive than the $k$-Weisfeiler Lehman ($k$-WL) test despite its high computational cost. Then it explores sparsification strategies, and shows that a natural neighborhood-based sparse order-$k$ transformer model is not only computationally efficient, but also expressive – as expressive as $k$-WL test.
+
+
 *2024-04-04*
 
 #### [Globally Interpretable Graph Learning via Distribution Matching](https://arxiv.org/abs/2306.10447)
