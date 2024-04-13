@@ -27,6 +27,18 @@
 
 
 
+
+*2024-04-13*
+
+#### [When to Pre-Train Graph Neural Networks? From Data Generation Perspective!](https://dl.acm.org/doi/10.1145/3580305.3599548)
+
+*Yuxuan Cao, Jiarong Xu, Carl Yang, Jiaan Wang, Yunchao Zhang, Chunping Wang, Lei CHEN, Yang Yang*
+
+*KDD 2023*
+
+This paper investigates the problem "when to pretrain models over graph data" without any usual "pretrain-finetune" attempts. Specifically, it first fits the pretraining data into graphon bases, where each element of graphon bases (i.e., a graphon) identifies a fundamental transferable pattern shared by a collection of pretraining graphs. Then the feasibility of pretraining is quantified as the generation probability of the downstream data from any generator in the generator space.
+
+
 *2024-04-12*
 
 #### [On the Theoretical Expressive Power and the Design Space of Higher-Order Graph Transformers](https://arxiv.org/abs/2404.03380)
