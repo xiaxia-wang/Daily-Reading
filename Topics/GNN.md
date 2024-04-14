@@ -28,6 +28,18 @@
 
 
 
+
+*2024-04-14*
+
+#### [Improving Expressivity of GNNs with Subgraph-specific Factor Embedded Normalization](https://dl.acm.org/doi/10.1145/3580305.3599388)
+
+*Kaixuan Chen, Shunyu Liu, Tongtian Zhu, Ji Qiao, Yun Su, Yingjie Tian, Tongya Zheng, Haofei Zhang, Zunlei Feng, Jingwen Ye, Mingli Song*
+
+*KDD 2023*
+
+This paper proposes a subgraph-specific factor computed from the number of nodes, edges, and the eigenvalues of the adjacency matrix for each graph, which is exclusive for each non-isomorphic graph. Then it shows that by using this factor in a plug-and-play manner, the GNN models can be alleviated from the over-smoothing issue, and is at least as powerful as the 1-WL test in distinguishing non-isomorphism graphs.
+
+
 *2024-04-13*
 
 #### [When to Pre-Train Graph Neural Networks? From Data Generation Perspective!](https://dl.acm.org/doi/10.1145/3580305.3599548)
