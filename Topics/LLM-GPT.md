@@ -12,6 +12,18 @@
 
 
 
+
+*2024-04-15*
+
+#### [Retrieval-Augmented Generation for Large Language Models: A Survey](https://arxiv.org/abs/2312.10997)
+
+*Yunfan Gao, Yun Xiong, Xinyu Gao, Kangxiang Jia, Jinliu Pan, Yuxi Bi, Yi Dai, Jiawei Sun, Meng Wang, Haofen Wang*
+
+*Arxiv 2023*
+
+This paper reviews existing works on Retrieval-Augmented Generation (RAG), which aims to retrieving pre-indexed information (e.g., text corpus, KG, etc.) in helping generation tasks such as QA. LLMs are used in both the indexing and the generation processes. This paper summarizes several RAG paradigms, as well as existing approaches used in each module of the RAG framework, such as retrieval sources, indexing optimization, query optimization, etc.
+
+
 *2024-04-10*
 
 #### [cTBLS: Augmenting Large Language Models with Conversational Tables](https://arxiv.org/abs/2303.12024)
