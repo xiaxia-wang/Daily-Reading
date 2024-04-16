@@ -17,6 +17,18 @@
 
 
 
+
+*2024-04-16*
+
+#### [NoteLLM: A Retrievable Large Language Model for Note Recommendation](https://arxiv.org/abs/2403.01744)
+
+*Chao Zhang, Shiwei Wu, Haoxin Zhang, Tong Xu, Yan Gao, Yao Hu, Di Wu, Enhong Chen*
+
+*WWW 2024*
+
+This paper proposes a model named NoteLLM for item-to-item (I2I) note recommendation. Specifically, it uses a unified prompt for I2I note recommendation and hashtag/category generation, where notes are compressed via the Note Compression Prompt and processed by pre-trained LLMs. It utilizes the co-occurrences to construct the related note pairs and train the I2I recommendation task using Generative-Contrasting Learning. Besides, NoteLLM also extracts each note’s key concepts for hashtag/category generation to enhance the I2I recommendation task.
+
+
 *2024-04-11*
 
 #### [Exploring the Potential of Large Language Models (LLMs) in Learning on Graphs](https://arxiv.org/abs/2307.03393)
