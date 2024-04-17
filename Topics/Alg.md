@@ -8,6 +8,18 @@
 
 
 
+
+*2024-04-17*
+
+#### [On Improving the Cohesiveness of Graphs by Merging Nodes: Formulation, Analysis, and Algorithms](https://dl.acm.org/doi/10.1145/3580305.3599449)
+
+*Fanchen Bu, Kijung Shin*
+
+*KDD 2023*
+
+This paper investigates the problem of improving the graph cohesiveness by merging nodes. Specifically, it formulates the optimization problem as truss-size maximization by mergers, and proves its NP-hardness and non-modularity. Then it designs an approximate algorithm by pruning search-space and adopting heuristics.
+
+
 *2024-02-11*
 
 #### [Hypertree Decompositions: A Survey](https://link.springer.com/content/pdf/10.1007/3-540-44683-4_5.pdf)
