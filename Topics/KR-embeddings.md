@@ -15,6 +15,18 @@
 
 
 
+
+*2024-04-18*
+
+#### [Classification of Edge-dependent Labels of Nodes in Hypergraphs](https://doi.org/10.1145/3580305.3599274)
+
+*Minyoung Choe, Sunwoo Kim, Jaemin Yoo, Kijung Shin*
+
+*KDD 2023*
+
+This paper studies the classification task of edge-dependent node labels in hypergraphs, e.g., the orders of authors (first, last, or others) in each publication hyperedge. To solve the problem, it proposes a transformer-based network model that incorporates edge-dependent node embeddings and positional encoding for the classification task.
+
+
 *2024-04-08*
 
 #### [A Survey on Hypergraph Representation Learning](https://dl.acm.org/doi/10.1145/3605776)
