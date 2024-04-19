@@ -16,6 +16,18 @@
 
 
 
+
+*2024-04-19*
+
+#### [Representation Learning on Hyper-Relational and Numeric Knowledge Graphs with Transformers](https://dl.acm.org/doi/10.1145/3580305.3599490)
+
+*Chanyoung Chung, Jaejun Lee, Joyce Jiyoung Whang*
+
+*KDD 2023*
+
+This paper proposes an encoder-decoder model for the link prediction task over hyper-relation knowledge graphs that also involve numeric values. Specifically, it designs context transformer layer (i.e., the encoder) to aggregate information related to each triplet, as well as a prediction transformer layer (i.e., the decoder) for making predictions from the representation. It also proposes different types of masks for different learning tasks, including link prediction of discrete entities/numeric values, and relation prediction.
+
+
 *2024-04-18*
 
 #### [Classification of Edge-dependent Labels of Nodes in Hypergraphs](https://doi.org/10.1145/3580305.3599274)
