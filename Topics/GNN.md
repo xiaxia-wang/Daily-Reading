@@ -29,6 +29,18 @@
 
 
 
+
+*2024-04-21*
+
+#### [Are Message Passing Neural Networks Really Helpful for Knowledge Graph Completion?](https://aclanthology.org/2023.acl-long.597.pdf)
+
+*Juanhui Li, Harry Shomer, Jiayuan Ding, Yiqi Wang, Yao Ma, Neil Shah, Jiliang Tang, Dawei Yin*
+
+*ACL 2023*
+
+By comparing the performance of KGC models with Message-Passing (MP) or simple MLP layers, i.e., replacing the adjacency matrix of the graph with identity matrix, this paper surprisingly finds that simple MLP models are able to achieve comparable performance to MPNNs, suggesting that MP may not be as crucial as previously believed. With further exploration, it shows careful scoring function and loss function design has a much stronger influence on KGC model performance.
+
+
 *2024-04-14*
 
 #### [Improving Expressivity of GNNs with Subgraph-specific Factor Embedded Normalization](https://dl.acm.org/doi/10.1145/3580305.3599388)
