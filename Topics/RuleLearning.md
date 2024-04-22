@@ -9,6 +9,18 @@
 
 
 
+
+*2024-04-22*
+
+#### [Fire: An Optimization Approach for Fast Interpretable Rule Extraction](https://dl.acm.org/doi/10.1145/3580305.3599353)
+
+*Brian Liu, Rahul Mazumder*
+
+*KDD 2023*
+
+This paper proposes a rule extraction approach to obtain decision rules based on tree ensembles. It selects sparse representative subsets of rules from tree ensembles that are easy for a practitioner to examine. To enhance the interpretability of the extracted model, it encourages fusing rules during selection, so that many selected decision rules share common antecedents. Besides, to solve this non-convex optimization problem, it proposes a specialized solver based on block coordinate descent principles, which shows relatively high efficiency in the experiments.
+
+
 *2024-04-07*
 
 #### [Differentiable Learning of Rules with Constants in Knowledge Graphs](https://www.sciencedirect.com/science/article/pii/S0950705123004367)
