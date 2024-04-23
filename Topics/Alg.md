@@ -9,6 +9,18 @@
 
 
 
+
+*2024-04-23*
+
+#### [DotHash: Estimating Set Similarity Metrics for Link Prediction and Document Deduplication](https://dl.acm.org/doi/10.1145/3580305.3599314)
+
+*Igor Nunes, Mike Heddes, Pere Vergés, Danny Abraham, Alex Veidenbaum, Alex Nicolau, Tony Givargis*
+
+*KDD 2023*
+
+To estimate the pairwise set similarity between large scale documents, this paper proposes DotHash as an unbiased estimator for the intersection size of two sets. DotHash can be used to estimate the Jaccard index, Adamic-Adar index and a family of related metrics. Experiments show that it is more accurate than other estimators in link prediction and detecting duplicate documents with the same complexity and similar comparison time.
+
+
 *2024-04-17*
 
 #### [On Improving the Cohesiveness of Graphs by Merging Nodes: Formulation, Analysis, and Algorithms](https://dl.acm.org/doi/10.1145/3580305.3599449)
