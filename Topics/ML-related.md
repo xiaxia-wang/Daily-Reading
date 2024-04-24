@@ -18,6 +18,18 @@
 
 
 
+
+*2024-04-24*
+
+#### [ExplainableFold: Understanding AlphaFold Prediction with Explainable AI](https://dl.acm.org/doi/10.1145/3580305.3599337)
+
+*Juntao Tan, Yongfeng Zhang*
+
+*KDD 2023*
+
+This paper proposes a counterfactual learning framework inspired by biological principles to generate counterfactual explanations for protein structure prediction. It provides insights about which residue(s) of a sequence is crucial (or indecisive) to the protein’s structure and how certain changes on the residue(s) will change the structure, which helps to understand, e.g., what are the most impactful amino acids on the structure, and what are the most radical (or safe) substitutions when modifying a protein structure.
+
+
 *2024-03-24*
 
 #### [Faithful and Efficient Explanations for Neural Networks via Neural Tangent Kernel Surrogate Models](https://openreview.net/forum?id=yKksu38BpM)
