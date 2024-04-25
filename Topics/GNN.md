@@ -30,6 +30,18 @@
 
 
 
+
+*2024-04-25*
+
+#### [Improving the Expressiveness of K-hop Message-Passing GNNs by Injecting Contextualized Substructure Information](https://dl.acm.org/doi/10.1145/3580305.3599390)
+
+*Tianjun Yao, Yingxu Wang, Kun Zhang, Shangsong Liang*
+
+*KDD 2023*
+
+This paper first analyzes the (limited) expressiveness of K-hop MPNNs, where the node representation is updated by iteratively aggregating information from neighbors within K-hop of the node. Then it proposes an substructure encoding function that improves the expressive power of any K-hop MPNN.
+
+
 *2024-04-21*
 
 #### [Are Message Passing Neural Networks Really Helpful for Knowledge Graph Completion?](https://aclanthology.org/2023.acl-long.597.pdf)
