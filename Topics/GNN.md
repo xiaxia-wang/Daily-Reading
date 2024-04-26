@@ -18,17 +18,15 @@
 
 
 
+*2024-04-26*
 
+#### [MixupExplainer: Generalizing Explanations for Graph Neural Networks with Data Augmentation](https://dl.acm.org/doi/10.1145/3580305.3599435)
 
+*Jiaxing Zhang, Dongsheng Luo, Hua Wei*
 
+*KDD 2023*
 
-
-
-
-
-
-
-
+Graph Information Bottleneck (GIB) is a post-hoc explanation approach that maximizes the mutual information between the target label 𝑌 and the explanation 𝐺∗ while constraining the size of the explanation as the mutual information between the original graph 𝐺 and the explanation 𝐺∗. This paper studies the distribution shifting issue in existing GIB framework that affects explanation quality. To address the issue, it introduces a generalized GIB form that includes a label-independent graph variable, which is equivalent to the vanilla GIB. With the generalized GIB, it proposes a graph mixup method with theoretical guarantee to resolve the distribution shifting issue.
 
 
 *2024-04-25*
