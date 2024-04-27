@@ -18,6 +18,18 @@
 
 
 
+
+*2024-04-27*
+
+#### [On Structural Expressive Power of Graph Transformers](https://dl.acm.org/doi/10.1145/3580305.3599451)
+
+*Wenhao Zhu, Tianyu Wen, Guojie Song, Liang Wang, Bo Zheng*
+
+*KDD 2023*
+
+Motivated by the well-known WL-test for measuring the expressive power of GNN models, this paper proposes Structural Encoding enhanced Global Weisfeiler-Lehman (SEG-WL) test as a generalized graph isomorphism test for the structural discriminative power of graph Transformers. With the SEG-WL test, it shows how graph Transformers’ expressive power is determined by the design of structural encodings, and presents conditions that make the expressivity of graph Transformers beyond WL-test and GNNs.
+
+
 *2024-04-26*
 
 #### [MixupExplainer: Generalizing Explanations for Graph Neural Networks with Data Augmentation](https://dl.acm.org/doi/10.1145/3580305.3599435)
