@@ -13,6 +13,18 @@
 
 
 
+
+*2024-04-28*
+
+#### [Augmenting Knowledge Graph Hierarchies Using Neural Transformers](https://arxiv.org/abs/2404.08020)
+
+*Sanat Sharma, Mayank Poddar, Jayant Kumar, Kosta Blank, Tracy King*
+
+*ECIR 2024*
+
+This paper reports a LLM-based approach for generating KG hierarchies from a set of initial broad categories. It applies cyclical generation to obtain each level of categories in a loop, and uses one-shot generation to add each candidate into the hierarchy. The quality of generated hierarchy is manually evaluated by human experts.
+
+
 *2024-04-15*
 
 #### [Retrieval-Augmented Generation for Large Language Models: A Survey](https://arxiv.org/abs/2312.10997)
