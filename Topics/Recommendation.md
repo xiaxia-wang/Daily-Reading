@@ -10,6 +10,18 @@
 
 
 
+
+*2024-04-30*
+
+#### [SIGformer: Sign-aware Graph Transformer for Recommendation](https://arxiv.org/abs/2404.11982)
+
+*Sirui Chen, Jiawei Chen, Sheng Zhou, Bohao Wang, Shen Han, Chanfei Su, Yuqing Yuan, Can Wang*
+
+*SIGIR 2024*
+
+To collaboratively utilize the positive and negative feedback in the recommendation system, this paper proposes a model that employs the transformer architecture to sign-aware graph-based recommendation. It incorporates two positional encodings that capture the spectral properties and path patterns of the signed graph, to improve exploitation of the entire graph.
+
+
 *2024-04-01*
 
 #### [Can Small Language Models be Good Reasoners for Sequential Recommendation?](https://arxiv.org/abs/2403.04260)
