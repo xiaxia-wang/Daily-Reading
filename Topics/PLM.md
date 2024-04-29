@@ -18,6 +18,18 @@
 
 
 
+
+*2024-04-29*
+
+#### [The Integration of Semantic and Structural Knowledge in Knowledge Graph Entity Typing](https://arxiv.org/abs/2404.08313)
+
+*Muzhi Li, Minda Hu, Irwin King, Ho-fung Leung*
+
+*NAACL 2024*
+
+The Knowledge Graph Entity Typing (KGET) task aims to predict missing type annotations for entities in knowledge graphs. This paper proposes an end-to-end model for the task, including a semantic knowledge encoding module that encodes factual knowledge in the KG with a masked entity typing task, a structural knowledge aggregation module that aggregates knowledge from the multi-hop neighborhood of entities to infer missing types, and an unsupervised type re-ranking module that utilizes the inference results from previous modules to generate type predictions that are robust to false-negative samples.
+
+
 *2024-04-16*
 
 #### [NoteLLM: A Retrievable Large Language Model for Note Recommendation](https://arxiv.org/abs/2403.01744)
