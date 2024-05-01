@@ -14,6 +14,18 @@
 
 
 
+
+*2024-05-01*
+
+#### [QA-GNN: Reasoning with Language Models and Knowledge Graphs for Question Answering](https://arxiv.org/abs/2104.06378)
+
+*Michihiro Yasunaga, Hongyu Ren, Antoine Bosselut, Percy Liang, Jure Leskovec*
+
+*NAACL 2021*
+
+To leverage LM and KG for QA task with given question and selections, this paper proposes QA-GNN as an end-to-end framework with two insights: (i) Relevance scoring: Since the KG subgraph consists of all few-hop neighbors of the topic entities, some entity nodes are more relevant than others with respect to the given QA context. By proposing KG node relevance scoring, it scores each entity in the KG subgraph by concatenating the entity with the QA context and calculating the likelihood using a pretrained LM. This presents a general framework to weight information on the KG. (ii) Joint reasoning: It proposes a joint graph representation of the QA context and KG, where the QA context is viewed as an additional node (QA context node) and connected to the topic entities in the KG subgraph.
+
+
 *2024-04-28*
 
 #### [Augmenting Knowledge Graph Hierarchies Using Neural Transformers](https://arxiv.org/abs/2404.08020)
