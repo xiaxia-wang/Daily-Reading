@@ -17,6 +17,18 @@
 
 
 
+
+*2024-05-02*
+
+#### [Distributed representations of entities in open-world knowledge graphs](https://www.sciencedirect.com/science/article/pii/S095070512400217X)
+
+*Lingbing Guo, Zhuo Chen, Jiaoyan Chen, Yichi Zhang, Zequn Sun, Zhongpu Bo, Yin Fang, Xiaoze Liu, Huajun Chen, Wen Zhang*
+
+*Knowledge-Based Systems 2023*
+
+This paper introduces Decentralized Attention Network (DAN) as a GNN-based entity embedding model. It leverages neighboring context as the query vector to score the neighbors for each entity, thereby distributing the entity semantics only among its neighbors' embeddings. To effectively train the model, self-distillation is proposed to guide the network in generating ideal representations.
+
+
 *2024-04-19*
 
 #### [Representation Learning on Hyper-Relational and Numeric Knowledge Graphs with Transformers](https://dl.acm.org/doi/10.1145/3580305.3599490)
