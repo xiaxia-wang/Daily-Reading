@@ -18,6 +18,18 @@
 
 
 
+
+*2024-05-04*
+
+#### [Editing Language Model-based Knowledge Graph Embeddings](https://arxiv.org/abs/2301.10405)
+
+*Siyuan Cheng, Ningyu Zhang, Bozhong Tian, Xi Chen, Qingbing Liu, Huajun Chen*
+
+*AAAI 2024*
+
+This paper investigates the performance of LLM-based KGE model in editing tasks, i.e., to (1) identify the false entity in an existing triple then replace it with the correct one, and (2) add some new fact as a whole. It compares two paradigms of KG editing models. Finetuning KGE models are trained with the description of triples that represent relations and entities connected by the [SEP] and [CLS] tokens and then take the description sequences as the input for finetuning. Prompt-tuning models consider entities as special tokens in the language model, turning link prediction into a masked entity prediction. It also proposes datasets for evaluating the KG editing performances.
+
+
 *2024-05-02*
 
 #### [Distributed representations of entities in open-world knowledge graphs](https://www.sciencedirect.com/science/article/pii/S095070512400217X)
