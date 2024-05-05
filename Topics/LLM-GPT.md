@@ -15,6 +15,18 @@
 
 
 
+
+*2024-05-05*
+
+#### [Generate-on-Graph: Treat LLM as both Agent and KG in Incomplete Knowledge Graph Question Answering](https://arxiv.org/abs/2404.14741)
+
+*Yao Xu, Shizhu He, Jiabei Chen, Zihao Wang, Yangqiu Song, Hanghang Tong, Kang Liu, Jun Zhao*
+
+*Arxiv 2024*
+
+This paper proposes to leverage LLMs for QA under Incomplete Knowledge Graph (IKGQA), where the given KG doesn't include all the factual triples involved in each question. To solve the task, it proposes a training-free method called Generate-on-Graph (GoG) that produces new triples while exploring on KGs. Specifically, a select-generate-answer framework works by not only using the LLM as an agent to explore the KG, but also as a KG to generate new facts based on the explored subgraph and its inherent knowledge.
+
+
 *2024-05-01*
 
 #### [QA-GNN: Reasoning with Language Models and Knowledge Graphs for Question Answering](https://arxiv.org/abs/2104.06378)
