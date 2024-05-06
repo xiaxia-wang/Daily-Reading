@@ -7,6 +7,18 @@
 
 
 
+
+*2024-05-06*
+
+#### [Tracr: Compiled Transformers as a Laboratory for Interpretability](https://openreview.net/forum?id=tbbId8u7nP)
+
+*David Lindner, Janos Kramar, Sebastian Farquhar, Matthew Rahtz, Thomas McGrath, Vladimir Mikulik*
+
+*NeurIPS 2023*
+
+The “Restricted Access Sequence Processing Language” (RASP) is a human-readable computational model for transformer models introduced by Weiss et al. (2021). It is a sequence processing language with two types of variables, sequence operations (s-ops) and selectors, and two types of instructions, elementwise and select-aggregate transformations. This paper introduces Tracr, which “compiles” RASP programs into transformer models.
+
+
 *2024-01-10*
 
 #### [Unified Named Entity Recognition as Word-Word Relation Classification](https://aaai-2022.virtualchair.net/poster_aaai742)
