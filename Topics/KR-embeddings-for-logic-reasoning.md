@@ -3,6 +3,18 @@
 
 
 
+
+*2024-05-07*
+
+#### [Prompt-fused framework for Inductive Logical Query Answering](https://arxiv.org/abs/2403.12646)
+
+*Zezhong Xu, Peng Ye, Lei Liang, Huajun Chen, Wen Zhang*
+
+*COLING 2024*
+
+This paper proposes an embedding-based model for inductive QA task that involves emergence of new entities. It considers the query embeddings and addresses the embedding of emerging entities through contextual information aggregation.
+
+
 *2024-03-05*
 
 #### [On the Markov Property of Neural Algorithmic Reasoning: Analyses and Methods](https://openreview.net/forum?id=Kn7tWhuetn)
