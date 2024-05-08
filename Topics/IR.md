@@ -8,6 +8,18 @@
 
 
 
+
+*2024-05-08*
+
+#### [From Matching to Generation: A Survey on Generative Information Retrieval](https://arxiv.org/abs/2404.14851)
+
+*Xiaoxi Li, Jiajie Jin, Yujia Zhou, Yuyao Zhang, Peitian Zhang, Yutao Zhu, Zhicheng Dou*
+
+*Arxiv 2024*
+
+Currently, research in generative information retrieval (GenIR) can be categorized into two directions: generative document retrieval (GR) and reliable response generation. This survey paper summarizes the advancements in GR regarding model training, document identifier, incremental learning, downstream tasks adaptation, multi-modal GR and generative recommendation, as well as progress in reliable response generation in aspects of internal knowledge memorization, external knowledge augmentation, generating response with citations and personal information assistant. It also discusses the evaluation, challenges and future prospects in GenIR systems.
+
+
 *2024-04-20*
 
 #### [Stream of Search (SoS): Learning to Search in Language](https://arxiv.org/abs/2404.03683)
