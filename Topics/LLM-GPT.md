@@ -16,6 +16,18 @@
 
 
 
+
+*2024-05-09*
+
+#### [Testing the General Deductive Reasoning Capacity of Large Language Models Using OOD Examples](https://papers.nips.cc/paper_files/paper/2023/hash/09425891e393e64b0535194a81ba15b7-Abstract-Conference.html)
+
+*Abulhair Saparov, Richard Yuanzhe Pang, Vishakh Padmakumar, Nitish Joshi, Mehran Kazemi, Najoung Kim, He He*
+
+*NeurIPS 2023*
+
+This paper investigates the deductive reasoning ability of LLMs over OOD CoT prompts, in terms of depth-, width-, and compositional generalization. The findings suggest that in-context learning is best applied to reasoning tasks by including examples that cover a diverse set of deduction rules, and keeping the examples simple. The in-context examples should especially contain examples of deduction rules that are less familiar to the model (i.e. proof by cases and proof by contradiction), and distractors should be provided for such examples as the model is more prone to overfitting.
+
+
 *2024-05-05*
 
 #### [Generate-on-Graph: Treat LLM as both Agent and KG in Incomplete Knowledge Graph Question Answering](https://arxiv.org/abs/2404.14741)
