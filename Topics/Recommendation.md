@@ -11,6 +11,18 @@
 
 
 
+
+*2024-05-10*
+
+#### [REASONER: An Explainable Recommendation Dataset with Comprehensive Labeling Ground Truths](https://papers.nips.cc/paper_files/paper/2023/hash/2ebf43d20e5933ab6d98225bbb908ade-Abstract-Datasets_and_Benchmarks.html)
+
+*Xu Chen, Jingsen Zhang, Lei Wang, Quanyu Dai, Zhenhua Dong, Ruiming Tang, Rui Zhang, Li Chen, Xin Zhao, Ji-Rong Wen*
+
+*NeurIPS 2023*
+
+This paper proposes a dataset for explainable recommendation that includes a large amount of real user labeled multi-modal and multi-aspect explanation ground truths. Specifically, the authors firstly develop a video recommendation platform, where a series of questions around the recommendation explainability are designed. Then they recruit about 3,000 human labelers with different backgrounds to use the system, and collect their behaviors and feedback to the questions.
+
+
 *2024-04-30*
 
 #### [SIGformer: Sign-aware Graph Transformer for Recommendation](https://arxiv.org/abs/2404.11982)
