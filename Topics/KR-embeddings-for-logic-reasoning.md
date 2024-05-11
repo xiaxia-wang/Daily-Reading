@@ -4,6 +4,18 @@
 
 
 
+
+*2024-05-11*
+
+#### [Differentiable Neuro-Symbolic Reasoning on Large-Scale Knowledge Graphs](https://papers.nips.cc/paper_files/paper/2023/hash/5965f3a748a8d41415db2bfa44635cc3-Abstract-Conference.html)
+
+*Shengyuan Chen, Yunfeng Cai, Huang Fang, Xiao Huang, Mingming Sun*
+
+*NeurIPS 2023*
+
+This paper proposes a link prediction model based on continuous Markov Logic Network. The model has three components: (1) a grounding module as a filter to identify crucial ground formulas and extract triples connected to them; (2) a KG-embedding model to compute truth scores for the extracted triples; and (3) a tailored continuous MLN framework that takes the truth scores as input and assesses the overall probability. It is optimized using an EM algorithm, alternating between embedding optimization and weight updating. During the E-step, the rule weights are fixed and embeddings are optimized in an end-to-end fashion by maximizing the overall probability. In the M-step, the rule weights are updated by leveraging the sparsity of violated rules. Note that the model requires a set of rules from certain rule-mining process or domain experts.
+
+
 *2024-05-07*
 
 #### [Prompt-fused framework for Inductive Logical Query Answering](https://arxiv.org/abs/2403.12646)
