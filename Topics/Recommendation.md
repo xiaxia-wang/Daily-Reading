@@ -7,9 +7,15 @@
 
 
 
+*2024-05-12*
 
+#### [Wyze Rule: Federated Rule Dataset for Rule Recommendation Benchmarking](https://papers.nips.cc/paper_files/paper/2023/hash/02b9d1e6d1b5295a6f883969ddc1bbbd-Abstract-Datasets_and_Benchmarks.html)
 
+*Mohammad Mahdi Kamani, Yuhang Yao, Hanjia Lyu, Zhongwei Cheng, Lin Chen, Liangju Li, Carlee Joe-Wong, Jiebo Luo*
 
+*NeurIPS 2023*
+
+Rules are an essential component for smart home automation and IoT devices. To provide a resource for developing and evaluating intelligent smart home rule recommendations, this paper proposes a large-scale dataset designed specifically for smart home rule recommendation research. To establish a usable benchmark for comparison and evaluation, several baselines are also implemented in both centralized and federated settings.
 
 
 *2024-05-10*
