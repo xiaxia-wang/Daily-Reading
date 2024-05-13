@@ -10,6 +10,18 @@
 
 
 
+
+*2024-05-13*
+
+#### [Synthcity: a benchmark framework for diverse use cases of tabular synthetic data](https://papers.nips.cc/paper_files/paper/2023/hash/09723c9f291f6056fd1885081859c186-Abstract-Datasets_and_Benchmarks.html)
+
+*Zhaozhi Qian, Rob Davis, Mihaela van der Schaar*
+
+*NeurIPS 2023*
+
+This work proposes Synthcity, an open-source Python library for one-click benchmarking of synthetic data generators across data modalities and use cases. It provides evaluation metrics for assessing dataset fidelity, privacy, and utility. With a wide array of generators and customizable architectures, users can perform consistent comparisons with existing models, gaining insights into performance improvements.
+
+
 *2024-03-14*
 
 #### [DyVal: Graph-informed Dynamic Evaluation of Large Language Models](https://openreview.net/forum?id=gjfOL9z5Xr)
