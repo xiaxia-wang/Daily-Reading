@@ -5,6 +5,18 @@
 
 
 
+
+*2024-05-14*
+
+#### [Learning Rule-Induced Subgraph Representations for Inductive Relation Prediction](https://papers.nips.cc/paper_files/paper/2023/hash/0b06c8673ebb453e5e468f7743d8f54e-Abstract-Conference.html)
+
+*Tianyu Liu, Qitan Lv, Jie Wang, Shuling Yang, Hanzhu Chen*
+
+*NeurIPS 2023*
+
+This paper proposes an inductive link prediction model, with a single-source initialization approach to assign a nonzero initial embedding for the target link according to its relation and zero embeddings for other links. It also proposes several RNN-based functions for edge-wise message passing to model the sequential property of mined rules, and uses the representation of the target link as the final subgraph representation.
+
+
 *2024-05-11*
 
 #### [Differentiable Neuro-Symbolic Reasoning on Large-Scale Knowledge Graphs](https://papers.nips.cc/paper_files/paper/2023/hash/5965f3a748a8d41415db2bfa44635cc3-Abstract-Conference.html)
