@@ -19,6 +19,18 @@
 
 
 
+
+*2024-05-15*
+
+#### [SAME: Uncovering GNN Black Box with Structure-aware Shapley-based Multipiece Explanations](https://papers.nips.cc/paper_files/paper/2023/hash/14cdc9013d80338bf81483a7736ea05c-Abstract-Conference.html)
+
+*Ziyuan Ye, Rihan Huang, Qilin Wu, Quanying Liu*
+
+*NeurIPS 2023*
+
+This paper proposes a post-hoc explanation framework for GNN models. Specifically, it first leverages an expansion-based Monte Carlo tree search to explore the multi-grained structure-aware connected substructure. Then the explanation results are encouraged to be informative of the graph properties by optimizing the combination of distinct single substructures. The final explanation is possible to be as explainable as the theoretically optimal explanation obtained by the Shapley value within polynomial time. *Note: Shapley value, originating from cooperative game theory, is the unique credit allocation scheme that satisfies the fairness axioms. This concept is similar to the importance scoring function for explanation with the consideration of feature interactions.*
+
+
 *2024-04-27*
 
 #### [On Structural Expressive Power of Graph Transformers](https://dl.acm.org/doi/10.1145/3580305.3599451)
