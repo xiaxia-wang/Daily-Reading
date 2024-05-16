@@ -19,6 +19,18 @@
 
 
 
+
+*2024-05-16*
+
+#### [Zero-shot causal learning](https://papers.nips.cc/paper_files/paper/2023/hash/15ddb1773510075ef44981cdb204330b-Abstract-Conference.html)
+
+*Hamed Nilforoshan, Michael Moor, Yusuf Roohani, Yining Chen, Anja Šurina, Michihiro Yasunaga, Sara Oblak, Jure Leskovec*
+
+*NeurIPS 2023*
+
+This paper proposes a meta-learning framework for predicting how an intervention will causally affect a specific individual under a zero-shot context. It trains a simple MLP-based meta-model across thousands of tasks, each constructed by sampling an intervention, its recipients, and its nonrecipients. By leveraging both intervention information (e.g., a drug’s attributes) and individual features (e.g., a patient’s history), it is able to predict the personalized effects of novel interventions that do not exist at the time of training.
+
+
 *2024-04-24*
 
 #### [ExplainableFold: Understanding AlphaFold Prediction with Explainable AI](https://dl.acm.org/doi/10.1145/3580305.3599337)
