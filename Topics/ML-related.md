@@ -8,16 +8,15 @@
 
 
 
+*2024-05-17*
 
+#### [What Knowledge Gets Distilled in Knowledge Distillation?](https://papers.nips.cc/paper_files/paper/2023/hash/2433fec2144ccf5fea1c9c5ebdbc3924-Abstract-Conference.html)
 
+*Utkarsh Ojha, Yuheng Li, Anirudh Sundara Rajan, Yingyu Liang, Yong Jae Lee*
 
+*NeurIPS 2023*
 
-
-
-
-
-
-
+This paper investigates the process of knowledge distillation with the question: in what ways does the student become similar to the teacher, Does it start to localize objects in the same way? Does it get fooled by the same adversarial samples? Does its data invariance properties become similar? To answer them, it analyzes three popular knowledge distillation methods by (i) mimicking of class probabilities, (ii) mimicking of features at an intermediate layer, and (iii) features from the student and teacher for the same image constitute a positive pair, and those from different classes make up a negative pair. Some interesting findings: by simply mimicking the teacher’s output using method (i), the student can inherit many implicit properties of the teacher. It can gain the adversarial vulnerability that the teacher has. If the teacher is invariant to color, the student also improves its invariance to color. To understand why these properties get transferred without an explicit objective to do so, it studies the distillation process through a geometric lens, where the features from a teacher are regarded as relative positions of an instance (i.e., distances) from its decision boundary. Mimicking those features can therefore help the student inherit the decision boundary and (consequently) the implicit properties of the teacher.
 
 
 *2024-05-16*
