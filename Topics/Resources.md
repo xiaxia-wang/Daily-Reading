@@ -11,6 +11,18 @@
 
 
 
+
+*2024-05-18*
+
+#### [Evaluating Graph Neural Networks for Link Prediction: Current Pitfalls and New Benchmarking](https://papers.nips.cc/paper_files/paper/2023/hash/0be50b4590f1c5fdf4c8feddd63c4f67-Abstract-Datasets_and_Benchmarks.html)
+
+*Juanhui Li, Harry Shomer, Haitao Mao, Shenglai Zeng, Yao Ma, Neil Shah, Jiliang Tang, Dawei Yin*
+
+*NeurIPS 2023 - Datasets and Benchmarks Track*
+
+This paper firstly conducts a comparison across prominent GNN models and datasets, utilizing the same dataset and hyperparameter search settings. Then it creates a more practical evaluation setting based on a Heuristic Related Sampling Technique (HeaRT), which samples hard negative samples via multiple heuristics. The new evaluation setting helps promote new challenges and opportunities in link prediction by aligning the evaluation with real-world situations.
+
+
 *2024-05-13*
 
 #### [Synthcity: a benchmark framework for diverse use cases of tabular synthetic data](https://papers.nips.cc/paper_files/paper/2023/hash/09723c9f291f6056fd1885081859c186-Abstract-Datasets_and_Benchmarks.html)
