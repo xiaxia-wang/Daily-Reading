@@ -9,6 +9,18 @@
 
 
 
+
+*2024-05-19*
+
+#### [Structure-free Graph Condensation: From Large-scale Graphs to Condensed Graph-free Data](https://papers.nips.cc/paper_files/paper/2023/hash/13183a224208671a6fc33ba1aa661ec4-Abstract-Conference.html)
+
+*Xin Zheng, Miao Zhang, Chunyang Chen, Quoc Viet Hung Nguyen, Xingquan Zhu, Shirui Pan*
+
+*NeurIPS 2023*
+
+Unlike typical graph condensation approaches jointly optimize node representations, topological structure, and GNN parameters, this paper proposes a condensation framework that distills the original large-scale graph into a graph-free data form. The model contains two parts, (1) a **training trajectory meta-matching** scheme for effectively synthesizing small-scale graph-free data; (2) a graph neural feature score metric for dynamically evaluating the quality of the condensed data. Through training trajectory meta matching, it aligns the long-term GNN learning behaviors between the large-scale graph and the condensed small-scale graph-free data. Then the underlying condensed graph-free data would be dynamically evaluated with the graph neural feature score.
+
+
 *2024-03-23*
 
 #### [A Survey on Neural Data-to-Text Generation](https://ieeexplore.ieee.org/document/10215344)
