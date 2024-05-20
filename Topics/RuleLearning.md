@@ -10,6 +10,18 @@
 
 
 
+
+*2024-05-20*
+
+#### [Learning Reliable Logical Rules with SATNet](https://papers.nips.cc/paper_files/paper/2023/hash/2ff46d83d1dcc063e075058b29d55efe-Abstract-Conference.html)
+
+*Zhaoyu Li, Jinpei Guo, Yuhe Jiang, Xujie Si*
+
+*NeurIPS 2023*
+
+SATNet is a differentiable MaxSAT solver based on a low-rank semidefinite programming (SDP) approach that utilizes a learnable matrix $S$ to capture the underlying structure of logical rules and dynamically adjusts its weight from input-output examples. To interpret the weights learned by the SATNet model, this paper proposes a maximum equality approach to extract a set of propositional logical rules in weighted MaxSAT form from the learned weights of SATNet.
+
+
 *2024-04-22*
 
 #### [Fire: An Optimization Approach for Fast Interpretable Rule Extraction](https://dl.acm.org/doi/10.1145/3580305.3599353)
