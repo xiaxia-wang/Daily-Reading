@@ -20,6 +20,18 @@
 
 
 
+
+*2024-05-21*
+
+#### [Rethinking and Extending the Probabilistic Inference Capacity of GNNs](https://openreview.net/forum?id=7vVWiCrFnd)
+
+*Tuo Xu, Lei Zou*
+
+*ICLR 2024*
+
+Different from the WL-test, this paper adopts an approach to examine the expressive power of GNNs from a probabilistic perspective. Specifically, it formulates GNN models as a family of Markov random fields that are applicable to different graph structures and invariant to permutations. Then it investigates the problem of to what extent can GNNs approximate the inference of graphical models.
+
+
 *2024-05-15*
 
 #### [SAME: Uncovering GNN Black Box with Structure-aware Shapley-based Multipiece Explanations](https://papers.nips.cc/paper_files/paper/2023/hash/14cdc9013d80338bf81483a7736ea05c-Abstract-Conference.html)
