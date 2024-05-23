@@ -8,6 +8,18 @@
 
 
 
+
+*2024-05-23*
+
+#### [Scalable Monotonic Neural Networks](https://openreview.net/forum?id=DjIsNDEOYX)
+
+*Hyunho Kim, Jong-Seok Lee*
+
+*ICLR 2024*
+
+This paper proposes an MLP-based general monotonic (w.r.t., the input) neural network model, and shows its effectiveness is close to the SOTA.
+
+
 *2024-05-17*
 
 #### [What Knowledge Gets Distilled in Knowledge Distillation?](https://papers.nips.cc/paper_files/paper/2023/hash/2433fec2144ccf5fea1c9c5ebdbc3924-Abstract-Conference.html)
