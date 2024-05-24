@@ -6,6 +6,18 @@
 
 
 
+
+*2024-05-24*
+
+#### [Expressivity of ReLU-Networks under Convex Relaxations](https://openreview.net/forum?id=awHTL3Hpto)
+
+*Maximilian Baader, Mark Niklas Mueller, Yuhao Mao, Martin Vechev*
+
+*ICLR 2024*
+
+This paper studies the expressive power of finite ReLU neural networks by considering their various convex relaxations. It measures the networks ability to represent continuous piecewise linear (CPWL) functions.
+
+
 *2024-05-22*
 
 #### [REFACTOR: Learning to Extract Theorems from Proofs](https://openreview.net/forum?id=fgKjiVrm6u)
