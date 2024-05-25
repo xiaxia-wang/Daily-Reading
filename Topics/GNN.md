@@ -21,6 +21,18 @@
 
 
 
+
+*2024-05-25*
+
+#### [From Graphs to Hypergraphs: Hypergraph Projection and its Reconstruction](https://openreview.net/forum?id=qwYKE3VB2h)
+
+*Yanbang Wang, Jon Kleinberg*
+
+*ICLR 2024*
+
+This work proposes a ML-based hypergraph reconstruction approach that recovers the original hypergraph from its projected simple graph (via clique-expansion). The reason to use learning-based approach is that accurate reconstruction is beyond reach with structural information loss in the projection process.
+
+
 *2024-05-21*
 
 #### [Rethinking and Extending the Probabilistic Inference Capacity of GNNs](https://openreview.net/forum?id=7vVWiCrFnd)
