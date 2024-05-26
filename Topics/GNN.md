@@ -22,6 +22,18 @@
 
 
 
+
+*2024-05-26*
+
+#### [Polynormer: Polynomial-Expressive Graph Transformer in Linear Time](https://openreview.net/forum?id=hmv1LpNfXa)
+
+*Chenhui Deng, Zichao Yue, Zhiru Zhang*
+
+*ICLR 2024*
+
+This paper proposes a polynomial-expressive graph transformer model with linear complexity, which is built upon a base model that learns a high-degree polynomial on input features. To enable the base model permutation equivariant, the graph topology and node features are separately integerated, resulting in local and global equivariant attention models. Consequently, it adopts a linear local-to-global attention scheme to learn high-degree equivariant polynomials whose coefficients are controlled by attention scores.
+
+
 *2024-05-25*
 
 #### [From Graphs to Hypergraphs: Hypergraph Projection and its Reconstruction](https://openreview.net/forum?id=qwYKE3VB2h)
