@@ -11,6 +11,18 @@
 
 
 
+
+*2024-05-27*
+
+#### [Abstractors and relational cross-attention: An inductive bias for explicit relational reasoning in Transformers](https://openreview.net/forum?id=XNa6r6ZjoB)
+
+*Awni Altabaa, Taylor Whittington Webb, Jonathan D. Cohen, John Lafferty*
+
+*ICLR 2024*
+
+This paper proposes a Transformer-based approach to simulate binary relations between objects. It applies a variant of attention named relational cross-attention, which is motivated by an architectural inductive bias for relational learning that disentangles relational information from object-level features.
+
+
 *2024-05-20*
 
 #### [Learning Reliable Logical Rules with SATNet](https://papers.nips.cc/paper_files/paper/2023/hash/2ff46d83d1dcc063e075058b29d55efe-Abstract-Conference.html)
