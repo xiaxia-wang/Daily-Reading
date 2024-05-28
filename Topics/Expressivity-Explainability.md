@@ -7,6 +7,18 @@
 
 
 
+
+*2024-05-28*
+
+#### [Reasoning on Graphs: Faithful and Interpretable Large Language Model Reasoning](https://openreview.net/forum?id=ZGNWW7xZ6Q)
+
+*LINHAO LUO, Yuan-Fang Li, Reza Haf, Shirui Pan*
+
+*ICLR 2024*
+
+To enhance LLMs' reasoning trustfulness, this paper proposes a collaboration approach between an LLM and a KG. Specifically, it presents a planning-retrieval-reasoning framework, where relation paths grounded by the KG are firstly generated as 'plans' by optimizing a maximal probability target. Then the plans are used to retrieve reasoning paths from the KG, which are afterwards used by the LLM to conduct reasoning.
+
+
 *2024-05-24*
 
 #### [Expressivity of ReLU-Networks under Convex Relaxations](https://openreview.net/forum?id=awHTL3Hpto)
