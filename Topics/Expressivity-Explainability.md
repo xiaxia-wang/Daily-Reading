@@ -8,6 +8,18 @@
 
 
 
+
+*2024-05-29*
+
+#### [A Multimodal Automated Interpretability Agent](https://arxiv.org/abs/2404.14394)
+
+*Tamar Rott Shaham, Sarah Schwettmann, Franklin Wang, Achyuta Rajaram, Evan Hernandez, Jacob Andreas, Antonio Torralba*
+
+*Arxiv 2024*
+
+This paper describes a multimodal automated interpretability agent that is equipped with a pre-trained vision-language model and a set of tools that support iterative experimentation on subcomponents of other models to explain their behavior. Not truly "interpretable" though.
+
+
 *2024-05-28*
 
 #### [Reasoning on Graphs: Faithful and Interpretable Large Language Model Reasoning](https://openreview.net/forum?id=ZGNWW7xZ6Q)
