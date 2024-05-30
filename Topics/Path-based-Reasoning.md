@@ -8,6 +8,18 @@
 
 
 
+
+*2024-05-30*
+
+#### [Towards Foundation Models for Knowledge Graph Reasoning](https://openreview.net/forum?id=jVEoydFOl9)
+
+*Mikhail Galkin, Xinyu Yuan, Hesham Mostafa, Jian Tang, Zhaocheng Zhu*
+
+*ICLR 2024*
+
+This paper proposes an approach for learning universal and transferable (knowledge) graph representations. Specifically, it builds **relational representations** as a function conditioned on their interactions. Such a conditioning strategy allows a pre-trained model to inductively generalize to any unseen KG with any relation vocabulary and to be fine-tuned on any graph.
+
+
 *2024-02-13*
 
 #### [Understanding the Reasoning Ability of Language Models From the Perspective of Reasoning Paths Aggregation](https://arxiv.org/abs/2402.03268)
