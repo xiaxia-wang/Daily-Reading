@@ -9,6 +9,18 @@
 
 
 
+
+*2024-05-31*
+
+#### [Faithful Explanations of Black-box NLP Models Using LLM-generated Counterfactuals](https://openreview.net/forum?id=UMfcdRIotC)
+
+*Yair Ori Gat, Nitay Calderon, Amir Feder, Alexander Chapanin, Amit Sharma, Roi Reichart*
+
+*ICLR 2024*
+
+To obtain explanation for predictions over causal graphs with order-faithfulness, this paper first proposes counterfactual generation as an approach, by prompting an LLM to change a specific text concept while keeping confounding concepts unchanged. As this approach is too costly for inference-time, it also presents a second matching-based method guided by an LLM at training-time and learns a dedicated embedding space.
+
+
 *2024-05-29*
 
 #### [A Multimodal Automated Interpretability Agent](https://arxiv.org/abs/2404.14394)
