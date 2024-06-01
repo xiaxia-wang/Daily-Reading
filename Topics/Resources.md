@@ -12,6 +12,18 @@
 
 
 
+
+*2024-06-01*
+
+#### [A Benchmark for Learning to Translate a New Language from One Grammar Book](https://openreview.net/forum?id=tbVWug9f2h)
+
+*Garrett Tanzer, Mirac Suzgun, Eline Visser, Dan Jurafsky, Luke Melas-Kyriazi*
+
+*ICLR 2024*
+
+To evaluate the ability of LLMs to adapt to genuinely new tasks, given there are rarely unseen information beyond the internet-scale training sets, this paper explores low-resource languages as a scarcity of web data by presenting a machine translation benchmark based on several hundred pages of field linguistics reference materials. The results demonstrate that baselines using current LLMs are promising but fall short of human performance, which motivates further improvement on machine translation.
+
+
 *2024-05-18*
 
 #### [Evaluating Graph Neural Networks for Link Prediction: Current Pitfalls and New Benchmarking](https://papers.nips.cc/paper_files/paper/2023/hash/0be50b4590f1c5fdf4c8feddd63c4f67-Abstract-Datasets_and_Benchmarks.html)
