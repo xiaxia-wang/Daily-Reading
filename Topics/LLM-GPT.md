@@ -17,6 +17,18 @@
 
 
 
+
+*2024-06-02*
+
+#### [What does the Knowledge Neuron Thesis Have to do with Knowledge?](https://openreview.net/forum?id=2HJRwwbV3G)
+
+*Jingcheng Niu, Andrew Liu, Zining Zhu, Gerald Penn*
+
+*ICLR 2024*
+
+This paper examines the “knowledge neuron” hypothesis of LLMs that factual knowledge can be localized to a small number of neurons, and that ablation of those neurons alters the probability of, and/or the final chosen output token. It further extends knowledge to include formal knowledge, and similarly finds small number of neurons that can be ablated to suppress their respective represented knowledge, particularly distributed throughout the later layers. However, through previous and additionally proposed metrics, in particular emphasizing bi-directionality and synonym-agnosticism, the authors argue that the discovered knowledge neurons cannot be considered to contain anything like “knowledge”, but simply conserve token correlations found in the training text.
+
+
 *2024-05-09*
 
 #### [Testing the General Deductive Reasoning Capacity of Large Language Models Using OOD Examples](https://papers.nips.cc/paper_files/paper/2023/hash/09425891e393e64b0535194a81ba15b7-Abstract-Conference.html)
