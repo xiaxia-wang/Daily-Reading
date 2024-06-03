@@ -10,6 +10,18 @@
 
 
 
+
+*2024-06-03*
+
+#### [Logical Languages Accepted by Transformer Encoders with Hard Attention](https://openreview.net/forum?id=gbrHZq07mq)
+
+*Pablo Barcelo, Alexander Kozachinskiy, Anthony Widjaja Lin, Vladimir Podolskii*
+
+*ICLR 2024*
+
+This paper investigates the formal languages that can be recognized by (1) Unique Hard Attention Transformers (UHAT) and (2) Average Hard Attention Transformers (AHAT). It obtains a characterization of which counting properties are expressible by UHAT and AHAT, in relation to regular languages.
+
+
 *2024-05-31*
 
 #### [Faithful Explanations of Black-box NLP Models Using LLM-generated Counterfactuals](https://openreview.net/forum?id=UMfcdRIotC)
