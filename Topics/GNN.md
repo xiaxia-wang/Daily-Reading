@@ -15,12 +15,15 @@
 
 
 
+*2024-06-04*
 
+#### [Counting Graph Substructures with Graph Neural Networks](https://openreview.net/forum?id=qaJxPhkYtD)
 
+*Charilaos Kanatsoulis, Alejandro Ribeiro*
 
+*ICLR 2024*
 
-
-
+This paper studies the substructure counting ability of a type of message-passing networks, where node features are randomly initialized and the output representation is obtained by taking expectation over the randomness. Based on these representations, it proves that GNNs can learn how to count cycles, cliques, quasi-cliques, and the number of connected components in a graph.
 
 
 *2024-05-26*
