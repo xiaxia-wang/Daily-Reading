@@ -15,6 +15,18 @@
 
 
 
+
+*2024-06-05*
+
+#### [Efficient Subgraph GNNs by Learning Effective Selection Policies](https://openreview.net/forum?id=gppLqZLQeY)
+
+*Beatrice Bevilacqua, Moshe Eliasof, Eli Meirom, Bruno Ribeiro, Haggai Maron*
+
+*ICLR 2024*
+
+Subgraph GNNs are provably expressive neural architectures that learn graph representations from sets of subgraphs, despite the high computational complexity associated with message passing on many subgraphs. This paper studies the problem of selecting a small subset of subgraphs in a data-driven fashion. It first proves that there are families of WL-indistinguishable graphs for which there exist efficient subgraph selection policies: small subsets of subgraphs can already identify all the graphs within the family. Then it proposes an approach for learning how to select subgraphs in an iterative manner.
+
+
 *2024-06-04*
 
 #### [Counting Graph Substructures with Graph Neural Networks](https://openreview.net/forum?id=qaJxPhkYtD)
