@@ -9,6 +9,18 @@
 
 
 
+
+*2024-06-06*
+
+#### [Goodhart's Law in Reinforcement Learning](https://openreview.net/forum?id=5o9G4XF1LI)
+
+*Jacek Karwowski, Oliver Hayman, Xingjian Bai, Klaus Kiendlhofer, Charlie Griffin, Joar Max Viktor Skalse*
+
+*ICLR 2024*
+
+Given that the reward function in practice is usually a proxy for the real objective, *Goodhart’s law* tells that increasing optimisation of an imperfect proxy beyond some critical point decreases performance on the real objective. This paper first empirically demonstrates that the Goodhart's law occurs in Markov decision processes, and provides a geometric explanation. Then, based on these theoretical insights, it proposes an optimal early stopping strategy that provably avoids the pitfall with theoretical regret bounds.
+
+
 *2024-05-23*
 
 #### [Scalable Monotonic Neural Networks](https://openreview.net/forum?id=DjIsNDEOYX)
