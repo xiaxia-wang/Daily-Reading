@@ -5,6 +5,18 @@
 
 
 
+
+*2024-06-08*
+
+#### [Lie Group Decompositions for Equivariant Neural Networks](https://openreview.net/forum?id=p34fRKp8qA)
+
+*Mircea Mironenco, Patrick Forré*
+
+*ICLR 2024*
+
+Existing works incorporating invariance and equivariance to geometrical transformations usually focus on the case where the symmetry group employed is compact or abelian or both. This paper explores enlarged transformation groups principally through the use of Lie algebra. Specifically, it presents a framework by which it is possible to work with Lie groups 𝐺=GL+(𝑛,𝑅) and 𝐺=SL(𝑛,𝑅), as well as their representation as affine transformations 𝑅𝑛⋊𝐺. Invariant integration as well as a global parametrization is realized by decomposing the "larger" groups into subgroups and submanifolds which can be handled individually.
+
+
 *2024-06-07*
 
 #### [GNNBoundary: Towards Explaining Graph Neural Networks through the Lens of Decision Boundaries](https://openreview.net/forum?id=WIzzXCVYiH)
