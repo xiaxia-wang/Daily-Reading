@@ -6,6 +6,18 @@
 
 
 
+
+*2024-06-09*
+
+#### [Quantifying Network Similarity using Graph Cumulants](https://arxiv.org/abs/2107.11403)
+
+*Gecia Bravo-Hermsdorff, Lee M. Gunderson, Pierre-André Maugis, Carey E. Priebe*
+
+*JMLR 2023*
+
+To test whether networks are sampled from the same distribution, this paper evaluates two statistical metrics based on subgraph counts. The first uses empirical subgraph densities to estimate the underlying distribution, and the second converts these subgraph densities into estimates of the **graph cumulants** of the distribution. It demonstrates (theoretically and empirically) the superior performance of the graph cumulants.
+
+
 *2024-06-08*
 
 #### [Lie Group Decompositions for Equivariant Neural Networks](https://openreview.net/forum?id=p34fRKp8qA)
