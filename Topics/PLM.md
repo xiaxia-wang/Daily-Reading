@@ -3,20 +3,15 @@
 
 
 
+*2024-06-10*
 
+#### [Successor Heads: Recurring, Interpretable Attention Heads In The Wild](https://openreview.net/forum?id=kvcbV8KQsi)
 
+*Rhys Gould, Euan Ong, George Ogden, Arthur Conmy*
 
+*ICLR 2024*
 
-
-
-
-
-
-
-
-
-
-
+This paper presents empirical findings of the successor heads (essentially attention heads that capture the "increment" relationship in some natural ordering) in LLMs based on extensive experiments, which is interesting and gives insights to understand LLMs better through mechanical interpretability.
 
 
 *2024-04-29*
