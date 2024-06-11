@@ -11,6 +11,18 @@
 
 
 
+
+*2024-06-11*
+
+#### [Understanding Expressivity of GNN in Rule Learning](https://openreview.net/forum?id=43cYe4oogi)
+
+*Haiquan Qiu, Yongqi Zhang, Yong Li, quanming yao*
+
+*ICLR 2024*
+
+This paper investigates the form of FOL rule structures that can be captured by a GNN model (but not in the reversed order, i.e., all possible rules that can be captured), which can be viewed as a lower bound of expressivity of certain types of GNNs. Besides, it proposes another GNN model that is proved to be able to capture more rule structures.
+
+
 *2024-06-03*
 
 #### [Logical Languages Accepted by Transformer Encoders with Hard Attention](https://openreview.net/forum?id=gbrHZq07mq)
