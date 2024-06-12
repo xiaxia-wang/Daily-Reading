@@ -7,6 +7,18 @@
 
 
 
+
+*2024-06-12*
+
+#### [Learning Large DAGs is Harder than you Think: Many Losses are Minimal for the Wrong DAG](https://openreview.net/forum?id=gwbQ2YwLhD)
+
+*Jonas Seng, Matej Zečević, Devendra Singh Dhami, Kristian Kersting*
+
+*ICLR 2024*
+
+In DAGs, a node corresponds to a random variable and each edge marks a direct statistical dependence between two random variables. The absence of an edge encodes (in)direct independencies between random variables. The paper discusses that the optimization of a data-fitting loss can be misleading to find the DAG structure underlying the data. Basically, a root cause intervenes in the loss through its variance; and the optimization objective can thus prefer considering a root cause with high variance as an effect, than as a root cause.
+
+
 *2024-06-09*
 
 #### [Quantifying Network Similarity using Graph Cumulants](https://arxiv.org/abs/2107.11403)
