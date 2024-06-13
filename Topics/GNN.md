@@ -8,6 +8,18 @@
 
 
 
+
+*2024-06-13*
+
+#### [Graph Metanetworks for Processing Diverse Neural Architectures](https://openreview.net/forum?id=ijK5hyxs0n)
+
+*Derek Lim, Haggai Maron, Marc T. Law, Jonathan Lorraine, James Lucas*
+
+*ICLR 2024*
+
+This is an interesting work that tries to convert typical neural networks into a meta-structure, by taking their weights as inputs, representing them as graphs and using graph neural networks to process them. The main contribution is that of handing a much more diverse set of neural networks, and it shows good flexibility while being able to control the original network outputs by adjusting the corresponding graph meta-network.
+
+
 *2024-06-12*
 
 #### [Learning Large DAGs is Harder than you Think: Many Losses are Minimal for the Wrong DAG](https://openreview.net/forum?id=gwbQ2YwLhD)
