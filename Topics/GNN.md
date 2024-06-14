@@ -9,6 +9,18 @@
 
 
 
+
+*2024-06-14*
+
+#### [Towards Robust Fidelity for Evaluating Explainability of Graph Neural Networks](https://openreview.net/forum?id=up6hr4hIQH)
+
+*Xu Zheng, Farhad Shirani, Tianchun Wang, Wei Cheng, Zhuomin Chen, Haifeng Chen, Hua Wei, Dongsheng Luo*
+
+*ICLR 2024*
+
+An explanation function for GNNs takes a pre-trained GNN along with a graph as input, to produce a "sufficient statistic" subgraph with respect to the graph label in a classification task. A main challenge in studying GNN explainability is to provide fidelity measures that evaluate the performance of these explanation functions. This paper identifies shortcomings of current metrics, attributing them to the out-of-distribution nature of explanation subgraphs. To address the problem, modified fidelity metrics are proposed to transform explanation subgraphs to approximate the underlying data distribution.
+
+
 *2024-06-13*
 
 #### [Graph Metanetworks for Processing Diverse Neural Architectures](https://openreview.net/forum?id=ijK5hyxs0n)
