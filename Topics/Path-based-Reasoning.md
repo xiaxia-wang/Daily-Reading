@@ -9,6 +9,18 @@
 
 
 
+
+*2024-06-15*
+
+#### [Less is More: One-shot Subgraph Reasoning on Large-scale Knowledge Graphs](https://openreview.net/forum?id=QHROe7Mfcb)
+
+*Zhanke Zhou, Yongqi Zhang, Jiangchao Yao, quanming yao, Bo Han*
+
+*ICLR 2024*
+
+This paper proposes a two-stage KG link prediction approach, by firstly extracting a query-dependent subgraph from the large-scale KG with PPR as heuristics, and then conducting link prediction (with existing approaches such as DRUM) on the sampled subgraph to improve the computational efficiency.
+
+
 *2024-05-30*
 
 #### [Towards Foundation Models for Knowledge Graph Reasoning](https://openreview.net/forum?id=jVEoydFOl9)
