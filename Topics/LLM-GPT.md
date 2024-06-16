@@ -5,17 +5,15 @@
 
 
 
+*2024-06-16*
 
+#### [Dense Text Retrieval Based on Pretrained Language Models: A Survey](https://dl.acm.org/doi/10.1145/3637870)
 
+*Wayne Xin Zhao, Jing Liu, Ruiyang Ren, Ji-Rong Wen*
 
+*ACM Transactions on Information Systems*
 
-
-
-
-
-
-
-
+Dense retrieval effectively learns the semantic representations of queries and texts in the latent representation space, and further constructs the semantic matching function between the dense vectors for relevance modeling. This survey paper organizes related works into 4 aspects, namely, architecture, training, indexing and integration. It also maintains a website for updating available papers and resources.
 
 
 *2024-06-02*
