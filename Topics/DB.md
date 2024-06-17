@@ -1,6 +1,19 @@
 
 
 
+
+*2024-06-17*
+
+#### [CHORUS: Foundation Models for Unified Data Discovery and Exploration](https://arxiv.org/abs/2306.09610)
+
+*Moe Kayali, Anton Lykov, Ilias Fountalis, Nikolaos Vasiloglou, Dan Olteanu, Dan Suciu*
+
+*VLDB 2024*
+
+This paper applies foundation models (LLMs) to data discovery and exploration tasks, including table-class
+detection, column-type annotation and join-column prediction. Specifically, it utilizes 6 types of model inputs in the experiments, including instructions, demonstrations, data samples, metadata, task-specific knowledge, and prefixes.
+
+
 *2023-04-11*
 
 #### [Querying Large Language Models with SQL[Vision]](https://arxiv.org/pdf/2304.00472.pdf)
