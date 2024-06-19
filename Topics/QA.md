@@ -6,6 +6,18 @@
 
 
 
+
+*2024-06-19*
+
+#### [Complex Query Answering on Eventuality Knowledge Graph with Implicit Logical Constraints](https://papers.nips.cc/paper_files/paper/2023/hash/6174c67b136621f3f2e4a6b1d3286f6b-Abstract-Conference.html)
+
+*Jiaxin Bai, Xin Liu, Weiqi Wang, Chen Luo, Yangqiu Song*
+
+*NeurIPS 2023*
+
+This paper introduces Complex Eventuality Query Answering (CEQA) that considers the implicit logical constraints over temporal order and occurrence of eventualities. It proposes to use theorem provers for constructing benchmark datasets to ensure the answers satisfy implicit logical constraints. Besides, it also proposes a memory-enhanced query encoding approach to improve the performance of state-of-the-art neural query encoders on the CEQA task.
+
+
 *2024-04-03*
 
 #### [Enhancing Complex Question Answering over Knowledge Graphs through Evidence Pattern Retrieval](https://arxiv.org/abs/2402.02175)
