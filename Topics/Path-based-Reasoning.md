@@ -10,6 +10,18 @@
 
 
 
+
+*2024-06-20*
+
+#### [A*Net: A Scalable Path-based Reasoning Approach for Knowledge Graphs](https://papers.nips.cc/paper_files/paper/2023/hash/b9e98316cb72fee82cc1160da5810abc-Abstract-Conference.html)
+
+*Zhaocheng Zhu, Xinyu Yuan, Michael Galkin, Louis-Pascal A. C. Xhonneux, Ming Zhang, Maxime Gazeau, Jian Tang*
+
+*NeurIPS 2023*
+
+For path-based reasoning, exhaustive search algorithms (e.g., Path-RNN, PathCon) enumerate all paths in exponential time, and Bellman-Ford algorithms (e.g., NeuralLP, DRUM, NBFNet, RED-GNN) compute all paths in polynomial time, but need to propagate through all nodes and edges. To mitigate the problem, this paper proposes A*Net that learns a priority function to select a subset of nodes and edges at each iteration, thus avoiding exploring all nodes and edges.
+
+
 *2024-06-15*
 
 #### [Less is More: One-shot Subgraph Reasoning on Large-scale Knowledge Graphs](https://openreview.net/forum?id=QHROe7Mfcb)
