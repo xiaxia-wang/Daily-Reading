@@ -11,6 +11,18 @@
 
 
 
+
+*2024-06-21*
+
+#### [Temporal Inductive Logic Reasoning over Hypergraphs](https://arxiv.org/abs/2206.05051)
+
+*Yuan Yang, Siheng Xiong, Ali Payani, James C Kerce, Faramarz Fekri*
+
+*IJCAI 2024*
+
+This paper proposes temporal inductive logic reasoning (TILR), an ILP method that reasons on temporal hypergraphs. To enable hypergraph reasoning, it introduces the multi-start random B-walk, a graph traversal method for hypergraphs. By combining it with a path-consistency algorithm, TILR learns logic rules by generalizing from both temporal and relational data.
+
+
 *2024-06-20*
 
 #### [A*Net: A Scalable Path-based Reasoning Approach for Knowledge Graphs](https://papers.nips.cc/paper_files/paper/2023/hash/b9e98316cb72fee82cc1160da5810abc-Abstract-Conference.html)
