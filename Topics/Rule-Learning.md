@@ -12,6 +12,18 @@
 
 
 
+
+*2024-06-22*
+
+#### [Learning big logical rules by joining small rules](https://arxiv.org/abs/2401.16215)
+
+*Céline Hocquette, Andreas Niskanen, Rolf Morel, Matti Järvisalo, Andrew Cropper*
+
+*IJCAI 2024*
+
+This paper focuses on the inductive logic programming task that aims at learning complex rules. Specifically, it introduces an approach that joins smaller rules to make up bigger rules. The approach is implemented in a constraint-driven system with constraint solvers to efficiently join rules.
+
+
 *2024-05-27*
 
 #### [Abstractors and relational cross-attention: An inductive bias for explicit relational reasoning in Transformers](https://openreview.net/forum?id=XNa6r6ZjoB)
