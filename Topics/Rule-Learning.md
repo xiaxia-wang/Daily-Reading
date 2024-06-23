@@ -13,6 +13,18 @@
 
 
 
+
+*2024-06-23*
+
+#### [Learning logic programs by discovering higher-order abstractions](https://arxiv.org/abs/2308.08334)
+
+*Céline Hocquette, Sebastijan Dumančić, Andrew Cropper*
+
+*IJCAI 2024*
+
+This paper studies the higher-order refactoring problem, where the goal is to refactor a logic program by discovering higher-order abstractions such as map, filter, and fold. To achieve this, it encodes the refactoring problem as a constraint optimization problem, and demonstrates the cross-domain transferability of discovered abstractions.
+
+
 *2024-06-22*
 
 #### [Learning big logical rules by joining small rules](https://arxiv.org/abs/2401.16215)
