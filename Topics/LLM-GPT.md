@@ -5,6 +5,18 @@
 
 
 
+
+*2024-06-24*
+
+#### [HippoRAG: Neurobiologically Inspired Long-Term Memory for Large Language Models](https://arxiv.org/abs/2405.14831)
+
+*Bernal Jiménez Gutiérrez, Yiheng Shu, Yu Gu, Michihiro Yasunaga, Yu Su*
+
+*Arxiv 2024*
+
+This paper presents a RAG framework, which first processes perceptual input with an LLM to transform a corpus into a schemaless knowledge graph as index. Given a new query, it identifies the key concepts in the query and runs the Personalized PageRank algorithm on the KG. Then it uses the query concepts as seeds to integrate information across passages for retrieval.
+
+
 *2024-06-16*
 
 #### [Dense Text Retrieval Based on Pretrained Language Models: A Survey](https://dl.acm.org/doi/10.1145/3637870)
