@@ -6,6 +6,18 @@
 
 
 
+
+*2024-06-25*
+
+#### [Grokked Transformers are Implicit Reasoners: A Mechanistic Journey to the Edge of Generalization](https://arxiv.org/abs/2405.15071)
+
+*Boshi Wang, Xiang Yue, Yu Su, Huan Sun*
+
+*Arxiv 2024*
+
+This paper investigates the finding that transformers can learn to reason implicitly, but this skill is only robustly acquired through grokking, i.e., an extended period of training far beyond overfitting. Besides, the transformer fails to systematically generalize for composition, yet succeeds for comparison. This paper conducts a mechanistic study into the model internals throughout grokking, which reveals distinct generalizing circuits across the two tasks that explains the variation.
+
+
 *2024-06-24*
 
 #### [HippoRAG: Neurobiologically Inspired Long-Term Memory for Large Language Models](https://arxiv.org/abs/2405.14831)
