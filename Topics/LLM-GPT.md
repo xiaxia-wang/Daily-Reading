@@ -7,6 +7,18 @@
 
 
 
+
+*2024-06-26*
+
+#### [Scaling and evaluating sparse autoencoders](https://arxiv.org/abs/2406.04093)
+
+*Leo Gao, Tom Dupré la Tour, Henk Tillman, Gabriel Goh, Rajan Troll, Alec Radford, Ilya Sutskever, Jan Leike, Jeffrey Wu*
+
+*Arxiv 2024*
+
+This paper develops a state-of-the-art methodology to reliably train extremely wide and sparse autoencoders with very few dead latents on the activations of any language model. It studies the scaling laws with respect to sparsity, autoencoder size, and language model size by training a 16 million latent autoencoder on GPT-4 residual stream activations.
+
+
 *2024-06-25*
 
 #### [Grokked Transformers are Implicit Reasoners: A Mechanistic Journey to the Edge of Generalization](https://arxiv.org/abs/2405.15071)
