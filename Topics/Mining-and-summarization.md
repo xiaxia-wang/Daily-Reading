@@ -10,6 +10,18 @@
 
 
 
+
+*2024-06-27*
+
+#### [To prompt or not to prompt: Navigating the use of Large Language Models for integrating and modeling heterogeneous data](https://doi.org/10.1016/j.datak.2024.102313)
+
+*Adel Remadi, Karim El Hage, Yasmina Hobeika, Francesca Bugiotti*
+
+*Data & Knowledge Engineering 2024*
+
+This paper investigates the problem of integrating heterogeneous data sources by applying LLMs. It demonstrates LLMs’ capability to effectively extract data from unstructured sources, and further highlights that LLMs can enhance data integration by providing the ability to resolve entities originating from multiple data sources.
+
+
 *2024-05-19*
 
 #### [Structure-free Graph Condensation: From Large-scale Graphs to Condensed Graph-free Data](https://papers.nips.cc/paper_files/paper/2023/hash/13183a224208671a6fc33ba1aa661ec4-Abstract-Conference.html)
