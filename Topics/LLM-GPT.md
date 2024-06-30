@@ -8,6 +8,18 @@
 
 
 
+
+*2024-06-30*
+
+#### [KGLens: A Parameterized Knowledge Graph Solution to Assess What an LLM Does and Doesn't Know](https://arxiv.org/abs/2312.11539)
+
+*Shangshang Zheng, He Bai, Yizhe Zhang, Yi Su, Xiaochuan Niu, Navdeep Jaitly*
+
+*Arxiv 2023*
+
+This paper proposes a framework to evaluate the alignment between KGs and LLMs. Specifically, it includes a graph-guided question generator for converting KGs into natural language, along with a carefully designed sampling strategy based on parameterized KG structure to expedite KG traversal.
+
+
 *2024-06-26*
 
 #### [Scaling and evaluating sparse autoencoders](https://arxiv.org/abs/2406.04093)
