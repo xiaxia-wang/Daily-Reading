@@ -4,6 +4,18 @@
 
 
 
+
+*2024-07-01*
+
+#### [Hypergraph Neural Networks](https://ojs.aaai.org/index.php/AAAI/article/view/4235)
+
+*Yifan Feng, Haoxuan You, Zizhao Zhang, Rongrong Ji, Yue Gao*
+
+*AAAI 2019*
+
+This paper proposes HGNN as a hypergraph neural network for node classification task, and evaluates it on citation network classification and visual object recognition tasks.
+
+
 *2024-06-29*
 
 #### [HyperGCN: A New Method of Training Graph Convolutional Networks on Hypergraphs](https://papers.nips.cc/paper_files/paper/2019/hash/1efa39bcaec6f3900149160693694536-Abstract.html)
