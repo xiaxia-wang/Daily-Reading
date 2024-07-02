@@ -9,6 +9,18 @@
 
 
 
+
+*2024-07-02*
+
+#### [Efficient Tuning and Inference for Large Language Models on Textual Graphs](https://arxiv.org/abs/2401.15569)
+
+*Yun Zhu, Yaoke Wang, Haizhou Shi, Siliang Tang*
+
+*IJCAI 2024*
+
+This paper proposes ENGINE, a parameter- and memory-efficient fine-tuning method for textual graphs with an LLM encoder. The key insight is to combine the LLMs and GNNs through a tunable side structure, which significantly reduces the training complexity without impairing the joint model’s capacity.
+
+
 *2024-06-30*
 
 #### [KGLens: A Parameterized Knowledge Graph Solution to Assess What an LLM Does and Doesn't Know](https://arxiv.org/abs/2312.11539)
