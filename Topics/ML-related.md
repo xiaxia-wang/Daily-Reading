@@ -10,6 +10,18 @@
 
 
 
+
+*2024-07-03*
+
+#### [Hypergraph Self-supervised Learning with Sampling-efficient Signals](https://arxiv.org/abs/2404.11825)
+
+*Fan Li, Xiaoyang Wang, Dawei Cheng, Wenjie Zhang, Ying Zhang, Xuemin Lin*
+
+*IJCAI 2024*
+
+To enhance the performance of contrastive learning over hypergraph with effective negative sampling, this paper proposes a framework with three sampling signals. The pipeline of the framework contains: (1) hypergraph augmentation with node feature and membership masking; (2) joint hypergraph encoding; (3) optimization with 3 self-supervised signals, namely, a node-level canonical correlation analysis (CCA) objective, a group-level CCA objective, and a hierarchical membership-level objective.
+
+
 *2024-06-06*
 
 #### [Goodhart's Law in Reinforcement Learning](https://openreview.net/forum?id=5o9G4XF1LI)
