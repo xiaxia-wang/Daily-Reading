@@ -12,6 +12,18 @@
 
 
 
+
+*2024-07-04*
+
+#### [A Logic for Reasoning About Aggregate-Combine Graph Neural Networks](https://arxiv.org/abs/2405.00205)
+
+*Pierre Nunn, Marco Sälzer, François Schwarzentruber, Nicolas Troquard*
+
+*IJCAI 2024*
+
+This paper proposes a modal logic in which counting modalities appear in linear inequalities, and each formula can be transformed into an equivalent graph neural network. In contrast, a class of GNNs can be transformed into a formula, thus making it more clear about the logical expressiveness of GNNs. It also shows that the satisfiability problem is PSPACE-complete.
+
+
 *2024-06-11*
 
 #### [Understanding Expressivity of GNN in Rule Learning](https://openreview.net/forum?id=43cYe4oogi)
