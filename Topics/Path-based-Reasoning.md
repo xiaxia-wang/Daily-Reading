@@ -12,6 +12,18 @@
 
 
 
+
+*2024-07-05*
+
+#### [Better Together: Enhancing Generative Knowledge Graph Completion with Language Models and Neighborhood Information](https://arxiv.org/abs/2311.01326)
+
+*Alla Chepurova, Aydar Bulatov, Yuri Kuratov, Mikhail Burtsev*
+
+*EMNLP 2023 Findings*
+
+This paper applies a LLM for knowledge graph completion/QA tasks by utilizing the neighboring information of each entity. Specifically, it first translate the triple-form query as (s, r, ?) into a natural language sentence like what holds the relation r with the subject s. Then by iterating over all possible entities as s, it collects the one-hop neighborhood for each entity s, organizes them as a sequence of entities and relations, and then feeds it to a LLM for predicting the result entity.
+
+
 *2024-06-21*
 
 #### [Temporal Inductive Logic Reasoning over Hypergraphs](https://arxiv.org/abs/2206.05051)
