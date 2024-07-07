@@ -7,6 +7,18 @@
 
 
 
+
+*2024-07-07*
+
+#### [Leveraging Pedagogical Theories to Understand Student Learning Process with Graph-based Reasonable Knowledge Tracing](https://arxiv.org/abs/2406.12896)
+
+*Jiajun Cui, Hong Qian, Bo Jiang, Wei Zhang*
+
+*KDD 2024*
+
+Knowledge tracing (KT) focuses on predicting students' performance on given questions to trace their evolving knowledge. This paper utilizes the educational theory and divides the KT process into 3 stages, (1) knowledge retrieval, (2) memory strengthening, and (3) knowledge learning/forgetting. By applying a GNN model over a knowledge concept graph for predicting (binary) answers for anchor questions, the three-stage modeling is recurrent along the student response sequence. After learning/forgetting knowledge in the third stage, the updated knowledge memory is prepared for the first stage to answer the next question.
+
+
 *2024-01-19*
 
 #### [Unified Pretraining for Recommendation via Task Hypergraphs](https://arxiv.org/abs/2310.13286)
