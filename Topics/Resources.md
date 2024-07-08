@@ -13,6 +13,18 @@
 
 
 
+
+*2024-07-08*
+
+#### [Can AI Beat Undergraduates in Entry-level Java Assignments? Benchmarking Large Language Models on JavaBench](https://arxiv.org/abs/2406.12902)
+
+*Jialun Cao, Zhiyong Chen, Jiarong Wu, Shing-chi Cheung, Chang Xu*
+
+*Arxiv 2024*
+
+This paper propose a project-level Java benchmark that exercises OOP features for evaluating LLMs' code generation capabilities. The experimental results show that: (1) Regarding project-level Java programming, LLMs are far behind undergraduate students; (2) Using method signature as prompt context may strike an ideal balance for project-level code generation.
+
+
 *2024-06-01*
 
 #### [A Benchmark for Learning to Translate a New Language from One Grammar Book](https://openreview.net/forum?id=tbVWug9f2h)
