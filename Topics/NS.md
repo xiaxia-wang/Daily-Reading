@@ -5,6 +5,18 @@
 
 
 
+
+*2024-07-09*
+
+#### [Are Logistic Models Really Interpretable?](https://arxiv.org/abs/2406.13427)
+
+*Danial Dervovic, Freddy Lécué, Nicolás Marchesotti, Daniele Magazzeni*
+
+*IJCAI 2024*
+
+This paper first shows via a user study that skilled participants are unable to reliably reproduce the action of small LR models given the trained parameters. Then it proposes a new Linearised Additive model, and argues that LAMs are more interpretable than logistic models for users.
+
+
 *2023-12-24*
 
 #### [LINC: A Neurosymbolic Approach for Logical Reasoning by Combining Language Models with First-Order Logic Provers](https://arxiv.org/pdf/2310.15164.pdf)
