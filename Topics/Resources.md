@@ -14,6 +14,18 @@
 
 
 
+
+*2024-07-10*
+
+#### [Entity linking for English and other languages: a survey](https://doi.org/10.1007/s10115-023-02059-2)
+
+*Imane Guellil, Antonio Garcia-Dominguez, Peter R. Lewis, Shakeel Hussain, Geoffrey Smith*
+
+*Knowledge and Information Systems 2024*
+
+This paper reviews the research literature on named entity linking, including named entity recognition and disambiguation. It also describes 56 resources including 25 tools and 31 corpora, and presents a set of open issues related to entity linking.
+
+
 *2024-07-08*
 
 #### [Can AI Beat Undergraduates in Entry-level Java Assignments? Benchmarking Large Language Models on JavaBench](https://arxiv.org/abs/2406.12902)
