@@ -11,6 +11,18 @@
 
 
 
+
+*2024-07-11*
+
+#### [Generalized Weak Supervision for Neural Information Retrieval](https://dl.acm.org/doi/full/10.1145/3647639)
+
+*Yen-Chieh Lien, Hamed Zamani, Bruce Croft*
+
+*ACM Transactions on Information Systems 2024*
+
+This paper studies the weak supervision models for neural IR, by offering 4 implementations of generalized weak supervision approaches, i.e., self-labeling, cross-labeling, joint cross-and-self labeling, and greedy multi-labeling.
+
+
 *2024-07-03*
 
 #### [Hypergraph Self-supervised Learning with Sampling-efficient Signals](https://arxiv.org/abs/2404.11825)
