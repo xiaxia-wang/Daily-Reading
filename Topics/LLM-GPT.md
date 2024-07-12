@@ -10,6 +10,18 @@
 
 
 
+
+*2024-07-12*
+
+#### [Detoxifying Large Language Models via Knowledge Editing](https://arxiv.org/abs/2403.14472)
+
+*Mengru Wang, Ningyu Zhang, Ziwen Xu, Zekun Xi, Shumin Deng, Yunzhi Yao, Qishen Zhang, Linyi Yang, Jindong Wang, Huajun Chen*
+
+*ACL 2024*
+
+This paper proposes a benchmark of toxic question-answers including 9 categories, in which each category consists of 60 malicious questions, and each question is associated with safe and unsafe answers. Next, it proposes a toxic editing approach by tracing the difference of the model's hidden states with safe and unsafe answers as input. It identifies the next MLP layer of the maximum difference between hidden states as the "toxic region". Then it performs back-propagation using a single training example by freezing the rest of parameters other than the ones in the identified toxic region.
+
+
 *2024-07-02*
 
 #### [Efficient Tuning and Inference for Large Language Models on Textual Graphs](https://arxiv.org/abs/2401.15569)
