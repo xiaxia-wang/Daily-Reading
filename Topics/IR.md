@@ -9,6 +9,18 @@
 
 
 
+
+*2024-07-13*
+
+#### [Retrieval Augmented Zero-Shot Text Classification](https://arxiv.org/abs/2406.15241)
+
+*Tassallah Abdullahi, Ritambhara Singh, Carsten Eickhoff*
+
+*SIGIR 2024*
+
+Zero-shot text learning enables text classifiers to handle unseen classes efficiently, alleviating the need for task-specific training data. A simple approach often relies on comparing embeddings of query text to those of potential classes. To improve the performance without doing extensive training, this paper proposes a training-free knowledge augmentation approach that reformulates queries by retrieving supporting categories from Wikipedia for zero-shot text classification.
+
+
 *2024-05-08*
 
 #### [From Matching to Generation: A Survey on Generative Information Retrieval](https://arxiv.org/abs/2404.14851)
