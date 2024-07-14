@@ -11,6 +11,18 @@
 
 
 
+
+*2024-07-14*
+
+#### [Enhanced Story Comprehension for Large Language Models through Dynamic Document-Based Knowledge Graphs](https://ojs.aaai.org/index.php/AAAI/article/view/21286)
+
+*Berkeley R Andrus, Yeganeh Nasiri, Shilong Cui, Benjamin Cullen, Nancy Fulda*
+
+*AAAI 2022*
+
+This paper proposes a framework for long story comprehension and story-based question answering. Specifically, to mitigate the document length limitation that comes with finite context windows, it first constructs a KG using knowledge extraction tools from the source text, and then searches for the top ranked triples from the KG for augmenting the story comprehension task. Next, the extracted triples are transformed into prompts and fed to the LLM for generating the answers.
+
+
 *2024-07-12*
 
 #### [Detoxifying Large Language Models via Knowledge Editing](https://arxiv.org/abs/2403.14472)
