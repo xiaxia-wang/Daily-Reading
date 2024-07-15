@@ -7,6 +7,18 @@
 
 
 
+
+*2024-07-15*
+
+#### [BeamAggR: Beam Aggregation Reasoning over Multi-source Knowledge for Multi-hop Question Answering](https://arxiv.org/abs/2406.19820)
+
+*Zheng Chu, Jingchang Chen, Qianglong Chen, Haotian Wang, Kun Zhu, Xiyuan Du, Weijiang Yu, Ming Liu, Bing Qin*
+
+*ACL 2024*
+
+This paper proposes a beam-search like framework for multi-hop question answering. Specifically, it first decomposes the natural language questions into tree-shape, where each edge indicates a simple question. Then for each simple question, it aggregates the answers from multiple sources, including close-book generation, web search, wikipedia retrieval, etc., and retains several candidates of answers for the next simple question. In the end, it outputs the candidate with top scores retained in the beam search process.
+
+
 *2024-06-19*
 
 #### [Complex Query Answering on Eventuality Knowledge Graph with Implicit Logical Constraints](https://papers.nips.cc/paper_files/paper/2023/hash/6174c67b136621f3f2e4a6b1d3286f6b-Abstract-Conference.html)
