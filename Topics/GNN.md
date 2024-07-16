@@ -10,6 +10,18 @@
 
 
 
+
+*2024-07-16*
+
+#### [MuGSI: Distilling GNNs with Multi-Granularity Structural Information for Graph Classification](https://arxiv.org/abs/2406.19832)
+
+*Tianjun Yao, Jiaqi Sun, Defu Cao, Kun Zhang, Guangyi Chen*
+
+*TheWebConf 2024*
+
+This paper explores the GNN-to-MLP knowledge distillation (KD) approach for the graph classification task. Compared with typical node-level classification using KD, graph classification suffers from (1) the inherent sparsity of learning signals due to soft labels being generated at the graph level, and (2) the limited expressiveness of student MLPs. To alleviate the problem, it employs a loss function composed of three distinct targets: graph-level distillation, subgraph-level distillation, and node-level distillation.
+
+
 *2024-06-14*
 
 #### [Towards Robust Fidelity for Evaluating Explainability of Graph Neural Networks](https://openreview.net/forum?id=up6hr4hIQH)
