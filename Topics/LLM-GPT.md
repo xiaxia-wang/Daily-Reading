@@ -12,6 +12,18 @@
 
 
 
+
+*2024-07-17*
+
+#### [XL3M: A Training-free Framework for LLM Length Extension Based on Segment-wise Inference](https://arxiv.org/abs/2405.17755)
+
+*Shengnan Wang, Youhui Bai, Lin Zhang, Pingyi Zhou, Shixiong Zhao, Gong Zhang, Sen Wang, Renhai Chen, Hua Xu, Hongwei Sun*
+
+*Arxiv 2024*
+
+This paper proposes XL3M, which means extra-long large language model, to enable the LLMs trained on short sequences to reason extremely long sequence without any further training or fine-tuning. The input context is firstly decomposed into multiple short sub-contexts, where each sub-context contains an independent segment and a common “question” which is a few tokens from the end of the original context. Then it measures the relevance between each segment and the “question”, and constructs a concise key context by splicing all relevant segments in chronological order. The key context is further used instead of the original context to complete the inference task.
+
+
 *2024-07-14*
 
 #### [Enhanced Story Comprehension for Large Language Models through Dynamic Document-Based Knowledge Graphs](https://ojs.aaai.org/index.php/AAAI/article/view/21286)
