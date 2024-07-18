@@ -13,6 +13,18 @@
 
 
 
+
+*2024-07-18*
+
+#### [Least-to-Most Prompting Enables Complex Reasoning in Large Language Models](https://openreview.net/forum?id=WZH7099tgfM)
+
+*Denny Zhou, Nathanael Schärli, Le Hou, Jason Wei, Nathan Scales, Xuezhi Wang, Dale Schuurmans, Claire Cui, Olivier Bousquet, Quoc V Le, Ed H. Chi*
+
+*ICLR 2023*
+
+To improve the performance of chain-of-thought prompting on complex tasks, this paper proposes a framework that first decomposes the complex task into a series of simpler subproblems using a fixed prompting scheme. Then it sequentially solve each subproblem using minimal prompts (e.g., a single example) with answers from previous subproblems until the final answer.
+
+
 *2024-07-17*
 
 #### [XL3M: A Training-free Framework for LLM Length Extension Based on Segment-wise Inference](https://arxiv.org/abs/2405.17755)
