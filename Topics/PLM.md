@@ -3,6 +3,18 @@
 
 
 
+
+*2024-07-19*
+
+#### [It Ain't That Bad: Understanding the Mysterious Performance Drop in OOD Generalization for Generative Transformer Models](https://arxiv.org/abs/2308.08268)
+
+*Xingcheng Xu, Zihao Pan, Haipeng Zhang, Yanqing Yang*
+
+*IJCAI 2024*
+
+This paper investigates the performance drop of LLMs for OOD generalization. Specifically, by training smaller models with similar attention mechanism, the authors discover that the strong in-distribution generalization stems from structured representations. While behind the unsatisfying OOD performance, the models still exhibit clear learned algebraic structures, by mapping unseen OOD inputs to outputs with learned equivalence relations in the in-distribution domain.
+
+
 *2024-06-10*
 
 #### [Successor Heads: Recurring, Interpretable Attention Heads In The Wild](https://openreview.net/forum?id=kvcbV8KQsi)
