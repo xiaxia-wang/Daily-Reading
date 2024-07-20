@@ -11,6 +11,18 @@
 
 
 
+
+*2024-07-20*
+
+#### [A Survey of Data-Efficient Graph Learning](https://arxiv.org/abs/2402.00447)
+
+*Wei Ju, Siyu Yi, Yifan Wang, Qingqing Long, Junyu Luo, Zhiping Xiao, Ming Zhang*
+
+*IJCAI 2024 Survey*
+
+This paper summarizes existing research efforts on Data-Efficient Graph Learning with a taxonomy of three top categories: self-supervised graph learning, semi-supervised graph learning, and few-shot graph learning. Specifically, self-supervised graph learning designs tasks that encourage the model to learn meaningful representations from the graph data itself; semi-supervised graph learning leverages the relationships within the labeled and unlabeled instances to guide the model in learning representations for unlabeled nodes or graphs; few-shot graph learning equips the model with the ability to learn from a few annotated instances and then apply this acquired knowledge to make predictions on new, unseen data.
+
+
 *2024-07-16*
 
 #### [MuGSI: Distilling GNNs with Multi-Granularity Structural Information for Graph Classification](https://arxiv.org/abs/2406.19832)
