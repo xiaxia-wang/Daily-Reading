@@ -14,6 +14,18 @@
 
 
 
+
+*2024-07-21*
+
+#### [A Survey of Graph Meets Large Language Model: Progress and Future Directions](https://arxiv.org/abs/2311.12399)
+
+*Yuhan Li, Zhixun Li, Peisong Wang, Jia Li, Xiangguo Sun, Hong Cheng, Jeffrey Xu Yu*
+
+*IJCAI 2024 Survey*
+
+This paper summarizes existing efforts on LLMs for graph-related tasks. It categorizes existing approaches into 3 kinds, namely, LLM-as-Enhancer generates extra text attributes or features to improve the graph embedding; LLM-as-Predictor applies LLMs more directly for the tasks such as classification, with flatten-based or GNN-based modules to extract structural features; GNN-LLM-Alighment focuses on the embedding spaces of GNNs and LLMs to integrate the graph modality with the text modality.
+
+
 *2024-07-18*
 
 #### [Least-to-Most Prompting Enables Complex Reasoning in Large Language Models](https://openreview.net/forum?id=WZH7099tgfM)
