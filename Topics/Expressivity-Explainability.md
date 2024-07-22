@@ -13,6 +13,18 @@
 
 
 
+
+*2024-07-22*
+
+#### [Building Expressive and Tractable Probabilistic Generative Models: A Review](https://arxiv.org/abs/2402.00759)
+
+*Sahil Sidheekh, Sriraam Natarajan*
+
+*IJCAI 2024 Survey*
+
+A Probabilistic Circuit is a computational graph that compactly encodes a probability distribution via factorizations and mixtures, which consists of three types of nodes - Sums, Products and Leaf Distributions. Each node in the graph computes a non-negative function, which can be interpreted as an unnormalized probability measure over a subset of random variables as the scope of the node. The computational graph is evaluated bottom-up recursively. This paper first introduces the building blocks, properties, learning methodologies and challenges for tractable probabilistic circuits, and then discusses hybrid techniques that merge tractable PCs with deep generative models to achieve the best of both worlds.
+
+
 *2024-07-04*
 
 #### [A Logic for Reasoning About Aggregate-Combine Graph Neural Networks](https://arxiv.org/abs/2405.00205)
