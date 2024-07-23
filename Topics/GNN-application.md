@@ -8,6 +8,18 @@
 
 
 
+
+*2024-07-23*
+
+#### [Graph Neural Networks for Brain Graph Learning: A Survey](https://arxiv.org/abs/2406.02594)
+
+*Xuexiong Luo, Jia Wu, Jian Yang, Shan Xue, Amin Beheshti, Quan Z. Sheng, David McAlpine, Paul Sowman, Alexis Giral, Philip S. Yu*
+
+*IJCAI 2024 Survey*
+
+A novel approach in neuroimaging has emerged that models the human brain as a graph-structured pattern, with different brain regions represented as nodes and functional relationships among these regions as edges. This paper reviews GNN-based approaches for learning brain graph representations. It first introduces the process of brain graph modeling based on common neuroimaging data, and then systematically categorizes current works into static-, dynamic-, and multi-modal brain graphs with their targeted research problems. Also, it summarizes existing available datasets and resources.
+
+
 *2024-07-07*
 
 #### [Leveraging Pedagogical Theories to Understand Student Learning Process with Graph-based Reasonable Knowledge Tracing](https://arxiv.org/abs/2406.12896)
