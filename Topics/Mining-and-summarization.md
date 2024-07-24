@@ -11,6 +11,18 @@
 
 
 
+
+*2024-07-24*
+
+#### [A Comprehensive Survey on Graph Reduction: Sparsification, Coarsening, and Condensation](https://arxiv.org/abs/2402.03358)
+
+*Mohammad Hashemi, Shengbo Gong, Juntong Ni, Wenqi Fan, B. Aditya Prakash, Wei Jin*
+
+*IJCAI 2024 Survey*
+
+This paper reviews existing works for graph reduction (summarization), the process of finding a graph dataset of smaller size while preserving its key information. It categorizes existing works into 3 types. Graph  sparsification selects a subset of existing nodes or edges from the original graph. Graph coarsening produces a graph consisting of supernodes and superedges, with a surjective mapping from the original graph to a coarse graph. Graph condensation produces a synthetic graph that contains learnable lebels, such that a GNN trained on the condensed graph has comparable performance as the original graph.
+
+
 *2024-06-27*
 
 #### [To prompt or not to prompt: Navigating the use of Large Language Models for integrating and modeling heterogeneous data](https://doi.org/10.1016/j.datak.2024.102313)
