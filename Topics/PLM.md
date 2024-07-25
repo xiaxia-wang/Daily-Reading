@@ -4,6 +4,18 @@
 
 
 
+
+*2024-07-25*
+
+#### [Learning In-context Learning for Named Entity Recognition](https://aclanthology.org/2023.acl-long.764/)
+
+*Jiawei Chen, Yaojie Lu, Hongyu Lin, Jie Lou, Wei Jia, Dai Dai, Hua Wu, Boxi Cao, Xianpei Han, Le Sun*
+
+*ACL 2023*
+
+This paper proposes an in-context learning-based NER approach, which effectively injects in-context NER ability into PLMs and recognizes entities of novel types on-the-fly using only a few demonstrative instances.  Specifically, it models the PLM as a meta-function, and a new entity extractor can be implicitly constructed by applying new instruction and demonstrations to the PLM.
+
+
 *2024-07-19*
 
 #### [It Ain't That Bad: Understanding the Mysterious Performance Drop in OOD Generalization for Generative Transformer Models](https://arxiv.org/abs/2308.08268)
