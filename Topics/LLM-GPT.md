@@ -15,6 +15,18 @@
 
 
 
+
+*2024-07-26*
+
+#### [SpikeGPT: Generative Pre-trained Language Model with Spiking Neural Networks](https://arxiv.org/abs/2302.13939)
+
+*Rui-Jie Zhu, Qihang Zhao, Guoqi Li, Jason K. Eshraghian*
+
+*Transactions on Machine Learning Research*
+
+Spiking Neural Networks (SNNs) emerge as an energy-efficient approach to deep learning that leverage sparse and event-driven activations to reduce the computational overhead associated with model inference. While they have become competitive with non-spiking models on many computer vision tasks, SNNs have proven to be more challenging to train. As a result, their performance lags behind modern deep learning, and until now, SNNs have yet to succeed at language generation on large-scale datasets. This paper, inspired by the Receptance Weighted Key Value (RWKV) language model, successfully implements ‘SpikeGPT’, a generative language model with binary, event-driven spiking activation units.
+
+
 *2024-07-21*
 
 #### [A Survey of Graph Meets Large Language Model: Progress and Future Directions](https://arxiv.org/abs/2311.12399)
