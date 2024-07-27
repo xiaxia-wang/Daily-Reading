@@ -4,16 +4,15 @@
 
 
 
+*2024-07-27*
 
+#### [From Supervised to Generative: A Novel Paradigm for Tabular Deep Learning with Large Language Models](https://arxiv.org/abs/2310.07338)
 
+*Xumeng Wen, Han Zhang, Shun Zheng, Wei Xu, Jiang Bian*
 
+*KDD 2024*
 
-
-
-
-
-
-
+This paper introduces Generative Tabular Learning (GTL), a framework for continued pretraining of an LLM on extensive tabular data, transcribed in an instruction-oriented language format and spanning multiple domains. It introduces the pipeline for constructing tabular data in an instruction-oriented language format across various domains, and the detailed optimization process in GTL.
 
 
 *2024-07-26*
