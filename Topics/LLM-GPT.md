@@ -4,6 +4,18 @@
 
 
 
+
+*2024-07-28*
+
+#### [Masked Thought: Simply Masking Partial Reasoning Steps Can Improve Mathematical Reasoning Learning of Language Models](https://arxiv.org/abs/2403.02178)
+
+*Changyu Chen, Xiting Wang, Ting-En Lin, Ang Lv, Yuchuan Wu, Xin Gao, Ji-Rong Wen, Rui Yan, Yongbin Li*
+
+*ACL 2024*
+
+This paper proposes a training approach to improve the LLMs reasoning ability, by randomly masking certain tokens within the chain of thought. When applied to fine-tuning with GSM8K on Llama-2-7B, it achieved a 5% improvement in GSM8K accuracy and a 10% improvement in GSM-IC accuracy over standard supervised fine-tuning with a few codes modified.
+
+
 *2024-07-27*
 
 #### [From Supervised to Generative: A Novel Paradigm for Tabular Deep Learning with Large Language Models](https://arxiv.org/abs/2310.07338)
