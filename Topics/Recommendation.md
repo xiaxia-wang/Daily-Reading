@@ -7,6 +7,18 @@
 
 
 
+
+*2024-07-29*
+
+#### [A Setwise Approach for Effective and Highly Efficient Zero-shot Ranking with Large Language Models](https://dl.acm.org/doi/10.1145/3626772.3657813)
+
+*Shengyao Zhuang, Honglei Zhuang, Bevan Koopman, Guido Zuccon*
+
+*SIGIR 2024*
+
+This paper proposes a LLM-based setwise document ranking approach, which improves the existing listwise ranking approach by applying batch inference of the LLMs to generate ranking scores. Compared with existing pointwise, pairwise and listwise approaches, it improves the efficiency with fewer LLM calls, while also retaining high zero-shot ranking effectiveness.
+
+
 *2024-05-12*
 
 #### [Wyze Rule: Federated Rule Dataset for Rule Recommendation Benchmarking](https://papers.nips.cc/paper_files/paper/2023/hash/02b9d1e6d1b5295a6f883969ddc1bbbd-Abstract-Datasets_and_Benchmarks.html)
