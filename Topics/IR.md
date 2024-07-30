@@ -10,6 +10,18 @@
 
 
 
+
+*2024-07-30*
+
+#### [Large Language Models and Future of Information Retrieval: Opportunities and Challenges](https://dl.acm.org/doi/10.1145/3626772.3657848)
+
+*ChengXiang Zhai*
+
+*SIGIR 2024*
+
+In the era of LLMs, this perspective paper investigates the following questions related to future IR: (1) How can we both exploit the strengths of LLMs and mitigate any risk caused by their weaknesses when applying LLMs to IR? (2) What are the best opportunities for us to apply LLMs to IR, both for improving the current generation search engines and for developing the next-generation search engines? (3) What are the major challenges that we will need to address in the future to fully exploit such opportunities? (4) Given the anticipated growth of LLMs, what will future information retrieval systems look like? Will LLMs eventually replace an IR system?
+
+
 *2024-07-13*
 
 #### [Retrieval Augmented Zero-Shot Text Classification](https://arxiv.org/abs/2406.15241)
