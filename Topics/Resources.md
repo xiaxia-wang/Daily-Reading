@@ -15,6 +15,18 @@
 
 
 
+
+*2024-07-31*
+
+#### [A Large Scale Test Corpus for Semantic Table Search](https://dl.acm.org/doi/abs/10.1145/3626772.3657877)
+
+*Aristotelis Leventidis, Martin Pekár Christensen, Matteo Lissandrini, Laura Di Rocco, Katja Hose, Renée J. Miller*
+
+*SIGIR 2024*
+
+This paper introduces a dataset for query-by-example (i.e., the query itself is a table) semantic table search, which consists of two snapshots of the large-scale Wikipedia tables collection from 2013 and 2019 and two important additions: (1) a page and topic aware ground truth relevance judgment and (2) a large-scale DBpedia entity linking annotation.
+
+
 *2024-07-10*
 
 #### [Entity linking for English and other languages: a survey](https://doi.org/10.1007/s10115-023-02059-2)
