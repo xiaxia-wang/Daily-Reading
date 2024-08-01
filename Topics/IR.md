@@ -11,6 +11,18 @@
 
 
 
+
+*2024-08-01*
+
+#### [Evaluating Retrieval Quality in Retrieval-Augmented Generation](https://dl.acm.org/doi/10.1145/3626772.3657957)
+
+*Alireza Salemi, Hamed Zamani*
+
+*SIGIR 2024 Short*
+
+This paper proposes an approach for evaluating the retrieval quality in RAG systems, where each document in the retrieval list is individually utilized by the large language model within the RAG system. The output generated for each document is then evaluated based on the downstream task ground truth labels. In this manner, the downstream performance for each document serves as its relevance label.
+
+
 *2024-07-30*
 
 #### [Large Language Models and Future of Information Retrieval: Opportunities and Challenges](https://dl.acm.org/doi/10.1145/3626772.3657848)
