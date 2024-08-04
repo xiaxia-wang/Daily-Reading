@@ -12,6 +12,18 @@
 
 
 
+
+*2024-08-02*
+
+#### [Old IR Methods Meet RAG](https://dl.acm.org/doi/abs/10.1145/3626772.3657935)
+
+*Oz Huly, Idan Pogrebinsky, David Carmel, Oren Kurland, Yoelle Maarek*
+
+*SIGIR 2024 Short*
+
+This paper shows that, some traditional sparse retrieval approach, such as BM25, may perform better than recent LLM-based dense retrieval methods. By comparing two LLMs with sparse models, it reveals that a broad set of sparse retrieval methods achieve better results than dense retrieval methods for varying lengths of queries induced from the prompt. This finding calls for further study of classical retrieval methods for RAG.
+
+
 *2024-08-01*
 
 #### [Evaluating Retrieval Quality in Retrieval-Augmented Generation](https://dl.acm.org/doi/10.1145/3626772.3657957)
