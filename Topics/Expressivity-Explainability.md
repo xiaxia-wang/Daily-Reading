@@ -2,16 +2,15 @@
 
 
 
+*2024-08-05*
 
+#### [RAG-Ex: A Generic Framework for Explaining Retrieval Augmented Generation](https://dl.acm.org/doi/10.1145/3626772.3657660)
 
+*Viju Sudhi, Sinchana Ramakanth Bhat, Max Rudat, Roman Teucher*
 
+*SIGIR 2024 Short*
 
-
-
-
-
-
-
+This paper proposes a framework to identify the key information (which could be viewed as `approximate' explanation) for LLMs' generation w.r.t. the input for tasks such as RAG or QA. Specifically, it introduces several perturbation approaches to distort the input, and identify the common part in the input of the cases when the LLM produces the correct answer.
 
 
 *2024-07-22*
