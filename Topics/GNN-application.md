@@ -9,6 +9,18 @@
 
 
 
+
+*2024-08-03*
+
+#### [Graph Reasoning Enhanced Language Models for Text-to-SQL](https://dl.acm.org/doi/10.1145/3626772.3657961)
+
+*Zheng Gong, Ying Sun*
+
+*SIGIR 2024 Short*
+
+Existing Text-to-SQL approaches typically introduce some useful multi-hop structures manually and then incorporate them into graph neural networks by stacking multiple layers, which (1) ignore the difficult-to-identify but meaningful semantics embedded in the multi-hop reasoning path, and (2) are limited by the expressive capability of GNN to capture long-range dependencies among the heterogeneous graph. To address these shortcomings, this paper proposes a graph reasoning enhanced language model, which applies structure encoding to capture the dependencies between node pairs, encompassing one-hop, multi-hop and distance information, subsequently enriched through self-attention for enhanced representational power over GNNs.
+
+
 *2024-07-23*
 
 #### [Graph Neural Networks for Brain Graph Learning: A Survey](https://arxiv.org/abs/2406.02594)
