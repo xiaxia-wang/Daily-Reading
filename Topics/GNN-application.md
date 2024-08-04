@@ -10,6 +10,18 @@
 
 
 
+
+*2024-08-04*
+
+#### [Unifying Graph Retrieval and Prompt Tuning for Graph-Grounded Text Classification](https://dl.acm.org/doi/10.1145/3626772.3657934)
+
+*Le Dai, Yu Yin, Enhong Chen, Hui Xiong*
+
+*SIGIR 2024 Short*
+
+For the document classification task where documents are represented as nodes in a graph, unlike existing approaches typically applying GNN for classification by using the document as context, this paper proposes a prompt tuning based approach that searches on the graph and generates node-based and path-based contexts for document classification.
+
+
 *2024-08-03*
 
 #### [Graph Reasoning Enhanced Language Models for Text-to-SQL](https://dl.acm.org/doi/10.1145/3626772.3657961)
