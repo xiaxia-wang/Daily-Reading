@@ -5,6 +5,18 @@
 
 
 
+
+*2024-08-06*
+
+#### [Knowledgeable Preference Alignment for LLMs in Domain-specific Question Answering](https://arxiv.org/abs/2311.06503)
+
+*Yichi Zhang, Zhuo Chen, Yin Fang, Yanxi Lu, Fangming Li, Wen Zhang, Huajun Chen*
+
+*ACL 2024*
+
+This paper introduces preference alignment for domain-specific QA with LLMs and domain KBs, which aims to ensure that (1) the response from LLM accommodates the user's question, and (2) it utilizes proper external KB as knowledge resource.
+
+
 *2024-07-28*
 
 #### [Masked Thought: Simply Masking Partial Reasoning Steps Can Improve Mathematical Reasoning Learning of Language Models](https://arxiv.org/abs/2403.02178)
