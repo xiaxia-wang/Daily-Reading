@@ -5,6 +5,18 @@
 
 
 
+
+*2024-08-07*
+
+#### [NHP: Neural Hypergraph Link Prediction](https://dl.acm.org/doi/10.1145/3340531.3411870)
+
+*Naganand Yadati, Vikram Nitin, Madhav Nimishakavi, Prateek Yadav, Anand Louis, Partha Talukdar*
+
+*CIKM 2020*
+
+This paper proposes a hypergraph neural network model by extending the GCN model on binary graphs to hypergraphs. It includes two variants for undirected and directed hypergraph link prediction, respectively.
+
+
 *2024-07-01*
 
 #### [Hypergraph Neural Networks](https://ojs.aaai.org/index.php/AAAI/article/view/4235)
