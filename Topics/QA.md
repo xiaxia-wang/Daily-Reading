@@ -8,6 +8,18 @@
 
 
 
+
+*2024-08-09*
+
+#### [AutoAct: Automatic Agent Learning from Scratch for QA via Self-Planning](https://arxiv.org/abs/2401.05268)
+
+*Shuofei Qiao, Ningyu Zhang, Runnan Fang, Yujie Luo, Wangchunshu Zhou, Yuchen Eleanor Jiang, Chengfei Lv, Huajun Chen*
+
+*ACL 2024*
+
+This paper introduces AutoAct, an automatic agent learning framework for natural language QA with a tool library. It first automatically synthesizes planning trajectories without human assistance or strong closed-source models. Then, it leverages a division-of-labor strategy to automatically differentiate based on the target task information and synthesized trajectories, producing a sub-agent group to complete the task.
+
+
 *2024-07-15*
 
 #### [BeamAggR: Beam Aggregation Reasoning over Multi-source Knowledge for Multi-hop Question Answering](https://arxiv.org/abs/2406.19820)
