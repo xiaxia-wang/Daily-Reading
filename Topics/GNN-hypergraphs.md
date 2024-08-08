@@ -6,6 +6,18 @@
 
 
 
+
+*2024-08-08*
+
+#### [HyConvE: A Novel Embedding Model for Knowledge Hypergraph Link Prediction with Convolutional Neural Networks](https://dl.acm.org/doi/10.1145/3543507.3583256)
+
+*Chenxu Wang, Xin Wang, Zhao Li, Zirui Chen, Jianxin Li*
+
+*WWW 2023*
+
+This paper proposes an embedding-based neural network model for link prediction over hypergraphs. Specifically, it extends the idea of convolutional neural network, using a 3D convolution to capture the interactions of entities and relations to extract explicit and implicit knowledge in each n-ary fact without compromising the translation property. Additionally, appropriate relation and position-aware filters are utilized sequentially to perform two-dimensional convolution operations to capture the intrinsic patterns and position information in each n-ary fact, respectively.
+
+
 *2024-08-07*
 
 #### [NHP: Neural Hypergraph Link Prediction](https://dl.acm.org/doi/10.1145/3340531.3411870)
