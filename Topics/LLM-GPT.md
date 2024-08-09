@@ -6,6 +6,18 @@
 
 
 
+
+*2024-08-10*
+
+#### [Knowledge Graph Tuning: Real-time Large Language Model Personalization based on Human Feedback](https://arxiv.org/abs/2405.19686)
+
+*Jingwei Sun, Zhixu Du, Yiran Chen*
+
+*Arxiv 2024*
+
+This paper proposes a LLM-based model for the natural language QA task by editing a personalized (small) KG during human-LLM interactions, and generating answers based on the personalized KG. In each round of conversation, the LLM first extracts the posterior distribution of the personalized knowledge triples Q(z|q, a) from the human-LLM interaction. Then the personalized triples are used to optimize the KG to achieve two goals: The model can (1) retrieve the personalized triples with high probability and (2) generate the user’s feedback with the retrieved triples in high confidence.
+
+
 *2024-08-06*
 
 #### [Knowledgeable Preference Alignment for LLMs in Domain-specific Question Answering](https://arxiv.org/abs/2311.06503)
