@@ -7,6 +7,18 @@
 
 
 
+
+*2024-08-11*
+
+#### [A Survey on Hypergraph Neural Networks: An In-Depth and Step-By-Step Guide](https://arxiv.org/abs/2404.01039)
+
+*Sunwoo Kim, Soo Yong Lee, Yue Gao, Alessia Antelmi, Mirko Polato, Kijung Shin*
+
+*KDD 2024*
+
+This paper reviews existing works on hypergraph neural network (HNN) models by their 4 design components: (1) input features, (2) input structures, (3) message-passing schemes, and (4) training strategies. It examines how HNNs address and learn higher-order interactions with each of their components, and then introduces recent applications of HNNs in recommendation, bioinformatics and medical science, time series analysis, and computer vision.
+
+
 *2024-08-08*
 
 #### [HyConvE: A Novel Embedding Model for Knowledge Hypergraph Link Prediction with Convolutional Neural Networks](https://dl.acm.org/doi/10.1145/3543507.3583256)
