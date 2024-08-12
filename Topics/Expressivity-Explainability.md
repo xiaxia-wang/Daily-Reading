@@ -2,6 +2,18 @@
 
 
 
+
+*2024-08-12*
+
+#### [Expressivity and Generalization: Fragment-Biases for Molecular GNNs](https://arxiv.org/abs/2406.08210)
+
+*Tom Wollschläger, Niklas Kemper, Leon Hetzel, Johanna Sommer, Stephan Günnemann*
+
+*ICML 2024*
+
+This paper conducts theoretical analyses of GNN models that explicitly use fragment information as inductive bias for molecular property prediction. Specifically, it proposes Fragment-WL test as an extension to the standard WL-test. Based on that, it proposes a new GNN architecture and a fragmentation with infinite vocabulary that improves the model expressiveness.
+
+
 *2024-08-05*
 
 #### [RAG-Ex: A Generic Framework for Explaining Retrieval Augmented Generation](https://dl.acm.org/doi/10.1145/3626772.3657660)
