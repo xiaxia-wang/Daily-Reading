@@ -3,6 +3,18 @@
 
 
 
+
+*2024-08-13*
+
+#### [SES: Bridging the Gap Between Explainability and Prediction of Graph Neural Networks](https://arxiv.org/abs/2407.11358)
+
+*Zhenhua Huang, Kunhao Li, Shaojie Wang, Zhaohong Jia, Wentao Zhu, Sharad Mehrotra*
+
+*ICDE 2024*
+
+This paper proposes an "explainable" GNN model that comprises two processes: explainable training and enhanced predictive learning. During explainable training, it employs a global mask generator co-trained with a graph encoder and directly produces crucial structure and feature masks, reducing time consumption and providing node feature and subgraph explanations. During enhanced predictive learning, mask-based positive-negative pairs are constructed utilizing the explanations to compute a triplet loss and enhance the node representations by contrastive learning.
+
+
 *2024-08-12*
 
 #### [Expressivity and Generalization: Fragment-Biases for Molecular GNNs](https://arxiv.org/abs/2406.08210)
