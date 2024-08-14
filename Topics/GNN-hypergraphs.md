@@ -8,6 +8,18 @@
 
 
 
+
+*2024-08-14*
+
+#### [Totally Dynamic Hypergraph Neural Network](https://www.ijcai.org/proceedings/2023/275)
+
+*Peng Zhou, Zongqian Wu, Xiangxiang Zeng, Guoqiu Wen, Junbo Ma, Xiaofeng Zhu*
+
+*IJCAI 2023*
+
+Dynamic hypergraph neural networks aim to update the hypergraph structure in the learning process. While existing works typically cannot adjust the hyperedge number, this paper proposes a model that is able to adjust the hyperedge number for optimizing the hypergraph structure.
+
+
 *2024-08-11*
 
 #### [A Survey on Hypergraph Neural Networks: An In-Depth and Step-By-Step Guide](https://arxiv.org/abs/2404.01039)
