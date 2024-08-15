@@ -9,6 +9,18 @@
 
 
 
+
+*2024-08-15*
+
+#### [Hypergraph Convolution and Hypergraph Attention](https://arxiv.org/abs/1901.08150)
+
+*Song Bai, Feihu Zhang, Philip H.S. Torr*
+
+*Pattern Recognition 2020*
+
+This paper proposes the convolution and attention operators over hypergraphs, and establishes the similar relationship between the two operators as on binary graphs. The operators are built based on the incidence matrix, weight matrices, and vector representations of vertexes and hyperedges.
+
+
 *2024-08-14*
 
 #### [Totally Dynamic Hypergraph Neural Network](https://www.ijcai.org/proceedings/2023/275)
