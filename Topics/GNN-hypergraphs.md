@@ -10,6 +10,18 @@
 
 
 
+
+*2024-08-16*
+
+#### [Hypergraph Structure Learning for Hypergraph Neural Networks](https://www.ijcai.org/proceedings/2022/267)
+
+*Derun Cai, Moxian Song, Chenxi Sun, Baofeng Zhang, Shenda Hong, Hongyan Li*
+
+*IJCAI 2022*
+
+This paper proposes an end-to-end approach to optimize the hypergraph structure and the node/edge representations simultaneously with a joint loss. Specifically, it adopts a two-stage sampling process: (1) hyperedge sampling for pruning redundant hyperedges, and (2) incident node sampling for pruning irrelevant incident nodes and discovering potential implicit connections. The consistency between the optimized structure and the original structure is maintained by an intra-hyperedge contrastive learning module. The proposed model is evaluated via transductive node classification.
+
+
 *2024-08-15*
 
 #### [Hypergraph Convolution and Hypergraph Attention](https://arxiv.org/abs/1901.08150)
