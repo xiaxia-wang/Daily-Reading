@@ -11,6 +11,18 @@
 
 
 
+
+*2024-08-17*
+
+#### [Hypergraph modeling and hypergraph multi-view attention neural network for link prediction](https://dl.acm.org/doi/10.1016/j.patcog.2024.110292)
+
+*Lang Chai, Lilan Tu, Xianjia Wang, Qingqing Su*
+
+*Pattern Recognition 2024*
+
+This paper proposes an approach for inductive link prediction without requiring node attribute information. It uses a network structure linear representation to model hypergraph for general networks without node attributes.
+
+
 *2024-08-16*
 
 #### [Hypergraph Structure Learning for Hypergraph Neural Networks](https://www.ijcai.org/proceedings/2022/267)
