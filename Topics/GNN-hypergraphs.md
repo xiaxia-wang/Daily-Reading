@@ -12,6 +12,18 @@
 
 
 
+
+*2024-08-18*
+
+#### [You are AllSet: A Multiset Function Framework for Hypergraph Neural Networks](https://arxiv.org/abs/2106.13264)
+
+*Eli Chien, Chao Pan, Jianhao Peng, Olgica Milenkovic*
+
+*ICLR 2022*
+
+Unlike existing approaches that generally use clique expansion to decompose hyperedges in the hypergraph, this paper proposes a new framework that implements hypergraph neural network layers as compositions of two multiset functions that can be efficiently learned for each task and each dataset.
+
+
 *2024-08-17*
 
 #### [Hypergraph modeling and hypergraph multi-view attention neural network for link prediction](https://dl.acm.org/doi/10.1016/j.patcog.2024.110292)
