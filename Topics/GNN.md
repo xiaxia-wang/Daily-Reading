@@ -12,6 +12,18 @@
 
 
 
+
+*2024-08-19*
+
+#### [Graph Neural Networks with Learnable Structural and Positional Representations](https://arxiv.org/abs/2110.07875)
+
+*Vijay Prakash Dwivedi, Anh Tuan Luu, Thomas Laurent, Yoshua Bengio, Xavier Bresson*
+
+*ICLR 2022*
+
+This paper investigates the usage of positional encoding (PE) of the nodes as GNN input. Possible graph PE are Laplacian eigenvectors. Specifically, it proposes a framework that decouples structural and positional representations to make easy for the network to learn these two essential properties.
+
+
 *2024-07-20*
 
 #### [A Survey of Data-Efficient Graph Learning](https://arxiv.org/abs/2402.00447)
