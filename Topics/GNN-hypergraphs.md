@@ -13,6 +13,18 @@
 
 
 
+
+*2024-08-20*
+
+#### [HypeBoy: Generative Self-Supervised Representation Learning on Hypergraphs](https://arxiv.org/abs/2404.00638)
+
+*Sunwoo Kim, Shinhwan Kang, Fanchen Bu, Soo Yong Lee, Jaemin Yoo, Kijung Shin*
+
+*ICLR 2024*
+
+This paper introduces a generative self-supervised learning task on hypergraphs named hyperedge filling, and its connection to node classification. The task of hyperedge filling is sometimes also called hypergraph link prediction in other works. Then it proposes an embedding-based model for this task and applies it on node classification.
+
+
 *2024-08-18*
 
 #### [You are AllSet: A Multiset Function Framework for Hypergraph Neural Networks](https://arxiv.org/abs/2106.13264)
