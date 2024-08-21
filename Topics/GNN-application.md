@@ -11,6 +11,18 @@
 
 
 
+
+*2024-08-21*
+
+#### [PolygonGNN: Representation Learning for Polygonal Geometries with Heterogeneous Visibility Graph](https://arxiv.org/abs/2407.00742)
+
+*Dazhou Yu, Yuntong Hu, Yun Li, Liang Zhao*
+
+*KDD 2024*
+
+To effectively capture and utilize the representation of multipolygons, this paper first proposes a unified representation framework as heterogeneous visibility graph for single and multipolygons. Then, to enhance computational efficiency and minimize graph redundancy, it implements a heterogeneous spanning tree sampling method. Additionally, it devises a rotation-translation invariant geometric representation to ensure broader applicability across scenarios. Finally, it proposes a model Multipolygon-GNN to leverage the spatial and semantic heterogeneity inherent in the visibility graph.
+
+
 *2024-08-04*
 
 #### [Unifying Graph Retrieval and Prompt Tuning for Graph-Grounded Text Classification](https://dl.acm.org/doi/10.1145/3626772.3657934)
