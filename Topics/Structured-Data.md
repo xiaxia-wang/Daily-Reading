@@ -3,6 +3,18 @@
 
 
 
+
+*2024-08-22*
+
+#### [Relationships are Complicated! An Analysis of Relationships Between Datasets on the Web]()
+
+*Kate Lin, Tarfah Alrashed, Natasha Noy*
+
+*ISWC 2024*
+
+This paper first analyzes the tasks from the user's perspective, and proposes a taxonomy of relationships between datasets on the Web, including provenance-based, i.e., relationships between the datasets that share a common original dataset, and non-provenance-based relationships, i.e., connections between datasets based on content, topic, or task rather than their origin. Then it compares several methods for identifying dataset relationships, and shows that machine-learning methods (i.e., a classical gradient boosted decision trees classifier and a LLM-based classifier) using dataset metadata achieve a multi-class classification accuracy of 90%, outperforming schema.org and heuristics-based methods on a large corpus of datasets.
+
+
 *2023-10-30*
 
 #### [Incremental Tabular Learning on Heterogeneous Feature Space](https://dl.acm.org/doi/pdf/10.1145/3588698)
