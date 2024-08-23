@@ -7,6 +7,18 @@
 
 
 
+
+*2024-08-23*
+
+#### [Mitigating Large Language Model Hallucinations via Autonomous Knowledge Graph-based Retrofitting](https://arxiv.org/abs/2311.13314)
+
+*Xinyan Guan, Yanjiang Liu, Hongyu Lin, Yaojie Lu, Ben He, Xianpei Han, Le Sun*
+
+*AAAI 2024*
+
+This paper proposes a KG-based retrofitting framework that automatically detects and updates the LLM responses to mitigate factual errors. Specifically, the framework consists of 5 steps, namely, claim extraction, entity detection and KG retrieval, fact selection, claim verification, response retrofitting. Each step involves usage of LLMs and prompt-tuning.
+
+
 *2024-08-10*
 
 #### [Knowledge Graph Tuning: Real-time Large Language Model Personalization based on Human Feedback](https://arxiv.org/abs/2405.19686)
