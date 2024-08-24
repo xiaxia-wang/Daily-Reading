@@ -8,6 +8,18 @@
 
 
 
+
+*2024-08-24*
+
+#### [GraphEval: A Knowledge-Graph Based LLM Hallucination Evaluation Framework](https://arxiv.org/abs/2407.10793)
+
+*Hannah Sansford, Nicholas Richardson, Hermina Petric Maretic, Juba Nait Saada*
+
+*KDD 2024 Workshop*
+
+This paper proposes a KG-based framework to detect the LLM hallucination in the output texts. First, the LLM output is fed into the KG construction prompt to produce the KG depicted on the right. Next, each individual triple in the KG is fed into an out-of-the-box hallucination detection method such as an NLI model, and compared to the provided context for inconsistency. Finally, any triples that are flagged as inconsistent are returned to the user, along with the overall hallucination decision.
+
+
 *2024-08-23*
 
 #### [Mitigating Large Language Model Hallucinations via Autonomous Knowledge Graph-based Retrofitting](https://arxiv.org/abs/2311.13314)
