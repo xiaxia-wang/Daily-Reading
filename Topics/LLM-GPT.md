@@ -9,6 +9,18 @@
 
 
 
+
+*2024-08-25*
+
+#### [Medical Graph RAG: Towards Safe Medical Large Language Model via Graph Retrieval-Augmented Generation](https://arxiv.org/abs/2408.04187)
+
+*Junde Wu, Jiayuan Zhu, Yunli Qi*
+
+*Arxiv 2024*
+
+This paper proposes a graph-based RAG framework in medical domain. It begins with a hybrid static-semantic document chunking approach. Then the extracted entities form a three-tier hierarchical graph structure, linking entities to foundational medical knowledge sourced from medical papers and dictionaries. These entities are connected to form meta-graphs, which are merged based on semantic similarities to build a comprehensive global graph. This structure supports information retrieval and response generation. Further, a U-retrieve method is employed to balance global awareness and indexing efficiency of the LLM.
+
+
 *2024-08-24*
 
 #### [GraphEval: A Knowledge-Graph Based LLM Hallucination Evaluation Framework](https://arxiv.org/abs/2407.10793)
