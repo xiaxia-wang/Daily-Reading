@@ -9,6 +9,18 @@
 
 
 
+
+*2024-08-26*
+
+#### [Knowledge Graph Prompting for Multi-Document Question Answering](https://ojs.aaai.org/index.php/AAAI/article/view/29889)
+
+*Yu Wang, Nedim Lipka, Ryan A. Rossi, Alexa Siu, Ruiyi Zhang, Tyler Derr*
+
+*AAAI 2024*
+
+This paper proposes an approach for multi-document QA by constructing a graph based on the documents, and applying the LLM to traverse over the graph for answering the question. Specifically, the graph contains three types of nodes, i.e., passage/table/page nodes, and two types of edges, i.e., structural relation, and common keywords/passage similarity relation. Each document is split into passages and encoded for computing similarity to get similarity relations. The table/page nodes are extracted by external APIs and connected by structural relations.
+
+
 *2024-08-09*
 
 #### [AutoAct: Automatic Agent Learning from Scratch for QA via Self-Planning](https://arxiv.org/abs/2401.05268)
