@@ -8,6 +8,15 @@
 
 
 
+*2024-08-27*
+
+#### [Temporal Knowledge Question Answering via Abstract Reasoning Induction](https://arxiv.org/abs/2311.09149)
+
+*Ziyang Chen, Dongfang Li, Xiang Zhao, Baotian Hu, Min Zhang*
+
+*ACL 2024*
+
+To improve the LLM performance on temporal knowledge graph reasoning, this paper proposes Abstract Reasoning Induction (ARI) framework, which divides temporal reasoning into two distinct phases: Knowledge-based and Knowledge-agnostic. The knowledge-based phase extracts a temporal knowledge subgraph (one-hop subgraph of a target entity) and generates all possible next-step actions, while the knowledge-agnostic phase learns from historic examples to choose the exact next action to go.
 
 
 *2024-08-26*
