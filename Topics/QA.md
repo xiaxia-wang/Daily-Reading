@@ -8,6 +8,18 @@
 
 
 
+
+*2024-08-28*
+
+#### [CABINET: Content Relevance based Noise Reduction for Table Question Answering](https://arxiv.org/abs/2402.01155)
+
+*Sohan Patnaik, Heril Changwal, Milan Aggarwal, Sumit Bhatia, Yaman Kumar, Balaji Krishnamurthy*
+
+*ICLR 2024 Spotlight*
+
+For question answering over tables, typically, only a small part of the whole table is relevant to derive the answer, while the irrelevant parts act as distracting noise, resulting in sub-optimal performance due to the vulnerability of LLMs to noise. To improve the performance of LLM on table QA, this paper proposes an unsupervised relevance scorer, trained differentially with the QA LLM, that weighs the table content based on its relevance to the input question before feeding it to the QA LLM. Besides, it employs a weakly supervised module that generates a parsing statement describing the criteria of rows and columns relevant to the question and highlights the content of corresponding table cells.
+
+
 *2024-08-27*
 
 #### [Temporal Knowledge Question Answering via Abstract Reasoning Induction](https://arxiv.org/abs/2311.09149)
