@@ -14,6 +14,18 @@
 
 
 
+
+*2024-08-29*
+
+#### [Relational Graph Convolutional Networks Do Not Learn Sound Rules](https://arxiv.org/abs/2408.10261)
+
+*Matthew Morris, David J. Tena Cucala, Bernardo Cuenca Grau, Ian Horrocks*
+
+*KR 2024*
+
+This paper focuses on R-GCN and proposes sound rule extraction approaches for this model. Besides, it discusses the classes of R-GCN models that no Datalog rule is sound for these models.
+
+
 *2024-06-23*
 
 #### [Learning logic programs by discovering higher-order abstractions](https://arxiv.org/abs/2308.08334)
