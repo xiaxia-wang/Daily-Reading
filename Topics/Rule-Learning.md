@@ -14,7 +14,6 @@
 
 
 
-
 *2024-08-29*
 
 #### [Relational Graph Convolutional Networks Do Not Learn Sound Rules](https://arxiv.org/abs/2408.10261)
