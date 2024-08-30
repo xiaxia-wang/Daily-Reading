@@ -10,6 +10,18 @@
 
 
 
+
+*2024-08-30*
+
+#### [Elephants Never Forget: Memorization and Learning of Tabular Data in Large Language Models](https://arxiv.org/abs/2404.06209)
+
+*Sebastian Bordt, Harsha Nori, Vanessa Rodrigues, Besmira Nushi, Rich Caruana*
+
+*COLM 2024*
+
+This paper investigates the issue of data contamination for tabular data by introducing a variety of techniques to assess whether a language model has seen a tabular dataset during training. Then it compares few-shot learning performance of LLMs on datasets that were seen during training to the performance on datasets released after training. The result shows that LLMs perform better on datasets seen during training, indicating that memorization leads to overfitting. Meanwhile, LLMs show non-trivial performance on novel datasets and are surprisingly robust to data transformations. Overall, the results highlight the importance of testing whether an LLM has seen an evaluation dataset during pre-training.
+
+
 *2024-08-25*
 
 #### [Medical Graph RAG: Towards Safe Medical Large Language Model via Graph Retrieval-Augmented Generation](https://arxiv.org/abs/2408.04187)
