@@ -13,6 +13,18 @@
 
 
 
+
+*2024-08-31*
+
+#### [Graph Reinforcement Learning for Combinatorial Optimization: A Survey and Unifying Perspective](https://arxiv.org/abs/2404.06492)
+
+*Victor-Alexandru Darvariu, Stephen Hailes, Mirco Musolesi*
+
+*TMLR*
+
+This paper summarizes graph reinforcement learning as a decision-making method for graph combinatorial problems. The works are reviewed along the dividing line of whether the goal is to optimize graph structure given a process of interest, or to optimize the outcome of the process itself under fixed graph structure. It also discusses the common challenges facing the field and open research questions.
+
+
 *2024-08-19*
 
 #### [Graph Neural Networks with Learnable Structural and Positional Representations](https://arxiv.org/abs/2110.07875)
