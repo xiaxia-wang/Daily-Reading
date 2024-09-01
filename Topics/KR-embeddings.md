@@ -9,14 +9,15 @@
 
 
 
+*2024-09-01*
 
+#### [Beyond Entity Alignment: Towards Complete Knowledge Graph Alignment via Entity-Relation Synergy](https://arxiv.org/abs/2407.17745)
 
+*Xiaohan Fang, Chaozhuo Li, Yi Zhao, Qian Zang, Litian Zhang, Jiquan Peng, Xi Zhang, Jibing Gong*
 
+*Arxiv 2024*
 
-
-
-
-
+Existing works on KG alignment primarily emphasize the linkage of cross-graph entities but overlook aligning relations across KGs. Motivated by that, this paper decomposes KG alignment into two subtasks, entity alignment and relation alignment. Then it proposes an EM-based model to iteratively optimize both subtasks.
 
 
 *2024-05-04*
