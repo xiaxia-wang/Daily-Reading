@@ -2,6 +2,18 @@
 
 
 
+
+*2024-09-02*
+
+#### [nsDB: Architecting the Next Generation Database by Integrating Neural and Symbolic Systems](https://www.vldb.org/pvldb/vol17/p3283-tang.pdf)
+
+*Ye Yuan, Bo Tang, Tianfei Zhou, Zhiwei Zhang, Jianbin Qin*
+
+*VLDB 2024*
+
+This paper designs a neural-symbolic database system that aims to integrate neural and symbolic architectures natively to address the weaknesses of both. It consists of 5 major components: (i) user interface, (ii) model manager, (iii) query optimizer, (iv) execution engine, and (v) storage engine, and these components are loosely decoupled to support diverse analytical queries efficiently.
+
+
 *2024-06-17*
 
 #### [CHORUS: Foundation Models for Unified Data Discovery and Exploration](https://arxiv.org/abs/2306.09610)
