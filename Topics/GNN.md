@@ -8,10 +8,15 @@
 
 
 
+*2024-09-03*
 
+#### [NeurCAM: Interpretable Neural Clustering via Additive Models](https://arxiv.org/abs/2408.13361)
 
+*Nakul Upadhya, Eldan Cohen*
 
+*ECAI 2024*
 
+This paper introduces the Neural Clustering Additive Model for the interpretable clustering problem, that leverages neural generalized additive models to provide fuzzy cluster membership with additive explanations of the obtained clusters. To promote the sparsity in model’s explanations, it uses selection gates that explicitly limit the number of features and pairwise interactions.
 
 
 *2024-08-31*
