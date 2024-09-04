@@ -8,6 +8,18 @@
 
 
 
+
+*2024-09-04*
+
+#### [Generalized Graph Prompt: Toward a Unification of Pre-Training and Downstream Tasks on Graphs](https://arxiv.org/abs/2311.15317)
+
+*Xingtong Yu, Zhenghao Liu, Yuan Fang, Zemin Liu, Sihong Chen, Xinming Zhang*
+
+*IEEE TKDE (Extension of WWW'23 paper [GraphPrompt: Unifying Pre-Training and Downstream Tasks for Graph Neural Networks](https://dl.acm.org/doi/abs/10.1145/3543507.3583386))*
+
+This paper extends the graph pre-training framework GraphPrompt to GraphPrompt+ with two major enhancements. First, it generalizes a few graph pre-training tasks beyond simple link prediction to broaden the compatibility with the task template. Second, it designs a more generalized prompt that incorporates a series of prompt vectors within every layer of the pre-trained graph encoder.
+
+
 *2024-09-03*
 
 #### [NeurCAM: Interpretable Neural Clustering via Additive Models](https://arxiv.org/abs/2408.13361)
