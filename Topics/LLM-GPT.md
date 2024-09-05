@@ -11,6 +11,18 @@
 
 
 
+
+*2024-09-05*
+
+#### [AlignBench: Benchmarking Chinese Alignment of Large Language Models](https://arxiv.org/abs/2311.18743)
+
+*Xiao Liu, Xuanyu Lei, Shengyuan Wang, Yue Huang, Zhuoer Feng, Bosi Wen, Jiale Cheng, Pei Ke, Yifan Xu, Weng Lam Tam, Xiaohan Zhang, Lichao Sun, Xiaotao Gu, Hongning Wang, Jing Zhang, Minlie Huang, Yuxiao Dong, Jie Tang*
+
+*ACL 2024*
+
+This paper proposes a benchmark for Chinese LLM alignment. It designs a human-in-the-loop data curation pipeline, containing 8 main categories, 683 real-scenario rooted queries and corresponding human verified references. To ensure the correctness of references, each knowledge-intensive query is accompanied with evidences collected from reliable web sources (including URLs and quotations) by annotators. For automatic evaluation, the benchmark employs a rule-calibrated multi-dimensional LLM-as-Judge approach with Chain-of-Thought to generate explanations and final ratings.
+
+
 *2024-08-30*
 
 #### [Elephants Never Forget: Memorization and Learning of Tabular Data in Large Language Models](https://arxiv.org/abs/2404.06209)
