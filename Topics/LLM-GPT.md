@@ -12,6 +12,18 @@
 
 
 
+
+*2024-09-06*
+
+#### [Can LLMs perform structured graph reasoning?](https://arxiv.org/abs/2402.01805)
+
+*Palaash Agrawal, Shavak Vasania, Cheston Tan*
+
+*ICPR 2024*
+
+To test the ability of navigating through representations beyond plain text in various LLMs, it designs 10 distinct problems of graph traversal with increasing levels of complexity, and benchmarks 5 different instruct-finetuned LLMs. The result highlights various limitations, biases and properties of LLMs, such as an inverse relation to the average degrees of freedom of traversal per node in graphs, the overall negative impact of k-shot prompting on graph reasoning tasks, and a positive response bias which prevents LLMs from identifying the absence of a valid solution. Finally, it introduces a new prompting technique specially designed for graph traversal tasks.
+
+
 *2024-09-05*
 
 #### [AlignBench: Benchmarking Chinese Alignment of Large Language Models](https://arxiv.org/abs/2311.18743)
