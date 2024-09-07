@@ -9,6 +9,18 @@
 
 
 
+
+*2024-09-07*
+
+#### [Mitigating Label Noise on Graph via Topological Sample Selection](https://arxiv.org/abs/2403.01942)
+
+*Yuhao Wu, Jiangchao Yao, Xiaobo Xia, Jun Yu, Ruxin Wang, Bo Han, Tongliang Liu*
+
+*ICML 2024*
+
+Existing approaches for sample selection over noisily labelled graph data have 2 limitations, (1) nodes located near topological class boundaries are very informative for classification but cannot be successfully distinguished by the heuristic sample selection, (2) there is no available measure that considers the graph topological information to promote sample selection in a graph. To address them, this paper proposes a Topological Sample Selection method that boosts the informative sample selection process in a graph by utilizing topological information.
+
+
 *2024-09-04*
 
 #### [Generalized Graph Prompt: Toward a Unification of Pre-Training and Downstream Tasks on Graphs](https://arxiv.org/abs/2311.15317)
