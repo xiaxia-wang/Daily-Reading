@@ -10,6 +10,18 @@
 
 
 
+
+*2024-09-08*
+
+#### [Efficient Topology-aware Data Augmentation for High-Degree Graph Neural Networks](https://arxiv.org/abs/2406.05482)
+
+*Yurui Lai, Xiaoyang Lin, Renchi Yang, Hongtao Wang*
+
+*Technical report for the paper accepted to KDD 2024*
+
+The message-passing paradigm of GNN brings over-smoothing and efficiency issues over high-degree graphs, where most nodes have dozens of neighbors, such as social networks, transaction graphs, power grids, etc. Additionally, such graphs usually encompass rich and complex structure semantics, which are hard to capture merely by feature aggregations in GNNs. To address these limitations, it proposes a front-mounted data augmentation framework for GNNs on HDGs, which includes two key modules: (i) feature expansion with structure embeddings, and (ii) topology- and attribute-aware graph sparsification.
+
+
 *2024-09-07*
 
 #### [Mitigating Label Noise on Graph via Topological Sample Selection](https://arxiv.org/abs/2403.01942)
