@@ -10,8 +10,15 @@
 
 
 
+*2024-09-09*
 
+#### [A Survey on Hyperlink Prediction](https://ieeexplore.ieee.org/document/10163497)
 
+*Can Chen, Yang-Yu Liu*
+
+*TNNLS 2023*
+
+This paper reviews existing works on hypergraph link prediction/hyperlink prediction by adopting a classical taxonomy from link prediction that classifies existing methods into four categories: similarity-based, probability-based, matrix optimization-based, and deep learning-based methods. To compare the performance of methods from different categories, it performs a benchmark study on various hypergraph applications using representative methods from each category.
 
 
 *2024-08-20*
