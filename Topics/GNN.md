@@ -11,6 +11,18 @@
 
 
 
+
+*2024-09-10*
+
+#### [Expanding the Scope: Inductive Knowledge Graph Reasoning with Multi-Starting Progressive Propagation](https://arxiv.org/abs/2407.10430)
+
+*Zhoutian Shao, Yuanning Cui, Wei Hu*
+
+*ISWC 2024*
+
+This paper proposes a GNN-based model for inductive knowledge graph link prediction. Specifically, it uses a pre-embedded GNN and selects a set of starting entities for the given query relation. The selected entities are categorized and added with additional links to the head entity given in the query. Then the model conducts message passing with attention mechanism, and finally decodes the target entity with an MLP over node (entity) embeddings.
+
+
 *2024-09-08*
 
 #### [Efficient Topology-aware Data Augmentation for High-Degree Graph Neural Networks](https://arxiv.org/abs/2406.05482)
