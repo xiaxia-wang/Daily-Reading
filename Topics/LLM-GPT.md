@@ -13,6 +13,18 @@
 
 
 
+
+*2024-09-11*
+
+#### [Multi-aspect controllable text generation with disentangled counterfactual augmentation](https://arxiv.org/abs/2405.19958)
+
+*Yi Liu, Xiangyu Liu, Xiangrong Zhu, Wei Hu*
+
+*ACL 2024*
+
+Multi-aspect controllable text generation aims to control the generated texts in attributes from multiple aspects. However, existing works usually neglect attribute correlations formed by the intertwining of different attributes, thus affecting multi-aspect control. To address the problem, this paper proposes a multi-aspect controllable text generation method with disentangled counterfactual augmentation, which alleviates the issue of imbalanced attribute correlations during training using counterfactual feature vectors in the attribute latent space by disentanglement. During inference, it also enhances attribute correlations by target-guided counterfactual augmentation to further improve multi-aspect control.
+
+
 *2024-09-06*
 
 #### [Can LLMs perform structured graph reasoning?](https://arxiv.org/abs/2402.01805)
