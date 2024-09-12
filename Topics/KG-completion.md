@@ -3,6 +3,18 @@
 
 
 
+
+*2024-09-12*
+
+#### [Finetuning Generative Large Language Models with Discrimination Instructions for Knowledge Graph Completion](https://www.arxiv.org/abs/2407.16127)
+
+*Yang Liu, Xiaobin Tian, Zequn Sun, Wei Hu*
+
+*ISWC 2024*
+
+This paper proposes a KG completion model that based on a fine-tuned LLM and a simple embedding-based model for KG link prediction. Specifically, the query for link prediction is firstly fed into the embedding-based model to get top-m entities as answer candidates. Then the LLM is used with a discrimination instruction to select the most plausible entity. Besides, to enhance the graph reasoning ability of the LLM, a knowledge adaption module is applied to inject the embeddings of query and candidate entities to the LLM.
+
+
 *2024-07-06*
 
 #### [Start from Zero: Triple Set Prediction for Automatic Knowledge Graph Completion](https://ieeexplore.ieee.org/document/10529617)
