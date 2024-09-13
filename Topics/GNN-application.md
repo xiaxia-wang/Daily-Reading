@@ -12,6 +12,18 @@
 
 
 
+
+*2024-09-13*
+
+#### [Do We Really Need Graph Convolution During Training? Light Post-Training Graph-ODE for Efficient Recommendation](https://arxiv.org/abs/2407.18910)
+
+*Weizhi Zhang, Liangwei Yang, Zihe Song, Henry Peng Zou, Ke Xu, Liancheng Fang, Philip S. Yu*
+
+*CIKM 2024*
+
+This paper claims a new idea that the graph convolution layers are less effective in the training stage than the testing stage for recommendation task, and then proposes a framework that directly optimizes the embedding alignment (for the paired nodes) in the training process, while only applying the graph convolution layers in the testing process. The results indicate that by doing so, the training time could be largely reduced without sacrificing the overall performance.
+
+
 *2024-08-21*
 
 #### [PolygonGNN: Representation Learning for Polygonal Geometries with Heterogeneous Visibility Graph](https://arxiv.org/abs/2407.00742)
