@@ -14,6 +14,18 @@
 
 
 
+
+*2024-09-14*
+
+#### [TaxoLLaMA: WordNet-based Model for Solving Multiple Lexical Semantic Tasks](https://arxiv.org/abs/2403.09207)
+
+*Viktor Moskvoretskii, Ekaterina Neminova, Alina Lobanova, Alexander Panchenko, Irina Nikishina*
+
+*ACL 2024*
+
+This paper explores the capabilities of LLMs in capturing lexical-semantic knowledge from WordNet on the example of the LLaMA-2-7b model and tests it on multiple lexical semantic tasks including hypernym discovery, taxonomy enrichment, lexical entailment and taxonomy construction.  As the outcome, it presents TaxoLLaMA, an "all-in-one" model for taxonomy-related tasks, lightweight due to 4-bit quantization and LoRA.
+
+
 *2024-09-11*
 
 #### [Multi-aspect controllable text generation with disentangled counterfactual augmentation](https://arxiv.org/abs/2405.19958)
