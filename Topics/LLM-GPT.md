@@ -15,6 +15,18 @@
 
 
 
+
+*2024-09-15*
+
+#### [Resolving Knowledge Conflicts in Large Language Models](https://arxiv.org/abs/2310.00935)
+
+*Yike Wang, Shangbin Feng, Heng Wang, Weijia Shi, Vidhisha Balachandran, Tianxing He, Yulia Tsvetkov*
+
+*COLM 2024*
+
+For LLMs to solve knowledge conflicts, this paper claims that the LLM should (1) identify knowledge conflicts, (2) pinpoint conflicting information segments, and (3) provide distinct answers or viewpoints in conflicting scenarios. Then it introduces an evaluation framework for simulating contextual knowledge conflicts and quantitatively evaluating to what extent LLMs achieve these goals.
+
+
 *2024-09-14*
 
 #### [TaxoLLaMA: WordNet-based Model for Solving Multiple Lexical Semantic Tasks](https://arxiv.org/abs/2403.09207)
