@@ -9,6 +9,18 @@
 
 
 
+
+*2024-09-16*
+
+#### [The data set knowledge graph: Creating a linked open data source for data sets](https://doi.org/10.1162/qss_a_00161)
+
+*Michael Färber, David Lamprecht*
+
+*Quantitative Science Studies 2021*
+
+This paper constructs a knowledge graph that includes various datasets with publications that mention these datasets. Specifically, it first identifies suitable raw dataset collections for creating the KG, and then establishes links between the datasets and publications modeled in the Microsoft Academic Knowledge Graph that mention these data sets. As the author names of datasets can be ambiguous, it develops and evaluates a method for author name disambiguation and enriches the knowledge graph with links to ORCID. Overall, the knowledge graph contains more than 2,000 datasets with associated properties, as well as 814,000 links to 635,000 scientific publications.
+
+
 *2024-02-07*
 
 #### [Summarizing Semantic Associations Based on Focused Association Graph](https://link.springer.com/chapter/10.1007/978-3-642-35527-1_47)
