@@ -10,6 +10,18 @@
 
 
 
+
+*2024-09-17*
+
+#### [Recommending Datasets for Scientific Problem Descriptions](https://dl.acm.org/doi/abs/10.1145/3459637.3482166#)
+
+*Michael Färber, Ann-Kathrin Leisinger*
+
+*CIKM 2021 Short*
+
+This paper proposes a system for recommending suitable datasets based on a given research problem description. The recommendation task is designed as a domain-specific text classification task.
+
+
 *2024-09-16*
 
 #### [The data set knowledge graph: Creating a linked open data source for data sets](https://doi.org/10.1162/qss_a_00161)
