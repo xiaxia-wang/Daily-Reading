@@ -13,6 +13,18 @@
 
 
 
+
+*2024-09-18*
+
+#### [Information Retrieval Meets Large Language Models: A Strategic Report from Chinese IR Community](https://arxiv.org/abs/2307.09751)
+
+*Qingyao Ai, Ting Bai, Zhao Cao, Yi Chang, Jiawei Chen, Zhumin Chen, Zhiyong Cheng, Shoubin Dong, Zhicheng Dou, Fuli Feng, Shen Gao, Jiafeng Guo, Xiangnan He, Yanyan Lan, Chenliang Li, Yiqun Liu, Ziyu Lyu, Weizhi Ma, Jun Ma, Zhaochun Ren, Pengjie Ren, Zhiqiang Wang, Mingwen Wang, Ji-Rong Wen, Le Wu, Xin Xin, Jun Xu, Dawei Yin, Peng Zhang, Fan Zhang, Weinan Zhang, Min Zhang, Xiaofei Zhu*
+
+*Arxiv 2023 (worth reading a few more times)*
+
+This report is a record of a strategic workshop conducted by the Chinese IR community, which discusses the transformative impact of LLMs on IR research. It first discusses the fundamental value of IR with its boundaries and extensions. Then it analyzes the opportunities and potential enhancements that LLM/IR could bring to each other, and the new paradigms in the new era for LLM+IR.
+
+
 *2024-08-02*
 
 #### [Old IR Methods Meet RAG](https://dl.acm.org/doi/abs/10.1145/3626772.3657935)
