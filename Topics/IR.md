@@ -8,10 +8,15 @@
 
 
 
+*2024-09-19*
 
+#### [Perspectives on Large Language Models for Relevance Judgment](https://arxiv.org/abs/2304.09161)
 
+*Guglielmo Faggioli, Laura Dietz, Charles Clarke, Gianluca Demartini, Matthias Hagen, Claudia Hauff, Noriko Kando, Evangelos Kanoulas, Martin Potthast, Benno Stein, Henning Wachsmuth*
 
+*SIGIR 2023*
 
+This perspectives paper discusses possible ways for LLMs to support relevance judgments along with concerns and issues that arise. It devises a human-machine collaboration spectrum that allows to categorize different relevance judgment strategies, based on how much humans rely on machines. For the extreme point of "fully automated judgments", it further includes a pilot experiment on whether LLM-based relevance judgments correlate with judgments from trained human assessors.
 
 
 *2024-09-18*
