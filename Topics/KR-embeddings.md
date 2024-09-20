@@ -9,6 +9,18 @@
 
 
 
+
+*2024-09-20*
+
+#### [BioBridge: Bridging Biomedical Foundation Models via Knowledge Graphs](https://arxiv.org/abs/2310.03320)
+
+*Zifeng Wang, Zichen Wang, Balasubramaniam Srinivasan, Vassilis N. Ioannidis, Huzefa Rangwala, Rishita Anubhai*
+
+*ICLR 2024*
+
+Foundation models (FMs) for biomedical domains have largely remained unimodel. To overcome the limitation, this paper presents a parameter-efficient learning framework to bridge independently trained unimodal FMs to establish multimodal behavior. BioBridge achieves it by utilizing Knowledge Graphs (KG) to learn transformations between one unimodal FM and another without fine-tuning any underlying unimodal FMs.
+
+
 *2024-09-01*
 
 #### [Beyond Entity Alignment: Towards Complete Knowledge Graph Alignment via Entity-Relation Synergy](https://arxiv.org/abs/2407.17745)
