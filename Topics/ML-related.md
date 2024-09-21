@@ -12,6 +12,18 @@
 
 
 
+
+*2024-09-21*
+
+#### [LoCa: Logit Calibration for Knowledge Distillation](https://arxiv.org/abs/2409.04778)
+
+*Runming Yang, Taiqiang Wu, Yujiu Yang*
+
+*ECAI 2024*
+
+Mis-instruction is a common problem in knowledge distillation that the student would be misled when the predictions based on teacher logits do not follow the labels. To address that, this paper proposes a logit calibration approach, which calibrates the logits from the teacher model based on the ground-truth labels. The key insight is to correct the prediction while maintaining useful dark knowledge in the logits.
+
+
 *2024-07-11*
 
 #### [Generalized Weak Supervision for Neural Information Retrieval](https://dl.acm.org/doi/full/10.1145/3647639)
