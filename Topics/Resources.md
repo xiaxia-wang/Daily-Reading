@@ -9,11 +9,15 @@
 
 
 
+*2024-09-22*
 
+#### [MQuAKE: Assessing Knowledge Editing in Language Models via Multi-Hop Questions](https://arxiv.org/abs/2305.14795)
 
+*Zexuan Zhong, Zhengxuan Wu, Christopher D. Manning, Christopher Potts, Danqi Chen*
 
+*EMNLP 2023*
 
-
+To evaluate the LLMs with injected facts updated by changing model weights, this paper presents a benchmark MQuAKE (Multi-hop Question Answering for Knowledge Editing), comprising multi-hop questions that assess whether edited models correctly answer questions where the answer should change as an entailed consequence of edited facts. Besides, it proposes a simple memory-based approach that stores all edited facts externally while prompting the language model iteratively to generate answers that are consistent with the edited facts, which demonstrates superior performance and scales well to large models.
 
 
 *2024-07-31*
