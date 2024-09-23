@@ -13,6 +13,18 @@
 
 
 
+
+*2024-09-23*
+
+#### [Advancing Molecule Invariant Representation via Privileged Substructure Identification](https://dl.acm.org/doi/abs/10.1145/3637528.3671886)
+
+*Ruijia Wang, Haoran Dai, Cheng Yang, Le Song, Chuan Shi*
+
+*KDD 2024*
+
+This paper proposes a specific framework for molecule invariant representation. It first formalizes molecule invariant learning based on privileged substructure identification and introduces substructure invariance constraint. Building on that, it theoretically establishes two criteria for environment splits conducive to molecule invariant learning. Inspired by the criteria, a dual-head graph neural network is developed with a shared identifier that identifies privileged substructures, while environment and task heads generates predictions based on variant and privileged substructures.
+
+
 *2024-09-13*
 
 #### [Do We Really Need Graph Convolution During Training? Light Post-Training Graph-ODE for Efficient Recommendation](https://arxiv.org/abs/2407.18910)
