@@ -12,6 +12,18 @@
 
 
 
+
+*2024-09-24*
+
+#### [Calibrating Graph Neural Networks from a Data-centric Perspective](https://dl.acm.org/doi/10.1145/3589334.3645562)
+
+*Cheng Yang, Chengdong Yang, Chuan Shi, Yawen Li, Zhiqiang Zhang, Jun Zhou*
+
+*WWW 2024*
+
+Existing calibration methods primarily focus on improving GNN models, e.g., adding regularization during training or introducing temperature scaling after training. However, this paper argues that the miscalibration of GNNs may stem from the graph data and can be alleviated through topology modification. Data observations were conducted by examining the impacts of decisive and homophilic edges on calibration performance, where decisive edges play a critical role in GNN predictions and homophilic edges connect nodes of the same class. By assigning larger weights to these edges in the adjacency matrix, an improvement in calibration performance was observed without sacrificing classification accuracy. Motivated by that, this paper proposes Data-centric Graph Calibration (DCGC), which uses two edge weighting modules to adjust the input graph for GNN calibration.
+
+
 *2024-09-10*
 
 #### [Expanding the Scope: Inductive Knowledge Graph Reasoning with Multi-Starting Progressive Propagation](https://arxiv.org/abs/2407.10430)
