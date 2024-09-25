@@ -16,6 +16,18 @@
 
 
 
+
+*2024-09-25*
+
+#### [OneEdit: A Neural-Symbolic Collaboratively Knowledge Editing System](https://arxiv.org/abs/2409.07497)
+
+*Ningyu Zhang, Zekun Xi, Yujie Luo, Peng Wang, Bozhong Tian, Yunzhi Yao, Jintian Zhang, Shumin Deng, Mengshu Sun, Lei Liang, Zhiqiang Zhang, Xiaowei Zhu, Jun Zhou, Huajun Chen*
+
+*LLM+KG@VLDB2024*
+
+This paper proposes a neural-symbolic prototype system for collaborative knowledge editing using natural language, which consists of three modules: 1) The Interpreter serves for user interaction with natural language; 2) The Controller manages editing requests from various users, leveraging the KG with rollbacks to handle knowledge conflicts and prevent toxic knowledge attacks; 3) The Editor utilizes the knowledge from the Controller to edit KG and LLM.
+
+
 *2024-09-15*
 
 #### [Resolving Knowledge Conflicts in Large Language Models](https://arxiv.org/abs/2310.00935)
