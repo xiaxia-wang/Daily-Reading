@@ -3,18 +3,15 @@
 
 
 
+*2024-09-26*
 
+#### [How Easily do Irrelevant Inputs Skew the Responses of Large Language Models?](https://arxiv.org/abs/2404.03302)
 
+*Siye Wu, Jian Xie, Jiangjie Chen, Tinghui Zhu, Kai Zhang, Yanghua Xiao*
 
+*COLM 2024*
 
-
-
-
-
-
-
-
-
+With retrieval-augmented generation, Large Language Models exhibit enhanced capabilities for many knowledge-intensive tasks. However, due to the inherent flaws of current retrieval systems, there might exist irrelevant information within the retrieving top-ranked passages. This work presents an investigation into the robustness of LLMs to different types of irrelevant information under various conditions. It first introduces a framework to construct high-quality irrelevant information that ranges from semantically unrelated, partially related, and related to questions. Furthermore, it demonstrates that the constructed irrelevant information not only scores highly on similarity metrics, being highly retrieved by existing systems, but also bears semantic connections to the context.
 
 
 *2024-09-25*
