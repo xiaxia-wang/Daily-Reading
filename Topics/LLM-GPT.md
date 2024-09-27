@@ -3,6 +3,18 @@
 
 
 
+
+*2024-09-27*
+
+#### [KAM-CoT: Knowledge Augmented Multimodal Chain-of-Thoughts Reasoning](https://arxiv.org/abs/2401.12863)
+
+*Debjyoti Mondal, Suraj Modi, Subhadarshi Panda, Rituraj Singh, Godawari Sudhakar Rao*
+
+*AAAI 2024*
+
+Given a (text) question $q$ along with k answer choices {a1, a2, . . . , ak}, the task is to pick the correct choice. The question $q$ is optionally accompanied by an image $X_{img}$ and a text $c$ that adds context to it. This paper proposes an approach named KAM-CoT, which consists of an LM that takes language context, a vision encoder to encode visual features and a graph neural network (GNN) that reasons over the KGs. Then the extracted information (as embeddings of text, image, kg, respectively) are fused using cross attention and then fed into the LM for generating the final result.
+
+
 *2024-09-26*
 
 #### [How Easily do Irrelevant Inputs Skew the Responses of Large Language Models?](https://arxiv.org/abs/2404.03302)
