@@ -10,6 +10,18 @@
 
 
 
+
+*2024-09-28*
+
+#### [Message Passing for Hyper-Relational Knowledge Graphs](https://aclanthology.org/2020.emnlp-main.596.pdf)
+
+*Mikhail Galkin, Priyansh Trivedi, Gaurav Maheshwari, Ricardo Usbeck, Jens Lehmann*
+
+*EMNLP 2020*
+
+This paper proposes a GNN-based model for link prediction over hyper-relational KGs. Specifically, each fact in a hyper-relational KG is formed by a relation, a main triple as $\langle s, p, o \rangle$, plus unlimited number of qualifiers as key-value pairs to describe the fact, or to help distinguish facts with the same main triple. For example, a person may get different degrees from distinct universities, which are supposed to be identified by the attached key-value pairs, so link prediction in this case should be able to return different $o$ (e.g., representing the universities) in the main triple with the same $s$ and $p$ (e.g., representing the person and "studies at" relation) with different sets of attached key-value pairs.
+
+
 *2024-09-09*
 
 #### [A Survey on Hyperlink Prediction](https://ieeexplore.ieee.org/document/10163497)
