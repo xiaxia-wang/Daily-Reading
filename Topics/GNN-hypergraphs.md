@@ -4,11 +4,15 @@
 
 
 
+*2024-09-29*
 
+#### [Beyond Link Prediction: Predicting Hyperlinks in Adjacency Space](https://aaai.org/papers/11780-beyond-link-prediction-predicting-hyperlinks-in-adjacency-space/)
 
+*Muhan Zhang, Zhicheng Cui, Shali Jiang, Yixin Chen*
 
+*AAAI 2018*
 
-
+This paper works on the task of hyperlink prediction over hypernetworks. It proposes an algorithm Coordinated Matrix Minimization (CMM), which alternately performs non-negative matrix factorization and least square matching in the vertex adjacency space of the hypernetwork. Then it evaluates the model over two tasks: predicting Chinese food recipes, and finding missing reactions of metabolic networks.
 
 
 *2024-09-28*
