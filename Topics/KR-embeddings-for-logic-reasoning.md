@@ -6,6 +6,18 @@
 
 
 
+
+*2024-09-30*
+
+#### [unKR: A Python Library for Uncertain Knowledge Graph Reasoning by Representation Learning](https://dl.acm.org/doi/abs/10.1145/3626772.3657661 )
+
+*王靖婷、吴天星、陈仕林、刘云畅、朱曙曈、李伟、许婧怡、漆桂林*
+
+*SIGIR 2024 Demonstration*
+
+An uncertain knowledge graph (UKG) is typically a set of triples where each triple is associated with a (non-negative) confidence score. This paper proposes an embedding-based library for UKG with representation learning models under normal and few-shot settings, as well as evaluation on down-streaming tasks such as confidence prediction and link prediction.
+
+
 *2024-05-14*
 
 #### [Learning Rule-Induced Subgraph Representations for Inductive Relation Prediction](https://papers.nips.cc/paper_files/paper/2023/hash/0b06c8673ebb453e5e468f7743d8f54e-Abstract-Conference.html)
