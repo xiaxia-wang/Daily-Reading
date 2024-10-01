@@ -4,6 +4,18 @@
 
 
 
+
+*2024-10-01*
+
+#### [Evaluating the Factuality of Large Language Models using Large-Scale Knowledge Graphs](https://arxiv.org/pdf/2404.00942)
+
+*Xiaoze Liu, Feijie Wu, Tianyang Xu, Zhuo Chen, Yichi Zhang, Xiaoqian Wang, Jing Gao*
+
+*ACL 2024*
+
+To evaluate the factuality of LLM-generated responses, this paper proposes GraphEval that contains a large test dataset and a light-weighted judge model. Specifically, the test dataset is retrieved from a knowledge graph with more than 10 million facts without human efforts. Unlike conventional methods that evaluate LLMs based on generated responses, GraphEval streamlines the evaluation process by creating a judge model to estimate the correctness of the answers given by the LLM.
+
+
 *2024-09-27*
 
 #### [KAM-CoT: Knowledge Augmented Multimodal Chain-of-Thoughts Reasoning](https://arxiv.org/abs/2401.12863)
