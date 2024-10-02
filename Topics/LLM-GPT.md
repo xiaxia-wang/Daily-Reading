@@ -5,6 +5,18 @@
 
 
 
+
+*2024-10-02*
+
+#### [LLMR: Knowledge Distillation with a Large Language Model-Induced Reward](https://arxiv.org/abs/2409.12500)
+
+*Dongheng Li, Yongchang Hao, Lili Mou*
+
+*COLING 2024*
+
+This paper proposes a knowledge distillation method based on a reward function induced from large language models. Specifically, it prompts an LLM and treats it as the teacher. It does not follow the common KD that minimizes the divergence between LLM’s probability $p_{\text{LLM}}$ and the student $q_\theta$. Instead, it induces a reward function from $p_{\text{LLM}}$ that evaluates the appropriateness of a word at every step given its previous context.
+
+
 *2024-10-01*
 
 #### [Evaluating the Factuality of Large Language Models using Large-Scale Knowledge Graphs](https://arxiv.org/pdf/2404.00942)
