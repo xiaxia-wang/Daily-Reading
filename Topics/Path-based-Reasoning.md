@@ -11,6 +11,15 @@
 
 
 
+*2024-10-03*
+
+#### [KnowFormer: Revisiting Transformers for Knowledge Graph Reasoning](https://arxiv.org/abs/2409.12865)
+
+*Junnan Liu, Qianren Mao, Weifeng Jiang, Jianxin Li*
+
+*ICML 2024*
+
+This paper revisits the application of transformers for knowledge graph reasoning to address the constraints faced by path-based methods and proposes a new model. Specifically, it utilizes a transformer architecture to perform reasoning on knowledge graphs from the message-passing perspective, rather than reasoning by textual information as PLM-based methods.
 
 
 *2024-07-05*
