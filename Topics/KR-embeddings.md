@@ -10,6 +10,18 @@
 
 
 
+
+*2024-10-04*
+
+#### [Centrality-Based Node Feature Augmentation for Robust Network Alignment](https://arxiv.org/abs/2304.12751)
+
+*Jin-Duk Park, Cong Tran, Won-Yong Shin, Xin Cao*
+
+*(Extended version of) CIKM 2022*
+
+Network alignment (NA) is the task of discovering node correspondences across multiple networks. This paper presents an NA approach that gradually discovers a part of node pairs until all node pairs are found. Specifically, it contains 3 components as: (1) centrality-based node feature augmentation, (2) GNN-aided embedding similarity calculation alongside the augmented node features, and (3) gradual NA with similarity calculation using aligned cross-network neighbor-pairs.
+
+
 *2024-09-20*
 
 #### [BioBridge: Bridging Biomedical Foundation Models via Knowledge Graphs](https://arxiv.org/abs/2310.03320)
