@@ -4,6 +4,18 @@
 
 
 
+
+*2024-10-05*
+
+#### [Dependency-Aware Core Column Discovery for Table Understanding](https://link.springer.com/chapter/10.1007/978-3-031-47240-4_9)
+
+*Jingyi Qiu, Aibo Song, Jiahui Jin, Tianbo Zhang, Jingyi Ding, Xiaolin Fang, Jianguo Qian*
+
+*ISWC 2023*
+
+This paper proposes Dependency-aware Core Column Discovery, an iterative method that uses a rough matching strategy to identify both inter-column dependencies and core columns. Unlike other methods, it does not require labeled data or contextual information. Besides, it can identify multiple core columns within a table, which are common for real-world tables.
+
+
 *2024-08-22*
 
 #### [Relationships are Complicated! An Analysis of Relationships Between Datasets on the Web]()
