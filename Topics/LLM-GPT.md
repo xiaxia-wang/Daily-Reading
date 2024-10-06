@@ -6,6 +6,18 @@
 
 
 
+
+*2024-10-06*
+
+#### [Application of Generative AI as an Enterprise Wikibase Knowledge Graph Q&A System](https://aclanthology.org/2024.kallm-1.4/)
+
+*Renê Mendes, Dimas Oliveira, Victor Garcia*
+
+*KaLLM@ACL 2024*
+
+This paper proposes a RAG Q&A system that accesses data from an Enterprise Knowledge Graph using open-source Wikibase software, created to integrate company data into natural language conversations.
+
+
 *2024-10-02*
 
 #### [LLMR: Knowledge Distillation with a Large Language Model-Induced Reward](https://arxiv.org/abs/2409.12500)
