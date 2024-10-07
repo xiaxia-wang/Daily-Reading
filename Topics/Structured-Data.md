@@ -5,6 +5,18 @@
 
 
 
+
+*2024-10-07*
+
+#### [LakeBench: A Benchmark for Discovering Joinable and Unionable Tables in Data Lakes](https://dl.acm.org/doi/10.14778/3659437.3659448)
+
+*Yuhao Deng, Chengliang Chai, Lei Cao, Qin Yuan, Siyuan Chen, Yanrui Yu, Zhaoze Sun, Junyi Wang, Jiajun Li, Ziqi Cao, Kaisen Jin, Chi Zhang, Yuqing Jiang, Yuanfang Zhang, Yuping Wang, Ye Yuan, Guoren Wang, Nan Tang*
+
+*VLDB 2024*
+
+This paper introduces LakeBench, a large-scale table discovery benchmark, and evaluates the effectiveness, efficiency, and scalability of SOTA table join & union search methods.
+
+
 *2024-10-05*
 
 #### [Dependency-Aware Core Column Discovery for Table Understanding](https://link.springer.com/chapter/10.1007/978-3-031-47240-4_9)
