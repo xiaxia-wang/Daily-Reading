@@ -9,6 +9,18 @@
 
 
 
+
+*2024-10-08*
+
+#### CoTKR: Chain-of-Thought Enhanced Knowledge Rewriting for Complex Knowledge Graph Question Answering
+
+*吴亦珂, 黄毅, 胡楠, 花云程, 漆桂林, 陈矫彦, Jeff Z. Pan*
+
+*EMNLP 2024*
+
+To incorporate RAG-LLM into KGQA, existing works need to transform the retrieved subgraph into natural language, which may involve losing or adding irrelevant information. To improve this process, this paper proposes a chain-of-thought enhanced knowledge rewriting approach, which iteratively generates the reasoning paths and corresponding (natural language) results to ensure the accuracy. Besides, it also presents a preference alignment strategy to further optimize the rewriter.
+
+
 *2024-08-28*
 
 #### [CABINET: Content Relevance based Noise Reduction for Table Question Answering](https://arxiv.org/abs/2402.01155)
