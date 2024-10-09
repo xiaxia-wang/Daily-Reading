@@ -13,6 +13,18 @@
 
 
 
+
+*2024-10-09*
+
+#### [Hierarchical Graph Representation Learning with Differentiable Pooling](https://dl.acm.org/doi/10.5555/3327345.3327389)
+
+*Rex Ying, Jiaxuan You, Christopher Morris, Xiang Ren, William L. Hamilton, Jure Leskovec*
+
+*NeurIPS 2018*
+
+DIFFPOOL learns a differentiable soft cluster assignment (implemented as softmax attention among nodes) for nodes at each layer of a deep GNN, mapping nodes to a set of clusters, which then form the coarsened input for the next GNN layer.
+
+
 *2024-09-24*
 
 #### [Calibrating Graph Neural Networks from a Data-centric Perspective](https://dl.acm.org/doi/10.1145/3589334.3645562)
