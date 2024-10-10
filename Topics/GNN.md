@@ -4,14 +4,15 @@
 
 
 
+*2024-10-10*
 
+#### [Cluster-GCN: An Efficient Algorithm for Training Deep and Large Graph Convolutional Networks](https://dl.acm.org/doi/10.1145/3292500.3330925)
 
+*Wei-Lin Chiang, Xuanqing Liu, Si Si, Yang Li, Samy Bengio, Cho-Jui Hsieh*
 
+*KDD 2019*
 
-
-
-
-
+This paper proposes Cluster-GCN as an algorithm that is suitable for SGD-based training by exploiting the graph clustering structure. It works as the following: at each step, it samples a block of nodes that associate with a dense subgraph identified by a graph clustering algorithm, and restricts the neighborhood search within this subgraph. This simple but effective strategy leads to significantly improved memory and computational efficiency while being able to achieve comparable test accuracy with previous algorithms.
 
 
 *2024-10-09*
