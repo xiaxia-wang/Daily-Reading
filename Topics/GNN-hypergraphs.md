@@ -4,7 +4,6 @@
 
 
 
-
 *2024-10-11*
 
 #### [Generalizing Tensor Decomposition for N-ary Relational Knowledge Bases](https://dl.acm.org/doi/10.1145/3366423.3380188)
