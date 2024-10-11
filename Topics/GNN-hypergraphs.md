@@ -4,6 +4,18 @@
 
 
 
+
+*2024-10-11*
+
+#### [Generalizing Tensor Decomposition for N-ary Relational Knowledge Bases](https://dl.acm.org/doi/10.1145/3366423.3380188)
+
+*Yu Liu, Quanming Yao, Yong Li*
+
+*WWW 2020*
+
+This paper focuses on link prediction over n-ary relation knowledge graphs for completion. To generalize tensor decomposition for n-ary relational KBs, it proposes GETD as a generalized model based on Tucker decomposition and Tensor Ring decomposition. The existing negative sampling technique is also generalized to the n-ary case for GETD.
+
+
 *2024-09-29*
 
 #### [Beyond Link Prediction: Predicting Hyperlinks in Adjacency Space](https://aaai.org/papers/11780-beyond-link-prediction-predicting-hyperlinks-in-adjacency-space/)
