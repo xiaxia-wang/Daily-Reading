@@ -4,6 +4,18 @@
 
 
 
+
+*2024-10-12*
+
+#### [Knowledge Hypergraph Embedding Meets Relational Algebra](https://www.jmlr.org/papers/v24/22-063.html)
+
+*Bahare Fatemi, Perouz Taslakian, David Vazquez, David Poole*
+
+*JMLR 2023*
+
+This paper proposes a simple embedding-based model called Relational Algebra Embedding (ReAlE) that performs link prediction in knowledge hypergraphs. By exploring the space between relational algebra foundations and machine learning techniques for knowledge completion, it shows that ReAlE is fully expressive and can represent the relational algebra operations of renaming, projection, set union, selection, and set difference.
+
+
 *2024-10-11*
 
 #### [Generalizing Tensor Decomposition for N-ary Relational Knowledge Bases](https://dl.acm.org/doi/10.1145/3366423.3380188)
