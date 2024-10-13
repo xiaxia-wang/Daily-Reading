@@ -5,6 +5,18 @@
 
 
 
+
+*2024-10-13*
+
+#### [HJE: Joint Convolutional Representation Learning for Knowledge Hypergraph Completion](https://ieeexplore.ieee.org/document/10436025)
+
+*Zhao Li, Chenxu Wang, Xin Wang, Zirui Chen, Jianxin Li*
+
+*TKDE 2024*
+
+This paper proposes an embedding-based hypergraph link prediction approach, which achieves embedding of position information into all convolutional paths by constructing a unified learnable position embedding matrix for each entity position in the knowledge tuple. It is commendable that it not only realizes the complete embedding of entity position information but also avoids constructing redundant convolutional kernels to reduce the complexity of the model.
+
+
 *2024-10-12*
 
 #### [Knowledge Hypergraph Embedding Meets Relational Algebra](https://www.jmlr.org/papers/v24/22-063.html)
