@@ -4,6 +4,18 @@
 
 
 
+
+*2024-10-14*
+
+#### [Linguini: A benchmark for language-agnostic linguistic reasoning](https://arxiv.org/abs/2409.12126)
+
+*Eduardo Sánchez, Belen Alastruey, Christophe Ropers, Pontus Stenetorp, Mikel Artetxe, Marta R. Costa-jussà*
+
+*Arxiv 2024*
+
+This paper proposes a benchmark to measure a language model's linguistic reasoning skills without relying on pre-existing language-specific knowledge. The test covers 894 questions grouped in 160 problems across 75 (mostly) extremely low-resource languages, extracted from the International Linguistic Olympiad corpus. To attain high accuracy on this benchmark, models don't need previous knowledge of the tested language, as all the information needed to solve the linguistic puzzle is presented in the context. The results show that, while all analyzed models rank below 25% accuracy, there is a significant gap between open and closed models.
+
+
 *2024-10-06*
 
 #### [Application of Generative AI as an Enterprise Wikibase Knowledge Graph Q&A System](https://aclanthology.org/2024.kallm-1.4/)
