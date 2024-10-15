@@ -6,6 +6,18 @@
 
 
 
+
+*2024-10-15*
+
+#### [FastHGNN: A New Sampling Technique for Learning with Hypergraph Neural Networks](https://dl.acm.org/doi/full/10.1145/3663670)
+
+*Fengcheng Lu, Michael Kwok-Po Ng*
+
+*ACM Transactions on Knowledge Discovery from Data 2024*
+
+This paper proposes a sampling technique for learning with hypergraph neural networks. The core idea is to design a layer-wise sampling scheme for nodes and hyperedges to approximate the original hypergraph convolution. Specifically, it rewrites hypergraph convolution in the form of double integral and leverages Monte Carlo to achieve a discrete and consistent estimator. In addition, it applies importance sampling and derives feasible probability mass functions for both nodes and hyperedges in consideration of variance reduction.
+
+
 *2024-10-13*
 
 #### [HJE: Joint Convolutional Representation Learning for Knowledge Hypergraph Completion](https://ieeexplore.ieee.org/document/10436025)
