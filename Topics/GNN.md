@@ -4,6 +4,18 @@
 
 
 
+
+*2024-10-16*
+
+#### [SHINE: A Scalable Heterogeneous Inductive Graph Neural Network for Large Imbalanced Datasets](https://ieeexplore.ieee.org/document/10478631)
+
+*Rafaël Van Belle, Jochen De Weerdt*
+
+*IEEE TKDE 2024*
+
+This paper proposes a scalable heterogeneous inductive GNN for node classification over large imbalanced datasets, which comprises three core components: (1) a sampler based on nearest-neighbor (NN) search, (2) a heterogeneous GNN (HGNN) layer with a novel relationship aggregator, and (3) aggregator functions tailored to skewed class distributions.
+
+
 *2024-10-10*
 
 #### [Cluster-GCN: An Efficient Algorithm for Training Deep and Large Graph Convolutional Networks](https://dl.acm.org/doi/10.1145/3292500.3330925)
