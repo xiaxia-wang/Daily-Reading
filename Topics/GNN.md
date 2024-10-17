@@ -5,6 +5,18 @@
 
 
 
+
+*2024-10-17*
+
+#### [Hierarchical Dynamic Graph Clustering Network](https://ieeexplore.ieee.org/document/10320217)
+
+*Jie Chen, Licheng Jiao, Xu Liu, Lingling Li, Fang Liu, Puhua Chen, Shuyuan Yang, Biao Hou*
+
+*IEEE TKDE 2023*
+
+This paper proposes a hierarchical dynamic graph clustering network for visual feature learning. The initial graph is constructed in high-dimensional feature domain of images. To mine the hierarchical geometric features in latent graph space, adaptive clustering network (ClusterNet) is performed to learn discriminative clusters and generates cluster-based coarse graph. Then, graph convolutional networks are used to diffuse, transform and aggregate information among clusters.
+
+
 *2024-10-16*
 
 #### [SHINE: A Scalable Heterogeneous Inductive Graph Neural Network for Large Imbalanced Datasets](https://ieeexplore.ieee.org/document/10478631)
