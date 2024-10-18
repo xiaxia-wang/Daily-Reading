@@ -6,6 +6,18 @@
 
 
 
+
+*2024-10-18*
+
+#### [NPA: Improving Large-scale Graph Neural Networks with Non-parametric Attention](https://dl.acm.org/doi/10.1145/3626246.3653399)
+
+*Wentao Zhang, Guochen Yan, Yu Shen, Yang Ling, Yangyu Tao, Bin Cui, Jian Tang*
+
+*SIGMOD 2024*
+
+This paper proposes non-parametric attention (NPA), a plug-and-play module for non-parametric GNNs. To address the issue of over-smoothing, NPA introduces global attention by assigning node-adaptive attention weights to newly propagated features to measure the newly generated global information compared with the previous features. In this way, it can adaptively remove the over-smoothed and redundant feature information in each propagation step. To tackle the fixed propagation weights issue in local feature propagation, NPA further proposes local attention to consider the similarity of propagated features and assigns more attention (i.e., larger propagation weight) to similar nodes in each propagation step.
+
+
 *2024-10-17*
 
 #### [Hierarchical Dynamic Graph Clustering Network](https://ieeexplore.ieee.org/document/10320217)
