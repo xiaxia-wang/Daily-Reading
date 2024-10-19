@@ -7,6 +7,18 @@
 
 
 
+
+*2024-10-19*
+
+#### [Rethinking Node-wise Propagation for Large-scale Graph Learning](https://dl.acm.org/doi/10.1145/3589334.3645450)
+
+*Xunkai Li, Jingyuan Ma, Zhengyu Wu, Daohan Su, Wentao Zhang, Rong-Hua Li, Guoren Wang*
+
+*WWW 2024*
+
+To address the issue that existing node-wise propagation optimization strategies are insufficient on web-scale graphs with intricate topology, where a full portrayal of nodes' local properties is required, this paper proposes Adaptive Topology-aware Propagation (ATP), which reduces potential high-bias propagation and extracts structural patterns of each node in a scalable manner to improve running efficiency and predictive performance. Specifically, ATP is crafted to be a plug-and-play node-wise propagation optimization strategy, allowing for offline execution independent of the graph learning process.
+
+
 *2024-10-18*
 
 #### [NPA: Improving Large-scale Graph Neural Networks with Non-parametric Attention](https://dl.acm.org/doi/10.1145/3626246.3653399)
