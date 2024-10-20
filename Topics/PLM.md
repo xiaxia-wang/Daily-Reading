@@ -5,6 +5,18 @@
 
 
 
+
+*2024-10-20*
+
+#### [Knowledge Circuits in Pretrained Transformers](https://arxiv.org/abs/2405.17969)
+
+*Yunzhi Yao, Ningyu Zhang, Zekun Xi, Mengru Wang, Ziwen Xu, Shumin Deng, Huajun Chen*
+
+*NeurIPS 2024*
+
+This paper investigates the computation graph of language models, focusing on knowledge circuits, a critical subgraph in the language model to view the knowledge mechanism of Transformers. Specifically, it analyzes the information flow in the connected directed acyclic graph (DAG) representing the model, where individual nodes represent various components involved in the forward pass, such as neurons, attention heads, and embeddings. The edges symbolize interactions between these components, including residual connections, attention mechanisms, and projections.
+
+
 *2024-07-25*
 
 #### [Learning In-context Learning for Named Entity Recognition](https://aclanthology.org/2023.acl-long.764/)
