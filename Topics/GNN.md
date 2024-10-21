@@ -6,9 +6,6 @@
 
 
 
-
-
-
 *2024-10-21*
 
 #### [PaSca: A Graph Neural Architecture Search System under the Scalable Paradigm](https://dl.acm.org/doi/10.1145/3485447.3511986)
