@@ -8,6 +8,18 @@
 
 
 
+
+*2024-10-21*
+
+#### [PaSca: A Graph Neural Architecture Search System under the Scalable Paradigm](https://dl.acm.org/doi/10.1145/3485447.3511986)
+
+*Wentao Zhang, Yu Shen, Zheyu Lin, Yang Li, Xiaosen Li, Wen Ouyang, Yangyu Tao, Zhi Yang, Bin Cui*
+
+*WWW 2022*
+
+This paper summarizes a new paradigm that offers a principled approach to systemically construct the design space for scalable GNNs, rather than studying individual designs. Through deconstructing the message passing mechanism, it presents a novel Scalable Graph Neural Architecture Paradigm, together with a general architecture design space consisting of 150k different designs. Following this paradigm, it implements an auto-search engine that automatically searches well-performing and scalable GNN architectures to balance the trade-off between multiple criteria (e.g., accuracy and efficiency) via multi-objective optimization.
+
+
 *2024-10-19*
 
 #### [Rethinking Node-wise Propagation for Large-scale Graph Learning](https://dl.acm.org/doi/10.1145/3589334.3645450)
