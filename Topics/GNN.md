@@ -6,6 +6,18 @@
 
 
 
+
+*2024-10-22*
+
+#### [Graph Embedding with Hierarchical Attentive Membership](https://dl.acm.org/doi/10.1145/3488560.3498499)
+
+*Lu Lin, Ethan Blaser, Hongning Wang*
+
+*WSDM 2022*
+
+This paper studies the property of graphs as latent hierarchical grouping of nodes, where each node manifests its membership to a specific group based on the context composed by its neighboring nodes. In each layer of the aggregation operation, a group membership is firstly sampled for each node. Then the information from neighbors is attended by the inferred membership to generate node states for the next layer. The node states for each layer are learned by recovering the context within a certain neighborhood scope. Meanwhile, inter-layer constraints are introduced to inject the inclusive relation between membership assignments across layers.
+
+
 *2024-10-21*
 
 #### [PaSca: A Graph Neural Architecture Search System under the Scalable Paradigm](https://dl.acm.org/doi/10.1145/3485447.3511986)
