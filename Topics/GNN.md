@@ -7,6 +7,17 @@
 
 
 
+*2024-10-23*
+
+#### [Ada-GNN: Adapting to Local Patterns for Improving Graph Neural Networks](https://dl.acm.org/doi/10.1145/3488560.3498460)
+
+*Zihan Luo, Jianxun Lian, Hong Huang, Hai Jin, Xing Xie*
+
+*WSDM 2022*
+
+Instead of using a unified model to learn representations for all nodes on a large graph, this paper proposes a model-agnostic framework for scalable GNNs to improve their performance by generating personalized models at the subgroup-level. Specifically, it first applies a graph partition algorithm like METIS to divide the whole graph into multiple non-overlapped subgraphs, and tags each node with its corresponding subgraph ID as a group-wise label. Then a meta adapter is designed to learn a good global model from all subgroups and adapts to local models with a few instances in a subgraph, which helps preserve global coherence and learn local distinction.
+
+
 *2024-10-22*
 
 #### [Graph Embedding with Hierarchical Attentive Membership](https://dl.acm.org/doi/10.1145/3488560.3498499)
