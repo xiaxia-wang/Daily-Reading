@@ -7,6 +7,18 @@
 
 
 
+
+*2024-10-24*
+
+#### [ByteGNN: efficient graph neural network training at large scale](https://dl.acm.org/doi/10.14778/3514061.3514069)
+
+*Chenguang Zheng, Hongzhi Chen, Yuxuan Cheng, Zhezheng Song, Yifan Wu, Changji Li, James Cheng, Hao Yang, Shuai Zhang*
+
+*Proceedings of the VLDB Endowment, Volume 15, Issue 6, 2022*
+
+To address the issues of existing distributed GNN training systems including high network communication cost, low CPU utilization, and poor end-to-end performance, this paper proposes ByteGNN with three key designs: (1) an abstraction of mini-batch graph sampling to support high parallelism, (2) a two-level scheduling strategy to improve resource utilization and to reduce the end-to-end GNN training time, and (3) a graph partitioning algorithm tailored for GNN workloads.
+
+
 *2024-10-23*
 
 #### [Ada-GNN: Adapting to Local Patterns for Improving Graph Neural Networks](https://dl.acm.org/doi/10.1145/3488560.3498460)
