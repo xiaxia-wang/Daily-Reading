@@ -8,6 +8,18 @@
 
 
 
+
+*2024-10-25*
+
+#### [Sampling Methods for Efficient Training of Graph Convolutional Networks: A Survey](https://ieeexplore.ieee.org/document/9601152/)
+
+*Xin Liu, Mingyu Yan, Lei Deng, Guoqi Li, Xiaochun Ye, Dongrui Fan*
+
+*IEEE/CAA Journal of Automatica Sinica 2022*
+
+This paper categorizes sampling methods for efficient training of GCN, including node-wise, layer-wise, subgraph-based, and heterogeneous sampling. To highlight the characteristics and differences of sampling methods, it also presents a detailed comparison within each category and gives an overall comparative analysis for the sampling methods in all categories.
+
+
 *2024-10-24*
 
 #### [ByteGNN: efficient graph neural network training at large scale](https://dl.acm.org/doi/10.14778/3514061.3514069)
