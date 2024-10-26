@@ -9,6 +9,18 @@
 
 
 
+
+*2024-10-26*
+
+#### [SAGES: Scalable Attributed Graph Embedding With Sampling for Unsupervised Learning](https://ieeexplore.ieee.org/document/9705119)
+
+*Jialin Wang, Xiaoru Qu, Jinze Bai, Zhao Li, Ji Zhang, Jun Gao*
+
+*IEEE TKDE 2023*
+
+This paper proposes a graph sampler that considers both the node connections and node attributes, thus nodes having a high influence on each other will be sampled in the same subgraph. After that, an unbiased Graph Autoencoder (GAE) with structure-level, content-level, and community-level reconstruction loss is built on the properly-sampled subgraphs in each epoch.
+
+
 *2024-10-25*
 
 #### [Sampling Methods for Efficient Training of Graph Convolutional Networks: A Survey](https://ieeexplore.ieee.org/document/9601152/)
