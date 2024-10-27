@@ -10,6 +10,18 @@
 
 
 
+
+*2024-10-27*
+
+#### [Large scale learning on non-homophilous graphs: new benchmarks and strong simple methods](https://dl.acm.org/doi/10.5555/3540261.3541859)
+
+*Derek Lim, Felix Hohne, Xiuyu Li, Sijia Linda Huang, Vaishnavi Gupta, Omkar Bhalerao, Ser-Nam Lim*
+
+*NeurIPS 2021*
+
+Graph machine learning on homophilous graphs usually assumes that nodes with similar labels are likely to connect with each other However, previous works demonstrated performance degradation on non-homophilous graphs. To address the issue, this paper first collects diverse nonhomophilous datasets from a variety of application areas to form a large non-homophilous graph. Then it proposes a simple method that admits straightforward minibatch training and inference, with superior performance.
+
+
 *2024-10-26*
 
 #### [SAGES: Scalable Attributed Graph Embedding With Sampling for Unsupervised Learning](https://ieeexplore.ieee.org/document/9705119)
