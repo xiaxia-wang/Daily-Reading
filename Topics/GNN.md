@@ -11,6 +11,18 @@
 
 
 
+
+*2024-10-28*
+
+#### [Decoupling the depth and scope of graph neural networks](https://dl.acm.org/doi/10.5555/3540261.3541765)
+
+*Hanqing Zeng, Muhan Zhang, Yinglong Xia, Ajitesh Srivastava, Andrey Malevich, Rajgopal Kannan, Viktor Prasanna, Long Jin, Ren Chen*
+
+*NeurIPS 2021*
+
+To handle the issue of oversmoothing of GNN models, this paper decouples the depth and scope of GNNs – to generate representation of a target entity by first extracting a localized subgraph as the bounded-size scope, and then applying a GNN of arbitrary depth on top of the subgraph. A properly extracted subgraph consists of a small number of critical neighbors, while excluding irrelevant ones.
+
+
 *2024-10-27*
 
 #### [Large scale learning on non-homophilous graphs: new benchmarks and strong simple methods](https://dl.acm.org/doi/10.5555/3540261.3541859)
