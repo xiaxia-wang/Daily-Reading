@@ -5,6 +5,18 @@
 
 
 
+
+*2024-10-29*
+
+#### [Tree-of-Traversals: A Zero-Shot Reasoning Algorithm for Augmenting Black-box Language Models with Knowledge Graphs](https://arxiv.org/abs/2407.21358)
+
+*Elan Markowitz, Anil Ramakrishna, Jwala Dhamala, Ninareh Mehrabi, Charith Peris, Rahul Gupta, Kai-Wei Chang, Aram Galstyan*
+
+*ACL 2024*
+
+This paper applies the tree-of-thought approach for KBQA with the help of LLMs to select the appropriate entity/relaiton for expanding the subgraph. Specifically, the initial graph contains seed entities from the query, and each subsequent step consists of selecting a tree node, sampling thoughts or actions by the LLM, performing actions, and evaluating outputs with the LLM.
+
+
 *2024-10-14*
 
 #### [Linguini: A benchmark for language-agnostic linguistic reasoning](https://arxiv.org/abs/2409.12126)
