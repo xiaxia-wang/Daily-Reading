@@ -12,6 +12,18 @@
 
 
 
+
+*2024-10-30*
+
+#### [Making RDF presentable: integrated global and local semantic Web browsing](https://dl.acm.org/doi/abs/10.1145/1060745.1060777)
+
+*Lloyd Rutledge, Jacco van Ossenbruggen, Lynda Hardman*
+
+*WWW 2005*
+
+To facilitate the user's browsing of search results from RDF repositories, this paper proposes to generate a structural summary by clustering-based derivation of document structure from search returns. It provides a simple and domain-independent hypermedia generation from RDF stores.
+
+
 *2024-07-24*
 
 #### [A Comprehensive Survey on Graph Reduction: Sparsification, Coarsening, and Condensation](https://arxiv.org/abs/2402.03358)
