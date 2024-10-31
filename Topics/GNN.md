@@ -1,15 +1,15 @@
 
 
 
+*2024-10-31*
 
+#### [VQ-GNN: a universal framework to scale-up graph neural networks using vector quantization](https://dl.acm.org/doi/10.5555/3540261.3540777)
 
+*Mucong Ding, Kezhi Kong, Jingling Li, Chen Zhu, John Dickerson, Furong Huang, Tom Goldstein*
 
+*NeurIPS 2021*
 
-
-
-
-
-
+This paper proposes a framework to scale up any convolution-based GNNs using Vector Quantization (VQ) without compromising the performance. In contrast to sampling-based techniques, it is able to preserve all the messages passed in a mini-batch of nodes by learning and updating a small number of quantized reference vectors of global node representations, using VQ within each GNN layer.
 
 
 *2024-10-28*
