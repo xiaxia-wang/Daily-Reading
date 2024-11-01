@@ -1,6 +1,18 @@
 
 
 
+
+*2024-11-01*
+
+#### [Node2Grids: A Cost-Efficient Uncoupled Training Framework for Large-Scale Graph Learning](https://dl.acm.org/doi/10.1145/3459637.3482456)
+
+*Dalong Yang, Chuan Chen, Youhao Zheng, Zibin Zheng, Shih-wei Liao*
+
+*CIKM 2021*
+
+This paper proposes a training framework that leverages the independent mapped data for obtaining the embedding. Instead of directly processing the coupled nodes, it maps the coupled graph data into independent grid-like data which can be fed into uncoupled models as CNN. To begin with, the central node is mapped to the Euclidean structured grid with the size of $k$ × 1 × 3. Then a convolutional layer is used to extract information from the grid-like data. Next, the proposed model employs attention filters to learn the weight of each grid, and fully-connected layers are finally applied to obtain the output.
+
+
 *2024-10-31*
 
 #### [VQ-GNN: a universal framework to scale-up graph neural networks using vector quantization](https://dl.acm.org/doi/10.5555/3540261.3540777)
