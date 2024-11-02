@@ -2,6 +2,18 @@
 
 
 
+
+*2024-11-02*
+
+#### [Towards Self-Explainable Graph Neural Network](https://dl.acm.org/doi/10.1145/3459637.3482306)
+
+*Enyan Dai, Suhang Wang*
+
+*CIKM 2021*
+
+This paper proposes a GNN framework to find K-nearest labeled nodes for any unlabeled node, as an explanation for node classification, where nearest labeled nodes are found by ``interpretable'' similarity module in terms of both node similarity and local structure similarity.
+
+
 *2024-11-01*
 
 #### [Node2Grids: A Cost-Efficient Uncoupled Training Framework for Large-Scale Graph Learning](https://dl.acm.org/doi/10.1145/3459637.3482456)
