@@ -4,6 +4,18 @@
 
 
 
+
+*2024-11-03*
+
+#### [Pathfinder Discovery Networks for Neural Message Passing](https://dl.acm.org/doi/10.1145/3442381.3449882)
+
+*Benedek Rozemberczki, Peter Englert, Amol Kapoor, Martin Blais, Bryan Perozzi*
+
+*WWW 2021*
+
+This paper proposes the pathfinder layer, a differentiable neural network layer which is able to combine multiple sources of proximity information defined over a set of nodes to form a single weighted graph. The pathfinder layer uses a feed forward neural network to learn the edge weights while the sparsity of the underlying weighted multiplex graph is unchanged. This layer feeds directly into a downstream GNN model that is set up to learn arbitrary tasks – in this paper, semi-supervised node classification.
+
+
 *2024-11-02*
 
 #### [Towards Self-Explainable Graph Neural Network](https://dl.acm.org/doi/10.1145/3459637.3482306)
