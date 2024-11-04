@@ -5,6 +5,18 @@
 
 
 
+
+*2024-11-04*
+
+#### [Mixup for Node and Graph Classification](https://dl.acm.org/doi/10.1145/3442381.3449796)
+
+*Yiwei Wang, Wei Wang, Yuxuan Liang, Yujun Cai, Bryan Hooi*
+
+*WWW 2021*
+
+This paper proposes mixup approaches for augmenting graph data for node and graph classification. To interpolate the irregular graph topology, it proposes a two-branch graph convolution to mix the receptive field subgraphs for the paired nodes. mixup on different node pairs can interfere with the mixed features for each other due to the connectivity between nodes. To block this interference, a two-stage mixup framework was proposed by using each node’s neighbors’ representations before mixup for graph convolutions. For graph classification, it interpolates complex and diverse graphs in the semantic space.
+
+
 *2024-11-03*
 
 #### [Pathfinder Discovery Networks for Neural Message Passing](https://dl.acm.org/doi/10.1145/3442381.3449882)
