@@ -6,6 +6,18 @@
 
 
 
+
+*2024-11-05*
+
+#### [Open graph benchmark: datasets for machine learning on graphs](https://dl.acm.org/doi/10.5555/3495724.3497579)
+
+*Weihua Hu, Matthias Fey, Marinka Zitnik, Yuxiao Dong, Hongyu Ren, Bowen Liu, Michele Catasta, Jure Leskovec*
+
+*NeurIPS 2020*
+
+This paper introduces the OPEN GRAPH BENCHMARK, a diverse set of challenging and realistic benchmark datasets to facilitate scalable, robust, and reproducible graph machine learning (ML) research.
+
+
 *2024-11-04*
 
 #### [Mixup for Node and Graph Classification](https://dl.acm.org/doi/10.1145/3442381.3449796)
