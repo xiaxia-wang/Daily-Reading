@@ -7,6 +7,22 @@
 
 
 
+
+
+
+
+
+*2024-11-06*
+
+#### [Subgraph neural networks](https://dl.acm.org/doi/10.5555/3495724.3496396)
+
+*Emily Alsentzer, Samuel G. Finlayson, Michelle M. Li, Marinka Zitnik*
+
+*NeurIPS 2020*
+
+This paper proposes a subgraph neural network to learn disentangled subgraph representations. Specifically, it introduces a subgraph routing mechanism that propagates neural messages between the subgraph’s connected components and (randomly sampled) anchor patches from the underlying graph. It specifies three channels, namely, position, neighborhood, and structure, each designed to capture a distinct aspect of subgraph topology.
+
+
 *2024-11-05*
 
 #### [Open graph benchmark: datasets for machine learning on graphs](https://dl.acm.org/doi/10.5555/3495724.3497579)
