@@ -5,11 +5,15 @@
 
 
 
+*2024-11-07*
 
+#### [Minimal Variance Sampling with Provable Guarantees for Fast Training of Graph Neural Networks](https://dl.acm.org/doi/10.1145/3394486.3403192)
 
+*Weilin Cong, Rana Forsati, Mahmut Kandemir, Mehrdad Mahdavi*
 
+*KDD 2020*
 
-
+Existing sampling methods are mostly based on the graph structural information and ignore the dynamicity of optimization, which leads to the issue of high variance in estimating the stochastic gradients. To address that, this paper shows that the variance of any sampling method can be decomposed into embedding approximation variance in the forward stage and stochastic gradient variance in the backward stage. Then it proposes a decoupled variance reduction strategy that employs (approximate) gradient information to adaptively sample nodes with minimal variance, and explicitly reduces the variance introduced by embedding approximation.
 
 
 *2024-11-06*
