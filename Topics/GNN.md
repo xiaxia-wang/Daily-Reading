@@ -5,6 +5,18 @@
 
 
 
+
+*2024-11-08*
+
+#### [Redundancy-Free Computation for Graph Neural Networks](https://dl.acm.org/doi/10.1145/3394486.3403142)
+
+*Zhihao Jia, Sina Lin, Rex Ying, Jiaxuan You, Jure Leskovec, Alex Aiken*
+
+*KDD 2020*
+
+This paper proposes an adjusted GNN framework that explicitly avoids redundancy by managing intermediate aggregation results hierarchically to eliminate repeated computations and unnecessary data transfers in GNN training and inference. HAGs perform the same computations and give the same models/accuracy as traditional GNNs, but in a much shorter time due to optimized computations. To identify redundant computations, an accurate cost function is introduced with a search algorithm to find optimized HAGs.
+
+
 *2024-11-07*
 
 #### [Minimal Variance Sampling with Provable Guarantees for Fast Training of Graph Neural Networks](https://dl.acm.org/doi/10.1145/3394486.3403192)
