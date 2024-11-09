@@ -4,6 +4,18 @@
 
 
 
+
+*2024-11-09*
+
+#### [A Prompt-Based Knowledge Graph Foundation Model for Universal In-Context Reasoning](https://arxiv.org/abs/2410.12288)
+
+*Yuanning Cui, Zequn Sun, Wei Hu*
+
+*NeurIPS 2024*
+
+This paper proposes a prompt-based KG pretrained model with ICL for reasoning. Specifically, it introduces a prompt graph with a query-related example fact as context to understand the query relation. To encode prompt graphs with the generalization ability to unseen entities and relations in queries, it uses a unified tokenizer that maps entities and relations in prompt graphs to predefined tokens. Then, two message passing neural networks was applied to perform prompt encoding and KG reasoning, respectively.
+
+
 *2024-09-12*
 
 #### [Finetuning Generative Large Language Models with Discrimination Instructions for Knowledge Graph Completion](https://www.arxiv.org/abs/2407.16127)
