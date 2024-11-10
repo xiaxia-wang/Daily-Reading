@@ -6,6 +6,18 @@
 
 
 
+
+*2024-11-10*
+
+#### [Agent Planning with World Knowledge Model](https://arxiv.org/abs/2405.14205)
+
+*Shuofei Qiao, Runnan Fang, Ningyu Zhang, Yuqi Zhu, Xiang Chen, Shumin Deng, Yong Jiang, Pengjun Xie, Fei Huang, Huajun Chen*
+
+*NeurIPS 2024*
+
+This paper proposes a LLM-agent model that synthesizes knowledge from both expert and sampled trajectories, by providing prior task knowledge to guide the global planning and dynamic state knowledge to assist the local planning.
+
+
 *2024-10-29*
 
 #### [Tree-of-Traversals: A Zero-Shot Reasoning Algorithm for Augmenting Black-box Language Models with Knowledge Graphs](https://arxiv.org/abs/2407.21358)
