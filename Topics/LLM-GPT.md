@@ -7,6 +7,18 @@
 
 
 
+
+*2024-11-11*
+
+#### [GAugLLM: Improving Graph Contrastive Learning for Text-Attributed Graphs with Large Language Models](https://dl.acm.org/doi/10.1145/3637528.3672035)
+
+*Yi Fang, Dongzhe Fan, Daochen Zha, Qiaoyu Tan*
+
+*KDD 2024*
+
+To utilize text attributes for node representations, this paper proposes GAugLLM as a framework for augmenting text-attributed graphs. It applies LLMs like Mistral to enhance self-supervised graph learning. Specifically, it introduces a mixture-of-prompt-expert technique to generate augmented node features, It adaptively maps multiple prompt experts, each of which modifies raw text attributes using prompt engineering, into numerical feature space. Besides, based on both structural and textual commonalities, it effectively perturbs edges deemed most spurious or likely to be connected, thereby achieving structural (edge) augmentation.
+
+
 *2024-11-10*
 
 #### [Agent Planning with World Knowledge Model](https://arxiv.org/abs/2405.14205)
