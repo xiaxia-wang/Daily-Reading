@@ -8,6 +8,18 @@
 
 
 
+
+*2024-11-12*
+
+#### [Improving Long-Tail Item Recommendation with Graph Augmentation](https://dl.acm.org/doi/10.1145/3583780.3614929)
+
+*Sichun Luo, Chen Ma, Yuanzhang Xiao, Linqi Song*
+
+*CIKM 2023*
+
+This paper proposes a graph augmentation approach for long-tail recommendation, which can be plugged into any graph-based recommendation models to improve the performance for tail items. It incorporates an edge addition module that enriches the graph's connectivity for tail items by injecting item-to-item edges between similar items based on user-item interaction records. Besides, to balance the graph structure, it utilizes a degree-aware edge dropping strategy, preserving the more valuable edges from the tail items while selectively discarding less informative edges from the head items.
+
+
 *2024-07-29*
 
 #### [A Setwise Approach for Effective and Highly Efficient Zero-shot Ranking with Large Language Models](https://dl.acm.org/doi/10.1145/3626772.3657813)
