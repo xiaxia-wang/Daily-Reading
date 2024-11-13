@@ -9,6 +9,18 @@
 
 
 
+
+*2024-11-13*
+
+#### [Meta Graph Learning for Long-tail Recommendation](https://dl.acm.org/doi/10.1145/3580305.3599428)
+
+*Chunyu Wei, Jian Liang, Di Liu, Zehui Dai, Mang Li*
+
+*KDD 2023*
+
+To handle the task of recommendation for long-tail entities, this paper proposes a meta-learning framework that avoids the issues of skewed downstream information and negative transfer. Specifically, it first trains a meta edge generator to reconstruct a debiased item co-occurrence matrix from historical interactions, from which it is fine-tuned to extract the collaborative relations among items from their attributes. In the evaluation phase, the unbiased meta edge generator produces item relations as an auxiliary graph, which will participate in the representation learning of items and adapt to the downstream recommendation tasks.
+
+
 *2024-11-12*
 
 #### [Improving Long-Tail Item Recommendation with Graph Augmentation](https://dl.acm.org/doi/10.1145/3583780.3614929)
