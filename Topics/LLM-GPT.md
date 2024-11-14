@@ -8,6 +8,18 @@
 
 
 
+
+*2024-11-14*
+
+#### [Can LLMs Express Their Uncertainty? An Empirical Evaluation of Confidence Elicitation in LLMs](https://arxiv.org/abs/2306.13063)
+
+*Miao Xiong, Zhiyuan Hu, Xinyang Lu, Yifei Li, Jie Fu, Junxian He, Bryan Hooi*
+
+*ICLR 2024*
+
+To better investigate the ability of LLM to estimate the uncertainty of generated answers, this paper proposes a framework for evaluating LLMs, which contains 3 components: *prompting strategies* for eliciting verbalized confidence, *sampling methods* for generating multiple responses, and *aggregation techniques* for computing consistency. The results suggest that (1) LLMs tend to be overconfident, (2) both calibration and failure prediction performance improve with the model capability, (3) some proposed strategies such as prompts are helpful for mitigating the overconfident issue, (4) while white-box methods perform better, the gap is narrow.
+
+
 *2024-11-11*
 
 #### [GAugLLM: Improving Graph Contrastive Learning for Text-Attributed Graphs with Large Language Models](https://dl.acm.org/doi/10.1145/3637528.3672035)
