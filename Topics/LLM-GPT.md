@@ -9,6 +9,18 @@
 
 
 
+
+*2024-11-15*
+
+#### [Teaching Models to Express Their Uncertainty in Words](https://arxiv.org/abs/2205.14334)
+
+*Stephanie Lin, Jacob Hilton, Owain Evans*
+
+*TMLR 2022*
+
+This paper shows that a GPT-3 model can learn to express uncertainty about its own answers in natural language – without use of model logits. When given a question, the model generates both an answer and a level of confidence (e.g. “90% confidence” or “high confidence”), and these levels map to well calibrated probabilities.
+
+
 *2024-11-14*
 
 #### [Can LLMs Express Their Uncertainty? An Empirical Evaluation of Confidence Elicitation in LLMs](https://arxiv.org/abs/2306.13063)
