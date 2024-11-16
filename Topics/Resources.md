@@ -9,6 +9,18 @@
 
 
 
+
+*2024-11-16*
+
+#### [STaRK: Benchmarking LLM Retrieval on Textual and Relational Knowledge Bases](https://arxiv.org/abs/2404.13207)
+
+*Shirley Wu, Shiyu Zhao, Michihiro Yasunaga, Kexin Huang, Kaidi Cao, Qian Huang, Vassilis N. Ioannidis, Karthik Subbian, James Zou, Jure Leskovec*
+
+*NeurIPS 2024*
+
+This paper presents a large-scale Semi-structure retrieval benchmark on Textual and Relational Knowledge Bases, where the key technical challenge is how to accurately simulate user queries on SKBs. This difficulty fundamentally arises from the interdependence of textual and relational information. In this paper, the SKB consists of a entity-relation KB, and a collection of free-text documents where each document is associated with a node in the KB. The process to generate synthetic queries aims to entangle relational and textual information during synthesis and disentangle them during answer filtering.
+
+
 *2024-09-22*
 
 #### [MQuAKE: Assessing Knowledge Editing in Language Models via Multi-Hop Questions](https://arxiv.org/abs/2305.14795)
