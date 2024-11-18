@@ -7,6 +7,18 @@
 
 
 
+
+*2024-11-17*
+
+#### [SE-GSL: A General and Effective Graph Structure Learning Framework through Structural Entropy Optimization](https://arxiv.org/abs/2303.09778)
+
+*Dongcheng Zou, Hao Peng, Xiang Huang, Renyu Yang, Jianxin Li, Jia Wu, Chunyang Liu, Philip S. Yu*
+
+*WWW 2023*
+
+This paper proposes a general graph strcture learning framework, through structural entropy and the graph hierarchy abstracted in the encoding tree. Particularly, it uses the one-dimensional structural entropy to maximize embedded information content while auxiliary neighbourhood attributes are fused to enhance the original graph. It constructs optimal encoding trees to minimize the uncertainty and noises in the graph whilst assuring proper community partition in hierarchical abstraction. A sample-based mechanism was proposed ssssfor restoring the graph structure via node structural entropy distribution.
+
+
 *2024-11-17*
 
 #### [SE-GSL: A General and Effective Graph Structure Learning Framework through Structural Entropy Optimization](https://arxiv.org/abs/2303.09778)
