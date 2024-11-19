@@ -6,8 +6,15 @@
 
 
 
+*2024-11-19*
 
+#### [From Quantity to Quality: Boosting LLM Performance with Self-Guided Data Selection for Instruction Tuning](https://arxiv.org/abs/2308.12032)
 
+*Ming Li, Yong Zhang, Zhitao Li, Jiuhai Chen, Lichang Chen, Ning Cheng, Jianzong Wang, Tianyi Zhou, Jing Xiao*
+
+*NAACL 2024*
+
+This paper proposes a 3-stage process for fine-tuning LLMs, aiming to pick up and utilize the most difficult examples to make the model training more effective. Specifically, it begins by familiarizing the model with a small subset of the dataset, i.e., “Learning from Brief Experience”. Then it computes the Instruction-Following Difficulty (IFD) score for each training example, to evaluate how much help the instruction provides to the generation of the corresponding response. The final step is to re-train the model using examples with relatively large IFD scores as the *cherry data*.
 
 
 *2024-11-15*
