@@ -8,6 +8,18 @@
 
 
 
+
+*2024-11-20*
+
+#### [Understanding over-squashing and bottlenecks on graphs via curvature](https://arxiv.org/abs/2111.14522)
+
+*Jake Topping, Francesco Di Giovanni, Benjamin Paul Chamberlain, Xiaowen Dong, Michael M. Bronstein*
+
+*ICLR 2022*
+
+This paper introduces and analyzes the issue of over-squashing in message-passing neural networks, consisting in the distortion of messages being propagated from distant nodes.
+
+
 *2024-11-17*
 
 #### [SE-GSL: A General and Effective Graph Structure Learning Framework through Structural Entropy Optimization](https://arxiv.org/abs/2303.09778)
