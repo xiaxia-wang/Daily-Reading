@@ -7,6 +7,18 @@
 
 
 
+
+*2024-11-21*
+
+#### [Knowledge Graph Error Detection with Contrastive Confidence Adaption](https://arxiv.org/abs/2312.12108)
+
+*Xiangyu Liu, Yang Liu, Wei Hu*
+
+*AAAI 2024*
+
+This paper proposes a KG error detection model that integrates both textual and graph structural information from triplet reconstruction for better distinguishing semantics. It employs interactive contrastive learning to measure the agreement between textual and structural embeddings for each candidate entity, and evaluates on datasets with semantically-similar noise and adversarial noise.
+
+
 *2024-04-02*
 
 #### [Knowledge graph extension with a pre-trained language model via unified learning method](https://linkinghub.elsevier.com/retrieve/pii/S0950705122013417)
