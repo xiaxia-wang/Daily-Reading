@@ -6,6 +6,18 @@
 
 
 
+
+*2024-11-22*
+
+#### [MKGL: Mastery of a Three-Word Language](https://arxiv.org/abs/2410.07526)
+
+*Lingbing Guo, Zhongpu Bo, Zhuo Chen, Yichi Zhang, Jiaoyan Chen, Yarong Lan, Mengshu Sun, Zhiqiang Zhang, Yangyifei Luo, Qian Li, Qiang Zhang, Wen Zhang, Huajun Chen*
+
+*NeurIPS 2024*
+
+This paper proposes a specialized KG language model. The instruction to the LLM includes a dictionary exemplifying the entity $e_i$ and relation $r_k$, and the task is to construct new KG sentences initialized with $e_ir_k$. It first tokenizes the input text, where the entities and relations are represented as special tokens out of the original vocabulary. To process the special tokens, it first collects embeddings of their constituting text tokens. Then a retriever performs a 4-step process to aggregate textual and relational information into KGL token embeddings, where the first and the last steps are LoRA-like down-scaling and up-scaling operations. The output is embeddings of the special KGL tokens. Similar to the context retriever, a score retriever obtains the score information and outputs a probability distribution among candidate entities.
+
+
 *2024-11-19*
 
 #### [From Quantity to Quality: Boosting LLM Performance with Self-Guided Data Selection for Instruction Tuning](https://arxiv.org/abs/2308.12032)
