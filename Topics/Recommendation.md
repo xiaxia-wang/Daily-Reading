@@ -10,6 +10,18 @@
 
 
 
+
+*2024-11-23*
+
+#### [Train Once, Use Flexibly: A Modular Framework for Multi-Aspect Neural News Recommendation](https://arxiv.org/abs/2307.16089)
+
+*Andreea Iana, Goran Glavaš, Heiko Paulheim*
+
+*EMNLP 2024*
+
+This paper proposes a news recommendation framework that facilitates model reusements. Specifically, the framework consists of not only a content-based recommender (by fine-tuning a PLM), but also individual recommenders for multiple aspects. Each aspect contains multiple classes, and each downstream recommendation task has a personalized preference over the aspects, thus achieving personalized recommendation without changing each individual aspect recommender.
+
+
 *2024-11-13*
 
 #### [Meta Graph Learning for Long-tail Recommendation](https://dl.acm.org/doi/10.1145/3580305.3599428)
