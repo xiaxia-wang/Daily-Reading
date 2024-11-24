@@ -7,6 +7,18 @@
 
 
 
+
+*2024-11-24*
+
+#### [GPTKB: Building Very Large Knowledge Bases from Language Models](https://arxiv.org/abs/2411.04920)
+
+*Yujia Hu, Shrestha Ghosh, Tuan-Phong Nugyen, Simon Razniewski*
+
+*Arxiv 2024*
+
+This paper proposes to build a large general-domain KB entirely from large language models, which demonstrates the feasibility of large-scale KB construction from LLMs, while highlighting specific challenges arising around entity recognition, entity and property canonicalization, and taxonomy construction.
+
+
 *2024-11-22*
 
 #### [MKGL: Mastery of a Three-Word Language](https://arxiv.org/abs/2410.07526)
