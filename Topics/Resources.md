@@ -10,6 +10,18 @@
 
 
 
+
+*2024-11-25*
+
+#### [COKE: A Cognitive Knowledge Graph for Machine Theory of Mind](https://arxiv.org/abs/2305.05390)
+
+*Jincenzi Wu, Zhuang Chen, Jiawen Deng, Sahand Sabour, Helen Meng, Minlie Huang*
+
+*ACL 2024*
+
+This paper proposes a cognitive knowledge graph for enhancing large models to understand human's social cognition. Specifically, it is a set of cognitive chains containing nodes representing (1) situations denote the social circumstances; (2) clues denote the trigger factors; (3) thoughts denote the mental activities; (4) actions denote the behavioral responses; and (5) emotions denote the affective responses. By combining the proposed dataset with LLaMA-2, it also proposes a cognitive LLM for predicting the chain as situation -> clue -> thought -> (action + emotion) that simulates the human's cognitive process.
+
+
 *2024-11-16*
 
 #### [STaRK: Benchmarking LLM Retrieval on Textual and Relational Knowledge Bases](https://arxiv.org/abs/2404.13207)
