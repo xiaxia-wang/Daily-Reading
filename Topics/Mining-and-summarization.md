@@ -5,12 +5,15 @@
 
 
 
+*2024-11-26*
 
+#### [Finding meaningful paths in heterogeneous graphs with PathWays](https://www.sciencedirect.com/science/article/pii/S0306437924001212)
 
+*Nelly Barret, Antoine Gauquier, Jia-Jean Law, Ioana Manolescu*
 
+*Information Systems 2025*
 
-
-
+This paper proposes an approach that first transforms various formats of files (including RDF, XML, HTML, JSON, relational, CSV, property graphs, and documents) into data graphs, and then investigates the meaningful paths over each data graph as (extractive) visual ER-style summary for the data.
 
 
 *2024-10-30*
