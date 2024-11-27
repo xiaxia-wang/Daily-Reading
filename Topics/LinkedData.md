@@ -3,12 +3,15 @@
 
 
 
+*2024-11-27*
 
+#### [Graph integration of structured, semistructured and unstructured data for data journalism](https://www.sciencedirect.com/science/article/pii/S0306437921000806)
 
+*Angelos Christos Anadiotis, Oana Balalau, Catarina Conceição, Helena Galhardas, Mhd Yamen Haddad, Ioana Manolescu, Tayeb Merabti, Jingmao You*
 
+*Information Systems 2022*
 
-
-
+This paper proposes a tool that aims to integrate arbitrary heterogeneous datasets into a unique graph, and query them with keywords. Specifically, it integrates multiple formats of data files, and proposes an algorithm to find matches across heterogeneous data sources while preserving each node within its original source.
 
 
 *2024-09-17*
