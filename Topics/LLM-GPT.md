@@ -8,6 +8,18 @@
 
 
 
+
+*2024-11-28*
+
+#### [To Forget or Not? Towards Practical Knowledge Unlearning for Large Language Models](https://arxiv.org/abs/2407.01920)
+
+*Bozhong Tian, Xiaozhuan Liang, Siyuan Cheng, Qingbin Liu, Mengru Wang, Dianbo Sui, Xi Chen, Huajun Chen, Ningyu Zhang*
+
+*EMNLP 2024 Findings*
+
+This paper introduces a benchmark containing copyrighted content and user privacy domains to evaluate if the unlearning process for LLMs inadvertently erases essential knowledge.The findings suggest that existing unlearning methods often suffer from excessive unlearning.
+
+
 *2024-11-24*
 
 #### [GPTKB: Building Very Large Knowledge Bases from Language Models](https://arxiv.org/abs/2411.04920)
