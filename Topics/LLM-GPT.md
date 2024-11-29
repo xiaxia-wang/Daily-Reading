@@ -9,6 +9,18 @@
 
 
 
+
+*2024-11-29*
+
+#### [Can Large Language Models Understand DL-Lite Ontologies? An Empirical Study](https://arxiv.org/abs/2406.17532)
+
+*Keyu Wang, Guilin Qi, Jiaqi Li, Songlin Zhai*
+
+*EMNLP 2024 Findings*
+
+This paper investigates the ability of LLMs to understand DL-Lite ontologies. Specifically, for the syntactic aspect, it evaluates whether LLMs can comprehend structural rules, valid statements, and expressions of DL-Lite through syntax checking. For the semantic aspect, it tests whether LLMs can understand the semantics of concepts and roles from intension and extension, by subsumption of concepts or roles, and instance checking, respectively. Additionally, it probes property characteristics in DL-Lite ontologies, such as inverse roles and functional roles. Query answering and ontology satisfiability checking were conducted to evaluate whether LLMs can understand the semantics of the whole ontologies.
+
+
 *2024-11-28*
 
 #### [To Forget or Not? Towards Practical Knowledge Unlearning for Large Language Models](https://arxiv.org/abs/2407.01920)
