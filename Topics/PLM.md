@@ -6,6 +6,18 @@
 
 
 
+
+*2024-11-30*
+
+#### [Do PLMs Know and Understand Ontological Knowledge?](https://aclanthology.org/2023.acl-long.173/)
+
+*Weiqi Wu, Chengyue Jiang, Yong Jiang, Pengjun Xie, Kewei Tu*
+
+*ACL 2023*
+
+This paper investigates how well PLMs are able to memorize: (1) types of entities; (2) hierarchical relationships among classes and properties; (3) domain and range constraints of properties. To probe whether PLMs truly understand ontological knowledge beyond memorization, it evaluates whether PLMs can reliably perform logical reasoning with given knowledge according to ontological entailment rules. Results show that, although they can memorize certain ontological knowledge and utilize implicit knowledge in reasoning, both performances are less than perfect.
+
+
 *2024-10-20*
 
 #### [Knowledge Circuits in Pretrained Transformers](https://arxiv.org/abs/2405.17969)
