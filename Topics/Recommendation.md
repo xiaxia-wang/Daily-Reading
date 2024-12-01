@@ -11,6 +11,18 @@
 
 
 
+
+*2024-12-01*
+
+#### [DLCRec: A Novel Approach for Managing Diversity in LLM-Based Recommender Systems](https://arxiv.org/abs/2408.12470)
+
+*Jiaju Chen, Chongming Gao, Shuai Yuan, Shuchang Liu, Qingpeng Cai, Peng Jiang*
+
+*KDD 2024*
+
+To improve the ability of diversified recommendation, this paper proposes a framework with fine-grained control over diversity of user preferences. Specifically, the framework consists of three sub-tasks, namely, genre prediction, genre filling, and item prediction. These sub-tasks are trained independently and inferred sequentially according to user-defined control numbers, ensuring more precise control over diversity. Besides, to overcome the challenge of data scarcity and uneven distribution of diversity-related user behavior for fine-tuning, two data augmentation techniques are introduced to enhance the model's robustness to noisy and out-of-distribution data.
+
+
 *2024-11-23*
 
 #### [Train Once, Use Flexibly: A Modular Framework for Multi-Aspect Neural News Recommendation](https://arxiv.org/abs/2307.16089)
