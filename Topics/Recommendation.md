@@ -3,13 +3,15 @@
 
 
 
+*2024-12-02*
 
+#### [Pay Attention to Attention for Sequential Recommendation](https://arxiv.org/abs/2410.21048)
 
+*Yuli Liu, Min Liu, Xiaojing Liu*
 
+*RecSys 2024*
 
-
-
-
+This paper proposes a new approach for sequential recommendation called attention weight refinement. Specifically, it implements an "attention over attention scores" mechanism, aiming at allowing for more refined attention distributions of correlations among items.
 
 
 *2024-12-01*
