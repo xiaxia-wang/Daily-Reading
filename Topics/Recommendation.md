@@ -3,6 +3,18 @@
 
 
 
+
+*2024-12-03*
+
+#### [Deep Ensemble Shape Calibration: Multi-Field Post-hoc Calibration in Online Advertising](https://dl.acm.org/doi/10.1145/3637528.3671529)
+
+*Shuai Yang, Hao Yang, Zhuang Zou, Linhe Xu, Shuo Yuan, Yifan Zeng*
+
+*KDD 2024*
+
+In the e-commerce advertising scenario, estimating the true probabilities (known as a calibrated estimate) on Click-Through Rate and Conversion Rate is critical. This paper proposes an ensemble approach for multi-field calibration, by composing it into value calibration and shape calibration, and introducing innovative basis calibration functions, which enhance both function expression capabilities and data utilization by combining these basis calibration functions.
+
+
 *2024-12-02*
 
 #### [Pay Attention to Attention for Sequential Recommendation](https://arxiv.org/abs/2410.21048)
