@@ -5,9 +5,15 @@
 
 
 
+*2024-12-04*
 
+#### [MindMap: Knowledge Graph Prompting Sparks Graph of Thoughts in Large Language Models](https://aclanthology.org/2024.acl-long.558/)
 
+*Yilin Wen, Zifeng Wang, Jimeng Sun*
 
+*ACL 2024*
+
+This paper aims to build a plug-and-play prompting approach to elicit the graph-of-thoughts reasoning capability in LLMs. Specifically, it first uses an LLM to identify key entities from the question. Then it builds an evidence sub-graph by path-based and neighbor-based exploration from the keyword-related entities in a source KG, and let LLM conduct reasoning over the evidence graph.
 
 
 *2024-11-29*
