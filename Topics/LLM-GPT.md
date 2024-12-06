@@ -6,6 +6,18 @@
 
 
 
+
+*2024-12-06*
+
+#### [Zero-Resource Hallucination Prevention for Large Language Models](https://aclanthology.org/2024.findings-emnlp.204/)
+
+*Junyu Luo, Cao Xiao, Fenglong Ma*
+
+*EMNLP 2024 Findings*
+
+To prevent the hallucination of LLMs, existing approaches usually identify hallucinations post-generation that cannot prevent their occurrence, and suffer from inconsistent performance due to the instruction format and model style. In contrast, this paper introduces a pre-detection self-evaluation technique, which focuses on evaluating the model’s familiarity with the concepts present in the input instruction and withholding the generation of response in case of unfamiliar concepts under the zero-resource setting, where external ground-truth information is unavailable.
+
+
 *2024-12-05*
 
 #### [Encouraging Divergent Thinking in Large Language Models through Multi-Agent Debate](https://aclanthology.org/2024.emnlp-main.992/)
