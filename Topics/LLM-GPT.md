@@ -7,6 +7,18 @@
 
 
 
+
+*2024-12-07*
+
+#### [Puzzle Solving using Reasoning of Large Language Models: A Survey](https://aclanthology.org/2024.emnlp-main.646/)
+
+*Panagiotis Giadikiaroglou, Maria Lymperaiou, Giorgos Filandrianos, Giorgos Stamou*
+
+*EMNLP 2024*
+
+This paper investigates the capabilities of LLMs in puzzle solving, by firstly categorizing the puzzles into rule-based and rule-less puzzles, highlighting the distinct knowledge demands to tackle each of them. Then it reviews existing approaches that LLMs use to solve puzzles, assesses their impacts on both categories of puzzles, and compares them with conventional problem-solving techniques. It also reviews existing benchmarks for evaluating LLMs' reasoning abilities.
+
+
 *2024-12-06*
 
 #### [Zero-Resource Hallucination Prevention for Large Language Models](https://aclanthology.org/2024.findings-emnlp.204/)
