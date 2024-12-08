@@ -5,7 +5,15 @@
 
 
 
+*2024-12-08*
 
+#### [Few shot chain-of-thought driven reasoning to prompt LLMs for open-ended medical question answering](https://aclanthology.org/2024.findings-emnlp.31/)
+
+*Saeel Sandeep Nachane, Ojas Gramopadhye, Prateek Chanda, Ganesh Ramakrishnan, Kshitij Sharad Jadhav, Yatin Nandwani, Dinesh Raghu, Sachindra Joshi*
+
+*EMNLP 2024 Findings*
+
+This paper proposes a modified version of the MedQA-USMLE dataset that changes the type of multi-choice questions into open-ended natural language questions. Besides, it constructs a prompt using chain-of-thought reasoning, which empirically improves the performance compared with existing 5-shot CoT-based prompts. Further, it presents a pipeline by first exploring the multiple possibility and subsequently narrowing down to the final diagnosis.
 
 
 *2024-12-07*
