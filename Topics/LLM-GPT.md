@@ -5,6 +5,18 @@
 
 
 
+
+*2024-12-09*
+
+#### [Code Prompting Elicits Conditional Reasoning Abilities in Text+Code LLMs](https://aclanthology.org/2024.emnlp-main.629/)
+
+*Haritz Puerto, Martin Tutek, Somak Aditya, Xiaodan Zhu, Iryna Gurevych*
+
+*EMNLP 2024*
+
+This paper investigates the hypothesis that representing natural language tasks as code can enhance specific reasoning abilities such as entity tracking or logical reasoning. To study this, it proposes code prompting, a chain of prompts that transforms a natural language problem into code and directly prompts the LLM using the generated code without resorting to external code execution. The result shows that code prompting exhibits a high-performance boost for multiple LLMs across multiple conditional reasoning datasets. Subsequent analysis on GPT 3.5 reveals that the code formatting of the input problem is essential for boosting the performance.
+
+
 *2024-12-08*
 
 #### [Few shot chain-of-thought driven reasoning to prompt LLMs for open-ended medical question answering](https://aclanthology.org/2024.findings-emnlp.31/)
