@@ -7,6 +7,18 @@
 
 
 
+
+*2024-12-10*
+
+#### [Divide-or-Conquer? Which Part Should You Distill Your LLM?](https://aclanthology.org/2024.findings-emnlp.145.pdf)
+
+*Zhuofeng Wu, Richard He Bai, Aonan Zhang, Jiatao Gu, V.G.Vinod Vydiswaran, Navdeep Jaitly, Yizhe Zhang*
+
+*EMNLP 2024 Findings*
+
+To improve the LLMs' capability for reasoning tasks, this work divides the process into a problem decomposition phase and a problem solving phase, rather than in a single stage. Besides, empirical results show that the decomposition ability is easier to be distilled into a smaller model, while the problem solving ability is more difficult to distill without performance degradation.
+
+
 *2024-12-10*
 
 #### [Divide-or-Conquer? Which Part Should You Distill Your LLM?](https://aclanthology.org/2024.findings-emnlp.145.pdf)
