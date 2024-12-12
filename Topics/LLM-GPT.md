@@ -8,6 +8,18 @@
 
 
 
+
+*2024-12-12*
+
+#### [Language Models as Compilers: Simulating Pseudocode Execution Improves Algorithmic Reasoning in Language Models](https://aclanthology.org/2024.emnlp-main.1253.pdf)
+
+*Hyungjoo Chae, Yeonghyeon Kim, Seungone Kim, Kai Tzu-iunn Ong, Beong-woo Kwak, Moohyeon Kim, Sunghwan Kim, Taeyoon Kwon, Jiwan Chung, Youngjae Yu, Jinyoung Yeo*
+
+*EMNLP 2024*
+
+This paper proposes a think-and-execute framework, which consists of two LMs as an instructor and a reasoner, respectively. The instructor LM takes the input question and is prompted to generate a pseudo code-style description for the task. Then the reasoner LM follows the pseudo code with the input to simulate the execution process and reaches the final result.
+
+
 *2024-12-10*
 
 #### [Divide-or-Conquer? Which Part Should You Distill Your LLM?](https://aclanthology.org/2024.findings-emnlp.145.pdf)
