@@ -9,6 +9,30 @@
 
 
 
+
+
+*2024-12-14*
+
+#### [Ada-Instruct: Adapting Instruction Generators for Complex Reasoning](https://aclanthology.org/2024.findings-emnlp.409.pdf)
+
+*Wanyun Cui, Qianle Wang*
+
+*EMNLP 2024 Findings*
+
+This paper proposes a framework that first uses a few examples for fine-tuning an LM to specifically generate prompts, which help improve the following task performance.
+
+
+*2024-12-13*
+
+#### [Deciphering the Factors Influencing the Efficacy of Chain-of-Thought: Probability, Memorization, and Noisy Reasoning](https://aclanthology.org/2024.findings-emnlp.212.pdf)
+
+*Akshara Prabhakar, Thomas L. Griffiths, R. Thomas McCoy*
+
+*EMNLP 2024 Findings*
+
+To evaluate whether LLMs exhibit abstract generalization or rely on shallow heuristics when given CoT prompts, this paper provides a detailed case study of the symbolic reasoning task of decoding shift ciphers. The results indicate 3 factors that affect CoT performance: the probability of the task’s expected output (probability), what the model has implicitly learned during pre-training (memorization), and the number of intermediate operations involved in reasoning (noisy reasoning).
+
+
 *2024-12-12*
 
 #### [Language Models as Compilers: Simulating Pseudocode Execution Improves Algorithmic Reasoning in Language Models](https://aclanthology.org/2024.emnlp-main.1253.pdf)
