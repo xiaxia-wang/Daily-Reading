@@ -9,6 +9,17 @@
 
 
 
+*2024-12-15*
+
+#### [Making Reasoning Matter: Measuring and Improving Faithfulness of Chain-of-Thought Reasoning](https://aclanthology.org/2024.findings-emnlp.882.pdf)
+
+*Debjit Paul, Robert West, Antoine Bosselut, Boi Faltings*
+
+*EMNLP 2024 Findings*
+
+This paper evaluates to what degree the LLM's final answer is faithful to the stated reasoning steps. Analyses on 12 LLMs show that they do not reliably use their intermediate reasoning steps when generating an answer. To address the issue, it proposes a framework to tailor small-sized LMs (<10B parameters) for generating correct reasoning steps and robustly reasoning over these steps. It consists of an inference module that learns to generate correct reasoning steps using an implicit causal reward function, and a reasoning module that learns to faithfully reason over these intermediate inferences using a counterfactual and causal preference objective.
+
+
 *2024-12-14*
 
 #### [Ada-Instruct: Adapting Instruction Generators for Complex Reasoning](https://aclanthology.org/2024.findings-emnlp.409.pdf)
