@@ -9,6 +9,18 @@
 
 
 
+
+*2024-12-16*
+
+#### [Data-centric Graph Learning: A Survey](https://arxiv.org/abs/2310.04987)
+
+*Yuxin Guo, Deyu Bo, Cheng Yang, Zhiyuan Lu, Zhongjian Zhang, Jixi Liu, Yufei Peng, Chuan Shi*
+
+*IEEE Transactions on Big Data*
+
+This paper summarizes existing works on graph learning, categorizing them by different stages in the learning pipeline, including data preparation, pre-processing, training and inference. It also highlights several potential future directions such as standardized graph data processing, continuous learning, and graph-model co-development.
+
+
 *2024-11-20*
 
 #### [Understanding over-squashing and bottlenecks on graphs via curvature](https://arxiv.org/abs/2111.14522)
