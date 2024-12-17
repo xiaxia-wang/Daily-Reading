@@ -9,6 +9,18 @@
 
 
 
+
+*2024-12-17*
+
+#### [Is Your LLM Secretly a World Model of the Internet? Model-Based Planning for Web Agents](https://arxiv.org/abs/2411.06559)
+
+*Yu Gu, Boyuan Zheng, Boyu Gou, Kai Zhang, Cheng Chang, Sanjari Srivastava, Yanan Xie, Peng Qi, Huan Sun, Yu Su*
+
+*Arxiv 2024*
+
+This paper proposes a LLM-based approach for agent planning over webpages, which uses examples to guide the model, i.e., planning through simulaiton.
+
+
 *2024-12-15*
 
 #### [Making Reasoning Matter: Measuring and Improving Faithfulness of Chain-of-Thought Reasoning](https://aclanthology.org/2024.findings-emnlp.882.pdf)
