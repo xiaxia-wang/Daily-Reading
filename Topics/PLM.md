@@ -7,6 +7,18 @@
 
 
 
+
+*2024-12-18*
+
+#### [Round and Round We Go! What makes Rotary Positional Encodings useful?](https://arxiv.org/abs/2410.06205v1)
+
+*Federico Barbero, Alex Vitvitskyi, Christos Perivolaropoulos, Razvan Pascanu, Petar Veličković*
+
+*Arxiv 2024*
+
+Positional Encodings (PEs) are a critical component of Transformer-based LLMs, providing the attention mechanism with important sequence-position information. This work studies the internal of a trained Gemma 7B model to understand how Rotary PE is being used at a mechanical level. It shows that Gemma learns to use RoPE to construct robust ‘positional’ attention patterns by exploiting the highest frequencies. Also, in general, Gemma greatly prefers to use the lowest frequencies of RoPE, which the authors suspect are used to carry semantic information.
+
+
 *2024-11-30*
 
 #### [Do PLMs Know and Understand Ontological Knowledge?](https://aclanthology.org/2023.acl-long.173/)
