@@ -10,6 +10,18 @@
 
 
 
+
+*2024-12-19*
+
+#### [Learning to Plan for Retrieval-Augmented Large Language Models from Knowledge Graphs](https://arxiv.org/abs/2406.14282)
+
+*Junjie Wang, Mingyang Chen, Binbin Hu, Dan Yang, Ziqi Liu, Yue Shen, Peng Wei, Zhiqiang Zhang, Jinjie Gu, Jun Zhou, Jeff Z. Pan, Wen Zhang, Huajun Chen*
+
+*EMNLP 2024*
+
+To improve the performance of LLMs in complex question-answering (QA) scenarios, recent studies attempt to enhance LLMs' performance by combining step-wise planning with external retrieval. In contrast to previous works that rely on manual annotation and knowledge distillation from teacher LLMs, this paper introduces a framework to enhance LLMs' planning capability using planning data derived from knowledge graphs.
+
+
 *2024-12-17*
 
 #### [Is Your LLM Secretly a World Model of the Internet? Model-Based Planning for Web Agents](https://arxiv.org/abs/2411.06559)
