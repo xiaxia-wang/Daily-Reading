@@ -10,6 +10,18 @@
 
 
 
+
+*2024-12-20*
+
+#### [Heterogeneous Information Networks: the Past, the Present, and the Future](https://www.vldb.org/pvldb/vol15/p3807-sun.pdf)
+
+*Yizhou Sun, Jiawei Han, Xifeng Yan, Philips S. Yu, Tianyi Wu*
+
+*VLDB Vol 15*
+
+This perspective paper introduces the heterogeneous information networks, where both nodes and links have different types. Based on the notion of meta-paths, it introduces the enbeddings and representation learning for heterogeneous networks, and mentions several connections with KGs and GNNs.
+
+
 *2024-12-16*
 
 #### [Data-centric Graph Learning: A Survey](https://arxiv.org/abs/2310.04987)
