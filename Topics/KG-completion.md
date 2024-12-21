@@ -5,6 +5,18 @@
 
 
 
+
+*2024-12-21*
+
+#### [DynaSemble: Dynamic Ensembling of Textual and Structure-Based Models for Knowledge Graph Completion](https://arxiv.org/abs/2311.03780)
+
+*Ananjan Nandi, Navdeep Kaur, Parag Singla, Mausam*
+
+*ACL 2024*
+
+This paper proposes an ensemble method for knowledge graph completion, which learns query-dependent ensemble weights to combine several models, and uses the distributions of scores assigned by the models in the ensemble to all candidate entities.
+
+
 *2024-11-09*
 
 #### [A Prompt-Based Knowledge Graph Foundation Model for Universal In-Context Reasoning](https://arxiv.org/abs/2410.12288)
