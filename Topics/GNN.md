@@ -5,10 +5,15 @@
 
 
 
+*2024-12-23*
 
+#### [Bi-Level Attention Graph Neural Networks](https://arxiv.org/abs/2304.11533)
 
+*Roshni G. Iyer, Wei Wang, Yizhou Sun*
 
+*Arxiv 2023*
 
+To effectively model both multi-relational and multi-entity large-scale heterogeneous graphs, this paper presents a bi-level graph neural network model, that includes both node-node and relation-relation attention mechanisms by hierarchically attending to both types of information from local neighborhood contexts instead of the global graph context.
 
 
 *2024-12-20*
