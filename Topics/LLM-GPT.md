@@ -11,6 +11,18 @@
 
 
 
+
+*2024-12-22*
+
+#### [Human Bias in the Face of AI: The Role of Human Judgement in AI Generated Text Evaluation](https://arxiv.org/abs/2410.03723)
+
+*Tiffany Zhu, Iain Weissburg, Kexun Zhang, William Yang Wang*
+
+*Arxiv 2024*
+
+This paper investigates the overwhelming issue when human readers treating AI-generated texts. Specifically, it evaluates how human raters respond to labeled and unlabeled content. While the raters could not differentiate the two types of texts in the blind test, they overwhelmingly favored content labeled as "Human Generated," over those labeled "AI Generated," by a preference score of over 30%, and the same pattern was observed even when the labels were deliberately swapped.
+
+
 *2024-12-19*
 
 #### [Learning to Plan for Retrieval-Augmented Large Language Models from Knowledge Graphs](https://arxiv.org/abs/2406.14282)
