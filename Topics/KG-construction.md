@@ -8,6 +8,18 @@
 
 
 
+
+*2024-12-24*
+
+#### [SAC-KG: Exploiting Large Language Models as Skilled Automatic Constructors for Domain Knowledge Graph](https://aclanthology.org/2024.acl-long.238/)
+
+*Hanzhu Chen, Xu Shen, Qitan Lv, Jie Wang, Xiaoqi Ni, Jieping Ye*
+
+*ACL 2024*
+
+This paper proposes a framework that utilizes LLMs to construct domain KGs. Specifically, it consists of three components: Generator, Verifier, and Pruner. For a given entity, Generator produces its relations and tails from raw domain corpora, to construct a specialized single-level KG. Verifier and Pruner then work together to ensure precision by correcting generation errors and determining whether newly produced tails require further iteration for the next-level KG.
+
+
 *2024-11-21*
 
 #### [Knowledge Graph Error Detection with Contrastive Confidence Adaption](https://arxiv.org/abs/2312.12108)
