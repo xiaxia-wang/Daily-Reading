@@ -9,6 +9,15 @@
 
 
 
+*2024-12-25*
+
+#### [Editing Conceptual Knowledge for Large Language Models](https://aclanthology.org/2024.findings-emnlp.40/)
+
+*Xiaohan Wang, Shengyu Mao, Shumin Deng, Yunzhi Yao, Yue Shen, Lei Liang, Jinjie Gu, Huajun Chen, Ningyu Zhang*
+
+*EMNLP 2024 Findings*
+
+This paper investigates editing conceptual knowledge for LLMs, by constructing a benchmark dataset and establishing several evaluation metrics.
 
 
 *2024-11-25*
