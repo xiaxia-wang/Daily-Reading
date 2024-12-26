@@ -11,6 +11,18 @@
 
 
 
+
+*2024-12-26*
+
+#### [Triple confidence measurement in knowledge graph with multiple heterogeneous evidences](https://link.springer.com/article/10.1007/s11280-024-01307-x)
+
+*吴天星, 姚凯, 李伟, 漆桂林, 于益俊, 赵能文, 张人友, 段沛博*
+
+*World Wide Web Journal 2024*
+
+To measure the confidence (i.e., truthfulness) of each triple in the KG, this paper proposes an approach that integrates multiple features, including neighborhood node embedding, GCN-based subgraph embedding, LLM-based embedding, and path-based contrastive learning, and aggreagtes them with a confidence estimator for triples.
+
+
 *2024-10-04*
 
 #### [Centrality-Based Node Feature Augmentation for Robust Network Alignment](https://arxiv.org/abs/2304.12751)
