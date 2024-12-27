@@ -6,10 +6,15 @@
 
 
 
+*2024-12-28*
 
+#### [Can Large Language Models Improve the Adversarial Robustness of Graph Neural Networks?](https://arxiv.org/abs/2408.08685)
 
+*Zhongjian Zhang, Xiao Wang, Huichi Zhou, Yue Yu, Mengmei Zhang, Cheng Yang, Chuan Shi*
 
+*KDD 2025*
 
+This paper proposes an LLM-based robust graph structure inference framework, which distills the inference capabilities of GPT-4 into a local LLM for identifying malicious edges, and an LM-based edge predictor for finding missing important edges, so as to recover a robust graph structure.
 
 
 *2024-12-22*
