@@ -6,7 +6,15 @@
 
 
 
+*2024-12-27*
 
+#### [UrbanKGent: A Unified Large Language Model Agent Framework for Urban Knowledge Graph Construction](https://arxiv.org/abs/2402.06861)
+
+*Yansong Ning, Hao Liu*
+
+*NeurIPS 2024*
+
+This paper proposes a LLM-based framework for urban knowledge graph construction, which consists of two subtasks, i.e., relational triple extraction and knowledge graph completion. It implements a knowledgeable instruction generation module and a tool-augmented iterative trajectory refinement method, which align LLMs to UrbanKGC tasks and compensate for their geospatial computing and reasoning inability.
 
 
 *2024-12-24*
