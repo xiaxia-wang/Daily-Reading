@@ -6,6 +6,18 @@
 
 
 
+
+*2024-12-29*
+
+#### [Uncertain Knowledge Graph Completion with Rule Mining](https://link.springer.com/chapter/10.1007/978-981-97-7707-5_9)
+
+*Yilin Chen, Tianxing Wu, Yunchang Liu, Yuxiang Wang, Guilin Qi*
+
+*WISA 2024*
+
+This paper proposes a framework that utilize an LLM module to measure the confidence of each triple in a KG.
+
+
 *2024-12-21*
 
 #### [DynaSemble: Dynamic Ensembling of Textual and Structure-Based Models for Knowledge Graph Completion](https://arxiv.org/abs/2311.03780)
