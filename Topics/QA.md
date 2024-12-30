@@ -10,6 +10,18 @@
 
 
 
+
+*2024-12-30*
+
+#### [TrustUQA: A Trustful Framework for Unified Structured Data Question Answering](https://arxiv.org/abs/2406.18916)
+
+*Wen Zhang, Long Jin, Yushan Zhu, Jiaoyan Chen, Zhiwei Huang, Junjie Wang, Yin Hua, Lei Liang, Huajun Chen*
+
+*AAAI 2024*
+
+This paper proposes a unified NL2Query framework for multiple types of structured data, including tabular data, knowledge graphs, etc. It consists of 3 modules: (1) a dynamic demonstration retriever, which receives the natural language question and generates relavant prompts to get a LLM-generated query, (2) a functional translation process that receives the LLM-generated query and outputs a fixed execution to get the answers, and (3) a conditional graph translator that reforms the original structured data into a uniform graph for execution.
+
+
 *2024-10-08*
 
 #### CoTKR: Chain-of-Thought Enhanced Knowledge Rewriting for Complex Knowledge Graph Question Answering
