@@ -6,6 +6,18 @@
 
 
 
+
+*2024-12-31*
+
+#### [Advancing Tool-Augmented Large Language Models: Integrating Insights from Errors in Inference Trees](https://arxiv.org/abs/2406.07115)
+
+*Sijia Chen, Yibo Wang, Yi-Feng Wu, Qing-Guo Chen, Zhao Xu, Weihua Luo, Kaifu Zhang, Lijun Zhang*
+
+*NeurIPS 2024*
+
+To improve tool-augmented LLMs, this paper utilizes the tree-of-thought for supervised fine-tuning. Instead of having all planned trajectories at once, it adopts an iterative reasoning approach and generates a step-wise preference dataset for tool use. It utilizes tool-usage expert trajectories as step-wise preference pairs for direct preference optimization to update the policy of the LLM.
+
+
 *2024-12-28*
 
 #### [Can Large Language Models Improve the Adversarial Robustness of Graph Neural Networks?](https://arxiv.org/abs/2408.08685)
