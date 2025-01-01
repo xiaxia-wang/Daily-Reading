@@ -2,14 +2,15 @@
 
 
 
+*2025-01-01*
 
+#### [Tokenization, Fusion, and Augmentation: Towards Fine-grained Multi-modal Entity Representation](https://arxiv.org/abs/2404.09468)
 
+*Yichi Zhang, Zhuo Chen, Lingbing Guo, Yajing Xu, Binbin Hu, Ziqi Liu, Wen Zhang, Huajun Chen*
 
+*AAAI 2025*
 
-
-
-
-
+This paper proposes a framework for generating multi-modal representation for entities. Specifically, it first tokenizes raw modality data into fine-grained tokens and then fuzes them to obtain fine-grained entity representations.
 
 
 *2024-12-26*
