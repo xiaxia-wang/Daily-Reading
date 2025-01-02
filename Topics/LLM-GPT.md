@@ -5,7 +5,15 @@
 
 
 
+*2025-01-03*
 
+#### [Chain-of-Thought Reasoning Without Prompting](https://arxiv.org/abs/2402.10200)
+
+*Xuezhi Wang, Denny Zhou*
+
+*NeurIPS 2024*
+
+This paper investigates whether LLMs can reason effectively without prompting. Their findings reveal that, intriguingly, CoT reasoning paths can be elicited from pre-trained LLMs by altering the decoding process. Rather than conventional greedy decoding, it takes top-k alternative tokens, uncovering that CoT paths are frequently inherent in these sequences. This approach not only bypasses the confounders of prompting but also allows to assess the LLMs' intrinsic reasoning abilities. Besides, the presence of a CoT in the decoding path correlates with a higher confidence in the model's decoded answer. This confidence metric effectively differentiates between CoT and non-CoT paths.
 
 
 *2025-01-02*
