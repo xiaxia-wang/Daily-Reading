@@ -7,6 +7,18 @@
 
 
 
+
+*2025-01-02*
+
+#### [Making LLaMA SEE and Draw with SEED Tokenizer](https://arxiv.org/abs/2310.01218)
+
+*Yuying Ge, Sijie Zhao, Ziyun Zeng, Yixiao Ge, Chen Li, Xintao Wang, Ying Shan*
+
+*ICLR 2024*
+
+This paper introduces an image tokenizer that empowers LLMs with the ability to see and draw at the same time. Two crucial design principles: (1) Image tokens should be independent of 2D physical patch positions and instead be produced with a 1D causal dependency, exhibiting intrinsic interdependence that aligns with the left-to-right autoregressive prediction mechanism in LLMs. (2) Image tokens should capture high-level semantics consistent with the degree of semantic abstraction in words, and be optimized for both discriminativeness and reconstruction during the tokenizer training phase.
+
+
 *2024-12-31*
 
 #### [Advancing Tool-Augmented Large Language Models: Integrating Insights from Errors in Inference Trees](https://arxiv.org/abs/2406.07115)
