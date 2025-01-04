@@ -4,6 +4,18 @@
 
 
 
+
+*2025-01-04*
+
+#### [Instructing and Prompting Large Language Models for Explainable Cross-domain Recommendations](https://dl.acm.org/doi/10.1145/3640457.3688137)
+
+*Alessandro Petruzzelli, Cataldo Musto, Lucrezia Laraspata, Ivan Rinaldi, Marco de Gemmis, Pasquale Lops, Giovanni Semeraro*
+
+*RecSys 2024*
+
+This paper proposes a pipeline for cross-domain recommendation, which utilizes a personalized prompt, based on the preferences of the user in a source domain, and a list of items to be ranked in target domain. It prompts the LLM in both zero-shot and one-shot settings, and processes the answer to extract the recommendations with a natural language explanation.
+
+
 *2024-12-03*
 
 #### [Deep Ensemble Shape Calibration: Multi-Field Post-hoc Calibration in Online Advertising](https://dl.acm.org/doi/10.1145/3637528.3671529)
