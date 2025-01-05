@@ -5,6 +5,18 @@
 
 
 
+
+*2025-01-05*
+
+#### [Thinking with Knowledge Graphs: Enhancing LLM Reasoning Through Structured Data](https://arxiv.org/abs/2412.10654)
+
+*Xue Wu, Kostas Tsioutsiouliklis*
+
+*Arxiv 2024*
+
+To improve the reasoning ability of LLMs with the help of structured data, this paper introduces a programming language style representation of knowledge graphs, which aims to facilitate the seamless integration of structured knowledge into the language modeling process.
+
+
 *2025-01-03*
 
 #### [Chain-of-Thought Reasoning Without Prompting](https://arxiv.org/abs/2402.10200)
