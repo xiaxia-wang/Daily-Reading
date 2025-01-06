@@ -2,6 +2,18 @@
 
 
 
+
+*2025-01-06*
+
+#### [Position-Aware Relational Transformer for Knowledge Graph Embedding](https://ieeexplore.ieee.org/document/10092525)
+
+*Guangyao Li, Zequn Sun, Wei Hu, Gong Cheng, Yuzhong Qu*
+
+*TNNLS 35(8)*
+
+Due to the self-attention mechanism in Transformer being invariant to the order of input tokens, it is unable to distinguish a (true) relation triple from its shuffled (false) variants. To address the issue, this paper incorporates relational compositions for entity representations into the Transformer architecture, which captures the role of entities based on their position (subject or object) in the relation triple.
+
+
 *2025-01-01*
 
 #### [Tokenization, Fusion, and Augmentation: Towards Fine-grained Multi-modal Entity Representation](https://arxiv.org/abs/2404.09468)
