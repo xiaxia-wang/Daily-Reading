@@ -7,6 +7,18 @@
 
 
 
+
+*2025-01-07*
+
+#### [Generating Explanations to Understand and Repair Embedding-Based Entity Alignment](https://ieeexplore.ieee.org/document/10597816/)
+
+*Xiaobin Tian, Zequn Sun, Wei Hu*
+
+*ICDE 2024*
+
+This paper presents a framework that can generate subgraphs as explanation for understanding and repairing embedding-based entity alignment results. Given an EA pair produced by an embedding model, it first compares their neighboring entities and relations to build a matched subgraph as local explanation. Then it constructs an alignment dependency graph, and repairs the pair (by adding alignment links between entities from the source and target KGs, respectively) by resolving three types of alignment conflicts based on the dependency graph.
+
+
 *2024-12-29*
 
 #### [Uncertain Knowledge Graph Completion with Rule Mining](https://link.springer.com/chapter/10.1007/978-981-97-7707-5_9)
