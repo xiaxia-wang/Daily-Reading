@@ -5,6 +5,18 @@
 
 
 
+
+*2025-01-08*
+
+#### [Can ChatGPT Solve Relation Extraction? An Extensive Assessment via Design Choice Exploration](https://doi.org/10.1007/978-981-97-9434-8_27)
+
+*Xinyi Wang, Wenzheng Zhao, Xiangrong Zhu, Wei Hu*
+
+*NLPCC 2024*
+
+This paper evaluates ChatGPT’s performance in relation extraction and demonstrates its strengths and limitations. Specifically, it explores the combination of design choices of ChatGPT’s input prompts, including (i) provided example, (ii) task description, (iii) relation order, and (iv) next question, and evaluates with both sentence-level and document-level RE.
+
+
 *2024-11-26*
 
 #### [Finding meaningful paths in heterogeneous graphs with PathWays](https://www.sciencedirect.com/science/article/pii/S0306437924001212)
