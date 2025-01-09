@@ -9,6 +9,18 @@
 
 
 
+
+*2025-01-09*
+
+#### [Open-world story generation with structured knowledge enhancement: A comprehensive survey](https://doi.org/10.1016/j.neucom.2023.126792)
+
+*Yuxin Wang, Jieru Lin, Zhiwei Yu, Wei Hu, Börje F. Karlsson*
+
+*Neurocomputing 559*
+
+Incorporating structured knowledge can enhance the logical coherence among stories, achieve better knowledge grounding, and alleviate over-generalization and repetition problems. This paper reviews this field by: (i) presenting a taxonomy regarding how existing methods integrate structured knowledge into story generation; (ii) summarizing existing story corpora, structured knowledge datasets, and evaluation metrics.
+
+
 *2024-12-25*
 
 #### [Editing Conceptual Knowledge for Large Language Models](https://aclanthology.org/2024.findings-emnlp.40/)
