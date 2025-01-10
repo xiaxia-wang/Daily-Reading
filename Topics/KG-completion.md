@@ -8,6 +8,18 @@
 
 
 
+
+*2025-01-10*
+
+#### [Deep entity matching with adversarial active learning](https://link.springer.com/article/10.1007/s00778-022-00745-1)
+
+*Jiacheng Huang, Wei Hu, Zhifeng Bao, Qijin Chen, Yuzhong Qu*
+
+*VLDB J 32(1) 2023*
+
+This paper proposes a deep entity matching model to complete missing textual values and capture both similarity and difference between records. Given that learning massive parameters in the deep model needs expensive labeling cost, this paper presents an adversarial active learning framework, which leverages active learning to collect a small amount of “good” examples and adversarial learning to augment the examples for stability. Additionally, to deal with large-scale databases, it presents a dynamic blocking method that can be interactively tuned with the deep EM model.
+
+
 *2025-01-07*
 
 #### [Generating Explanations to Understand and Repair Embedding-Based Entity Alignment](https://ieeexplore.ieee.org/document/10597816/)
