@@ -6,6 +6,18 @@
 
 
 
+
+*2025-01-11*
+
+#### [Lost in the Middle: How Language Models Use Long Contexts](https://aclanthology.org/2024.tacl-1.9/)
+
+*Nelson F. Liu, Kevin Lin, John Hewitt, Ashwin Paranjape, Michele Bevilacqua, Fabio Petroni, Percy Liang*
+
+*Transactions of the Association for Computational Linguistics, Volume 12*
+
+This paper analyzes the performance of LMs on multi-document question answering and key-value retrieval, and finds that performance can degrade significantly when changing the position of relevant information, indicating that current LMs do not robustly make use of information in long input contexts. Specifically, the performance is often highest when relevant information occurs at the beginning or end of the input context, while significantly lower when the relevant information in the middle of long contexts.
+
+
 *2025-01-05*
 
 #### [Thinking with Knowledge Graphs: Enhancing LLM Reasoning Through Structured Data](https://arxiv.org/abs/2412.10654)
