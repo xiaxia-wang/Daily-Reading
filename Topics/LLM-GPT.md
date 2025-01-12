@@ -7,6 +7,18 @@
 
 
 
+
+*2025-01-12*
+
+#### [Make Your LLM Fully Utilize the Context](https://openreview.net/forum?id=YGTVEmBXtV)
+
+*Shengnan An, Zexiong Ma, Zeqi Lin, Nanning Zheng, Jian-Guang Lou, Weizhu Chen*
+
+*NeurIPS 2024*
+
+To overcome the lost-in-the-middle problem, this paper hypothesizes that it stems from insufficient explicit supervision during the long-context training, which fails to emphasize that any position in a long context can hold crucial information. Based on this intuition, it presents information-intensive training as a purely data-driven solution. Specifically, it leverages a synthesized long-context question-answer dataset, where the answer requires (1) fine-grained information awareness on a short segment (~128 tokens) within a synthesized long context (4K-32K tokens), and (2) the integration and reasoning of information from two or more short segments.
+
+
 *2025-01-11*
 
 #### [Lost in the Middle: How Language Models Use Long Contexts](https://aclanthology.org/2024.tacl-1.9/)
