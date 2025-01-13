@@ -8,6 +8,18 @@
 
 
 
+
+*2025-01-13*
+
+#### [GraphInsight: Unlocking Insights in Large Language Models for Graph Structure Understanding](https://arxiv.org/abs/2409.03258)
+
+*Yukun Cao, Shuo Han, Zengyi Gao, Zezhong Ding, Xike Xie, S. Kevin Zhou*
+
+*Arxiv 2024*
+
+To address the positional bias of LLMs in handling long sequences of graph description, this paper proposes a framework that utilizes two key strategies: (1) placing critical graphical information in positions where LLMs exhibit stronger memory performance, and (2) investigating a lightweight external knowledge base for regions with weaker memory performance, inspired by retrieval-augmented generation.
+
+
 *2025-01-12*
 
 #### [Make Your LLM Fully Utilize the Context](https://openreview.net/forum?id=YGTVEmBXtV)
