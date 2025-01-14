@@ -9,6 +9,18 @@
 
 
 
+
+*2025-01-14*
+
+#### [KAG: Boosting LLMs in Professional Domains via Knowledge Augmented Generation](https://arxiv.org/abs/2409.13731)
+
+*Lei Liang, Mengshu Sun, Zhengke Gui, Zhongshu Zhu, Zhouyu Jiang, Ling Zhong, Yuan Qu, Peilong Zhao, Zhongpu Bo, Jin Yang, Huaidong Xiong, Lin Yuan, Jun Xu, Zaoyang Wang, Zhiqiang Zhang, Wen Zhang, Huajun Chen, Wenguang Chen, Jun Zhou*
+
+*Arxiv 2024*
+
+This paper proposes a domain knowledge service framework that aims to utilize KGs and improve reasoning and generation performances of LLMs. Specifically, it focuses on 5 aspects, including (1) LLM-friendly knowledge representation, (2) mutual-indexing between knowledge graphs and original chunks, (3) logical-form-guided hybrid reasoning engine, (4) knowledge alignment with semantic reasoning, and (5) model capability enhancement for KAG.
+
+
 *2025-01-13*
 
 #### [GraphInsight: Unlocking Insights in Large Language Models for Graph Structure Understanding](https://arxiv.org/abs/2409.03258)
