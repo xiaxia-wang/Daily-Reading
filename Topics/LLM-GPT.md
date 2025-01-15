@@ -10,6 +10,18 @@
 
 
 
+
+*2025-01-15*
+
+#### [Chatlaw: A Multi-Agent Collaborative Legal Assistant with Knowledge Graph Enhanced Mixture-of-Experts Large Language Model](https://arxiv.org/abs/2306.16092)
+
+*Jiaxi Cui, Munan Ning, Zongjian Li, Bohua Chen, Yang Yan, Hao Li, Bin Ling, Yonghong Tian, Li Yuan*
+
+*Arxiv 2023*
+
+This paper first collects a comprehensive and diverse legal dataset including multi-sourced data, by deduplication, denoising, and human finetuning. Then it proposes a multi-agent collaborative framework, which involves several roles, and each agent follows a ‘sense-think-action’ process: The Legal Assistant interacts with users to gather information and fill in knowledge graph nodes. The Legal Researcher analyzes and extracts legal entities, relationships, and substantial cases from the legal datasets. The Legal Editor assists users in consulting documents, selecting templates, and filling documents, while also ensuring a firewall strategy for data security. The Senior Lawyer conducts case studies, evaluates the relevance of items, and provides comprehensive results.
+
+
 *2025-01-14*
 
 #### [KAG: Boosting LLMs in Professional Domains via Knowledge Augmented Generation](https://arxiv.org/abs/2409.13731)
