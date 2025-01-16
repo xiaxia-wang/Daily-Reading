@@ -5,6 +5,18 @@
 
 
 
+
+*2025-01-16*
+
+#### [HOGDA: Boosting Semi-supervised Graph Domain Adaptation via High-Order Structure-Guided Adaptive Feature Alignment](https://dl.acm.org/doi/10.1145/3664647.3680765)
+
+*Jun Dan, Weiming Liu, Mushui Liu, Chunfeng Xie, Shunjie Dong, Guofang Ma, Yanchao Tan, Jiazheng Xing*
+
+*MM 2024*
+
+Semi-supervised graph domain adaptation, as a subfield of graph transfer learning, seeks to precisely annotate unlabeled target graph nodes by leveraging transferable features acquired from the limited labeled source nodes. This paper introduces a high-order structure information mixing module to capture graph structure information, and applies adaptive weighted domain alignment to dynamically adjust the node weight during adversarial domain adaptation. Besides, to mitigate overfitting caused by limited labeled nodes, it designs a trust-aware node clustering strategy to guide the unlabeled nodes for discriminative clustering.
+
+
 *2024-12-23*
 
 #### [Bi-Level Attention Graph Neural Networks](https://arxiv.org/abs/2304.11533)
