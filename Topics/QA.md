@@ -7,8 +7,15 @@
 
 
 
+*2025-01-17*
 
+#### [Generate-then-Ground in Retrieval-Augmented Generation for Multi-hop Question Answering](https://aclanthology.org/2024.acl-long.397)
 
+*Zhengliang Shi, Shuo Zhang, Weiwei Sun, Shen Gao, Pengjie Ren, Zhumin Chen, Zhaochun Ren*
+
+*ACL 2024*
+
+To handle the task of multi-hop question answering, existing RAG framework is limited by the retriever, and is inevitably affected by the involved noise. In contrast, this paper introduces a generate-then-ground framework, synergizing the parametric knowledge of LLMs and external documents to solve a multi-hop question. It empowers LLMs to alternate two phases until the final answer is derived: (1) formulate a simpler, single-hop question and directly generate the answer; (2) ground the question-answer pair in retrieved documents, amending any wrong predictions in the answer.
 
 
 *2024-12-30*
