@@ -5,6 +5,18 @@
 
 
 
+
+*2025-01-18*
+
+#### [Rethinking Byzantine Robustness in Federated Recommendation from Sparse Aggregation Perspective](https://arxiv.org/abs/2501.03301)
+
+*张中健，张梦玫，王啸，吕灵娟，闫博，杜军平，石川*
+
+*AAAI 2025*
+
+This paper explores the Byzantine robustness in federated recommendation from the sparse aggregation perspective. It first reformulates the Byzantine robustness under sparse aggregation by defining the aggregation for a single item as the smallest execution unit. Then it proposes a family of effective attack strategies which exploit the vulnerability in sparse aggregation, categorized along the adversary's knowledge and capability.
+
+
 *2025-01-04*
 
 #### [Instructing and Prompting Large Language Models for Explainable Cross-domain Recommendations](https://dl.acm.org/doi/10.1145/3640457.3688137)
