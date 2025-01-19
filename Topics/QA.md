@@ -7,6 +7,18 @@
 
 
 
+
+*2025-01-19*
+
+#### [Knowledge Base Question Answering: A Semantic Parsing Perspective](https://arxiv.org/abs/2209.04994)
+
+*Yu Gu, Vardaan Pahuja, Gong Cheng, Yu Su*
+
+*AKBC 2022*
+
+This paper first introcudes knowledge base question answering, and attributes two unique challenges of KBQA as schema-level complexity and fact-level complexity. Then it situates KBQA in the literature of semantic parsing and analyzes how existing KBQA approaches attempt to address the unique challenges, and how to take further inspiration from semantic parsing.
+
+
 *2025-01-17*
 
 #### [Generate-then-Ground in Retrieval-Augmented Generation for Multi-hop Question Answering](https://aclanthology.org/2024.acl-long.397)
