@@ -2,6 +2,16 @@
 
 
 
+*2025-01-20*
+
+#### [Partition-Based Block Matching of Large Class Hierarchies](https://link.springer.com/chapter/10.1007/11836025_8)
+
+*Wei Hu, Yuanyuan Zhao, Yuzhong Qu*
+
+*ASWC 2006*
+
+This paper presents a partitioning algorithm based on both structural affinities and linguistic similarities with time complexity $O(n^2)$. Specifically, it introduces an approach to matching blocks, which selects matched block pairs by combining two kinds of relatedness found via predefined anchors as well as virtual documents.
+
 
 *2024-11-27*
 
