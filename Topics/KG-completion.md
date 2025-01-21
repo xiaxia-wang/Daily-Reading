@@ -8,7 +8,15 @@
 
 
 
+*2025-01-21*
 
+#### [Supervised Relational Learning with Selective Neighbor Entities for Few-Shot Knowledge Graph Completion](https://link.springer.com/chapter/10.1007/978-3-031-77844-5_8)
+
+*侯杰文，吴天星，王靖婷，王爽，漆桂林*
+
+*ISWC 2024*
+
+This paper proposes a supervised relational learning model for few-shot KG completion. Specifically, it enhances head and tail entity embeddings using a cascaded embedding enhancement network with multiple neighbor entity encoders, which select crucial neighbor entities for few-shot relations from different perspectives. Then it jointly performs dual contrastive learning and metric learning to provide different supervision signals for relational learning.
 *2025-01-10*
 
 #### [Deep entity matching with adversarial active learning](https://link.springer.com/article/10.1007/s00778-022-00745-1)
