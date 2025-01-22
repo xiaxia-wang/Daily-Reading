@@ -4,16 +4,15 @@
 
 
 
+*2025-01-22*
 
+#### [Blend the Separated: Mixture of Synergistic Experts for Data-Scarcity Drug-Target Interaction Prediction](http://shichuan.org/doc/187.pdf)
 
+*翟新龙，王春辰，王睿嘉，康佳政，李书杰，陈博宇，马腾飞，周子凯，杨成，石川*
 
+*AAAI 2025*
 
-
-
-
-
-
-
+For drug-target interaction (DTI) prediction, there are two perspectives of input data widely used: (1) intrinsic data represents how drugs or targets are constructed, and (2) extrinsic data represents how drugs or targets are related to other biological entities. This paper proposes an approach to tackle DTI prediction under input data and/or label scarcity, by utilizing two separate expert models to process intrinsic and extrinsic data respectively and fusing them adaptively according to different samples.
 *2024-09-23*
 
 #### [Advancing Molecule Invariant Representation via Privileged Substructure Identification](https://dl.acm.org/doi/abs/10.1145/3637528.3671886)
