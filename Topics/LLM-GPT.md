@@ -10,6 +10,16 @@
 
 
 
+*2025-01-23*
+
+#### [OneGen: Efficient One-Pass Unified Generation and Retrieval for LLMs](https://aclanthology.org/2024.findings-emnlp.237)
+
+*张锦添, 彭成, 孙梦殊, 陈想, 梁磊, 张志强, 周俊, 陈华钧, 张宁豫*
+
+*EMNLP 2024 Findings*
+
+To better integrate retrieval and generation, this paper introduces an one-pass framework by incorporating a special token representing the retrieval request in the generation process, which enables a single LLM to handle both tasks simultaneously in a unified forward pass.
+
 
 *2025-01-15*
 
