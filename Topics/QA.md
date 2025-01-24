@@ -7,6 +7,16 @@
 
 
 
+*2025-01-24*
+
+#### [Harnessing Large Language Models for Knowledge Graph Question Answering via Adaptive Multi-Aspect Retrieval-Augmentation](https://arxiv.org/abs/2412.18537)
+
+*Derong Xu, Xinhang Li, Ziheng Zhang, Zhenxi Lin, Zhihong Zhu, Zhi Zheng, Xian Wu, Xiangyu Zhao, Tong Xu, Enhong Chen*
+
+*AAAI 2025*
+
+This paper introduces an Adaptive Multi-Aspect Retrieval-augmented over KGs framework, which comprises two sub-components: (1) a self-alignment module that aligns commonalities among entities, relations, and subgraphs to enhance retrieved text, thereby reducing noise interference; (2) a relevance gating module that employs a soft gate to learn the relevance score between question and multi-aspect retrieved data, to determine which information be used to enhance LLMs' output.
+
 
 *2025-01-19*
 
