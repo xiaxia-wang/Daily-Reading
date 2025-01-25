@@ -7,6 +7,16 @@
 
 
 
+*2025-01-25*
+
+#### [Contextualization Distillation from Large Language Model for Knowledge Graph Completion](https://aclanthology.org/2024.findings-eacl.32/)
+
+*Dawei Li, Zhen Tan, Tianlong Chen, Huan Liu*
+
+*EACL Findings 2024*
+
+This paper proposes a KGC approach by extracting descriptive contexts from LLMs, which is designed as two auxiliary tasks as reconstruction and contextualization. It also proposes to train a smaller KGC model using the contextualized information.
+
 
 *2025-01-21*
 
