@@ -6,6 +6,18 @@
 
 
 
+
+*2025-01-26*
+
+#### [Can LLMs be Good Graph Judger for Knowledge Graph Construction?](https://arxiv.org/abs/2411.17388)
+
+*Haoyu Huang, Chong Chen, Conghui He, Yang Li, Jiawei Jiang, Wentao Zhang*
+
+*Arxiv 2024*
+
+This paper investigates the ability of LLMs for extracting schema-free triples from plain texts to conduct knowledge graph construction. In particular, it identifies 3 limitations from existing approaches: (1) a large amount of excessive noise exists in real-world documents, resulting in extracting messy information, (2) native LLMs struggle to effectively extract accurate knowledge from domain-specific documents, and (3) hallucinations. To overcome these limitations, this paper introduces three innovative modules, i.e., entity-centric iterative text denoising, knowledge aware instruction tuning, and graph judgement.
+
+
 *2024-12-27*
 
 #### [UrbanKGent: A Unified Large Language Model Agent Framework for Urban Knowledge Graph Construction](https://arxiv.org/abs/2402.06861)
