@@ -7,6 +7,18 @@
 
 
 
+
+*2025-01-27*
+
+#### [DAGE: DAG Query Answering via Relational Combinator with Logical Constraints](https://arxiv.org/abs/2410.22105)
+
+*Yunjie He, Bo Xiong, Daniel Hernández, Yuqicheng Zhu, Evgeny Kharlamov, Steffen Staab*
+
+*TheWebConf 2025*
+
+This paper proposes an embedding-based approach for multi-hop QA over KGs, where the query graphs are not limited to tree-forms but can also be DAGs. It presents a plug-and-play module that extends tree-form query embedding approaches with a relational combinator, which is able to merge the potential multiple paths between nodes to obtain the answer embedding.
+
+
 *2025-01-24*
 
 #### [Harnessing Large Language Models for Knowledge Graph Question Answering via Adaptive Multi-Aspect Retrieval-Augmentation](https://arxiv.org/abs/2412.18537)
