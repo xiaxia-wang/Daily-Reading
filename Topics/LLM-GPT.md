@@ -9,6 +9,16 @@
 
 
 
+*2025-01-28*
+
+#### [DOGE: Towards Versatile Visual Document Grounding and Referring](https://arxiv.org/abs/2411.17125)
+
+*Yinan Zhou, Yuxin Chen, Haokun Lin, Shuyu Yang, Li Zhu, Zhongang Qi, Chen Ma, Ying Shan*
+
+*Arxiv 2024*
+
+This paper proposes an approach for producing high-quality fine-grained document data for visual document understanding, including multi-granular parsing data for enhancing fundamental text localization and recognition capabilities; and instruction-tuning data to activate MLLM's grounding and referring capabilities during dialogue and reasoning.
+
 
 *2025-01-23*
 
