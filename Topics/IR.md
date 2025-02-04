@@ -9,6 +9,17 @@
 
 
 
+*2025-02-04*
+
+#### [Behavior Modeling Space Reconstruction for E-Commerce Search](https://arxiv.org/abs/2501.18216)
+
+*王叶晶，张持，赵翔宇，刘启东，王茂林，危学涛，刘子韬，施兴，杨旭东，钟灵，林伟*
+
+*TheWebConf 2025*
+
+This paper proposes an e-commerce search framework that enhances accuracy via two components to reconstruct the behavior modeling space: (1) preference editing to proactively remove the relevance effect from preference predictions, yielding untainted user preferences; (2) adaptive fusion to dynamically adjust fusion criteria to align with the varying relevance and preference within the reconstructed modeling space.
+
+
 *2025-02-03*
 
 #### [LLM4Rerank: LLM-based Auto-Reranking Framework for Recommendations](https://arxiv.org/abs/2406.12433)
