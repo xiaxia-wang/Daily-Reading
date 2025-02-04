@@ -10,6 +10,17 @@
 
 
 
+*2025-02-01*
+
+#### [Automated Validating and Fixing of Text-to-SQL Translation with Execution Consistency]()
+
+*Yicun Yang, Zhaoguo Wang, Yu Xia, Zhuoran Wei, Haoran Ding, Ruzica Piskac, Haibo Chen, Jinyang Li*
+
+*SIGMOD 2025*
+
+This paper proposes an approach for automatically detecting and correcting translation errors in Text2SQL datasets. It first introduces a consistency-based semantic concept for Text2SQL—Execution Consistency—as a correctness constraint for Text2SQL translation. Based on this, it leverages SQL equivalence verification techniques to develop SQLDriller as an automated tool for detecting and correcting errors in Text2SQL datasets.
+
+
 *2025-01-09*
 
 #### [Open-world story generation with structured knowledge enhancement: A comprehensive survey](https://doi.org/10.1016/j.neucom.2023.126792)
