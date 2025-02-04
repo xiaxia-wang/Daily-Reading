@@ -8,6 +8,18 @@
 
 
 
+
+*2025-02-02*
+
+#### [SampleLLM: Optimizing Tabular Data Synthesis in Recommendations](https://arxiv.org/abs/2501.16125)
+
+*高璟桐，杜昭呈，李晓鹏，赵翔宇，王奕超，李向阳，郭慧丰，唐睿明*
+
+*TheWebConf 2025 Industry Track*
+
+Tabular data synthesis is to generate synthetic tabular data that closely resemble those in a given dataset. This paper proposes a two-stage framework to improve the quality of LLM-based tabular data synthesis for recommendations by ensuring better distribution alignment. The first stage employs Chain-of-Thought prompts with examples to generate data that closely aligns with the target dataset distribution, while the second stage uses a feature attribution-based importance sampling method to refine feature relationships within the synthetic data, reducing any distribution biases introduced by the LLM.
+
+
 *2025-01-29*
 
 #### [KaLM-Embedding: Superior Training Data Brings A Stronger Embedding Model](https://arxiv.org/abs/2501.01028)
