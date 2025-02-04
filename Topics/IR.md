@@ -8,6 +8,18 @@
 
 
 
+
+*2025-02-03*
+
+#### [LLM4Rerank: LLM-based Auto-Reranking Framework for Recommendations](https://arxiv.org/abs/2406.12433)
+
+*高璟桐，陈渤，赵翔宇，刘卫文，李向阳，王奕超，王婉玉，郭慧丰，唐睿明*
+
+*TheWebConf 2025*
+
+Existing reranking approaches often fail to harmonize diverse criteria effectively at the model level. In response, this paper introduces a LLM-based reranking framework to seamlessly integrate various reranking criteria while maintaining scalability and facilitating personalized recommendations. The framework has a fully connected graph structure, allowing the LLM to simultaneously consider multiple aspects such as accuracy, diversity, and fairness through a coherent Chain-of-Thought process. A customizable input mechanism is integrated to enable the tuning of the language model's focus to meet specific reranking needs.
+
+
 *2024-09-19*
 
 #### [Perspectives on Large Language Models for Relevance Judgment](https://arxiv.org/abs/2304.09161)
