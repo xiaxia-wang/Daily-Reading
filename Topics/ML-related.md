@@ -9,8 +9,15 @@
 
 
 
+*2025-01-31*
 
+#### [Disentangling before Composing: Learning Invariant Disentangled Features for Compositional Zero-Shot Learning](https://ieeexplore.ieee.org/document/10737100)
 
+*Tian Zhang, Kongming Liang, Ruoyi Du, Wei Chen, Zhanyu Ma*
+
+*TPAMI 2025*
+
+Compositional Zero-Shot Learning (CZSL) aims to recognize novel compositions of seen attribute-object compositions in the training set. Previous works mainly project an image and its corresponding composition into a common embedding space to measure their compatibility score. However, both attributes and objects share the visual representations learned above, leading the model to exploit spurious correlations and bias towards seen compositions. Instead, this paper considers CZSL as an out-of-distribution generalization problem, by treating an object as a domain and learning object-invariant features. It proposes an invariant feature learning framework to align different domains at the representation and gradient levels to capture the intrinsic characteristics associated with the tasks.
 
 
 *2024-09-21*
