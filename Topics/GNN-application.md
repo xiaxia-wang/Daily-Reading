@@ -3,6 +3,16 @@
 
 
 
+*2025-02-05*
+
+#### [Generative Semi-supervised Graph Anomaly Detection](https://arxiv.org/abs/2402.11887)
+
+*Hezhe Qiao, Qingsong Wen, Xiaoli Li, Ee-Peng Lim, Guansong Pang*
+
+*NeurIPS 2024*
+
+This work considers a practical semi-supervised graph anomaly detection (GAD) scenario, where part of the nodes in a graph are known to be normal, contrasting to the extensively explored unsupervised setting with a fully unlabeled graph. It proposes a generative GAD approach to better exploit the normal nodes by generating pseudo anomaly nodes as effective negative samples in training a discriminative classifier. The main challenge lies in the lack of ground truth information about real anomaly nodes. To address this, GGAD has two important priors about the anomaly nodes -- asymmetric local affinity and egocentric closeness -- to generate reliable outlier nodes that assimilate anomaly nodes in both graph structure and feature representations.
+
 
 *2025-01-22*
 
@@ -13,6 +23,8 @@
 *AAAI 2025*
 
 For drug-target interaction (DTI) prediction, there are two perspectives of input data widely used: (1) intrinsic data represents how drugs or targets are constructed, and (2) extrinsic data represents how drugs or targets are related to other biological entities. This paper proposes an approach to tackle DTI prediction under input data and/or label scarcity, by utilizing two separate expert models to process intrinsic and extrinsic data respectively and fusing them adaptively according to different samples.
+
+
 *2024-09-23*
 
 #### [Advancing Molecule Invariant Representation via Privileged Substructure Identification](https://dl.acm.org/doi/abs/10.1145/3637528.3671886)
