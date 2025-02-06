@@ -9,6 +9,18 @@
 
 
 
+
+*2025-02-06*
+
+#### [Weak Augmentation Guided Relational Self-Supervised Learning](https://arxiv.org/abs/2203.08717)
+
+*Mingkai Zheng, Shan You, Fei Wang, Chen Qian, Changshui Zhang, Xiaogang Wang, Chang Xu*
+
+*Extended version of NeurIPS 2021 paper*
+
+This paper introduces a self-supervised learning paradigm named relational self-supervised learning, that learns representations by modeling the relationship between different instances. Specifically, it employs sharpened distribution of pairwise similarities among different instances as *relation* metric, which is utilized to match the feature embeddings of different augmentations. To boost the performance, it utilizes weak augmentations to represent a reliable relation, and applies momentum strategy for practical efficiency.
+
+
 *2025-01-31*
 
 #### [Disentangling before Composing: Learning Invariant Disentangled Features for Compositional Zero-Shot Learning](https://ieeexplore.ieee.org/document/10737100)
