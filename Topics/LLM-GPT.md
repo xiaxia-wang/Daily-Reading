@@ -9,6 +9,18 @@
 
 
 
+
+*2025-02-07*
+
+#### [SaMer: A Scenario-aware Multi-dimensional Evaluator for Large Language Models](https://openreview.net/forum?id=aBnVU5DL3I)
+
+*Kehua Feng, Keyan Ding, Jing Yu, Yiwen Qu, Zhiwen Chen, chengfei lv, Gang Yu, Qiang Zhang, Huajun Chen*
+
+*ICLR 2025*
+
+This paper proposes a multi-dimensional evaluator to evaluate the response quality of LLMs for open-ended questions, which mainly involves four steps: (1) identifying the appropriate evaluation dimensions, (2) scoring the response quality in those dimensions, (3) weighting the contribution of those dimensions, and (4) calculating an overall score through weighted summation. It consists of a text embedding model and three MLP-based prediction heads (i.e., dimension prediction, scoring, and weighting layers).
+
+
 *2025-02-02*
 
 #### [SampleLLM: Optimizing Tabular Data Synthesis in Recommendations](https://arxiv.org/abs/2501.16125)
