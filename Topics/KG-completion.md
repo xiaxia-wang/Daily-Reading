@@ -7,6 +7,18 @@
 
 
 
+
+*2025-02-08*
+
+#### [Multiple Heads are Better than One: Mixture of Modality Knowledge Experts for Entity Representation Learning](https://arxiv.org/abs/2405.16869)
+
+*Yichi Zhang, Zhuo Chen, Lingbing Guo, yajing Xu, Binbin Hu, Ziqi Liu, Wen Zhang, Huajun Chen*
+
+*ICLR 2025*
+
+This paper proposes a Mixture of Modality Knowledge experts to learn adaptive multi-modal entity representations for better multi-modal KGC. It applies relation-guided modality knowledge experts to acquire relation-aware modality embeddings, and integrates the predictions from multi-modalities to achieve joint decisions. The experts are disentangled by minimizing their mutual information.
+
+
 *2025-01-25*
 
 #### [Contextualization Distillation from Large Language Model for Knowledge Graph Completion](https://aclanthology.org/2024.findings-eacl.32/)
