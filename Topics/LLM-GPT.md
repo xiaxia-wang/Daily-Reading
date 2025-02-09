@@ -7,7 +7,15 @@
 
 
 
+*2025-02-09*
 
+#### [Benchmarking Agentic Workflow Generation](https://arxiv.org/abs/2410.07869)
+
+*Shuofei Qiao, Runnan Fang, Zhisong Qiu, Xiaobin Wang, Ningyu Zhang, Yong Jiang, Pengjun Xie, Fei Huang, Huajun Chen*
+
+*ICLR 2025*
+
+This paper introduces a unified workflow generation benchmark with multi-faceted scenarios and graph workflow structures. Also, it provides a systemic evaluation protocol utilizing subsequence and subgraph matching algorithms to quantify the LLM agent's workflow generation capabilities.
 
 
 *2025-02-07*
