@@ -7,6 +7,18 @@
 
 
 
+
+*2025-02-10*
+
+#### [MLLM can see? Dynamic Correction Decoding for Hallucination Mitigation](http://arxiv.org/abs/2410.11779)
+
+*Chenxi Wang, Xiang Chen, Ningyu Zhang, Bozhong Tian, Haoming Xu, Shumin Deng, Huajun Chen*
+
+*ICLR 2025*
+
+This paper explores the hallucination issue of MLLMs, and finds that the confidence of generated tokens is influenced by the knowledge priors of MLLMs, leading to a reduction in the probability of ground truth tokens in the deeper layers. Further, it proposes a dynamic correction decoding method for MLLMs that adaptively selects appropriate preceding layers and proportionally integrates knowledge into the final layer to adjust the output logits.
+
+
 *2025-02-09*
 
 #### [Benchmarking Agentic Workflow Generation](https://arxiv.org/abs/2410.07869)
