@@ -8,6 +8,18 @@
 
 
 
+
+*2025-02-11*
+
+#### [OntoTune: Ontology-Driven Self-training for Aligning Large Language Models](https://openreview.net/forum?id=d7spHwemKX#discussion)
+
+*Zhiqiang Liu, Chengtao Gan, Junjie Wang, Yichi Zhang, Zhongpu Bo, Mengshu Sun, Wen Zhang, Huajun Chen*
+
+*TheWebConf 2025*
+
+To effectively utilize domain knowledge to improve domain-specific LLMs, this paper proposes an ontology-driven self-training framework that aims to align LLMs with ontology through in-context learning, enabling the generation of responses guided by the ontology. It uses in-context learning to identify whether the LLM has acquired the specific concept's ontology knowledge, and selects the entries not yet mastered by LLM as training set to further align the LLM with ontology.
+
+
 *2025-02-10*
 
 #### [MLLM can see? Dynamic Correction Decoding for Hallucination Mitigation](http://arxiv.org/abs/2410.11779)
