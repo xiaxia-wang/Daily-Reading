@@ -7,6 +7,18 @@
 
 
 
+
+*2025-02-12*
+
+#### [OneKE: A Dockerized Schema-Guided LLM Agent-based Knowledge Extraction System](https://arxiv.org/abs/2412.20005)
+
+*Yujie Luo, Xiangyuan Ru, Kangwei Liu, Lin Yuan, Mengshu Sun, Ningyu Zhang, Lei Liang, Zhiqiang Zhang, Jun Zhou, Lanning Wei, Da Zheng, Haofen Wang, Huajun Chen*
+
+*TheWebConf 2025 Demo Track*
+
+This pape introduces a dockerized schema-guided system that extracts knowledge from the Web and raw PDF books, which supports various domains (science, news, etc.). In particular, it employs three agents, (1) Schema Agent for schema analysis with various data types, (2) Extraction Agent for extracting knowledge with various LLMs, and (3) Reflection Agent to debug and handle erroneous cases.
+
+
 *2025-01-26*
 
 #### [Can LLMs be Good Graph Judger for Knowledge Graph Construction?](https://arxiv.org/abs/2411.17388)
