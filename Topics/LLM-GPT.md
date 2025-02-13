@@ -9,6 +9,18 @@
 
 
 
+
+*2025-02-13*
+
+#### [KnowAgent: Knowledge-Augmented Planning for LLM-Based Agents](https://arxiv.org/abs/2403.03101)
+
+*Yuqi Zhu, Shuofei Qiao, Yixin Ou, Shumin Deng, Shiwei Lyu, YUE SHEN, Lei Liang, Jinjie GU, Huajun Chen, Ningyu Zhang*
+
+*NAACL 2025*
+
+This paper proposes an approach for enhancing the planning capability of LLMs by incorporating explicit action knowledge. Specifically, it employs an action knowledge base and a knowledgeable self-learning strategy to constrain the action path during planning, enabling more reasonable trajectory synthesis, and thereby enhancing the planning performance of language agents. Initially, *Action Knowledge to Text* converts task-specific action knowledge into textual descriptions. Next, *Planning Path Generation* uses prompts and this knowledge to lead LLMs in planning path creation. Lastly, *Knowledgeable Self-Learning* enables the model iteratively optimize using generated planning trajectories to improve performance.
+
+
 *2025-02-11*
 
 #### [OntoTune: Ontology-Driven Self-training for Aligning Large Language Models](https://openreview.net/forum?id=d7spHwemKX#discussion)
