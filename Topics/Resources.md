@@ -10,6 +10,18 @@
 
 
 
+
+*2025-02-14*
+
+#### [Scientific Large Language Models: A Survey on Biological & Chemical Domains](https://arxiv.org/abs/2401.14656)
+
+*Qiang Zhang, Keyan Ding, Tianwen Lyv, Xinda Wang, Qingyu Yin, Yiwen Zhang, Jing Yu, Yuhao Wang, Xiaotong Li, Zhuoyi Xiang, Xiang Zhuang, Zeyuan Wang, Ming Qin, Mengyao Zhang, Jinlu Zhang, Jiyu Cui, Renjun Xu, Hongyang Chen, Xiaohui Fan, Huabin Xing, Huajun Chen*
+
+*ACM Computing Surveys, 2025*
+
+This paper reviews existing LLMs on the biological and chemical domains, which are categorized into Textual Scientific / Molecular / Protein / Genomic / Multi-modal Scientific LLMs. For each category, it analyzes existing models, datasets, with evaluation results.
+
+
 *2025-02-01*
 
 #### [Automated Validating and Fixing of Text-to-SQL Translation with Execution Consistency]()
