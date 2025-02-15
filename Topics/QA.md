@@ -8,6 +8,18 @@
 
 
 
+
+*2025-02-15*
+
+#### [CogMG: Collaborative Augmentation Between Large Language Model and Knowledge Graph](https://aclanthology.org/2024.acl-demos.35)
+
+*Tong Zhou, Yubo Chen, Kang Liu, Jun Zhao*
+
+*ACL 2024 Demo*
+
+This paper proposes a framework for leveraging knowledge graphs to address the limitations of LLMs in QA scenarios, explicitly targeting at problems of incomplete knowledge coverage and knowledge update misalignment. The LLMs identify and decompose required knowledge triples that are not present in the KG, enriching them and aligning updates with real-world demands. For implementation, it fine-tunes an open-sourced LLM and develops an online system.
+
+
 *2025-01-27*
 
 #### [DAGE: DAG Query Answering via Relational Combinator with Logical Constraints](https://arxiv.org/abs/2410.22105)
