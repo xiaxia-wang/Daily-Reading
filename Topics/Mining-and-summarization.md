@@ -6,6 +6,18 @@
 
 
 
+
+*2025-02-16*
+
+#### [Subgraph Retrieval Enhanced by Graph-Text Alignment for Commonsense Question Answering](https://link.springer.com/chapter/10.1007/978-3-031-70365-2_3)
+
+*Boci Peng, Yongchao Liu, Xiaohe Bo, Sheng Tian, Baokun Wang, Chuntao Hong, Yan Zhang*
+
+*ECML PKDD 2024*
+
+This paper proposes a subgraph retrieval approach by first transforming the KG into a database of subgraph vectors, and using a BFS-style subgraph sampling strategy to avoid information loss, leveraging the analogy between BFS and the message-passing mechanism. Besides, it uses a bidirectional contrastive learning approach for graph-text alignment, which effectively enhances both subgraph retrieval and knowledge fusion. Finally, all the retrieved information is combined for reasoning in the prediction module.
+
+
 *2025-01-08*
 
 #### [Can ChatGPT Solve Relation Extraction? An Extensive Assessment via Design Choice Exploration](https://doi.org/10.1007/978-981-97-9434-8_27)
