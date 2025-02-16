@@ -5,12 +5,6 @@
 
 
 
-
-
-
-
-
-
 *2025-02-14*
 
 #### [Scientific Large Language Models: A Survey on Biological & Chemical Domains](https://arxiv.org/abs/2401.14656)
