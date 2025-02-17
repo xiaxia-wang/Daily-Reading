@@ -3,6 +3,18 @@
 
 
 
+
+*2025-02-17*
+
+#### [Accurate Sampling-Based Cardinality Estimation for Complex Graph Queries](https://dl.acm.org/doi/10.1145/3689209)
+
+*Pan Hu, Boris Motik*
+
+*ACM Transactions on Database Systems, 2024*
+
+This paper introduces an approach for estimating the number of complex query (i.e., involving multi-hop joins) answers on graphs. The process can be seen as random walk on the graph where vertices correspond to the facts in a database instance, and two facts are connected if they join according to the query.
+
+
 *2024-09-02*
 
 #### [nsDB: Architecting the Next Generation Database by Integrating Neural and Symbolic Systems](https://www.vldb.org/pvldb/vol17/p3283-tang.pdf)
