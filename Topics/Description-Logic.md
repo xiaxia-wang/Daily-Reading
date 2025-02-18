@@ -5,11 +5,15 @@
 
 
 
+*2025-02-18*
 
+#### [Datalog Reasoning over Compressed RDF Knowledge Bases](https://dl.acm.org/doi/10.1145/3357384.3358147)
 
+*Pan Hu, Jacopo Urbani, Boris Motik, Ian Horrocks*
 
+*CIKM 2019 Short*
 
-
+This paper introduces a technique to improve Datalog materialisation by compressing the RDF triples so that rules can sometimes be applied to multiple facts at once, and the derived facts can be represented using structure sharing.
 
 
 *2024-02-18*
