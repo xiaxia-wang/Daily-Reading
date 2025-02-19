@@ -9,6 +9,18 @@
 
 
 
+
+*2025-02-19*
+
+#### [Goal-Driven Query Answering for Existential Rules With Equality](https://ojs.aaai.org/index.php/AAAI/article/view/11563)
+
+*Michael Benedikt, Boris Motik, Efthymia Tsamoura*
+
+*AAAI 2018*
+
+The paper presents an approach for goal-driven query answering for existential rules with equality, which gives the benefits of top-down approaches, while radically pruning the set of considered proofs. Additionally, it does not require UNA, but certain steps can be optimized if UNA is satisfied. It also preserves chase termination, and includes an optimized magic set transformation using the symmetry of equality to greatly reduce the number of output rules.
+
+
 *2025-02-15*
 
 #### [CogMG: Collaborative Augmentation Between Large Language Model and Knowledge Graph](https://aclanthology.org/2024.acl-demos.35)
