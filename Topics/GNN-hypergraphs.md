@@ -6,6 +6,16 @@
 
 
 
+*2025-02-20*
+
+#### [HySAE: An Efficient Semantic-Enhanced Representation Learning Model for Knowledge Hypergraph Link Prediction](https://openreview.net/forum?id=OLLYLTb8FC#discussion)
+
+*Zhao Li, Xin Wang, Zhao Jun, Feng Feng, Zirui Chen, Jianxin Li*
+
+*WWW 2025*
+
+This paper proposes a knowledge hypergraph representation learning model, aiming at achieving a trade-off between effectiveness and efficiency. In particular, it builds a semantic-enhanced 3D scalable end-to-end embedding architecture to capture n-ary relations with fewer parameters. Also, it applies a position-aware entity role semantic embedding and enhanced semantic learning strategies to further improve the effectiveness and scalability of the proposed approach.
+
 
 *2024-10-15*
 
