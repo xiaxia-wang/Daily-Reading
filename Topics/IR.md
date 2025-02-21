@@ -8,6 +8,16 @@
 
 
 
+*2025-02-21*
+
+#### [ShapeShifter: Workload-Aware Adaptive Evolving Index Structures Based on Learned Models](https://openreview.net/forum?id=diaXdjqLGW#discussion)
+
+*Hui Wang, Xin Wang, Jiake Ge, Lei Liang, Peng Yi*
+
+*WWW 2025*
+
+This paper proposes a dynamic approach to update point search index structure according to evolving topics, which has two main modules: (1) the classifier module which, in the first phase, determines the "temporature state" as either hot or code of the target node in wach look up or insert operation; and (2) the adaptation module which, in the second phase, triggers an evolving operation if a node is classified as either hot or cold; otherwise, the index structurere mains unchanged.
+
 
 *2025-02-04*
 
