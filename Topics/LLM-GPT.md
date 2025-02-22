@@ -9,6 +9,16 @@
 
 
 
+*2025-02-22*
+
+#### [Goedel-Prover: A Frontier Model for Open-Source Automated Theorem Proving](https://arxiv.org/abs/2502.07640v1)
+
+*Yong Lin, Shange Tang, Bohan Lyu, Jiayun Wu, Hongzhou Lin, Kaiyu Yang, Jia Li, Mengzhou Xia, Danqi Chen, Sanjeev Arora, Chi Jin*
+
+*Arxiv 2025*
+
+This paper introduces Goedel-Prover, an open-source LLM for automated formal proof generation for mathematical problems. The key challenge in this field is the scarcity of formalized math statements and proofs. To tackle the challenge, it trains statement formalizers to translate the natural language math problems from Numina into formal language (Lean 4), creating a dataset of 1.64 million formal statements. LLMs are used to check that the formal statements accurately preserve the content of the original natural language problems. Then the authors iteratively build a large dataset of formal proofs by training a series of provers. Each prover succeeds in proving many statements that the previous ones could not, and these new proofs are added to the training set for the next prover. The final prover outperforms all existing open-source models in whole-proof generation.
+
 
 *2025-02-13*
 
