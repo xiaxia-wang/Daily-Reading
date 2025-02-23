@@ -5,6 +5,19 @@
 
 
 
+
+
+*2025-02-23*
+
+#### [Knowledge enhanced representation learning for drug discovery](https://dl.acm.org/doi/10.1609/aaai.v38i9.28924)
+
+*Thanh Lam Hoang, Marco Luca Sbodio, Marcos Martinez Galindo, Mykhaylo Zayats, Raul Fernandez-Diaz, Victor Valls, Gabriele Picco, Cesar Berrospi, Vanessa Lopez*
+
+*AAAI 2024*
+
+This paper proposes a multi-modal knowledge graph for enhancing drug discovery. In particular, each node in the KG is assigned a modal such as text, image, protein sequence, etc., with initial embeddings. Then it utilizes multiple pretrained models to generate and refine node embeddings, with a linear ensemble framework to aggregate the final representations.
+
+
 *2025-02-14*
 
 #### [Scientific Large Language Models: A Survey on Biological & Chemical Domains](https://arxiv.org/abs/2401.14656)
