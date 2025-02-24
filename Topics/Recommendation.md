@@ -5,6 +5,16 @@
 
 
 
+*2025-02-24*
+
+#### [Graph Foundation Models for Recommendation: A Comprehensive Survey](https://arxiv.org/abs/2502.08346)
+
+*Bin Wu, Yihang Wang, Yuanhao Zeng, Jiawei Liu, Jiashu Zhao, Cheng Yang, Yawen Li, Long Xia, Dawei Yin, Chuan Shi*
+
+*Arxiv 2024*
+
+This paper reviews exisitng works of utilizing graph foundation models to enhance recommender systems. It categorizes existing works in the view of collaboration between GNNs and LLMs, including (1) graph-augmented LLMs, which use graph structural information to assist LLMs' decision process, (2) LLM-augmented graphs, which use LLMs' world knowledge to enhance GNNs' performance, and (3) LLM-graph harmonization, which aligns both embedding spaces of GNN and LLM via transformation.
+
 
 *2025-01-18*
 
