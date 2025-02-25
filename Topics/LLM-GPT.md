@@ -9,6 +9,18 @@
 
 
 
+
+*2025-02-25*
+
+#### [Agentic Reasoning: Reasoning LLMs with Tools for the Deep Research](https://arxiv.org/abs/2502.04644)
+
+*Junde Wu, Jiayuan Zhu, Yuyuan Liu*
+
+*Arxiv 2025*
+
+This paper proposes a framework to enhance LLM reasoning by integrating external tool-using agents. Unlike conventional LLM-based reasoning which relies solely on internal inference, it dynamically engages web search, code execution, and structured reasoning-context memory to solve complex problems requiring deep research and multi-step logical deduction. The proposed framework introduces an agent to construct a knowledge graph for tracking logical relationships, and the integration of web-search and coding agents enables real-time retrieval and computational analysis.
+
+
 *2025-02-22*
 
 #### [Goedel-Prover: A Frontier Model for Open-Source Automated Theorem Proving](https://arxiv.org/abs/2502.07640v1)
