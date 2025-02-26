@@ -3,6 +3,18 @@
 
 
 
+
+*2025-02-26*
+
+#### [InBox: Recommendation with Knowledge Graph using Interest Box Embedding](https://arxiv.org/abs/2403.12649)
+
+*Zezhong Xu, Yincen Qu, Wen Zhang, Lei Liang, Huajun Chen*
+
+*VLDB 2025*
+
+Given an interaction graph G𝑢 that captures the historical interactions between users and items, as well as an external knowledge graph G𝑘 that depicts relationships between various entities, the recommendation task is to train a model to predict the probability for a user 𝑢 will positively interact with a candidate item 𝑖, given the user’s interaction history in G𝑢 and the relational information in G𝑘. To avchieve this, it formulates items as points within the boxes representing tags. By viewing tags combination and user interest as boxes, it conducts three training steps to obtain representations for items, tags, relations, and leverage the user’s interest box to compute the matching score, which serves as the recommendation result.
+
+
 *2025-01-06*
 
 #### [Position-Aware Relational Transformer for Knowledge Graph Embedding](https://ieeexplore.ieee.org/document/10092525)
