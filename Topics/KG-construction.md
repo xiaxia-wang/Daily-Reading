@@ -7,6 +7,16 @@
 
 
 
+*2025-02-27*
+
+#### [Continual Multimodal Knowledge Graph Construction](https://www.ijcai.org/proceedings/2024/0688.pdf)
+
+*Xiang Chen, Jintian Zhang, Xiaohan Wang, Ningyu Zhang, Tongtong Wu, Yuxiang Wang, Yongheng Wang, Huajun Chen*
+
+*IJCAI 2024*
+
+This paper introduces a framework for continual multimodal KGC, which consists of two critical modules: (1) a gradient modulation technique to handle the imbalanced learning dynamics across modalities, and (2) instead of typical cross-attention multimodal interaction, it computes an inter-modal self query affinity for decoupling the parameters with attention distillation.
+
 
 *2025-02-12*
 
