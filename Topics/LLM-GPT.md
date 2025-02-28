@@ -10,6 +10,18 @@
 
 
 
+
+*2025-02-28*
+
+#### [LLMs for Knowledge Graph Construction and Reasoning: Recent Capabilities and Future Opportunities](https://arxiv.org/abs/2305.13168)
+
+*Yuqi Zhu, Xiaohan Wang, Jing Chen, Shuofei Qiao, Yixin Ou, Yunzhi Yao, Shumin Deng, Huajun Chen, Ningyu Zhang*
+
+*WWWJ*
+
+This paper presents an evaluation of LLMs for KG construction and reasoning, focusing on representative tasks including entity and relation extraction, event extraction, link prediction, and question-answering. Besides, it also proposes a multi-agent-based approach employing LLMs and external sources for KG construction and reasoning.
+
+
 *2025-02-25*
 
 #### [Agentic Reasoning: Reasoning LLMs with Tools for the Deep Research](https://arxiv.org/abs/2502.04644)
