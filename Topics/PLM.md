@@ -8,6 +8,18 @@
 
 
 
+
+*2025-03-01*
+
+#### [K-ON: Stacking Knowledge On the Head Layer of Large Language Model](https://arxiv.org/abs/2502.06257)
+
+*Lingbing Guo, Yichi Zhang, Zhongpu Bo, Zhuo Chen, Mengshu Sun, Zhiqiang Zhang, Wen Zhang, Huajun Chen*
+
+*AAAI 2025*
+
+Typically, LLMs are trained to predict the next token, while KGs have entities as fundamental units that requires at least several tokens. To address this granularity mismatch, this paper proposes to employ multiple head layers for next k-step prediction. In particular, it involves: (1) the LLM to process input text containing incomplete triplet information; (2) the resulting hidden states are fed into distinct head MLPs; (3) a compact conditional Transformer to capture sequential dependencies; (4) LoRA score layers to transform hidden states into K probability distribution estimations; (5) aggregating elements from respective probability vectors to form the output.
+
+
 *2024-12-18*
 
 #### [Round and Round We Go! What makes Rotary Positional Encodings useful?](https://arxiv.org/abs/2410.06205v1)
