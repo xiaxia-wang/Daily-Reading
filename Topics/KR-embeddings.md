@@ -3,6 +3,16 @@
 
 
 
+*2025-03-02*
+
+#### [Knowledge Graph Pooling and Unpooling for Concept Abstraction](https://aclanthology.org/2025.coling-main.359)
+
+*Juan Li, Wen Zhang, Zhiqiang Liu, Mingchen Tu, Mingyang Chen, Ningyu Zhang, Shijian Li*
+
+*COLING 2025*
+
+This paper proposes a KGE method by KG pooling and unpooling with contrastive learning to encode latent concepts for better embedding performance. Specifically, given an input KG, it first constructs a new graph by KG pooling and unpooling. Then the new graph is processed by relational KGE to get the representations of entities and relations, with local and global contrastive losses being applied for jointly training.
+
 
 *2025-02-26*
 
