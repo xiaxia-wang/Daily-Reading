@@ -8,7 +8,15 @@
 
 
 
+*2025-03-03*
 
+#### [PIKE-RAG: sPecIalized KnowledgE and Rationale Augmented Generation](https://arxiv.org/abs/2501.11551)
+
+*Jinyu Wang, Jingjing Fu, Rui Wang, Lei Song, Jiang Bian*
+
+*Arxiv 2025*
+
+Despite notable advancements in RAG systems that expand LLM capabilities through external retrieval, these systems often struggle to meet the complex and diverse needs of real-world industrial applications. To address that, this technical report introduces PIKE-RAG, focusing on extracting, understanding, and applying specialized knowledge, while constructing coherent rationale to incrementally steer LLMs toward accurate responses. Recognizing the diverse challenges of industrial tasks, it introduces a new paradigm to classify tasks based on their complexity in knowledge extraction and application, allowing for a systematic evaluation of RAG systems' problem-solving capabilities.
 
 
 *2025-02-28*
