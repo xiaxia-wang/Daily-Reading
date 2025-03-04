@@ -10,6 +10,18 @@
 
 
 
+
+*2025-03-04*
+
+#### [Retrieval and Reasoning on KGs: Integrate Knowledge Graphs into Large Language Models for Complex Question Answering](https://aclanthology.org/2024.findings-emnlp.446/)
+
+*Yixin Ji, Kaixin Wu, Juntao Li, Wei Chen, Mingjie Zhong, Xu Jia, Min Zhang*
+
+*EMNLP 2024 Findings*
+
+This paper proposes an approach for enhancing QA performance of LLMs based on knowledge retrieved from KGs. In particular, it uses the triples forming the path from query entity to answer entity for each multi-hop question as a positive example, and ramdomly samples the rest irrelevant triples as negative examples. Besides, to ease the token redundancy of triple-form representation of retrieved subgraphs, it uses YAML-style representation as a more compact form, which is easier for LLMs to process.
+
+
 *2025-02-19*
 
 #### [Goal-Driven Query Answering for Existential Rules With Equality](https://ojs.aaai.org/index.php/AAAI/article/view/11563)
