@@ -8,6 +8,18 @@
 
 
 
+
+*2025-03-05*
+
+#### [Targeted training for numerical reasoning with large language models](https://link.springer.com/article/10.1007/s10115-024-02216-1)
+
+*Xiao Li, Sichen Liu, Yin Zhu, Gong Cheng*
+
+*Knowledge and Information Systems*
+
+This paper explores the task of instructing LLMs to generate CoT examples for fine-tuning smaller models for numerical reasoning. As smaller models are usually passive in this line of work and may not be able to exploit the provided training data, this paper proposes a targeted training strategy to match LLM’s assistance with small models’ capacities. The small model proactively requestd LLM’s assistance when it sifts out confusing training data. Then, LLM refines such data by successively revising reasoning steps and reducing question complexity before feeding the small model.
+
+
 *2025-03-03*
 
 #### [PIKE-RAG: sPecIalized KnowledgE and Rationale Augmented Generation](https://arxiv.org/abs/2501.11551)
