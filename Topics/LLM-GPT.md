@@ -8,6 +8,16 @@
 
 
 
+*2025-03-06*
+
+#### [Controllable Protein Sequence Generation with LLM Preference Optimization](https://arxiv.org/abs/2501.15007)
+
+*Xiangyu Liu, Yi Liu, Silei Chen, Wei Hu*
+
+*AAAI 2025*
+
+Although pre-trained protein large language models (LLMs) have shown promising results on protein sequence generation, existing works still struggle on controlling sequence generation for specific attributes, with poor functionality and structural stability. To solve this problem, this paper proposes a controllable protein design method by finetuning a protein LLM with a new multi-listwise preference optimization strategy to improve generation quality and support multi-attribute controllable generation.
+
 
 *2025-03-05*
 
