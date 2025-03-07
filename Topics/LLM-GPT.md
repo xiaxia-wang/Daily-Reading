@@ -7,6 +7,16 @@
 
 
 
+*2025-03-07*
+
+#### [Knowledge Graph-Guided Retrieval Augmented Generation](https://arxiv.org/abs/2502.06864)
+
+*Xiangrong Zhu, Yuexiang Xie, Yi Liu, Yaliang Li, Wei Hu*
+
+*NAACL 2025*
+
+To address the hallucination issue of LLMs, existing RAG approaches usually retrieve relevant but isolated passage chunks, while ignoring the semantic relations between these retrieved results. This paper proposes a solution by introducing a KG-guided RAG framework. In particular, it first pre-processes documents by dividing them into chunks and linked to a KG. Then the retrieval process is conducted with two stages, including semantic-based retrieval and graph-guided expansion.
+
 
 *2025-03-06*
 
