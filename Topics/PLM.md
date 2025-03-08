@@ -8,6 +8,16 @@
 
 
 
+*2025-03-08*
+
+#### [Probabilistic Transformer: A Probabilistic Dependency Model for Contextual Word Representation](https://aclanthology.org/2023.findings-acl.482/)
+
+*Haoyi Wu, Kewei Tu*
+
+*ACL Findings 2023*
+
+This paper proposes a conditional random field model to simulate discrete latent representations of all words in a sentence as well as dependency arcs between them. An important finding is that the computation graph of this model resembles transformers, with correspondences between dependencies and self-attention, and between distributions of latent representations and contextual word embeddings.
+
 
 *2025-03-01*
 
