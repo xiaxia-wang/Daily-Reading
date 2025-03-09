@@ -7,6 +7,16 @@
 
 
 
+*2025-03-09*
+
+#### [KNOWNET: Guided Health Information Seeking from LLMs via Knowledge Graph Integration](https://arxiv.org/abs/2407.13598)
+
+*Youfu Yan, Yu Hou, Yongkang Xiao, Rui Zhang, Qianwen Wang*
+
+*IEEE VIS 2024*
+
+This paper proposes a visualization system for health information retrieval by improving LLMs via integrating external KGs. In particular, to enhance accuracy, it extracts triples from LLM outputs and maps them to supporting evidence in external KGs. For structured exploration, it provides recommendations for further inquiry. Considering that multi-step exploration might introduce information overwhelming, it follows the focus+context design and proposes a progressive graph visualization to track inquiries, connecting the history with current queries and next-step recommendations.
+
 
 *2025-02-21*
 
