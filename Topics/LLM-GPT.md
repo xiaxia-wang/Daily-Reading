@@ -6,6 +6,16 @@
 
 
 
+*2025-03-10*
+
+#### [Do LLMs Really Adapt to Domains? An Ontology Learning Perspective](https://arxiv.org/abs/2407.19998)
+
+*Huu Tan Mai, Cuong Xuan Chu, Heiko Paulheim*
+
+*ISWC 2024*
+
+This paper investigates the question: Do LLMs really adapt to domains and remain consistent in structured knowledge extraction, or do they only learn lexical senses instead of reasoning? By devising a controlled experiment that uses WordNet to synthesize parallel corpora, with English and gibberish terms, empirical results show that while adapting to the gibberish corpora, off-the-shelf LLMs do not consistently reason over semantic relationships between concepts, instead, they rely on the lexical senses. Fine-tuning improves the performance on lexical semantic tasks even when domain-specific terms are unseen during pre-training, hinting at the applicability of pre-trained LLMs for ontology learning.
+
 
 *2025-03-07*
 
