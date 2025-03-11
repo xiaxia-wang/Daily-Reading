@@ -9,6 +9,16 @@
 
 
 
+*2025-03-11*
+
+#### [Do Topological Characteristics Help in Knowledge Distillation?](https://openreview.net/forum?id=2dEH0u8w0b)
+
+*Jungeun Kim, Junwon You, Dongjin Lee, Ha Young Kim, Jae-Hun Jung*
+
+*ICML 2024*
+
+This paper proposes a knowledge distillation approach based on global topology of the latent spaces. It defines *global topology knowledge* using the persistence diagram (PD) that captures comprehensive geometric structures such as shape of distribution, multiscale structure and connectivity, and the *topology distillation loss* for teaching this knowledge.
+
 
 *2025-02-06*
 
