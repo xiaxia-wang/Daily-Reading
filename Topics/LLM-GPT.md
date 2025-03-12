@@ -5,6 +5,16 @@
 
 
 
+*2025-03-12*
+
+#### [From Specific-MLLMs to Omni-MLLMs: A Survey on MLLMs Aligned with Multi-modalities](https://arxiv.org/abs/2412.11694)
+
+*Shixin Jiang, Jiafeng Liang, Jiyuan Wang, Xuan Dong, Heng Chang, Weijiang Yu, Jinhua Du, Ming Liu, Bing Qin*
+
+*Arxiv 2025*
+
+This paper reviews the potential roadmap for realizing omni-multimodal LLM, by (1) investigating relevant research and describing core components with a meticulous taxonomy, (2) introducing the effective integration of two-stage training with corresponding datasets as well as evaluation, (3) summarizing challenges and future directions.
+
 
 *2025-03-10*
 
