@@ -5,6 +5,16 @@
 
 
 
+*2025-03-13*
+
+#### [SAMGPT: Text-free Graph Foundation Model for Multi-domain Pre-training and Cross-domain Adaptation](https://arxiv.org/abs/2502.05424)
+
+*Xingtong Yu, Zechuan Gong, Chang Zhou, Yuan Fang, Hui Zhang*
+
+*WWW 2025*
+
+This paper proposes a structure alignment framework for text-free multi-domain graph pre-training and cross-domain adaptation. It is designed to learn multi-domain knowledge from graphs originating in multiple source domains, which is then adapted to unseen target domain. Specifically, it introduces a set of structure tokens to harmonize structure-based aggregation across source domains during the pre-training phase. Next, for cross-domain adaptation, holistic prompts and specific prompts are used to adapt unified multi-domain structural knowledge and fine-grained, domain-specific information, respectively.
+
 
 *2025-01-16*
 
