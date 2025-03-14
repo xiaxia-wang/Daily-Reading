@@ -6,6 +6,16 @@
 
 
 
+*2025-03-14*
+
+#### [Efficient Rectification of Neuro-Symbolic Reasoning Inconsistencies by Abductive Reflection](https://arxiv.org/abs/2412.08457)
+
+*Wen-Chao Hu, Wang-Zhou Dai, Yuan Jiang, Zhi-Hua Zhou*
+
+*AAAI 2025 Best Paper*
+
+This paper proposes an extension to the existing abductive learning framework, which replaces the cumbersome consistency optimization module with a more efficient reflection approach. In particular, the reflection mechnism does not rely on external KB, while being part of the learning framework, thereby easing the complex computation and scaling issue to larger datasets.
+
 
 *2025-01-30*
 
