@@ -4,6 +4,16 @@
 
 
 
+*2025-03-15*
+
+#### [A Survey on Complex Reasoning of Large Language Models through the Lens of Self-Evolution](https://www.researchgate.net/publication/389209259_A_Survey_on_Complex_Reasoning_of_Large_Language_Models_through_the_Lens_of_Self-Evolution)
+
+*Tao He, Hao Li, Jingchang Chen, Runxuan Liu, Yixin Cao, Lizi Liao, Zihao Zheng, Zheng Chu, Jiafeng Liang, Ming Liu, Bing Qin*
+
+*Preprint*
+
+Self-evolution cycles self-play and iterative learning to enable autonomous evolution of reasoning capabilities. This paper reviews existing works related to self-evolution under a category whth 3 groups: data evolution, model evolution, and combined data-and-model evolution.
+
 
 *2025-03-12*
 
