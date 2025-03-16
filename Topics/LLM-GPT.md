@@ -3,6 +3,16 @@
 
 
 
+*2025-03-16*
+
+#### [A Pilot Empirical Study on When and How to Use Knowledge Graphs as Retrieval Augmented Generation](https://arxiv.org/abs/2502.20854)
+
+*Xujie Yuan, Yongxu Liu, Shimin Di, Shiwen Wu, Libin Zheng, Rui Meng, Lei Chen, Xiaofang Zhou, Jian Yin*
+
+*Arxiv 2025*
+
+To evaluate existing KG-RAG frameworks, this paper analyzes their performance in various application scenarios associated with different technical configurations. It conducts an empirical study of KG-RAG works to reimplement and evaluate 6 KG-RAG methods across 7 datasets in multiple scenarios, analyzing the impact of 9 KG-RAG configurations in combination with 17 LLMs.
+
 
 *2025-03-15*
 
