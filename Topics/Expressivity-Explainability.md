@@ -3,6 +3,16 @@
 
 
 
+*2025-03-17*
+
+#### [SpArX: Sparse Argumentative Explanations for Neural Networks [Technical Report]](https://arxiv.org/abs/2301.09559)
+
+*Hamed Ayoobi, Nico Potyka, Francesca Toni*
+
+*ECAI 2023*
+
+This paper investigates the explainability of MLPs through the lens of quantitative argumentative framework. In particular, it formulates a general MLP with a QAF instance, and identifies the attack/support relationships between neurons to give explanations for one or all the MLP outputs. It does not guarantee fully faithfulness of the explaination to the output, instead, it uses a quantitative value to indicate the faithfulness/unfaithfulness.
+
 
 *2024-08-13*
 
