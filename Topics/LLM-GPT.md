@@ -2,6 +2,16 @@
 
 
 
+*2025-03-18*
+
+#### [Graph RAG-Tool Fusion](https://arxiv.org/abs/2502.07223)
+
+*Elias Lumer, Pradeep Honaganahalli Basavaraju, Myles Mason, James A. Burke, Vamse Kumar Subbiah*
+
+*Arxiv 2025*
+
+Existing RAG-based frameworks for selecting agents or tools to complete complex tasks uaually fail to capture the structural dependencies between tools. To mitigate the issue, this paper introduces a plug-and-play approach by vector-based retrieval with graph traversal to capture all relevant tools (nodes), along with any nested dependencies (edges) within a predefined tool knowledge graph.
+
 
 *2025-03-16*
 
