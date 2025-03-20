@@ -9,6 +9,15 @@
 
 
 
+*2025-03-20*
+
+#### [SymAgent: A Neural-Symbolic Self-Learning Agent Framework for Complex Reasoning over Knowledge Graphs](https://arxiv.org/abs/2502.03283)
+
+*Ben Liu, Jihai Zhang, Fangquan Lin, Cheng Yang, Min Peng, Wotao Yin*
+
+*Arxiv 2025*
+
+This paper proposes a KG-LLM collaboation framework that uses KG as dynamic environment and transforms complex questions into a multi-step interactive process. It mainly consists of 2 modules: an agent planner that leverages LLMs to guide question decomposition, and an agent executor that invokes action tools. Besides, it designs a self-learning framework to automatically synthesize reasoning trajectories and improve the agent performance.
 
 
 *2024-10-03*
