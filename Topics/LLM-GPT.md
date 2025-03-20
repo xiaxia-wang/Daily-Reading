@@ -1,6 +1,16 @@
 
 
 
+*2025-03-19*
+
+#### [Graph Foundation Models: Concepts, Opportunities and Challenges](https://ieeexplore.ieee.org/document/10915556)
+
+*Jiawei Liu*, Cheng Yang*, Zhiyuan Lu, Junze Chen, Yibo Li, Mengmei Zhang, Ting Bai, Yuan Fang, Lichao Sun, Philip S. Yu, Chuan Shi*
+
+*TPAMI 2025*
+
+This paper first presents the graph foundation models, and summarizes their similarities and differences to LLMs. It analyzes existing graph foundational models by 3 categories, namely, GNN-based models, LLM-based models, and GNN+LLM-based models, respectively.
+
 
 *2025-03-18*
 
