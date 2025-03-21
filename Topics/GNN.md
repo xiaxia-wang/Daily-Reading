@@ -5,6 +5,18 @@
 
 
 
+
+*2025-03-21*
+
+#### [Towards Neural Scaling Laws on Graphs](https://arxiv.org/abs/2402.02054)
+
+*Jingzhe Liu, Haitao Mao, Zhikai Chen, Tong Zhao, Neil Shah, Jiliang Tang*
+
+*Arxiv 2024*
+
+This paper investigates the scaling law for neural network models over graphs. For model scaling, it identifies that despite the number of parameters, the model depth also plays an important role in the model scaling behavior, which differs from observations in other domains. For data scaling, it describes the data scaling law with number of nodes or edges as metrics.
+
+
 *2025-03-13*
 
 #### [SAMGPT: Text-free Graph Foundation Model for Multi-domain Pre-training and Cross-domain Adaptation](https://arxiv.org/abs/2502.05424)
