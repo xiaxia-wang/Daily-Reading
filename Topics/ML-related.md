@@ -8,6 +8,16 @@
 
 
 
+*2025-03-22*
+
+#### [Exploring Neural Scaling Law and Data Pruning Methods For Node Classification on Large-scale Graphs](https://dl.acm.org/doi/10.1145/3589334.3645571)
+
+*Zhen Wang, Yaliang Li, Bolin Ding, Yule Li, Zhewei Wei*
+
+*WWW 2024*
+
+This paper explores the neural scaling law for node classification tasks on three large-scale graphs. It benchmarks several state-of-the-art data pruning methods on these tasks, not only to validate the possibility of improving the original unsatisfactory power law but also to gain insights into a principle on picking an effective subset of training nodes.
+
 
 *2025-03-11*
 
