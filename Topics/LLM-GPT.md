@@ -1,5 +1,15 @@
 
 
+*2025-03-23*
+
+#### [SampleLLM: Optimizing Tabular Data Synthesis in Recommendations](https://arxiv.org/abs/2501.16125)
+
+*Jingtong Gao, Zhaocheng Du, Xiaopeng Li, Yichao Wang, Xiangyang Li, Huifeng Guo, Ruiming Tang, Xiangyu Zhao*
+
+*WWW 2025*
+
+This paper proposes an LLM-based approach to generate synthetic tabular data in the recommendation domain. Specifically, it uses a two-stage process, by first employing LLMs with CoT prompts and diverse exemplars to generate data that closely aligns with the target dataset distribution, and the second stage uses a feature attribution-based importance sampling method to refine feature relationships within the synthesized data, reducing any distribution biases introduced by the LLM.
+
 
 *2025-03-19*
 
