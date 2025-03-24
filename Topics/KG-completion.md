@@ -8,6 +8,18 @@
 
 
 
+
+*2025-03-24*
+
+#### [DPCL-Diff: The Temporal Knowledge Graph Reasoning Based on Graph Node Diffusion Model with Dual-Domain Periodic Contrastive Learning](https://arxiv.org/abs/2411.01477)
+
+*Yukun Cao, Lisheng Wang, Luobin Huang*
+
+*AAAI 2025*
+
+This paper proposes an approach for link prediction over temporal knowledge graphs. Specifically, the task is formulated as to predict the missing object $o$ in the quadruple $(s, p, o, t)$ in a temporal KG. To handle this task, it applies a diffusion model to simulate the event occurring process. Besides, it identifies between periodic and non-periodic events, mapping them into different spaces (i.e., 'dual-domain').
+
+
 *2025-02-08*
 
 #### [Multiple Heads are Better than One: Mixture of Modality Knowledge Experts for Entity Representation Learning](https://arxiv.org/abs/2405.16869)
