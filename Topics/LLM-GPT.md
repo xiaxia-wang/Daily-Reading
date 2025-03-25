@@ -1,5 +1,22 @@
 
 
+
+
+
+
+
+
+*2025-03-25*
+
+#### [Zep: A Temporal Knowledge Graph Architecture for Agent Memory](https://arxiv.org/abs/2501.13956)
+
+*Preston Rasmussen, Pavlo Paliychuk, Travis Beauvais, Jack Ryan, Daniel Chalef*
+
+*Arxiv 2025*
+
+While existing RAG frameworks for LLM-based agents are limited to static document retrieval, enterprise applications demand dynamic knowledge integration from diverse sources including ongoing conversations and business data. This paper introduces a memory layer service for AI agents with a temporally-aware knowledge graph engine to dynamically synthesize both unstructured conversational data and structured business data while maintaining historical relationships.
+
+
 *2025-03-23*
 
 #### [SampleLLM: Optimizing Tabular Data Synthesis in Recommendations](https://arxiv.org/abs/2501.16125)
