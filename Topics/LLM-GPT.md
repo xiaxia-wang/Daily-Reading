@@ -5,6 +5,16 @@
 
 
 
+*2025-03-26*
+
+#### [In-depth Analysis of Graph-based RAG in a Unified Framework](https://arxiv.org/abs/2503.04338)
+
+*Yingli Zhou, Yaodong Su, Youran Sun, Shu Wang, Taotao Wang, Runyuan He, Yongwei Zhang, Sicong Liang, Xilin Liu, Yuchi Ma, Yixiang Fang*
+
+*Arxiv 2025*
+
+This paper compares existing graph-based RAG approaches under a unified framework and analyzes their results. The main process of the framework includes (1) graph building, (2) index construction, (3) operator configuration, and (4) retrieve and response. Note that this paper also talks about abstract questions, i.e., questions that are not specific to some fact, but at a higher level and more general, example datasets such as Mix [65], MultihopSum [74], Agriculture [65], CS [65], and Legal [65].
+
 
 *2025-03-25*
 
