@@ -5,6 +5,18 @@
 
 
 
+
+*2025-03-27*
+
+#### [From Local to Global: A Graph RAG Approach to Query-Focused Summarization](https://arxiv.org/abs/2404.16130)
+
+*Darren Edge, Ha Trinh, Newman Cheng, Joshua Bradley, Alex Chao, Apurva Mody, Steven Truitt, Dasha Metropolitansky, Robert Osazuwa Ness, Jonathan Larson*
+
+*Arxiv 2024*
+
+The technical report of Microsoft GraphRAG framework.
+
+
 *2025-03-26*
 
 #### [In-depth Analysis of Graph-based RAG in a Unified Framework](https://arxiv.org/abs/2503.04338)
