@@ -5,6 +5,27 @@
 
 
 
+*2025-03-29*
+
+#### [OpenRAG: Optimizing RAG End-to-End via In-Context Retrieval Learning](https://arxiv.org/abs/2503.08398)
+
+*Jiawei Zhou, Lei Chen*
+
+*Arxiv 2025*
+
+This paper proposes an end-to-end RAG framework, which aims to retrieve documents on-the-fly and identify them as positive or negative for contrastive learning (of the retriever).
+
+
+*2025-03-28*
+
+#### [LightRAG: Simple and Fast Retrieval-Augmented Generation](https://arxiv.org/abs/2410.05779)
+
+*Zirui Guo, Lianghao Xia, Yanhua Yu, Tu Ao, Chao Huang*
+
+*Arxiv 2024*
+
+This paper proposes a RAG framework that incorporates low-level and high-level knowledge retrieval, with graph structure to organize related entities. The evaluation also includes generating abstract questions, which is mainly by prompting LLMs to simulate RAG users with given knowledge acquisition tasks.
+
 
 *2025-03-27*
 
