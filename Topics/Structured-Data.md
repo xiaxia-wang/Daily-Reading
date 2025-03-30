@@ -5,6 +5,16 @@
 
 
 
+*2025-03-30*
+
+#### [A Survey of Knowledge Graph Reasoning on Graph Types: Static, Dynamic, and Multi-Modal](https://ieeexplore.ieee.org/abstract/document/10577554)
+
+*Ke Liang, Lingyuan Meng, Meng Liu, Yue Liu, Wenxuan Tu, Siwei Wang*
+
+*IEEE TAPMI*
+
+This paper aggregates existing works for knowledge graph reasoning by categorizing graph types into static, dynamic and multi-modal ones, and grouping works by both the tast setting (i.e., inductive/transductive) and techniques (e.g., GNN).
+
 
 *2024-10-07*
 
