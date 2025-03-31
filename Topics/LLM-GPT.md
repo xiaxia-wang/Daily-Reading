@@ -4,6 +4,16 @@
 
 
 
+*2025-03-31*
+
+#### [From Exploration to Mastery: Enabling LLMs to Master Tools via Self-Driven Interactions](https://arxiv.org/abs/2410.08197)
+
+*Changle Qu, Sunhao Dai, Xiaochi Wei, Hengyi Cai, Shuaiqiang Wang, Dawei Yin, Jun Xu, Ji-Rong Wen*
+
+*ICLR 2025*
+
+This paper proposes a framework to promote the ability of LLMs to utilize external tools, by prompting the LLM to (1) explore tool documentations, (2) learning from them, and (3) rewriting tool documentation to better fit the utilization by LLMs.
+
 
 *2025-03-29*
 
