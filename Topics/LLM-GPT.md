@@ -3,6 +3,16 @@
 
 
 
+*2025-04-01*
+
+#### [Estimation of single-cell and tissue perturbation effect in spatial transcriptomics via Spatial Causal Disentanglement](https://openreview.net/forum?id=Tqdsruwyac)
+
+*Stathis Megas, Daniel G. Chen, Krzysztof Polanski, Moshe Eliasof, Carola-Bibiane Schönlieb, Sarah A Teichmann*
+
+*ICLR 2025*
+
+This paper proposes a generative graph neural network to infer and disentangle the causal structure diagram of feature interactions from spatial samples such as spatial transcriptomics data. The method can also be used to predict spatial perturbation effect in silico.
+
 
 *2025-03-31*
 
