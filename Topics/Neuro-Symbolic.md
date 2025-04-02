@@ -5,6 +5,16 @@
 
 
 
+*2025-04-02*
+
+#### [Neuro-Symbolic AI and the Semantic Web](https://www.semantic-web-journal.net/system/files/swj3711.pdf)
+
+*Pascal Hitzler, Monireh Ebrahimi, Md. Kamruzzaman Sarker, Daria Stepanova*
+
+*SWJ 2024*
+
+A special issue of Semantic Web Journal with 6 papers focusing on neuro-symbolic AI in the context of Semantic Web.
+
 
 *2025-03-14*
 
