@@ -2,6 +2,16 @@
 
 
 
+*2025-04-03*
+
+#### [KnowGPT: Knowledge Graph based Prompting for Large Language Models](https://openreview.net/forum?id=PacBluO5m7)
+
+*Qinggang Zhang, Junnan Dong, Hao Chen, Daochen Zha, Zailiang Yu, Xiao Huang*
+
+*NeurIPS 2024*
+
+This paper proposes a knowledge graph prompting framework. Given the question context with multiple choices, it first retrieves a question-specific subgraph from the KG. Then the Prompt Construction module combines the paths retrieved from the subgraph into the prompts, and feeds the priorotized prompt into LLM to get the answer.
+
 
 *2025-04-01*
 
