@@ -10,6 +10,16 @@
 
 
 
+*2025-04-04*
+
+#### [Augmented Knowledge Graph Querying leveraging LLMs](https://arxiv.org/abs/2502.01298v1)
+
+*Marco Arazzi, Davide Ligari, Serena Nicolazzo, Antonino Nocera*
+
+*Arxiv 2025*
+
+This paper proposes an LLM-based pipeline for general users to query KG, including KG construction (without LLM), searching for the most appropriate SPARQL template for the query, and execution with result visualization.
+
 
 *2025-03-04*
 
