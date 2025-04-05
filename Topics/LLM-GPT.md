@@ -1,6 +1,16 @@
 
 
 
+*2025-04-05*
+
+#### [Code Search is All You Need? Improving Code Suggestions with Code Search](https://dl.acm.org/doi/10.1145/3597503.3639085)
+
+*Junkai Chen, Xing Hu, Zhenhao Li, Cuiyun Gao, Xin Xia, David Lo*
+
+*ICSE 2024*
+
+This paper introduces a retrieval-augmented code generation approach, by firstly searching for similar code pieces, combining them with context prompts, and generating token-level/line-level/complete codes for the context.
+
 
 *2025-04-03*
 
