@@ -10,6 +10,18 @@
 
 
 
+
+*2025-04-06*
+
+#### [Final: Combining First-order Logic with Natural Logic for Question Answering](https://www.computer.org/csdl/journal/tk/5555/01/10926899/25588G8f8ti)
+
+*石继豪，丁效，Siu Cheung HUI，鄢宇雄，赵恒维，刘挺，秦兵*
+
+*IEEE TKDE*
+
+This paper proposes an approach for question answering by incorporating deductive reasoning. It starts from the hypothesis transformed from the question, decomposes the hypothesis into sub-hypotheses, and retrieves facts from the KB to verify them.
+
+
 *2025-04-04*
 
 #### [Augmented Knowledge Graph Querying leveraging LLMs](https://arxiv.org/abs/2502.01298v1)
