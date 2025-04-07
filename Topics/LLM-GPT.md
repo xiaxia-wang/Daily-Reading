@@ -1,6 +1,18 @@
 
 
 
+
+*2025-04-07*
+
+#### [StructGPT: A General Framework for Large Language Model to Reason over Structured Data](https://aclanthology.org/2023.emnlp-main.574/)
+
+*Jinhao Jiang, Kun Zhou, Zican Dong, Keming Ye, Xin Zhao, Ji-Rong Wen*
+
+*EMNLP 2023*
+
+This paper proposes a unified approach to retrieve relevant facts from structured data to support LLM-based question answering. The structured data considered in this paper include KGs, single tables and databases (i.e., multiple tables).
+
+
 *2025-04-05*
 
 #### [Code Search is All You Need? Improving Code Suggestions with Code Search](https://dl.acm.org/doi/10.1145/3597503.3639085)
