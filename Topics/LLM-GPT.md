@@ -2,6 +2,18 @@
 
 
 
+
+*2025-04-08*
+
+#### [Plan-on-Graph: Self-Correcting Adaptive Planning of Large Language Model on Knowledge Graphs](https://openreview.net/forum?id=CwCUEr6wO5)
+
+*Liyi Chen, Panrong Tong, Zhongming Jin, Ying Sun, Jieping Ye, Hui Xiong*
+
+*NeurIPS 2024*
+
+This paper proposes a KG-augmented LLM named Plan-on-Graph (PoG), which first decomposes the question into several sub-objectives and then repeats the process of adaptively exploring reasoning paths, updating memory, and reflecting on the need to self-correct erroneous reasoning paths until arriving at the answer.
+
+
 *2025-04-07*
 
 #### [StructGPT: A General Framework for Large Language Model to Reason over Structured Data](https://aclanthology.org/2023.emnlp-main.574/)
