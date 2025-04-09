@@ -2,6 +2,16 @@
 
 
 
+*2025-04-09*
+
+#### [Search-R1: Training LLMs to Reason and Leverage Search Engines with Reinforcement Learning](https://arxiv.org/abs/2503.09516)
+
+*Bowen Jin, Hansi Zeng, Zhenrui Yue, Dong Wang, Hamed Zamani, Jiawei Han*
+
+*Arxiv 2025*
+
+This paper introduces Search-R1, an extension of the DeepSeek-R1 model where the LLM learns solely through reinforcement learning to autonomously generate (multiple) search queries during step-by-step reasoning with real-time retrieval. Search-R1 optimizes LLM rollouts with multi-turn search interactions, leveraging retrieved token masking for stable RL training and an outcome-based reward function.
+
 
 *2025-04-08*
 
