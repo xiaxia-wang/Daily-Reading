@@ -7,6 +7,16 @@
 
 
 
+*2025-04-10*
+
+#### [Integrating protein language models and automatic biofoundry for enhanced protein evolution](https://www.nature.com/articles/s41467-025-56751-8)
+
+*Qiang Zhang, Wanyi Chen, Ming Qin, Yuhao Wang, Zhongji Pu, Keyan Ding, Yuyue Liu, Qunfeng Zhang, Dongfang Li, Xinjia Li, Yu Zhao, Jianhua Yao, Lei Huang, Jianping Wu, Lirong Yang, Huajun Chen, Haoran Yu*
+
+*Nature Communications*
+
+This paper devises a protein language model-enabled automatic evolution platform, a closed-loop system for automated protein engineering within the Design-Build-Test-Learn cycle.
+
 
 *2025-03-08*
 
