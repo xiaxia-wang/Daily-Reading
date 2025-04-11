@@ -7,6 +7,16 @@
 
 
 
+*2025-04-11*
+
+#### [PILOT: A Pre-Trained Model-Based Continual Learning Toolbox](https://arxiv.org/abs/2309.07117)
+
+*孙海龙，周大蔚，詹德川，叶翰嘉*
+
+*SCIENCE CHINA Information Sciences*
+
+This paper introduces a pre-trained model-based continual learning toolbox, which implements state-of-the-art class-incremental learning algorithms based on pre-trained models, such as L2P, DualPrompt, and CODA-Prompt., while also fits typical class-incremental learning algorithms (e.g., DER, FOSTER, and MEMO) within the context of pre-trained models.
+
 
 *2025-03-22*
 
