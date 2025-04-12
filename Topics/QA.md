@@ -10,6 +10,16 @@
 
 
 
+*2025-04-12*
+
+#### [Interactive-KBQA: Multi-Turn Interactions for Knowledge Base Question Answering with Large Language Models](https://arxiv.org/abs/2402.15131)
+
+*Guanming Xiong, Junwei Bao, Wen Zhao*
+
+*ACL 2024*
+
+This paper introduces a KBQA framework that takes natural language questions as input, and produces SPARQL queries using a Thought-Action-Observation iterative pipeline.
+
 
 *2025-04-06*
 
