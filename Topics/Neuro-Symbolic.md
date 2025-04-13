@@ -5,6 +5,18 @@
 
 
 
+
+*2025-04-13*
+
+#### [Learning Horn envelopes via queries from language models](https://www.sciencedirect.com/science/article/pii/S0888613X23001573)
+
+*Sophie Blum, Raoul Koudijs, Ana Ozaki, Samia Touileb*
+
+*International Journal of Approximate Reasoning*
+
+This paper explores an approach for probing a trained neural network to extract a symbolic abstraction as a Boolean formula, where a learner attempts to extract information from an oracle by posing membership and equivalence queries. The goal is to learn the smallest representation of all Horn clauses implied by a Boolean formula.
+
+
 *2025-04-02*
 
 #### [Neuro-Symbolic AI and the Semantic Web](https://www.semantic-web-journal.net/system/files/swj3711.pdf)
