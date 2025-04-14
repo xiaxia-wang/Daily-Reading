@@ -7,6 +7,18 @@
 
 
 
+
+*2025-04-14*
+
+#### [Robust Knowledge Extraction from Large Language Models using Social Choice Theory](https://arxiv.org/abs/2312.14877)
+
+*Nico Potyka, Yuqicheng Zhu, Yunjie He, Evgeny Kharlamov, Steffen Staab*
+
+*AAMAS 2024*
+
+This paper explores ranking queries in diagnostic settings like medical and fault diagnosis, and discusses how the Partial Borda Choice function from the literature can be applied to merge multiple query results.
+
+
 *2025-02-16*
 
 #### [Subgraph Retrieval Enhanced by Graph-Text Alignment for Commonsense Question Answering](https://link.springer.com/chapter/10.1007/978-3-031-70365-2_3)
