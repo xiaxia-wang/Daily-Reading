@@ -2,6 +2,18 @@
 
 
 
+
+*2025-04-15*
+
+#### [XGrammar: Flexible and Efficient Structured Generation Engine for Large Language Models](https://arxiv.org/abs/2411.15100)
+
+*Yixin Dong, Charlie F. Ruan, Yaxing Cai, Ruihang Lai, Ziyi Xu, Yilong Zhao, Tianqi Chen*
+
+*Arxiv 2024*
+
+This paper proposes an efficient structure generation engine for large language models. Combined with an LLM inference engine, it can achieve near-zero overhead structure generation in end-to-end low-LLM serving.
+
+
 *2025-04-09*
 
 #### [Search-R1: Training LLMs to Reason and Leverage Search Engines with Reinforcement Learning](https://arxiv.org/abs/2503.09516)
