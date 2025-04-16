@@ -10,6 +10,18 @@
 
 
 
+
+*2025-04-16*
+
+#### [Rule-KBQA: Rule-Guided Reasoning for Complex Knowledge Base Question Answering with Large Language Models](https://aclanthology.org/2025.coling-main.562/)
+
+*Zhiqiang Zhang, Liqiang Wen, Wen Zhao*
+
+*COLING 2025*
+
+This paper proposes a LLM-based KBQA framework with the idea of rule-based reasoning. The induction phase extracts rules from existing data (SPARQL queries) and employs Rule-Following Fine-Tuned (RFFT) LLM to generate additional rules. The deduction phase uses a symbolic agent guided by learned rules to incrementally construct executable logical forms.
+
+
 *2025-04-12*
 
 #### [Interactive-KBQA: Multi-Turn Interactions for Knowledge Base Question Answering with Large Language Models](https://arxiv.org/abs/2402.15131)
