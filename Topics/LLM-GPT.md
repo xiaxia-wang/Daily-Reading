@@ -2,6 +2,16 @@
 
 
 
+*2025-04-17*
+
+#### [Why do LLMs attend to the first token?](https://arxiv.org/abs/2504.02732)
+
+*Federico Barbero, Álvaro Arroyo, Xiangming Gu, Christos Perivolaropoulos, Michael Bronstein, Petar Veličković, Razvan Pascanu*
+
+*Arxiv 2025*
+
+This paper explores the attention sink phenomenon in LLMs, i.e., LLMs tend to attend heavily to the first token (e.g., <bos>) in the sequence. It argues that this mechanism provides a method for LLMs to avoid over-mixing, connecting this to existing lines of work that study mathematically how information propagates in Transformers.
+
 
 *2025-04-15*
 
