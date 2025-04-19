@@ -1,6 +1,20 @@
 
 
 
+
+
+
+*2025-04-19*
+
+#### [GOFA: A Generative One-For-All Model for Joint Graph Language Modeling](https://arxiv.org/abs/2407.09709)
+
+*Lecheng Kong, Jiarui Feng, Hao Liu, Chengsong Huang, Jiaxin Huang, Yixin Chen, Muhan Zhang*
+
+*ICLR 2025*
+
+The model interleaves randomly initialized GNN layers into a frozen pre-trained LLM so that the semantic and structural modeling abilities are combined. It is pre-trained on graph-level next-word prediction, question-answering, and structural tasks.
+
+
 *2025-04-18*
 
 #### [A Survey of Efficient Reasoning for Large Reasoning Models: Language, Multimodality, and Beyond](https://arxiv.org/abs/2503.21614)
