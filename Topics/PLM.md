@@ -6,6 +6,16 @@
 
 
 
+*2025-04-20*
+
+#### [UniGraph: Learning a Unified Cross-Domain Foundation Model for Text-Attributed Graphs](https://arxiv.org/abs/2402.13630)
+
+*Yufei He, Yuan Sui, Xiaoxin He, Bryan Hooi*
+
+*KDD 2025*
+
+This paper proposes a foundation model for text-attributed graph. The pre-training employs a self-supervised approach, using Graph Siamese Masked Autoencoders as the training architecture, which learns to reconstruct the masked text of each node using the text of its neighbors. In few-shot transfer, the pre-trained model makes predictions with minimal data by comparing the embeddings of the query and support graphs. Zero-shot transfer is achieved through graph instruction tuning.
+
 
 *2025-04-10*
 
