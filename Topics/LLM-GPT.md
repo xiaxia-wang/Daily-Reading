@@ -3,6 +3,16 @@
 
 
 
+*2025-04-21*
+
+#### [Knowledge Graph-Driven Retrieval-Augmented Generation: Integrating Deepseek-R1 with Weaviate for Advanced Chatbot Applications](https://arxiv.org/abs/2502.11108)
+
+*Alexandru Lecu, Adrian Groza, Lezan Hawizy*
+
+*Arxiv 2025*
+
+This paper introduces a medical chatbot system based on KG-supported RAG.
+
 
 *2025-04-19*
 
