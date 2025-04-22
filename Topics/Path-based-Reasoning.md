@@ -8,6 +8,16 @@
 
 
 
+*2025-04-22*
+
+#### [Advancing Abductive Reasoning in Knowledge Graphs through Complex Logical Hypothesis Generation](https://arxiv.org/abs/2312.15643)
+
+*Jiaxin Bai, Yicheng Wang, Tianshi Zheng, Yue Guo, Xin Liu, Yangqiu Song*
+
+*AAAI 2025*
+
+This paper introduces the task of complex logical hypothesis generation, which aims to generate complex logical hypotheses that explain a set of observations. It trains a hypothesis generation model by (1) randomly sampling logical hypotheses with diverse patterns and graph searches on the training graphs to obtain observations which are then tokenized, (2) training a conditional generation model to generate hypotheses based on tokenized observations.
+
 
 *2025-03-20*
 
