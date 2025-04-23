@@ -2,6 +2,16 @@
 
 
 
+*2025-04-23*
+
+#### [ZeroED: Hybrid Zero-shot Error Detection through Large Language Model Reasoning](https://arxiv.org/abs/2504.05345)
+
+*Wei Ni, Kaihang Zhang, Xiaoye Miao, Xiangyu Zhao, Yangyang Wu, Yaoshu Wang, Jianwei Yin*
+
+*ICDE 2025*
+
+This paper proposes a tabular data error detection framework that works in 4 steps: (1) generate data representations using error reason-aware binary features, pre-trained embeddings, and statistical features, (2) use LLMs to label errors holistically via in-context learning, guided by a two-step reasoning process for detailed error detection guidelines, (3) to reduce token costs, LLMs are applied only to representative data selected via clustering-based sampling. High-quality training data is constructed through in-cluster label propagation and LLM augmentation with verification, and (4) train the classifier.
+
 
 *2025-04-21*
 
