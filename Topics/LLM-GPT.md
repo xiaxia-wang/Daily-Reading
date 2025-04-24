@@ -1,6 +1,16 @@
 
 
 
+*2025-04-24*
+
+#### [Pre-train, Align, and Disentangle: Empowering Sequential Recommendation with Large Language Models](https://arxiv.org/abs/2412.04107)
+
+*汪宇豪，潘军伟，贾鹏越，王婉玉，王茂林，冯志祥，李笑天，蒋杰，赵翔宇*
+
+*SIGIR 2025*
+
+This paper proposes a LLM-based sequential recommendation approach. It first pre-trains both the SR and LLM models to get collaborative and textual embeddings. Next, it proposes a recommendation-anchored alignment loss using multi-kernel maximum mean discrepancy with Gaussian kernels. Finally, it fine-tunes a triple-experts architecture.
+
 
 *2025-04-23*
 
