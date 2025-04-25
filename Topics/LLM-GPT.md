@@ -1,6 +1,18 @@
 
 
 
+
+*2025-04-25*
+
+#### [DeepRetrieval: Hacking Real Search Engines and Retrievers with Large Language Models via Reinforcement Learning](https://arxiv.org/abs/2503.00223)
+
+*Pengcheng Jiang, Jiacheng Lin, Lang Cao, Runchu Tian, SeongKu Kang, Zifeng Wang, Jimeng Sun, Jiawei Han*
+
+*Arxiv 2025*
+
+This paper proposes a reinforcement learning approach that trains LLMs for query generation through trial and error without supervised data (reference query). Using retrieval metrics as rewards, the system generates queries that maximize retrieval performance.
+
+
 *2025-04-24*
 
 #### [Pre-train, Align, and Disentangle: Empowering Sequential Recommendation with Large Language Models](https://arxiv.org/abs/2412.04107)
