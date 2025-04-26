@@ -1,6 +1,12 @@
 
 
 
+*2025-04-26*
+
+#### [OneEval]([http://oneeval.openkg.cn/](https://mp.weixin.qq.com/s/BeKah91_texXN3s1WAOcKg))
+
+A systematic evaluation framework for LLM+KG reasoning and understanding abilities.
+
 
 *2025-04-25*
 
