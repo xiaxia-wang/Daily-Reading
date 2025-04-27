@@ -3,6 +3,18 @@
 
 
 
+
+*2025-04-27*
+
+#### [Large Language Model Enhanced Knowledge Representation Learning: A Survey](https://link.springer.com/article/10.1007/s41019-025-00285-y)
+
+*Xin Wang, Zirui Chen, Haofen Wang, Leong Hou U, Zhao Li, Wenbin Guo*
+
+*Data Science and Engineering*
+
+This paper summarizes existing works on LLM-enhanced knowledge graph embeddings with their downstreaming tasks such as relation classification and question answering.
+
+
 *2025-03-02*
 
 #### [Knowledge Graph Pooling and Unpooling for Concept Abstraction](https://aclanthology.org/2025.coling-main.359)
