@@ -1,6 +1,21 @@
 
 
 
+
+
+
+
+*2025-04-28*
+
+#### [SQL-R1: Training Natural Language to SQL Reasoning Model By Reinforcement Learning](https://arxiv.org/abs/2504.08600)
+
+*Peixian Ma, Xialie Zhuang, Chengjin Xu, Xuhui Jiang, Ran Chen, Jian Guo*
+
+*Arxiv 2025*
+
+This paper proposes a reinforcement learning based approach for supervised fine-tuning of NL2SQL LMs. The RL reward function includes: Format Reward, Execution Reward, Result Reward, and Length Reward.
+
+
 *2025-04-26*
 
 #### [OneEval]([http://oneeval.openkg.cn/](https://mp.weixin.qq.com/s/BeKah91_texXN3s1WAOcKg))
