@@ -3,6 +3,16 @@
 
 
 
+*2025-04-29*
+
+#### [KG-FIT: Knowledge Graph Fine-Tuning Upon Open-World Knowledge](https://arxiv.org/abs/2405.16412)
+
+*Pengcheng Jiang, Lang Cao, Cao Xiao, Parminder Bhatia, Jimeng Sun, Jiawei Han*
+
+*NeurIPS 2024*
+
+This paper proposes an approach to fine-tune knowledge graph embeddings by utilizing semantic knowledge from LLM, implemented by LLM-guided hierarchical refinement and local KG fine-tuning.
+
 
 *2025-04-27*
 
