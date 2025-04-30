@@ -6,6 +6,16 @@
 
 
 
+*2025-04-30*
+
+#### [Extract, Define, Canonicalize: An LLM-based Framework for Knowledge Graph Construction](https://arxiv.org/abs/2404.03868)
+
+*Bowen Zhang, Harold Soh*
+
+*EMNLP 2024*
+
+This paper introduces a pipeline for LLM-based KG construction, which consists of open information extraction followed by schema definition and post-hoc canonicalization.
+
 
 *2025-02-27*
 
