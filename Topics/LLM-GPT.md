@@ -4,6 +4,16 @@
 
 
 
+*2025-05-01*
+
+#### [GNN-RAG: Graph Neural Retrieval for Large Language Model Reasoning](https://arxiv.org/abs/2405.20139)
+
+*Costas Mavromatis, George Karypis*
+
+*Arxiv 2024*
+
+This paper utilizes a GNN model to retrieve answer candidates for a given question, then the shortest paths that connect question entities and answer candidates are extracted to represent KG reasoning paths for LLM’s final output.
+
 
 *2025-04-28*
 
