@@ -3,6 +3,16 @@
 
 
 
+*2025-05-02*
+
+#### [Retrieval-Augmented Generation with Hierarchical Knowledge](https://arxiv.org/abs/2503.10150v1)
+
+*Haoyu Huang, Yongfeng Huang, Junjie Yang, Zhenyu Pan, Yongqiang Chen, Kaili Ma, Hongzhi Chen, James Cheng*
+
+*Arxiv 2025*
+
+This paper proposes a hierarchical approach based on graph structure to index the underlying documents. By extracting entities and relations from the texts, it first constructs a fundamental KG at the ground level. Then it performs community detection and generating summaries for each cluster, to gradually build the upper level of indexes.
+
 
 *2025-05-01*
 
