@@ -3,6 +3,18 @@
 
 
 
+
+*2025-05-03*
+
+#### [HyperGraphRAG: Retrieval-Augmented Generation with Hypergraph-Structured Knowledge Representation](https://arxiv.org/abs/2503.21322)
+
+*Haoran Luo, Haihong E, Guanting Chen, Yandan Zheng, Xiaobao Wu, Yikai Guo, Qika Lin, Yu Feng, Zemin Kuang, Meina Song, Yifan Zhu, Luu Anh Tuan*
+
+*Arxiv 2025*
+
+This paper proposes a graph-RAG for hypergraphs, including hypergraph construction, retrieval strategy implementation, and combination with typical RAG approach.
+
+
 *2025-05-02*
 
 #### [Retrieval-Augmented Generation with Hierarchical Knowledge](https://arxiv.org/abs/2503.10150v1)
