@@ -2,6 +2,16 @@
 
 
 
+*2025-05-05*
+
+#### [Embedding Ontologies via Incorporating Extensional and Intensional Knowledge](https://www.sciengine.com/DI/doi/10.3724/2096-7004.di.2024.0088)
+
+*Keyu Wang, Guilin Qi, Jiaoyan Chen, Yi Huang, Tianxing Wu*
+
+*Data Intelligence 2025*
+
+Ontologies can be divided into extensional knowledge that describes instances by concepts, and intensional knowledge that illustrates relations between concepts. This paper proposes an ontology embedding model that distinguishes the two types of knowledge with distinct spaces and loss design.
+
 
 *2025-04-29*
 
