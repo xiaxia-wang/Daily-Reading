@@ -3,6 +3,16 @@
 
 
 
+*2025-05-04*
+
+#### [OSCAR: Online Soft Compression And Reranking](https://arxiv.org/abs/2504.07109)
+
+*Maxime Louis, Thibault Formal, Hervé Dejean, Stéphane Clinchant*
+
+*Arxiv 2025*
+
+The query $q$, the $i$-th retrieved document $d_i$, and a set of memory tokens $\text{MEM}_i$ are fed forward to a compressor LLM $\mathcal{C}$. It uses the hidden states corresponding to each memory token as query-dependent embedding representations.
+
 
 *2025-05-03*
 
