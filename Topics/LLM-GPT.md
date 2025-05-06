@@ -2,6 +2,16 @@
 
 
 
+*2025-05-06*
+
+#### [LightPROF: A Lightweight Reasoning Framework for Large Language Model on Knowledge Graph](https://arxiv.org/abs/2504.03137)
+
+*Tu Ao, Yanhua Yu, Yuling Wang, Yang Deng, Zirui Guo, Liang Pang, Pinghui Wang, Tat-Seng Chua, Xiao Zhang, Zhen Cai*
+
+*AAAI 2025*
+
+This paper proposes a retrieval-embed-generate pipeline for multi-hop knowledge graph question answering. Given a question, it identifies the number of hops, gets all relational paths by BFS, ranks the paths by LLMs, embeds the knowledge paths into soft prompts, and finally feds them with hard prompts to generate the answer.
+
 
 *2025-05-04*
 
