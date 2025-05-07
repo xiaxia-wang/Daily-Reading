@@ -6,6 +6,16 @@
 
 
 
+*2025-05-07*
+
+#### [MedIE-Instruct: A Comprehensive Instruction Dataset for Medical Information Extraction](https://ieeexplore.ieee.org/document/10884288)
+
+*Zhuoyi Xiang, Xinda Wang, Xiaodong Yan, Deng Zhao, Keyan Ding, Qiang Zhang*
+
+*ICKG 2024*
+
+This paper proposes a resource for medical information extraction, including named entity recognition, relation extraction and event extraction.
+
 
 *2025-02-23*
 
