@@ -6,6 +6,18 @@
 
 
 
+
+*2025-05-08*
+
+#### [RAKG:Document-level Retrieval Augmented Knowledge Graph Construction](https://arxiv.org/abs/2504.09823)
+
+*Hairong Zhang, Jiaheng Si, Guohang Yan, Boyuan Qi, Pinlong Cai, Song Mao, Ding Wang, Botian Shi*
+
+*Arxiv 2025*
+
+This paper proposes a LLM-based approach for knowledge graph construction from text corpus. In particular, it retrieves relevant nodes and text-chunks to identify relations between entities and extends the graph.
+
+
 *2025-04-30*
 
 #### [Extract, Define, Canonicalize: An LLM-based Framework for Knowledge Graph Construction](https://arxiv.org/abs/2404.03868)
