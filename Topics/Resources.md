@@ -5,6 +5,16 @@
 
 
 
+*2025-05-09*
+
+#### [MR-GSM8K: A Meta-Reasoning Benchmark for Large Language Model Evaluation](https://openreview.net/forum?id=br4H61LOoI)
+
+*Zhongshen Zeng, Pengguang Chen, Shu Liu, Haiyun Jiang, Jiaya Jia*
+
+*ICLR 2025*
+
+(Copied from metareview) The paper is interested in shifting the task of an LLM, from producing a solution to a query, to evaluating a pair (query, answer): scoring its correctness and possibly identifying where there is a failure and why. A most interesting part of the discussion is whether evaluating solutions and producing them are mostly equivalent skills.
+
 
 *2025-05-07*
 
