@@ -4,6 +4,16 @@
 
 
 
+*2025-05-10*
+
+#### [Efficient Multi-task Prompt Tuning for Recommendation](https://doi.org/10.48550/arXiv.2408.17214)
+
+*Ting Bai, Le Huang, Yue Yu, Cheng Yang, Cheng Hou, Zhe Zhao, Chuan Shi*
+
+*ACM Transactions on Information Systems*
+
+This paper proposes a model for multi-task recommendation that includes two modules, namely, multi-task pre-training and multi-task fine-tuning. In the pre-training phase it uses a task-specific expert for each task to decouple the task features, and a fused task representation for the final prediction.
+
 
 *2025-02-24*
 
