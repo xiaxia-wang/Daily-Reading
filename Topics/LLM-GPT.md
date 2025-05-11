@@ -2,6 +2,18 @@
 
 
 
+
+*2025-05-11*
+
+#### [Synergizing RAG and Reasoning: A Systematic Review](https://arxiv.org/abs/2504.15909)
+
+*Yunfan Gao, Yun Xiong, Yijie Zhong, Yuxi Bi, Ming Xue, Haofen Wang*
+
+*Arxiv 2025*
+
+This survey paper introduces the techniques, pipeline, and key aspects for the combination of RAG and reasoning. The collaboration targets include reasoning-augmented retrieval (the reasoning result guides next-step retrieval), and retrieval-augmented reasoning (to provide more valid facts for reasoning).
+
+
 *2025-05-06*
 
 #### [LightPROF: A Lightweight Reasoning Framework for Large Language Model on Knowledge Graph](https://arxiv.org/abs/2504.03137)
