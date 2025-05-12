@@ -5,6 +5,17 @@
 
 
 
+*2025-05-12*
+
+#### [Reliable and diverse evaluation of LLM medical knowledge mastery](https://openreview.net/forum?id=TXfzH933qV)
+
+*Yuxuan Zhou, Xien Liu, Chen Ning, Xiao Zhang, Ji Wu*
+
+*ICLR 2025*
+
+This paper proposes a benchmark for evaluating LLMs' medical knowledge proficiency, which generates reliable and diverse test samples by predicate equivalence transformations.
+
+
 *2025-05-09*
 
 #### [MR-GSM8K: A Meta-Reasoning Benchmark for Large Language Model Evaluation](https://openreview.net/forum?id=br4H61LOoI)
