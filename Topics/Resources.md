@@ -4,6 +4,16 @@
 
 
 
+*2025-05-13*
+
+#### [GLoRa: A Benchmark to Evaluate the Ability to Learn Long-Range Dependencies in Graphs](https://openreview.net/forum?id=2jf5x5XoYk)
+
+*Dongzhuoran Zhou, Evgeny Kharlamov, Egor V. Kostylev*
+
+*ICLR 2025*
+
+The paper presents an algorithm for generating a synthetic dataset for varied dependency lengths and demonstrates how to use this benchmark to identify, with certain guarantees, the maximum dependency length that a graph learning system can learn.
+
 
 *2025-05-12*
 
