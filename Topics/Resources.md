@@ -3,6 +3,16 @@
 
 
 
+*2025-05-14*
+
+#### [MedReason: Eliciting Factual Medical Reasoning Steps in LLMs via Knowledge Graphs](https://arxiv.org/abs/2504.00993)
+
+*Juncheng Wu, Wenlong Deng, Xingxuan Li, Sheng Liu, Taomian Mi, Yifan Peng, Ziyang Xu, Yi Liu, Hyunjin Cho, Chang-In Choi, Yihan Cao, Hui Ren, Xiang Li, Xiaoxiao Li, Yuyin Zhou*
+
+*Arxiv 2025*
+
+This paper proposes a medical QA dataset, which utilizes a structured medical KG to convert clinical QA pairs into logical chains of reasoning, and traces connections from question elements to answers via relevant KG entities. Each path is validated for consistency with clinical logic and evidence-based medicine. The result dataset consists of 32,682 QA pairs.
+
 
 *2025-05-13*
 
