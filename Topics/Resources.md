@@ -2,6 +2,16 @@
 
 
 
+*2025-05-15*
+
+#### [Is Complex Query Answering Really Complex?](https://arxiv.org/abs/2410.12537)
+
+*Cosimo Gregucci, Bo Xiong, Daniel Hernandez, Lorenzo Loconte, Pasquale Minervini, Steffen Staab, Antonio Vergari*
+
+*ICML 2025*
+
+This paper proposes a more challenging benchmark composed of queries that require models to reason over multiple hops over knowledge graphs and better reflect the construction of real-world KGs.
+
 
 *2025-05-14*
 
