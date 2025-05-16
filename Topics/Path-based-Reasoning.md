@@ -7,6 +7,16 @@
 
 
 
+*2025-05-16*
+
+#### [CHAINSFORMER: Numerical Reasoning on Knowledge Graphs from a Chain Perspective](https://arxiv.org/abs/2504.14282)
+
+*Ze Zhao, Bin Lu, Xiaoying Gan, Gu Tang, Luoyi Fu, Xinbing Wang*
+
+*ICDE 2025*
+
+This paper proposes a chain-based framework designed to support numerical reasoning over knowledge graphs, by collecting random-walk based chains from the graph and learning the function for obtaining numerical values.
+
 
 *2025-04-22*
 
