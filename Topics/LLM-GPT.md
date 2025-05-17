@@ -2,6 +2,16 @@
 
 
 
+*2025-05-17*
+
+#### [From Superficial to Deep: Integrating External Knowledge for Follow-up Question Generation Using Knowledge Graph and LLM](https://aclanthology.org/2025.coling-main.55/)
+
+*Jianyu Liu, Yi Huang, Sheng Bi, Junlan Feng, Guilin Qi*
+
+*COLING 2025*
+
+This paper proposes an external knowledge-enhanced follow-up question generation method, which identifies contextual topics, constructs a knowledge graph online, and finally combines them with a LLM to generate the final question.
+
 
 *2025-05-11*
 
