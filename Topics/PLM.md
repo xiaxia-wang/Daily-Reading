@@ -5,6 +5,16 @@
 
 
 
+*2025-05-18*
+
+#### [RoFormer: Enhanced Transformer with Rotary Position Embedding](https://arxiv.org/abs/2104.09864)
+
+*Jianlin Su, Yu Lu, Shengfeng Pan, Ahmed Murtadha, Bo Wen, Yunfeng Liu*
+
+*Arxiv 2021*
+
+This paper investigates methods to integrate positional information into the learning process of transformer-based language models. It proposes Rotary Position Embedding to effectively leverage the positional information. Specifically, the proposed RoPE encodes the absolute position with a rotation matrix and meanwhile incorporates explicit relative position dependency in self-attention formulation.
+
 
 *2025-04-20*
 
