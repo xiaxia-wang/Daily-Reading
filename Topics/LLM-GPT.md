@@ -2,6 +2,18 @@
 
 
 
+
+*2025-05-19*
+
+#### [Even Small Reasoners Should Quote Their Sources: Introducing the Pleias-RAG Model Family](https://arxiv.org/abs/2504.18225)
+
+*Pierre-Carl Langlais, Pavel Chizhov, Mattia Nee, Carlos Rosas Hinostroza, Matthieu Delsart, Irène Girard, Othman Hicheur, Anastasia Stasenko, Ivan P. Yamshchikov*
+
+*Arxiv 2025*
+
+This paper proposes an efficient RAG model with ~1B parameters. Its workflow involves: query analysis to draw assumptions on the intent of the query and clarify the kind and format of information the user wants to retrieve; a query report with standardized output; a source analysis identifying the sources most likely to contain answering elements to query and hierarchize this information; a source report: either extensive (sources provide all the required material to write an answer in detail), basic (enough to write an answer), incomplete (potentially enough to answer partially), or infeasible (will result in a refusal).
+
+
 *2025-05-17*
 
 #### [From Superficial to Deep: Integrating External Knowledge for Follow-up Question Generation Using Knowledge Graph and LLM](https://aclanthology.org/2025.coling-main.55/)
