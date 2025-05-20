@@ -3,6 +3,18 @@
 
 
 
+
+*2025-05-20*
+
+#### [CodeI/O: Condensing Reasoning Patterns via Code Input-Output Prediction](https://arxiv.org/abs/2502.07316)
+
+*Junlong Li, Daya Guo, Dejian Yang, Runxin Xu, Yu Wu, Junxian He*
+
+*ICLR 2025*
+
+This paper proposes CodeI/O, an approach that condenses diverse reasoning patterns inherently embedded in contextually-grounded codes, through transforming the original code into a code input-output prediction format, and training models to predict inputs/outputs given code and test cases entirely in natural language as Chain-of-Thought (CoT) rationales.
+
+
 *2025-05-19*
 
 #### [Even Small Reasoners Should Quote Their Sources: Introducing the Pleias-RAG Model Family](https://arxiv.org/abs/2504.18225)
