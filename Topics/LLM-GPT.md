@@ -4,6 +4,16 @@
 
 
 
+*2025-05-22*
+
+#### [Data for Mathematical Copilots: Better Ways of Presenting Proofs for Machine Learning](https://arxiv.org/abs/2412.15184v1)
+
+*Simon Frieder, Jonas Bayer, Katherine M. Collins, Julius Berner, Jacob Loader, András Juhász, Fabian Ruehle, Sean Welleck, Gabriel Poesia, Ryan-Rhys Griffiths, Adrian Weller, Anirudh Goyal, Thomas Lukasiewicz, Timothy Gowers*
+
+*Arxiv 2024*
+
+This paper explores existing limitations of large language models for doing mathamatical proofs, and necessitates a paradigm shift in the design of mathematical datasets and the evaluation criteria of mathematical ability: It is necessary to move away from result-based datasets (theorem statement to theorem proof) and convert the rich facets of mathematical research practice to data LLMs can train on.
+
 
 *2025-05-21*
 
