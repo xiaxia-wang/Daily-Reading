@@ -6,6 +6,18 @@
 
 
 
+
+*2025-05-23*
+
+#### [Harnessing Language Model for Cross-Heterogeneity Graph Knowledge Transfer](https://ojs.aaai.org/index.php/AAAI/article/view/33421)
+
+*Jinyu Yang, Ruijia Wang, Cheng Yang, Bo Yan, Qimin Zhou, Yang Juan, Chuan Shi*
+
+*AAAI 2025*
+
+This paper proposes a Language Model-enhanced Cross-Heterogeneity learning model for the node classification task. Specifically, it first uses a metapath-based corpus construction method to unify HG representations as languages. The corpus of source HGs is used to fine-tune a pretrained LM, enabling the LM to autonomously extract general knowledge across different HGs. Then it applies an iterative training pipeline with a GNN predictor, enhanced by LM-GNN contrastive alignment at each iteration.
+
+
 *2025-03-21*
 
 #### [Towards Neural Scaling Laws on Graphs](https://arxiv.org/abs/2402.02054)
