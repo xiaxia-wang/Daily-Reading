@@ -7,6 +7,16 @@
 
 
 
+*2025-05-24*
+
+#### [ASPEN: ASP-Based System for Collective Entity Resolution](https://proceedings.kr.org/2024/74/kr2024-0074-xiang-et-al.pdf)
+
+*Zhiliang Xiang, Meghyn Bienvenu, Gianluca Cima, Vıctor Gutierrez-Basulto, Yazmın Ibanez-Garcıa*
+
+*KR 2024*
+
+This paper explores an answer-set programming approach for entity resolution, focusing on practical issues including (externally defined) similarity
+facts that are used in rule bodies.
 
 
 *2025-03-24*
