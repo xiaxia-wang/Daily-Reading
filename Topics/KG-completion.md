@@ -7,6 +7,18 @@
 
 
 
+
+*2025-05-25*
+
+#### [Knowledge Graph Completion with Relation-Aware Anchor Enhancement](https://arxiv.org/abs/2504.06129)
+
+*Duanyang Yuan, Sihang Zhou, Xiaoshu Chen, Dong Wang, Ke Liang, Xinwang Liu, Jian Huang*
+
+*AAAI 2025*
+
+This paper proposes a BERT-based model for knowledge graph completion, which uses the embedding of relation-aware tail entities to enhance the representation of the prediction target.
+
+
 *2025-05-24*
 
 #### [ASPEN: ASP-Based System for Collective Entity Resolution](https://proceedings.kr.org/2024/74/kr2024-0074-xiang-et-al.pdf)
