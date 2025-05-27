@@ -5,10 +5,15 @@
 
 
 
+*2025-05-27*
 
+#### [HOLMES: Hyper-Relational Knowledge Graphs for Multi-hop Question Answering using LLMs](https://arxiv.org/abs/2406.06027)
 
+*Pranoy Panda, Ankush Agarwal, Chaitanya Devaguptapu, Manohar Kaul, Prathosh A P*
 
+*ACL 2024*
 
+This work enahnces multi-hop question answering based on structural information extracted from text corpus, organized as (passage, s, r, o) tuples.
 
 
 *2025-04-16*
