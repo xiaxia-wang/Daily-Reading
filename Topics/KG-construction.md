@@ -6,6 +6,16 @@
 
 
 
+*2025-05-28*
+
+#### [Graphusion: A RAG Framework for Knowledge Graph Construction with a Global Perspective](https://arxiv.org/abs/2410.17600)
+
+*Rui Yang, Boming Yang, Aosong Feng, Sixun Ouyang, Moritz Blum, Tianwei She, Yuang Jiang, Freddy Lecue, Jinghui Lu, Irene Li*
+
+*WWW 2025 NLP4KGC*
+
+This work presents a zero-shot KG construction framework from free text. It contains three steps: (1) extract a list of seed entities by topic modeling; (2) conduct candidate triplet extraction by LLMs; (3) use a fusion module that provides a global view of the extracted knowledge, incorporating entity merging, conflict resolution, and triplet discovery.
+
 
 *2025-05-08*
 
