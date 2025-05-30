@@ -2,6 +2,16 @@
 
 
 
+*2025-05-30*
+
+#### [Does Graph Prompt Work? A Data Operation Perspective with Theoretical Analysis](https://arxiv.org/abs/2410.01635)
+
+*Qunzhong Wang, Xiangguo Sun, Hong Cheng*
+
+*ICML 2025*
+
+Compared with “pre-training and fine-tuning”, which first trains a graph model via some easily accessible task on the graph dataset and then tries to adapt the model to a new task (or new graph dataset), “pre-training and prompting” aims to keep the pre-trained model unchanged but adjust the input data to make the downstream task compatible with the pre-training task.
+
 
 *2025-05-26*
 
