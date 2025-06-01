@@ -5,6 +5,18 @@
 
 
 
+
+*2025-06-01*
+
+#### [ReLearn: Unlearning via Learning for Large Language Models](https://arxiv.org/abs/2502.11190)
+
+*Haoming Xu, Ningyuan Zhao, Liming Yang, Sendong Zhao, Shumin Deng, Mengru Wang, Bryan Hooi, Nay Oo, Huajun Chen, Ningyu Zhang*
+
+*ACL 2025*
+
+Existing unlearning methods for large language models usually rely on reverse optimization to reduce target token probabilities while disrupting subsequent tokens prediction. Besides, existing evaluation metrics overemphasize contextual forgetting while inadequately assessing response fluency and relevance. To address these challenges, this paper proposes a data augmentation and fine-tuning pipeline for effective unlearning, along with an evaluation framework.
+
+
 *2025-05-18*
 
 #### [RoFormer: Enhanced Transformer with Rotary Position Embedding](https://arxiv.org/abs/2104.09864)
