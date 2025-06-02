@@ -6,6 +6,16 @@
 
 
 
+*2025-06-02*
+
+#### [SynWorld: Virtual Scenario Synthesis for Agentic Action Knowledge Refinement](https://arxiv.org/abs/2504.03561)
+
+*Runnan Fang, Xiaobin Wang, Yuan Liang, Shuofei Qiao, Jialong Wu, Zekun Xi, Ningyu Zhang, Yong Jiang, Pengjun Xie, Fei Huang, Huajun Chen*
+
+*ACL 2025*
+
+To empower agents to autonomously explore environments, optimize workflows, and enhance their understanding of actions, this work let agents to synthesize possible scenarios with multi-step action invocation within the action space and perform Monte Carlo Tree Search exploration to effectively refine their action knowledge in the current environment.
+
 
 *2025-05-31*
 
