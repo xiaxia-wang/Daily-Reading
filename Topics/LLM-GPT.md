@@ -6,6 +6,18 @@
 
 
 
+
+*2025-06-03*
+
+#### [Sample-Efficient Human Evaluation of Large Language Models via Maximum Discrepancy Competition](https://arxiv.org/abs/2404.08008)
+
+*Kehua Feng, Keyan Ding, Kede Ma, Zhihua Wang, Qiang Zhang, Huajun Chen*
+
+*ACL 2025*
+
+For evaluating LLM generated responses, this paper proposes a sample-efficient human evaluation method based on MAximum Discrepancy competition, which selects a small set of instructions, feeds into two LLMs, and evaluates their responses by three-alternative forced choice by human subjects.
+
+
 *2025-06-02*
 
 #### [SynWorld: Virtual Scenario Synthesis for Agentic Action Knowledge Refinement](https://arxiv.org/abs/2504.03561)
