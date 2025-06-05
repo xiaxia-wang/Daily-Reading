@@ -2,6 +2,19 @@
 
 
 
+
+
+*2025-06-05*
+
+#### [Have We Designed Generalizable Structural Knowledge Promptings? Systematic Evaluation and Rethinking](https://arxiv.org/abs/2501.00244)
+
+*Yichi Zhang, Zhuo Chen, Lingbing Guo, Yajing Xu, Shaokai Chen, Mengshu Sun, Binbin Hu, Zhiqiang Zhang, Lei Liang, Wen Zhang, Huajun Chen*
+
+*ACL 2025*
+
+This paper proposes a benchmark for evaluating the generalizability of structural knowledge prompting.
+
+
 *2025-05-15*
 
 #### [Is Complex Query Answering Really Complex?](https://arxiv.org/abs/2410.12537)
