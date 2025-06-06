@@ -2,6 +2,18 @@
 
 
 
+
+*2025-06-06*
+
+#### [Croppable Knowledge Graph Embedding](https://arxiv.org/abs/2407.02779)
+
+*Yushan Zhu, Wen Zhang, Zhiqiang Liu, Mingyang Chen, Lei Liang, Huajun Chen*
+
+*ACL 2025*
+
+This paper proposes a training framework to get a croppable KGE model. It utilizes a mutual learning mechanism to improve low-dimensional sub-models performance and make the high-dimensional sub-models retain the capacity that low-dimensional sub-models have.
+
+
 *2025-05-05*
 
 #### [Embedding Ontologies via Incorporating Extensional and Intensional Knowledge](https://www.sciengine.com/DI/doi/10.3724/2096-7004.di.2024.0088)
