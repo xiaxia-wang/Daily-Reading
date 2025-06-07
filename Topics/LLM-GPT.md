@@ -5,6 +5,16 @@
 
 
 
+*2025-06-07*
+
+#### [How Do LLMs Acquire New Knowledge? A Knowledge Circuits Perspective on Continual Pre-Training](https://arxiv.org/abs/2502.11196)
+
+*Yixin Ou, Yunzhi Yao, Ningyu Zhang, Hui Jin, Jiacheng Sun, Shumin Deng, Zhenguo Li, Huajun Chen*
+
+*ACL 2025 Findings*
+
+This paper investigates the knowledge circuit evolution in LLMs, and identifies several findings: (1) the acquisition of new knowledge is influenced by its relevance to pre-existing knowledge; (2) the evolution of knowledge circuits exhibits a distinct phase shift from formation to optimization; (3) the evolution of knowledge circuits follows a deep-to-shallow pattern.
+
 
 *2025-06-04*
 
