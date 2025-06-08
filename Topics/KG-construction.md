@@ -5,6 +5,16 @@
 
 
 
+*2025-06-08*
+
+#### [Unleashing the Power of Large Language Models in Zero-shot Relation Extraction via Self-Prompting](https://aclanthology.org/2024.findings-emnlp.769/)
+
+*Siyi Liu, Yang Li, Jiang Li, Shan Yang, Yunshi Lan*
+
+*EMNLP 2024 Findings*
+
+This paper introduces a self-prompting framework for relation extraction with a three-stage diversity approach to prompt LLMs, generating multiple synthetic samples that encapsulate specific relations from scratch. These generated samples act as in-context learning samples, offering explicit and context-specific guidance to efficiently prompt LLMs for RE.
+
 
 *2025-05-28*
 
