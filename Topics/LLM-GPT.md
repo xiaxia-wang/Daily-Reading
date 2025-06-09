@@ -4,6 +4,16 @@
 
 
 
+*2025-06-09*
+
+#### [GE-Chat: A Graph Enhanced RAG Framework for Evidential Response Generation of LLMs](https://www.arxiv.org/abs/2505.10143)
+
+*Longchao Da, Parth Mitesh Shah, Kuan-Ru Liou, Jiaxing Zhang, Hua Wei*
+
+*IJCAI 2025 Demo*
+
+This work implements a RAG system that provides both the answer and supporting evidences. When the user uploads a material document, it creates a knowledge graph to help a retrieval-augmented agent, enhancing the agent's responses with additional knowledge beyond its training corpus.
+
 
 *2025-06-07*
 
