@@ -3,6 +3,16 @@
 
 
 
+*2025-06-10*
+
+#### [Chain-of-History Reasoning for Temporal Knowledge Graph Forecasting](https://aclanthology.org/2024.findings-acl.955/)
+
+*Yuwei Xia, Ding Wang, Qiang Liu, Liang Wang, Shu Wu, Xiao-Yu Zhang*
+
+*ACL Findings 2024*
+
+This paper proposes Chain-of-History reasoning which explores high-order histories in temporal knowledge graphs, which achieves effective utilization of high-order historical information for LLMs on link prediction over tempotal knowledge graphs.
+
 
 *2025-06-09*
 
