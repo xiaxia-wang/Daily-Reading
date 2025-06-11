@@ -4,6 +4,16 @@
 
 
 
+*2025-06-11*
+
+#### [Generate-on-Graph: Treat LLM as both Agent and KG for Incomplete Knowledge Graph Question Answering](https://aclanthology.org/2024.emnlp-main.1023/)
+
+*Yao Xu, Shizhu He, Jiabei Chen, Zihao Wang, Yangqiu Song, Hanghang Tong, Guang Liu, Jun Zhao, Kang Liu*
+
+*EMNLP 2024*
+
+This paper proposes a thinking-searching-generating framework for question answering over incomplete knowledge graphs, consisting of three main steps: (1) Thinking: LLMs decompose the question and determine whether to conduct further searches or generate relevant triples based on the current state; (2) Searching: LLMs use pre-defined tools, such as a KG engineer executing SPARQL queries, to explore the KGs and filter out irrelevant triples; (3) Generating: LLMs use its internal knowledge and reasoning abilities to generate required new factual triples based on the explored subgraph and verify them.
+
 
 *2025-05-27*
 
