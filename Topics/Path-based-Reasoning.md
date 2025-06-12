@@ -6,6 +6,16 @@
 
 
 
+*2025-06-12*
+
+#### [Neural Graph Reasoning: Complex Logical Query Answering Meets Graph Databases](https://arxiv.org/abs/2303.14617)
+
+*Hongyu Ren, Mikhail Galkin, Michael Cochez, Zhaocheng Zhu, Jure Leskovec*
+
+*Arxiv 2023*
+
+This paper reviews existing works about complex logical query answering in multiple aspects, including graph types (modality, reasoning domain, background semantics), modeling aspects (encoder, processor, decoder), supported queries (operators, patterns, projected variables), datasets, evaluation metrics, and applications. Besides, it also introduces neural graph databases and their applications.
+
 
 *2025-05-16*
 
