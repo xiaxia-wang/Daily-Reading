@@ -2,6 +2,16 @@
 
 
 
+*2025-06-13*
+
+#### [Aligning Complex Knowledge Graph Question Answering as Knowledge-Aware Constrained Code Generation](https://aclanthology.org/2025.coling-main.267/)
+
+*Prerna Agarwal, Nishant Kumar, Srikanta Bedathur Jagannath*
+
+*COLING 2025*
+
+This paper proposes a framework formulating logical form (LF) generation as code generation task that incorporates LF-specific constraints. Specifically, it utilizes KoPL, a programming language describing symbolic logical form, to bridge the gap for LLM generated logical form for multi-hop knowledge graph question answering.
+
 
 *2025-06-10*
 
