@@ -6,6 +6,18 @@
 
 
 
+
+*2025-06-14*
+
+#### [BMIKE-53: Investigating Cross-Lingual Knowledge Editing with In-Context Learning](https://arxiv.org/abs/2406.17764)
+
+*Ercong Nie, Bo Shao, Zifeng Ding, Mingyang Wang, Helmut Schmid, Hinrich Schütze*
+
+*ACL 2025*
+
+This paper proposes a benchmark for cross-lingual in-context knowledge editing. The task is to evaluate an LM’s ability to incorporate new knowledge (a fact) in one language and apply it across multiple languages while preserving unrelated knowledge.
+
+
 *2025-06-01*
 
 #### [ReLearn: Unlearning via Learning for Large Language Models](https://arxiv.org/abs/2502.11190)
