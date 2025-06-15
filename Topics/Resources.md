@@ -3,6 +3,16 @@
 
 
 
+*2025-06-15*
+
+#### [Representation Learning of Knowledge Graphs with Entity Descriptions](https://ojs.aaai.org/index.php/AAAI/article/view/10329)
+
+*Ruobing Xie, Zhiyuan Liu, Jia Jia, Huanbo Luan, Maosong Sun*
+
+*AAAI 2016*
+
+This paper proposes an entity list and descriptions of FB15k, as well as an entity name file.
+
 
 *2025-06-05*
 
