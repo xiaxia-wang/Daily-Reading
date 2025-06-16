@@ -2,6 +2,16 @@
 
 
 
+*2025-06-16*
+
+#### [Prompting Disentangled Embeddings for Knowledge Graph Completion with Pre-trained Language Model](https://arxiv.org/abs/2312.01837)
+
+*Yuxia Geng, Jiaoyan Chen, Yuhang Zeng, Zhuo Chen, Wen Zhang, Jeff Z. Pan, Yuxiang Wang, Xiaoliang Xu*
+
+*Expert Systems With Applications 268 (2025) 126175*
+
+This paper proposes a PLM-based KGC method which includes a hard task prompt (i.e., a pre-defined template containing the [MASK] token) and a disentangled structure prompt (i.e., a series of trainable vectors generated from entity embeddings learned by a graph learner with selective aggregations over different neighboring entities).
+
 
 *2025-06-06*
 
