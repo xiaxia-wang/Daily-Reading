@@ -2,6 +2,19 @@
 
 
 
+
+
+*2025-06-17*
+
+#### [R1-Searcher++: Incentivizing the Dynamic Knowledge Acquisition of LLMs via Reinforcement Learning](https://arxiv.org/abs/2505.17005)
+
+*Huatong Song, Jinhao Jiang, Wenqing Tian, Zhipeng Chen, Yuhuan Wu, Jiahao Zhao, Yingqian Min, Wayne Xin Zhao, Lei Fang, Ji-Rong Wen*
+
+*Arxiv 2025*
+
+As recent RL-based agents often become overly reliant on external search engines after training, while neglecting the utilization of their internal knowledge, this paper proposes a training framework that employs a two-stage training strategy: an initial SFT Cold-start phase for preliminary format learning, followed by RL for Dynamic Knowledge Acquisition.
+
+
 *2025-06-13*
 
 #### [Aligning Complex Knowledge Graph Question Answering as Knowledge-Aware Constrained Code Generation](https://aclanthology.org/2025.coling-main.267/)
