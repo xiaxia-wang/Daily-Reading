@@ -6,6 +6,16 @@
 
 
 
+*2025-06-18*
+
+#### [SimpleDeepSearcher: Deep Information Seeking via Web-Powered Reasoning Trajectory Synthesis](https://arxiv.org/abs/2505.16834)
+
+*Shuang Sun, Huatong Song, Yuhao Wang, Ruiyang Ren, Jinhao Jiang, Junjie Zhang, Fei Bai, Jia Deng, Wayne Xin Zhao, Zheng Liu, Lei Fang, Zhongyuan Wang, Ji-Rong Wen*
+
+*Arxiv 2025*
+
+This work introduces a lightweight yet effective framework that bridges this gap through strategic data engineering rather than complex training paradigms, by simulating realistic user interactions in live web search environments, coupled with a multi-criteria curation strategy that optimizes the diversity and quality of input and output side.
+
 
 *2025-03-09*
 
