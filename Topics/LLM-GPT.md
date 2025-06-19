@@ -3,6 +3,16 @@
 
 
 
+*2025-06-19*
+
+#### [Learning to Route Queries Across Knowledge Bases for Step-wise Retrieval-Augmented Reasoning](https://arxiv.org/abs/2505.22095)
+
+*Chunyi Peng, Zhipeng Xu, Zhenghao Liu, Yishan Li, Yukun Yan, Shuo Wang, Zhiyuan Liu, Yu Gu, Minghe Yu, Ge Yu, Maosong Sun*
+
+*Arxiv 2025*
+
+This paper proposes a framework that enables multimodal LLMs to dynamically determine when and where to acquire external knowledge by selecting the next action based on the current state of the reasoning process.
+
 
 *2025-06-17*
 
