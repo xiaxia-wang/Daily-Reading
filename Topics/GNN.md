@@ -6,6 +6,16 @@
 
 
 
+*2025-06-20*
+
+#### [Can Classic GNNs Be Strong Baselines for Graph-level Tasks? Simple Architectures Meet Excellence](https://arxiv.org/abs/2502.09263)
+
+*罗元凯，时磊，吴晓明*
+
+*ICML 2025*
+
+This work explores the potential of classical GNNs for handling graph-level task with the help of commonly-used techniques, including edge feature integration, normalization, dropout, residual connections, feed-forward networks, and positional encoding.
+
 
 *2025-05-23*
 
