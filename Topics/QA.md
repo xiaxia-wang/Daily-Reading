@@ -4,6 +4,18 @@
 
 
 
+
+*2025-06-21*
+
+#### [Can LLMs Evaluate Complex Attribution in QA? Automatic Benchmarking Using Knowledge Graphs](https://openreview.net/forum?id=zP8HygcAMY)
+
+*Nan Hu, Jiaoyan Chen, Yike Wu, Guilin Qi, Hongru WANG, Sheng Bi, Yongrui Chen, Tongtong Wu, Jeff Z. Pan*
+
+*ACL 2025*
+
+This paper proposes a benchmark for QA attribution automatically generated using Knowledge Graphs, which contains comprehensive attribution categories and complex attribution reasoning scenarios.
+
+
 *2025-06-11*
 
 #### [Generate-on-Graph: Treat LLM as both Agent and KG for Incomplete Knowledge Graph Question Answering](https://aclanthology.org/2024.emnlp-main.1023/)
