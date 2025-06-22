@@ -2,6 +2,16 @@
 
 
 
+*2025-06-22*
+
+#### [Simple is Effective: The Roles of Graphs and Large Language Models in Knowledge-Graph-Based Retrieval-Augmented Generation](https://openreview.net/forum?id=2NbxnNI94F)
+
+*Mufei Li, Siqi Miao, Pan Li*
+
+*ICLR 2025 Workshop FM-Wild*
+
+This work introduces a KG-based RAG framework that extracts a subgraph from the KG, to facilitate the downstream generation. The subgraph extraction utilizes a lightweight MLP with a parallel triple-scoring mechanism.
+
 
 *2025-06-19*
 
