@@ -2,6 +2,18 @@
 
 
 
+
+*2025-06-23*
+
+#### [Think-on-Graph 2.0: Deep and Faithful Large Language Model Reasoning with Knowledge-guided Retrieval Augmented Generation](https://openreview.net/forum?id=oFBu7qaZpS)
+
+*Shengjie Ma, Chengjin Xu, Xuhui Jiang, Muzhi Li, Huaren Qu, Cehao Yang, Jiaxin Mao, Jian Guo*
+
+*ICLR 2025*
+
+ToG-2 leverages KGs to link documents via entities, facilitating deep and knowledge-guided context retrieval. Meanwhile, it utilizes documents as entity contexts to achieve precise and efficient graph retrieval. ToG-2 alternates between graph retrieval and context retrieval to search for in-depth clues relevant to the question, enabling LLMs to generate answers.
+
+
 *2025-06-22*
 
 #### [Simple is Effective: The Roles of Graphs and Large Language Models in Knowledge-Graph-Based Retrieval-Augmented Generation](https://openreview.net/forum?id=2NbxnNI94F)
