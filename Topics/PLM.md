@@ -5,6 +5,15 @@
 
 
 
+*2025-06-24*
+
+#### [How to Synthesize Text Data without Model Collapse?](https://arxiv.org/abs/2412.14689)
+
+*Xuekai Zhu, Daixuan Cheng, Hengli Li, Kaiyan Zhang, Ermo Hua, Xingtai Lv, Ning Ding, Zhouhan Lin, Zilong Zheng, Bowen Zhou*
+
+*ICML 2025*
+
+This paper proposes token-level editing on human-produced data for data synthesis. It demonstrates that token-level editing can prevent model collapse, as the test error is constrained by a finite upper bound.
 
 
 *2025-06-14*
