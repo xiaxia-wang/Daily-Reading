@@ -4,6 +4,16 @@
 
 
 
+*2025-06-25*
+
+#### [A Collaborative Reasoning Framework Powered by Reinforcement Learning and Large Language Models for Complex Questions Answering over Knowledge Graph](https://aclanthology.org/2025.coling-main.712/)
+
+*Zhiqiang Zhang, Wen Zhao*
+
+*COLING 2025*
+
+This paper proposes a collaborative reasoning framework powered by RL and LLMs to answer complex questions over KG, where a high-level agent identifies constraints encountered during reasoning, and a low-level agent conducts efficient path reasoning by selecting the most promising relations in KG.
+
 
 *2025-06-21*
 
