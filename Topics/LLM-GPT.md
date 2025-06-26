@@ -2,6 +2,16 @@
 
 
 
+*2025-06-26*
+
+#### [GMoE: Empowering LLMs Fine-Tuning via MoE Graph Collaboration](https://arxiv.org/abs/2412.16216)
+
+*Ting Bai, Yue Yu, Le Huang, Zenan Xu, Zhe Zhao, Chuan Shi*
+
+*Arxiv 2025*
+
+This work introduces a mixture-of-experts framework, which implements a graph router function to capture the collaboration signals among experts by sharing infromation with neighboring experts.
+
 
 *2025-06-23*
 
