@@ -2,6 +2,22 @@
 
 
 
+
+
+
+
+
+*2025-06-27*
+
+#### [ReTreever: Tree-based Coarse-to-Fine Representations for Retrieval](https://arxiv.org/abs/2502.07971)
+
+*Shubham Gupta, Zichao Li, Tianyi Chen, Cem Subakan, Siva Reddy, Perouz Taslakian, Valentina Zantedeschi*
+
+*Arxiv 2025*
+
+This paper proposes a tree-based method for organizing and representing text documents at various granular levels. ReTreever jointly learns a routing function per internal node of a binary tree, such that query and relevant documents are assigned to similar tree branches, hence directly optimizing for retrieval performance.
+
+
 *2025-06-26*
 
 #### [GMoE: Empowering LLMs Fine-Tuning via MoE Graph Collaboration](https://arxiv.org/abs/2412.16216)
