@@ -6,6 +6,16 @@
 
 
 
+*2025-06-28*
+
+#### [CFT-RAG: An Entity Tree Based Retrieval Augmented Generation Algorithm With Cuckoo Filter](https://arxiv.org/abs/2501.15098)
+
+*Zihang Li, Yangdong Ruan, Wenjun Liu, Zhengyang Wang, Tong Yang*
+
+*Arxiv 2025*
+
+This paper proposes a Tree-RAG acceleration method based on an improved Cuckoo Filter, which optimizes entity localization during the retrieval process to improve performance.
+
 
 *2025-06-27*
 
