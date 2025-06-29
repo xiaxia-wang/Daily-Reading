@@ -5,6 +5,16 @@
 
 
 
+*2025-06-29*
+
+#### [UniversalRAG: Retrieval-Augmented Generation over Corpora of Diverse Modalities and Granularities](https://arxiv.org/abs/2504.20734)
+
+*Woongyeong Yeo, Kangsan Kim, Soyeong Jeong, Jinheon Baek, Sung Ju Hwang*
+
+*Arxiv 2025*
+
+This paper proposes a RAG framework designed to retrieve and integrate knowledge from heterogeneous sources with diverse modalities and granularities. To solve the problem that systems typically prefer the same modality as the query in retrieval, it uses a modality-aware routing mechanism that dynamically identifies the most appropriate modality-specific corpus.
+
 
 *2025-06-28*
 
