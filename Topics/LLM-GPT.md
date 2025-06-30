@@ -4,6 +4,16 @@
 
 
 
+*2025-06-30*
+
+#### [Decompositional Reasoning for Graph Retrieval with Large Language Models](https://arxiv.org/abs/2506.13380)
+
+*Valentin Six, Evan Dufraisse, Gaël de Chalendar*
+
+*Arxiv 2025*
+
+The complex question is first decomposed into smaller subquestions, which are used for iterative retrieval and answer generation; once the retrieval is done for all subquestions, the subgraphs are merged and the result is given as a hard (textualized graph) and a soft prompt (graph encoder output) to the model.
+
 
 *2025-06-29*
 
