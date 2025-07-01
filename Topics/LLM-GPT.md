@@ -3,6 +3,16 @@
 
 
 
+*2025-07-01*
+
+#### [T-RAG: Lessons from the LLM Trenches](https://arxiv.org/abs/2402.07483v2)
+
+*Masoomali Fatehkia, Ji Kim Lucas, Sanjay Chawla*
+
+*NNIR 2024*
+
+This work builds an LLM application for question answering over private organizational documents. The application combines RAG with a finetuned open-source LLM, using a tree structure to represent entity hierarchies within the organization. This is used to generate a textual description to augment the context when responding to user queries pertaining to entities within the organization's hierarchy.
+
 
 *2025-06-30*
 
