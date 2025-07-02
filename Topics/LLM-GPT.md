@@ -2,6 +2,16 @@
 
 
 
+*2025-07-02*
+
+#### [Think-on-Graph 2.0: Deep and Faithful Large Language Model Reasoning with Knowledge-guided Retrieval Augmented Generation](https://openreview.net/forum?id=oFBu7qaZpS)
+
+*Shengjie Ma, Chengjin Xu, Xuhui Jiang, Muzhi Li, Huaren Qu, Cehao Yang, Jiaxin Mao, Jian Guo*
+
+*ICLR 2025*
+
+The contribution of ToG 2.0 over ToG is incremental, primarily involving the addition of context-retrieval and context-guided entity pruning to the original framework's relation and entity exploration. The methodology is resource-intensive, requiring frequent LLM API calls for processes such as Knowledge Exploration, Relation Pruning, and Reasoning, which may deter researchers in the Graph RAG community due to high costs.
+
 
 *2025-07-01*
 
