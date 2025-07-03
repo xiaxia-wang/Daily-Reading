@@ -2,6 +2,20 @@
 
 
 
+
+
+
+*2025-07-03*
+
+#### [Enabling Large Language Models to Generate Text with Citations](https://arxiv.org/abs/2305.14627)
+
+*Tianyu Gao, Howard Yen, Jiatong Yu, Danqi Chen*
+
+*EMNLP 2023*
+
+This paper proposes a prompt-based approach that guides the LLM to generate answers with proper citations, which largely relying on the capability of the base model.
+
+
 *2025-07-02*
 
 #### [Think-on-Graph 2.0: Deep and Faithful Large Language Model Reasoning with Knowledge-guided Retrieval Augmented Generation](https://openreview.net/forum?id=oFBu7qaZpS)
