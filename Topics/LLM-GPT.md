@@ -4,6 +4,16 @@
 
 
 
+*2025-07-04*
+
+#### [Preference-Guided Refactored Tuning for Retrieval Augmented Code Generation](https://arxiv.org/abs/2409.15895)
+
+*Xinyu Gao, Yun Xiong, Deze Wang, Zhenhan Guan, Zejian Shi, Haofen Wang, Shanshan Li*
+
+*ASE 2024*
+
+This paper proposes a RAG-based approach for code generation, aiming at addressing the issue of redundant information and biased preference of the retrieved results. It consists of a refactor module to rewrite the raw retrieved codes to a more concise version, and a generator module is fine-tuned to accept the re-written codes and produce the final result.
+
 
 *2025-07-03*
 
