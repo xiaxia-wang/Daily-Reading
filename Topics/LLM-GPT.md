@@ -3,6 +3,16 @@
 
 
 
+*2025-07-05*
+
+#### [Citation-Enhanced Generation for LLM-based Chatbots](https://aclanthology.org/2024.acl-long.79/)
+
+*Weitao Li, Junkai Li, Weizhi Ma, Yang Liu*
+
+*ACL 2024*
+
+To alleviate hallucination of LLMs, this paper proposes a post-hoc Citation-Enhanced Generation approach combined with retrieval argumentation. It incorporates a retrieval module to search for supporting documents relevant to the generated content, and employs a natural language inference-based citation generation module. Once the statements in the generated content lack of reference, the model regenerates responses until all statements are supported by citations.
+
 
 *2025-07-04*
 
