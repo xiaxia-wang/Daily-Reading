@@ -2,6 +2,16 @@
 
 
 
+*2025-07-06*
+
+#### [Towards Verifiable Text Generation with Evolving Memory and Self-Reflection](https://aclanthology.org/2024.emnlp-main.469/)
+
+*Hao Sun, Hengyi Cai, Bo Wang, Yingyan Hou, Xiaochi Wei, Shuaiqiang Wang, Yan Zhang, Dawei Yin*
+
+*EMNLP 2024*
+
+This paper proposes an approach for Verifiable Text Generation with evolving memory and self-reflection. It introduces evolving long short-term memory to retain both valuable documents and recent documents. A two-tier verifier equipped with an evidence finder is proposed to rethink and reflect on the relationship between the claim and citations. Major limitation: too slow.
+
 
 *2025-07-05*
 
