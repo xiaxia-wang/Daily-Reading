@@ -2,6 +2,27 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+*2025-07-07*
+
+#### [Peering into the Mind of Language Models: An Approach for Attribution in Contextual Question Answering](https://aclanthology.org/2024.findings-acl.682/)
+
+*Anirudh Phukan, Shwetha Somasundaram, Apoorv Saxena, Koustava Goswami, Balaji Vasan Srinivasan*
+
+*ACL Findings*
+
+This paper introduces a method for attribution in contextual question answering, leveraging the hidden state representations of LLMs and computing the pairwise token-level similarity.
+
+
 *2025-07-06*
 
 #### [Towards Verifiable Text Generation with Evolving Memory and Self-Reflection](https://aclanthology.org/2024.emnlp-main.469/)
