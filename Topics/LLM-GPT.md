@@ -11,6 +11,16 @@
 
 
 
+*2025-07-08*
+
+#### [Attention with Dependency Parsing Augmentation for Fine-Grained Attribution](https://arxiv.org/abs/2412.11404)
+
+*Qiang Ding, Lvzhou Luo, Yixuan Cao, Ping Luo*
+
+*ACL 2025*
+
+As an advance to the previous work that used hidden state representations to compute token-level similarity, this paper uses the output of hidden layers to characterize the token-wise similarity.
+
 
 *2025-07-07*
 
