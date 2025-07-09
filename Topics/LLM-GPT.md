@@ -10,6 +10,16 @@
 
 
 
+*2025-07-09*
+
+#### [Prompt-based Code Completion via Multi-Retrieval Augmented Generation](https://dl.acm.org/doi/abs/10.1145/3725812)
+
+*Hanzhuo Tan, Qi Luo, Ling Jiang, Zizheng Zhan, Jing Li, Haotian Zhang, Yuqun Zhang*
+
+*ACM Transactions on Software Engineering and Methodology*
+
+To facilitate RAG-based code completion, this paper proposes an approach that uses prompt engineering and a contextual multi-armed bandits algorithm to flexibly incorporate and adapt to multiple perspectives of code. The multiple arms come from a prompt-based multi-retriever system that crafts prompt templates to provide multiple retrieval perspectives.
+
 
 *2025-07-08*
 
@@ -2391,7 +2401,7 @@ This paper evaluates the ability of LLMs handling arithmetic tasks, such as Eule
 
 *Arxiv 2023*
 
-Although LLMs exhibit attractive in-context learning ability, their performance is sometimes limited due to the constrained input length, and increasing the number of demonstrations cannot significantly improve the performance of LLMs. Therefore, this paper proposes a filter-then-rerank pipeline, which firstly utilizes small LMs (SLMs) to handle the easy cases, then passes the complex part to LLMs as a reranking task. The comparison shows that LLMs perform better than SLMs on complex (i.e., "harder") tasks.
+Although LLMs exhibit attractive in-context learning ability, their performance is sometimes limited due to the constrained input length, and increasing the number of demonstrations cannot significantly improve the performance of LLMs. Therefore, this paper proposes a filter-then-rerank pipeline, which first utilizes small LMs (SLMs) to handle the easy cases, then passes the complex part to LLMs as a reranking task. The comparison shows that LLMs perform better than SLMs on complex (i.e., "harder") tasks.
 
 
 *2023-04-04*
@@ -2402,6 +2412,5 @@ Although LLMs exhibit attractive in-context learning ability, their performance 
 
 *Arxiv 2023*
 
-This paper proposes to combine ChatGPT with AI models available in HuggingFace to solve complex tasks. Specifically, it uses ChatGPT to conduct task planning when receiving a user request, selects models according to their function descriptions available in HuggingFace, executes each subtask with the selected
-AI model, and summarizes the response according to the execution results.
+This paper proposes to combine ChatGPT with AI models available in HuggingFace to solve complex tasks. Specifically, it uses ChatGPT to conduct task planning when receiving a user request, selects models according to their function descriptions available in HuggingFace, executes each subtask with the selected AI model, and summarizes the response according to the execution results.
 
