@@ -20,6 +20,17 @@
 Existing benchmarks used to test LLMs -- such as AP exams -- are also those used to test people, which raises an implication: these benchmarks are only valid tests if LLMs misunderstand concepts in ways that mirror human misunderstandings. Otherwise, success on benchmarks only demonstrates potemkin understanding: the illusion of understanding driven by answers irreconcilable with how any human would interpret a concept. This paper presents two procedures for quantifying the existence of potemkins: one using a specially designed benchmark in three domains, the other using a general procedure that provides a lower-bound on their prevalence. The results suggest that potemkins are ubiquitous across models, tasks, and domains. Also, these failures reflect not just incorrect understanding, but deeper internal incoherence in concept representations.
 
 
+*2025-07-10*
+
+#### [RAPTOR: Recursive Abstractive Processing for Tree-Organized Retrieval](https://openreview.net/forum?id=GN921JHCRw&noteId=rquBHNygEX)
+
+*Parth Sarthi, Salman Abdullah, Aditi Tuli, Shubh Khanna, Anna Goldie, Christopher D Manning*
+
+*ICLR 2024*
+
+This paper proposes a retrieval approach with a tree-structured index to enhence RAG performance, and uses 2 tree-traversal strategies to find the target nodes.
+
+
 *2025-07-09*
 
 #### [Prompt-based Code Completion via Multi-Retrieval Augmented Generation](https://dl.acm.org/doi/abs/10.1145/3725812)
