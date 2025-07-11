@@ -9,6 +9,16 @@
 
 
 
+*2025-07-11*
+
+#### [Potemkin Understanding in Large Language Models](https://arxiv.org/abs/2506.21521)
+
+*Marina Mancoridis, Bec Weeks, Keyon Vafa, Sendhil Mullainathan*
+
+*Arxiv 2025*
+
+Existing benchmarks used to test LLMs -- such as AP exams -- are also those used to test people, which raises an implication: these benchmarks are only valid tests if LLMs misunderstand concepts in ways that mirror human misunderstandings. Otherwise, success on benchmarks only demonstrates potemkin understanding: the illusion of understanding driven by answers irreconcilable with how any human would interpret a concept. This paper presents two procedures for quantifying the existence of potemkins: one using a specially designed benchmark in three domains, the other using a general procedure that provides a lower-bound on their prevalence. The results suggest that potemkins are ubiquitous across models, tasks, and domains. Also, these failures reflect not just incorrect understanding, but deeper internal incoherence in concept representations.
+
 
 *2025-07-09*
 
