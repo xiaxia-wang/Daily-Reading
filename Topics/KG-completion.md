@@ -7,6 +7,16 @@
 
 
 
+*2025-07-12*
+
+#### [Context-aware Inductive Knowledge Graph Completion with Latent Type Constraints and Subgraph Reasoning](https://arxiv.org/abs/2410.16803)
+
+*Muzhi Li, Cehao Yang, Chengjin Xu, Zixing Song, Xuhui Jiang, Jian Guo, Ho-fung Leung, Irwin King*
+
+*AAAI 2025*
+
+This paper introduces an LLM-based context-aware inductive KGC approach, which consists of two modules. First, the type-aware reasoning module evaluates whether the candidate entity matches the latent entity type as required by the query relation (implemented by fine-tuning an LLM). Second, the subgraph reasoning module selects relevant reasoning paths (by statistical features) and neighboring facts, and evaluates their correlation to the query triple.
+
 
 *2025-05-25*
 
