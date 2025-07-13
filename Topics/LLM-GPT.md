@@ -7,6 +7,15 @@
 
 
 
+*2025-07-13*
+
+#### [Why Prompt Design Matters and Works: A Complexity Analysis of Prompt Search Space in LLMs](https://arxiv.org/abs/2503.10084)
+
+*Xiang Zhang, Juntai Cao, Jiaqi Wei, Chenyu You, Dujian Ding*
+
+*ACL 2025*
+
+This paper discusses the fundamental influence that prompts selection to the final answer generation performance. It shows that prompts function as selectors, extracting task-relevant information from the model's full hidden state during CoT reasoning. Each prompt defines a unique trajectory through the answer space, and the choice of trajectory is crucial for task performance and future navigation within the space.
 
 
 *2025-07-11*
