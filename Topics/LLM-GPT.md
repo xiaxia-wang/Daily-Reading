@@ -6,6 +6,16 @@
 
 
 
+*2025-07-14*
+
+#### [Enhancing the Comprehensibility of Text Explanations via Unsupervised Concept Discovery](https://arxiv.org/abs/2505.20293)
+
+*Yifan Sun, Danding Wang, Qiang Sheng, Juan Cao, Jintao Li*
+
+*ACL 2025 Findings*
+
+This paper works on discovering comprehensible concepts with no concept annotations. It first utilizes an object-centric module to extract semantic concepts. Then the comprehensibility of the extracted concepts is evaluated by an LLM, and the evaluation result guides the subsequent model fine-tuning to obtain more understandable explanations.
+
 
 *2025-07-13*
 
