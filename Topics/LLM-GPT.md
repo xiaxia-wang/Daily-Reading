@@ -5,6 +5,16 @@
 
 
 
+*2025-07-15*
+
+#### [EraRAG: Efficient and Incremental Retrieval Augmented Generation for Growing Corpora](https://arxiv.org/abs/2506.20963)
+
+*Fangyuan Zhang, Zhengjun Huang, Yingli Zhou, Qintian Guo, Zhixun Li, Wensheng Luo, Di Jiang, Yixiang Fang, Xiaofang Zhou*
+
+*Arxiv 2025*
+
+This paper introduces a multi-layered Graph-RAG framework that supports efficient and scalable dynamic updates. It uses hyperplane-based Locality-Sensitive Hashing to partition the original corpus into hierarchical graph structures, enabling efficient and localized insertions of new data without disrupting the existing topology.
+
 
 *2025-07-14*
 
