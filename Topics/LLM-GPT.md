@@ -4,6 +4,16 @@
 
 
 
+*2025-07-16*
+
+#### [POD-Attention: Unlocking Full Prefill-Decode Overlap for Faster LLM Inference](https://arxiv.org/abs/2410.18038)
+
+*Aditya K Kamath, Ramya Prabhu, Jayashree Mohan, Simon Peter, Ramachandran Ramjee, Ashish Panwar*
+
+*ASPLOS 2025*
+
+Each request in LLM inference goes through two phases: compute-bound prefill and memory-bandwidth-bound decode. This paper proposes a GPU kernel that efficiently computes attention for hybrid batches.
+
 
 *2025-07-15*
 
