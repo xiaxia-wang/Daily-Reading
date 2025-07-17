@@ -4,6 +4,20 @@
 
 
 
+
+
+
+*2025-07-17*
+
+#### [KGARevion: An AI Agent for Knowledge-Intensive Biomedical QA](https://arxiv.org/abs/2410.04660)
+
+*Xiaorui Su, Yibo Wang, Shanghua Gao, Xiaolong Liu, Valentina Giunchiglia, Djork-Arné Clevert, Marinka Zitnik*
+
+*ICLR 2025*
+
+This paper proposes a RAG-based agent for biomedical QA. Upon receiving a query, it generates relevant triplets by LLM, and then verifies these triplets against a grounded knowledge graph, filtering out errors and retaining only accurate, contextually relevant information for the final answer.
+
+
 *2025-07-16*
 
 #### [POD-Attention: Unlocking Full Prefill-Decode Overlap for Faster LLM Inference](https://arxiv.org/abs/2410.18038)
