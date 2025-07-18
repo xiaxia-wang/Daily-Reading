@@ -4,6 +4,18 @@
 
 
 
+
+*2025-07-18*
+
+#### [CORONA: A Coarse-to-Fine Framework for Graph-based Recommendation with Large Language Models](http://arxiv.org/abs/2506.17281)
+
+*Junze Chen, Xinjie Yang, Cheng Yang, Junfei Bao, Zeyuan Guo, Yawen Li, Chuan Shi*
+
+*SIGIR 2025*
+
+This work proposes an approach for graph-based recommendation that includes: (1) an LLM for preference reasoning based on user profiles, with the response serving as a query to extract relevant users and items from the interaction graph as preference-assisted retrieval; (2) the information retrieved in the previous step along with the purchase history of target user is used by LLM to refine a smaller interaction subgraph as intent-assisted retrieval; (3) a GNN to capture high-order collaborative filtering information from the extracted subgraph and generate the final recommendation results.
+
+
 *2025-05-10*
 
 #### [Efficient Multi-task Prompt Tuning for Recommendation](https://doi.org/10.48550/arXiv.2408.17214)
