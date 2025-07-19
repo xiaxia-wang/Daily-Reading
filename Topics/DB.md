@@ -3,6 +3,16 @@
 
 
 
+*2025-07-19*
+
+#### [Frustratingly Simple Retrieval Improves Challenging, Reasoning-Intensive Benchmarks](https://arxiv.org/abs/2507.01297)
+
+*Xinxi Lyu, Michael Duan, Rulin Shao, Pang Wei Koh, Sewon Min*
+
+*Arxiv 2025*
+
+This paper introduces CompactDS as a diverse, high-quality, web-scale datastore that achieves high retrieval accuracy and subsecond latency on a single-node. The key insights include (1) most web content can be filtered out without sacrificing coverage, and a compact, high-quality subset is sufficient; and (2) combining in-memory approximate nearest neighbor (ANN) retrieval and on-disk exact search balances speed and recall.
+
 
 *2025-02-17*
 
