@@ -7,6 +7,18 @@
 
 
 
+
+*2025-07-20*
+
+#### [KERAP: A Knowledge-Enhanced Reasoning Approach for Accurate Zero-shot Diagnosis Prediction Using Multi-agent LLMs](https://arxiv.org/abs/2507.02773)
+
+*Yuzhang Xie, Hejie Cui, Ziyang Zhang, Jiaying Lu, Kai Shu, Fadi Nahab, Xiao Hu, Carl Yang*
+
+*Arxiv 2025*
+
+This paper proposes a KG-enhanced reasoning approach that improves LLM-based diagnosis prediction through a multi-agent architecture. It consists of a linkage agent for attribute mapping, a retrieval agent for structured knowledge extraction, and a prediction agent that iteratively refines diagnosis predictions.
+
+
 *2025-07-17*
 
 #### [KGARevion: An AI Agent for Knowledge-Intensive Biomedical QA](https://arxiv.org/abs/2410.04660)
