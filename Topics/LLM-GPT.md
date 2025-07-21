@@ -7,6 +7,16 @@
 
 
 
+*2025-07-21*
+
+#### [Decoupled Planning and Execution: A Hierarchical Reasoning Framework for Deep Search](https://arxiv.org/abs/2507.02652)
+
+*Jiajie Jin, Xiaoxi Li, Guanting Dong, Yuyao Zhang, Yutao Zhu, Yang Zhao, Hongjin Qian, Zhicheng Dou*
+
+*Arxiv 2025*
+
+The approach contains three parts: (1) Meta Reasoning Planner to decompose the tasks into subtasks via step-by-step reasoning, (2) Adaptive Reasoning Coordinator to match subtasks with appropriate expert agents, and (3) Domain-Specialized Executors to solve subtasks using specialized reasoning models and external tools.
+
 
 *2025-07-20*
 
