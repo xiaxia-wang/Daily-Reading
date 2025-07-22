@@ -6,6 +6,16 @@
 
 
 
+*2025-07-22*
+
+#### [Fast Think-on-Graph: Wider, Deeper and Faster Reasoning of Large Language Model on Knowledge Graph](https://arxiv.org/abs/2501.14300)
+
+*Xujian Liang, Zhaoquan Gu*
+
+*Arxiv 2025*
+
+Motivated by the idea of CoT, FastToG is designed to enable LLMs to “think” community by community on the KGs. It employs community detection for deeper correlation capture and two stages community pruning: coarse and fine pruning for faster retrieval.
+
 
 *2025-07-21*
 
