@@ -5,6 +5,16 @@
 
 
 
+*2025-07-23*
+
+#### [KAG-Thinker: Interactive Thinking and Deep Reasoning in LLMs via Knowledge-Augmented Generation](https://arxiv.org/abs/2506.17728)
+
+*Dalong Zhang, Jun Xu, Jun Zhou, Lei Liang, Lin Yuan, Ling Zhong, Mengshu Sun, Peilong Zhao, Qiwei Wang, Xiaorui Wang, Xinkai Du, YangYang Hou, Yu Ao, ZhaoYang Wang, Zhengke Gui, ZhiYing Yi, Zhongpu Bo, Haofen Wang, Huajun Chen*
+
+*Arxiv 2025*
+
+This work introduces KAG-Thinker as a multi-turn interactive thinking and deep reasoning framework powered by LLM.
+
 
 *2025-07-22*
 
