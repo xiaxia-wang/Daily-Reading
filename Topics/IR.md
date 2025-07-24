@@ -5,6 +5,16 @@
 
 
 
+*2025-07-24*
+
+#### [Shifting from Ranking to Set Selection for Retrieval Augmented Generation](https://arxiv.org/abs/2507.06838)
+
+*Dahyun Lee, Yongrae Jo, Haeju Park, Moontae Lee*
+
+*ACL 2025*
+
+While traditional search engines rank individual results by relevance, RAG systems need a curated set of passages to generate accurate answers, requiring not only relevance but also diversity, completeness, and the comprehensiveness of retrieved passages. To address these challenges, this paper proposes a setwise passage selection approach that optimizes the passage set as a whole, rather than treating retrieval as an independent ranking task.
+
 
 *2025-06-18*
 
