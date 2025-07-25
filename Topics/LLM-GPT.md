@@ -5,6 +5,18 @@
 
 
 
+
+*2025-07-25*
+
+#### [Investigating the Robustness of Retrieval-Augmented Generation at the Query Level](https://arxiv.org/abs/2507.06956)
+
+*Sezen Perçin, Xin Su, Qutub Sha Syed, Phillip Howard, Aleksei Kuvshinov, Leo Schwinn, Kay-Ulrich Scholl*
+
+*Generation, Evaluation & Metrics Workshop at ACL 2025*
+
+This paper investigates the sensitivity of different components in the RAG pipeline to various types of query perturbations. Analysis reveals that the performance of commonly used retrievers can degrade significantly even under minor query variations.
+
+
 *2025-07-23*
 
 #### [KAG-Thinker: Interactive Thinking and Deep Reasoning in LLMs via Knowledge-Augmented Generation](https://arxiv.org/abs/2506.17728)
