@@ -3,6 +3,18 @@
 
 
 
+
+*2025-07-26*
+
+#### [Interactive Text-to-SQL via Expected Information Gain for Disambiguation](https://arxiv.org/abs/2507.06467)
+
+*Luyu Qiu, Jianing Li, Chi Su, Lei Chen*
+
+*Arxiv 2025*
+
+This paper proposes an interactive Text-to-SQL framework that models SQL generation as a probabilistic reasoning process over multiple candidate queries. Rather than producing a single deterministic output, our system maintains a distribution over possible SQL outputs and seeks to resolve uncertainty through user interaction. At each interaction step, the system selects a branching decision and formulates a clarification question aimed at disambiguating that aspect of the query.
+
+
 *2025-07-19*
 
 #### [Frustratingly Simple Retrieval Improves Challenging, Reasoning-Intensive Benchmarks](https://arxiv.org/abs/2507.01297)
