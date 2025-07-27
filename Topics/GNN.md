@@ -6,6 +6,17 @@
 
 
 
+*2025-07-27*
+
+#### [Benchmarking Graph Foundation Models](http://shichuan.org/doc/199.pdf)
+
+*Jinyu Yang et al.*
+
+*KDD 2025*
+
+This work introduces an open-source pipeline that standardizes the training, evaluation, and deployment of graph foundation models across diverse real-world graph applications.
+
+
 *2025-06-20*
 
 #### [Can Classic GNNs Be Strong Baselines for Graph-level Tasks? Simple Architectures Meet Excellence](https://arxiv.org/abs/2502.09263)
