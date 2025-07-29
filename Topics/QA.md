@@ -3,6 +3,16 @@
 
 
 
+*2025-07-28*
+
+#### [Knowledge graph prompting for multi-document question answering](https://dl.acm.org/doi/10.1609/aaai.v38i17.29889)
+
+*Yu Wang, Nedim Lipka, Ryan A. Rossi, Alexa Siu, Ruiyi Zhang, Tyler Derr*
+
+*AAAI 2024*
+
+This paper introduces a Knowledge Graph Prompting method to formulate the right context in prompting LLMs for multi-document QA, which consists of a graph construction module and a graph traversal module.
+
 
 *2025-06-25*
 
