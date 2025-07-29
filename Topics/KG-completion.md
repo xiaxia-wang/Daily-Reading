@@ -6,6 +6,16 @@
 
 
 
+*2025-07-29*
+
+#### [A dynamic graph attention network with contrastive learning for knowledge graph completion](https://doi.org/10.1007/s11280-025-01352-0)
+
+*Xujiang Li, Jie Hu, Jingling Wang, Tianrui Li*
+
+*WWWJ*
+
+This work introduces a dynamic graph attention network with contrastive learning for KGC, including (1) a dynamic sampling strategy to adaptively select relevant neighbors during information propagation, (2) a double-branch attention mechanism that jointly captures relation-aware edge importance, and (3) a structure-aware contrastive learning strategy.
+
 
 *2025-07-12*
 
