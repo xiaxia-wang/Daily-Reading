@@ -5,6 +5,16 @@
 
 
 
+*2025-07-30*
+
+#### [Fine-tuning Graph Neural Networks by Preserving Graph Generative Patterns](https://arxiv.org/abs/2312.13583)
+
+*Yifei Sun, Qi Zhu, Yang Yang, Chunping Wang, Tianyu Fan, Jiajun Zhu, Lei Chen*
+
+*AAAI 2024*
+
+Given a downstream graph G, the core idea is to tune the pre-trained GNN so that it can reconstruct the generative patterns of G, i.e., the graphon W.
+
 
 *2025-07-27*
 
