@@ -2,6 +2,21 @@
 
 
 
+
+
+
+
+*2025-07-31*
+
+#### [SMART: Relation-Aware Learning of Geometric Representations for Knowledge Graphs](https://arxiv.org/abs/2507.13001)
+
+*Kossi Amouzouvi, Bowen Song, Andrea Coletta, Luigi Bellomarini, Jens Lehmann, Sahar Vahdati*
+
+*Arxiv 2025*
+
+This paper proposes a framework that evaluates how well each relation fits with different geometric transformations. Based on this ranking, the model can: (1) assign the best-matching transformation to each relation, or (2) use majority voting to choose one transformation type to apply across all relations. That is, the model learns a single relation-specific elementary geometric transformation in low dimensional vector space through an attention mechanism.
+
+
 *2025-06-16*
 
 #### [Prompting Disentangled Embeddings for Knowledge Graph Completion with Pre-trained Language Model](https://arxiv.org/abs/2312.01837)
