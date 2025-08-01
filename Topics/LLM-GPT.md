@@ -5,6 +5,16 @@
 
 
 
+*2025-08-01*
+
+#### [From RAG to Memory: Non-Parametric Continual Learning for Large Language Models](https://arxiv.org/abs/2502.14802)
+
+*Bernal Jiménez Gutiérrez, Yiheng Shu, Weijian Qi, Sizhe Zhou, Yu Su*
+
+*ICML 2025*
+
+HippoRAG2 builds upon the Personalized PageRank algorithm used in HippoRAG and enhances it with deeper passage integration and more effective online use of an LLM.
+
 
 *2025-07-25*
 
