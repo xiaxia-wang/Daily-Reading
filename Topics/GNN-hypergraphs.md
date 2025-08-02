@@ -6,6 +6,18 @@
 
 
 
+
+*2025-08-02*
+
+#### [HyCubE: Efficient Knowledge Hypergraph 3D Circular Convolutional Embedding](https://ieeexplore.ieee.org/document/10845179)
+
+*李钊、王鑫、赵军、郭文斌、李建新*
+
+*TKDE 2025*
+
+This paper proposes an end-to-end knowledge hypergraph embedding model, which uses a *3D circular convolutional neural network* and the *alternate mask stack* strategy to enhance the interaction and extraction of feature information.
+
+
 *2025-02-20*
 
 #### [HySAE: An Efficient Semantic-Enhanced Representation Learning Model for Knowledge Hypergraph Link Prediction](https://openreview.net/forum?id=OLLYLTb8FC#discussion)
