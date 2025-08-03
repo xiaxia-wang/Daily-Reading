@@ -5,6 +5,18 @@
 
 
 
+
+*2025-08-03*
+
+#### [Layer by Layer: Uncovering Hidden Representations in Language Models](https://arxiv.org/abs/2502.02013)
+
+*Oscar Skean, Md Rifat Arefin, Dan Zhao, Niket Patel, Jalal Naghiyev, Yann LeCun, Ravid Shwartz-Ziv*
+
+*ICML 2025*
+
+This paper analyzes the information encoded in the intermediate layers vs. the final layers of LLMs. It shows that intermediate layers can encode even richer representations, often improving performance on a range of downstream tasks. To explain and quantify these hidden-layer properties, it proposes representation quality metrics based on information theory, geometry, and invariance to input perturbations.
+
+
 *2025-08-01*
 
 #### [From RAG to Memory: Non-Parametric Continual Learning for Large Language Models](https://arxiv.org/abs/2502.14802)
