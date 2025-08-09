@@ -6,6 +6,30 @@
 
 
 
+
+
+*2025-08-08*
+
+#### [Graph-constrained Reasoning: Faithful Reasoning on Knowledge Graphs with Large Language Models](https://arxiv.org/abs/2410.13080)
+
+*Linhao Luo, Zicheng Zhao, Gholamreza Haffari, Yuan-Fang Li, Chen Gong, Shirui Pan*
+
+*ICML 2025*
+
+This work introduces graph-constrained reasoning that bridges structured knowledge in KGs with unstructured reasoning in LLMs. To eliminate hallucinations, it ensures KG-grounded reasoning by integrating KG structure into the LLM decoding process through KG-Trie, a trie-based index that encodes KG reasoning paths. KG-Trie constrains the decoding process, allowing LLMs to directly reason on graphs and generate reasoning paths grounded in KGs.
+
+
+*2025-08-07*
+
+#### [Stability and Generalization Capability of Subgraph Reasoning Models for Inductive Knowledge Graph Completion](https://openreview.net/forum?id=NE6Px91RkQ)
+
+*Minsung Hwang, Jaejun Lee, Joyce Jiyoung Whang*
+
+*ICML 2025*
+
+This paper presents a theoretical analysis of the relationship between stability and generalization capability in subgraph reasoning models for inductive knowledge graph completion. It introduces the Relational Tree Mover’s Distance to quantify subgraph differences and derive a PAC-Bayesian generalization bound linking stability to generalization performance.
+
+
 *2025-07-29*
 
 #### [A dynamic graph attention network with contrastive learning for knowledge graph completion](https://doi.org/10.1007/s11280-025-01352-0)

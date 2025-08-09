@@ -7,6 +7,18 @@
 
 
 
+
+*2025-08-06*
+
+#### [Structure Is All You Need: Structural Representation Learning on Hyper-Relational Knowledge Graphs](https://openreview.net/forum?id=2tH2vexW1Z)
+
+*Jaejun Lee, Joyce Jiyoung Whang*
+
+*ICML 2025*
+
+The paper proposes a structure-driven representation learning method for hyper-relational knowledge graphs. It leverages the HKG’s structure through a structure-driven initializer and attentive neural message passing.
+
+
 *2025-08-02*
 
 #### [HyCubE: Efficient Knowledge Hypergraph 3D Circular Convolutional Embedding](https://ieeexplore.ieee.org/document/10845179)

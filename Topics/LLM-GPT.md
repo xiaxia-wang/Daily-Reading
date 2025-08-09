@@ -6,6 +6,30 @@
 
 
 
+
+
+*2025-08-09*
+
+#### [Mitigating Lost-in-Retrieval Problems in Retrieval Augmented Multi-Hop Question Answering](https://aclanthology.org/2025.acl-long.1089/)
+
+*Rongzhi Zhu, Xiangyu Liu, Zequn Sun, Yiwei Wang, Wei Hu*
+
+*ACL 2025*
+
+This paper investigates the problem of “lost-in-retrieval”, in retrieval-augmented multi-hop question answering (QA): the key entities are missed in LLMs’ sub-question decomposition. To address this issue, it uses a progressive retrieval and rewriting method to sequentially handle each sub-question by completing missing key entities and retrieving relevant sentences based on the previous intermediate result.
+
+
+*2025-08-05*
+
+#### [LaRA: Benchmarking Retrieval-Augmented Generation and Long-Context LLMs -- No Silver Bullet for LC or RAG Routing](https://arxiv.org/abs/2502.09977)
+
+*Kuan Li, Liwen Zhang, Yong Jiang, Pengjun Xie, Fei Huang, Shuai Wang, Minhao Cheng*
+
+*ICML 2025*
+
+This paper proposes a benchmark to rigorously compare RAG and long-context (LC) LLMs. Evaluation results indicate that the optimal choice between RAG and LC depends on a complex interplay of factors, including the model's parameter size, long-text capabilities, context length, task type, and the characteristics of the retrieved chunks.
+
+
 *2025-08-03*
 
 #### [Layer by Layer: Uncovering Hidden Representations in Language Models](https://arxiv.org/abs/2502.02013)

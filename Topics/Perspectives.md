@@ -3,6 +3,18 @@
 
 
 
+
+*2025-08-04*
+
+#### [Not All Explanations for Deep Learning Phenomena Are Equally Valuable](https://arxiv.org/abs/2506.23286)
+
+*Alan Jeffares, Mihaela van der Schaar*
+
+*ICML 2025*
+
+This work argues that many prominent deep learning phenomena discussed in the research literature are not representative of challenges encountered in realworld applications of deep learning. Thus, not all efforts to understand these phenomena are equal in value – we should focus on using them to refine our broad explanatory theories of important aspects of deep learning rather than developing narrow ad hoc hypotheses to describe them in isolation. However, this perspective is not consistently reflected in current research practices within the community.
+
+
 *2023-05-07*
 
 #### [ChatGPT is all you need to decolonize sub-Saharan Vocational Education](https://arxiv.org/pdf/2304.13728.pdf)
