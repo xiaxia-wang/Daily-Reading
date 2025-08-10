@@ -5,6 +5,18 @@
 
 
 
+
+*2025-08-10*
+
+#### [Boosting Long-Context Information Seeking via Query-Guided Activation Refilling](https://aclanthology.org/2025.acl-long.465/)
+
+*Hongjin Qian, Zheng Liu, Peitian Zhang, Zhicheng Dou, Defu Lian*
+
+*ACL 2025*
+
+This paper proposes a method for processing long-context information-seeking tasks via query-guided ACtivation REfilling (ACRE). It constructs a Bi-layer KV Cache for long contexts, where the layer-1 (L1) cache compactly captures global information, and the layer-2 (L2) cache provides detailed, localized information. It establishes a proxying relationship between the two caches, allowing the input query to attend to the L1 cache and dynamically refill it with relevant entries from the L2 cache.
+
+
 *2025-06-24*
 
 #### [How to Synthesize Text Data without Model Collapse?](https://arxiv.org/abs/2412.14689)
