@@ -5,6 +5,18 @@
 
 
 
+
+*2025-08-11*
+
+#### [Knowledge Graph Retrieval-Augmented Generation for LLM-based Recommendation](https://aclanthology.org/2025.acl-long.1317/)
+
+*Shijie Wang, Wenqi Fan, Yue Feng, Lin Shanru, Xinyu Ma, Shuaiqiang Wang, Dawei Yin*
+
+*ACL 2025*
+
+The model first indexes hop-field knowledge sub-graphs within the KG, and uses a popularity selective retrieval policy to determine which items should be retrieved or augmented. Then it retrieves specific subgraphs from the knowledge vector database. Subsequently, the retrieved knowledge sub-graphs are re-ranked to refine the retrieval quality. Finally, the retrieved knowledge sub-graphs are utilized with the original prompt to generate recommendations.
+
+
 *2025-07-18*
 
 #### [CORONA: A Coarse-to-Fine Framework for Graph-based Recommendation with Large Language Models](http://arxiv.org/abs/2506.17281)
