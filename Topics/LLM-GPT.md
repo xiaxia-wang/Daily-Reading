@@ -8,6 +8,18 @@
 
 
 
+
+*2025-08-12*
+
+#### [Can we Retrieve Everything All at Once? ARM: An Alignment-Oriented LLM-based Retrieval Method](https://aclanthology.org/2025.acl-long.1463/)
+
+*Peter Baile Chen, Yi Zhang, Mike Cafarella, Dan Roth*
+
+*ACL 2025*
+
+For better handling the "alignment" issue between the input question and multiple sources of information, this paper introduces a LLM-based retrieval method. Instead of solely matching query utterance, it explores *relationships among data objects*, enabling a retrieve-all-at-once solution for complex queries.
+
+
 *2025-08-09*
 
 #### [Mitigating Lost-in-Retrieval Problems in Retrieval Augmented Multi-Hop Question Answering](https://aclanthology.org/2025.acl-long.1089/)
