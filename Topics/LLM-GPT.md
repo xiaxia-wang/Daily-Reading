@@ -9,6 +9,18 @@
 
 
 
+
+*2025-08-13*
+
+#### [Correcting on Graph: Faithful Semantic Parsing over Knowledge Graphs with Large Language Models](https://aclanthology.org/2025.findings-acl.280/)
+
+*Ruilin Zhao, Feng Zhao, Hong Zhang*
+
+*ACL 2025 Findings*
+
+This paper introduces a structured knowledge decoding to parse the multi-hop question and generate fact-aware logical queries. Then it introduces a knowledge path correction to correct the fact-aware logical queries. Finally, the retrieved knowledge paths are used to assist a LLM for joint answer prediction.
+
+
 *2025-08-12*
 
 #### [Can we Retrieve Everything All at Once? ARM: An Alignment-Oriented LLM-based Retrieval Method](https://aclanthology.org/2025.acl-long.1463/)
