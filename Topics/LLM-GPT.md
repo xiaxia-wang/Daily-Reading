@@ -8,6 +8,15 @@
 
 
 
+*2025-08-14*
+
+#### [GRAIL:Learning to Interact with Large Knowledge Graphs for Retrieval Augmented Reasoning](https://arxiv.org/abs/2508.05498)
+
+*Ge Chang, Jinbo Su, Jiacheng Liu, Pengfei Yang, Yuhao Shang, Huiwen Zheng, Hongli Ma, Yan Liang, Yuanchun Li, Yunxin Liu*
+
+*Arxiv 2025*
+
+This work integrates LLM-guided random exploration with path filtering to establish a data synthesis pipeline, where a fine-grained reasoning trajectory is automatically generated for each task. Based on the synthesized data, a two-stage training process is employed to learn a policy that dynamically decides the optimal actions at each reasoning step. The overall objective of precision-conciseness balance in graph retrieval is decoupled into fine-grained process-supervised rewards.
 
 
 *2025-08-13*
