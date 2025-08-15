@@ -8,6 +8,18 @@
 
 
 
+
+*2025-08-15*
+
+#### [Decoding on Graphs: Faithful and Sound Reasoning on Knowledge Graphs through Generation of Well-Formed Chains](https://aclanthology.org/2025.acl-long.1186/)
+
+*Kun Li, Tianhua Zhang, Xixin Wu, Hongyin Luo, James R. Glass, Helen M. Meng*
+
+*ACL 2025*
+
+To enable LLMs generate well-formed reasoning chains, this paper proposes graph-aware constrained decoding, in which a constraint derived from the topology of the KG regulates the decoding process of the LLMs. Based on that, it uses a training-free LLM to follow the reasoning trajectories grounded on the KGs.
+
+
 *2025-08-14*
 
 #### [GRAIL:Learning to Interact with Large Knowledge Graphs for Retrieval Augmented Reasoning](https://arxiv.org/abs/2508.05498)
