@@ -3,6 +3,18 @@
 
 
 
+
+*2025-08-16*
+
+#### [Beyond the Answer: Advancing Multi-Hop QA with Fine-Grained Graph Reasoning and Evaluation](https://aclanthology.org/2025.acl-long.1142/)
+
+*Qichuan Liu, Chentao Zhang, Chenfeng Zheng, Guosheng Hu, Xiaodong Li, Zhihong Zhang*
+
+*ACL 2025*
+
+This paper proposes an evaluation framework targeting at the reasoning steps planning for multi-hop question answering. In particular, it uses a Planner-Executor-Reasoner architecture, which forms the core of the Plan-anchored Data Preprocessing and the Plan-guided Multi-Hop QA. The former provides ground-truth of intermediate reasoning steps and final answers, and the latter offers a reasoning method.
+
+
 *2025-07-28*
 
 #### [Knowledge graph prompting for multi-document question answering](https://dl.acm.org/doi/10.1609/aaai.v38i17.29889)
