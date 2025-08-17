@@ -6,6 +6,18 @@
 
 
 
+
+*2025-08-17*
+
+#### [Enhancing Transformers for Generalizable First-Order Logical Entailment](https://aclanthology.org/2025.acl-long.274/)
+
+*Tianshi Zheng, Jiazheng Wang, Zihao Wang, Jiaxin Bai, Hang Yin, Zheye Deng, Yangqiu Song, Jianxin Li*
+
+*ACL 2025*
+
+This paper studies the generalizable first-order logical reasoning ability of transformers with their *parameterized* knowledge. It introduces the connection between (1) distribution shifts studied in out-of-distribution generalization and (2) unseen knowledge and query settings discussed in knowledge graph query answering, which makes it possible to characterize the fine-grained generalizability.
+
+
 *2025-08-10*
 
 #### [Boosting Long-Context Information Seeking via Query-Guided Activation Refilling](https://aclanthology.org/2025.acl-long.465/)
