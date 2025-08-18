@@ -7,6 +7,18 @@
 
 
 
+
+*2025-08-18*
+
+#### [Masking in Multi-hop QA: An Analysis of How Language Models Perform with Context Permutation](https://aclanthology.org/2025.acl-long.869/)
+
+*Wenyu Huang, Pavlos Vougiouklis, Mirella Lapata, Jeff Z. Pan*
+
+*ACL 2025*
+
+This paper investigates how LMs respond to multi-hop questions by permuting retrieved documents under various configurations with findings: (1) Encoder-decoder models, such as the Flan-T5 family, generally outperform causal decoder-only LMs in MHQA tasks, despite being significantly smaller in size; (2) altering the order of gold documents reveals distinct trends in both Flan T5 models and fine-tuned decoder-only models, with optimal performance observed when the document order aligns with the reasoning chain order; (3) enhancing causal decoder-only models with bi-directional attention by modifying the causal mask effectively boosts their end performance.
+
+
 *2025-08-17*
 
 #### [Enhancing Transformers for Generalizable First-Order Logical Entailment](https://aclanthology.org/2025.acl-long.274/)
