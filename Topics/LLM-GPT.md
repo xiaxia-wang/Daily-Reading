@@ -9,6 +9,18 @@
 
 
 
+
+*2025-08-19*
+
+#### [SeaKR: Self-aware Knowledge Retrieval for Adaptive Retrieval Augmented Generation](https://aclanthology.org/2025.acl-long.1312)
+
+*Zijun Yao, Weijian Qi, Liangming Pan, Shulin Cao, Linmei Hu, Liu Weichuan, Lei Hou, Juanzi Li*
+
+*ACL 2025*
+
+Adaptive RAG effectively alleviate hallucination of LLMs by dynamically determining whether LLMs need external knowledge for generation and invoking retrieval accordingly. This paper introduces self-aware knowledge retrieval, which extracts self-aware uncertainty of LLMs from their internal states, and activates retrieval when the LLMs present high self-aware uncertainty for generation.
+
+
 *2025-08-15*
 
 #### [Decoding on Graphs: Faithful and Sound Reasoning on Knowledge Graphs through Generation of Well-Formed Chains](https://aclanthology.org/2025.acl-long.1186/)
