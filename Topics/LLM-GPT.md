@@ -7,7 +7,15 @@
 
 
 
+*2025-08-20*
 
+#### [HierSearch: A Hierarchical Enterprise Deep Search Framework Integrating Local and Web Searches](https://arxiv.org/abs/2508.08088)
+
+*Jiejun Tan, Zhicheng Dou, Yan Yu, Jiehan Cheng, Qiang Ju, Jian Xie, Ji-Rong Wen*
+
+*Arxiv 2025*
+
+This paper proposes a hierarchical agentic deep search framework trained with hierarchical RL. At the low level, a local deep search agent and a Web deep search agent are trained to retrieve evidence from their corresponding domains. At the high level, a planner agent coordinates low-level agents and provides the final answer. - [emmmm nothing really new or useful, might be a good story]
 
 
 *2025-08-19*
