@@ -7,11 +7,15 @@
 
 
 
+*2025-08-21*
 
+#### [Probabilistic Circuits for Knowledge Graph Completion with Reduced Rule Sets](https://arxiv.org/abs/2508.06706)
 
+*Jaikrishna Manojkumar Patil, Nathaniel Lee, Al Mehdi Saadat Chowdhury, YooJung Choi, Paulo Shakarian*
 
+*Arxiv 2025*
 
-
+This paper investigates using rule contexts (meaningful subsets of rules that work together) from training data and uses learned probability distribution (i.e. probabilistic circuits) over these rule contexts to more rapidly achieve performance of the full rule set for knowledge graph completion. Experiments are compared with AnyBurl.
 
 
 *2024-08-29*
