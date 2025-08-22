@@ -6,6 +6,16 @@
 
 
 
+*2025-08-22*
+
+#### [GLIDR: Graph-Like Inductive Logic Programming with Differentiable Reasoning](https://arxiv.org/abs/2508.06716)
+
+*Blair Johnson, Clayton Kerce, Faramarz Fekri*
+
+*Arxiv 2025*
+
+This paper introduces a differentiable rule learning method that models the inference of logic rules with more expressive syntax than chain-like rules. -- No theoretical guarantee for faithfulness.
+
 
 *2025-08-21*
 
