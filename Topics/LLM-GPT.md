@@ -6,6 +6,16 @@
 
 
 
+*2025-08-23*
+
+#### [Hierarchical Reasoning Model](https://arxiv.org/abs/2506.21734v1)
+
+*Guan Wang, Jin Li, Yuhao Sun, Xing Chen, Changling Liu, Yue Wu, Meng Lu, Sen Song, Yasin Abbasi Yadkori*
+
+*Arxiv 2025*
+
+HRM is inspired by hierarchical processing and temporal separation in the brain. It has two recurrent networks (representing high-level and low-level processing modules), operating at different timescales to collaboratively solve tasks.
+
 
 *2025-08-20*
 
