@@ -5,6 +5,16 @@
 
 
 
+*2025-08-24*
+
+#### [Unlocking the Power of Large Language Models for Entity Alignment](https://arxiv.org/abs/2402.15048)
+
+*Xuhui Jiang, Yinghan Shen, Zhichao Shi, Chengjin Xu, Wei Li, Zixuan Li, Jian Guo, Huawei Shen, Yuanzhuo Wang*
+
+*ACL 2024*
+
+This paper introduces a LLM-based approach for entity alignment, by translating graph structure encoded in the KG to natural language setences. -- a bit outdated, viewed in 2025.
+
 
 *2025-08-23*
 
