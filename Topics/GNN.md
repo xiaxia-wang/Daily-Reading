@@ -5,6 +5,18 @@
 
 
 
+
+*2025-08-25*
+
+#### [All in One and One for All: A Simple yet Effective Method towards Cross-domain Graph Pretraining](https://arxiv.org/abs/2402.09834)
+
+*Haihong Zhao, Aochuan Chen, Xiangguo Sun, Hong Cheng, Jia Li*
+
+*KDD 2024*
+
+This paper introduces a pretrain-finetune pipeline of graph foundational model. It combines multiple graphs using 'coordinator nodes' with learnable parameters in the pretraining phase, and samples subgraphs by random walk for training a 'foundational' GNN with contrastive loss.
+
+
 *2025-07-30*
 
 #### [Fine-tuning Graph Neural Networks by Preserving Graph Generative Patterns](https://arxiv.org/abs/2312.13583)
