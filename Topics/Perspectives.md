@@ -4,6 +4,18 @@
 
 
 
+
+*2025-08-27*
+
+#### [Graphs Meet AI Agents: Taxonomy, Progress, and Future Opportunities](https://arxiv.org/abs/2506.18019)
+
+*Yuanchen Bei, Weizhi Zhang, Siwen Wang, Weizhi Chen, Sheng Zhou, Hao Chen, Yong Li, Jiajun Bu, Shirui Pan, Yizhou Yu, Irwin King, Fakhri Karray, Philip S. Yu*
+
+*Arxiv 2025*
+
+A survey paper on how graphs can empower AI agents.
+
+
 *2025-08-04*
 
 #### [Not All Explanations for Deep Learning Phenomena Are Equally Valuable](https://arxiv.org/abs/2506.23286)
