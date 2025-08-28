@@ -4,6 +4,18 @@
 
 
 
+
+*2025-08-28*
+
+#### [KBQA-o1: Agentic Knowledge Base Question Answering with Monte Carlo Tree Search](https://openreview.net/forum?id=QuecSemZIy)
+
+*Haoran Luo, Haihong E, Yikai Guo, Qika Lin, Xiaobao Wu, Xinyu Mu, Wenhao Liu, Meina Song, Yifan Zhu, Anh Tuan Luu*
+
+*ICML 2025*
+
+This paper proposes an agentic KBQA method with Monte Carlo Tree Search, with a ReAct-based agent process for stepwise logical form generation with KB environment exploration.
+
+
 *2025-08-16*
 
 #### [Beyond the Answer: Advancing Multi-Hop QA with Fine-Grained Graph Reasoning and Evaluation](https://aclanthology.org/2025.acl-long.1142/)
