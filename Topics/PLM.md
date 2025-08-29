@@ -8,6 +8,18 @@
 
 
 
+
+*2025-08-29*
+
+#### [A Lens into Interpretable Transformer Mistakes via Semantic Dependency](https://openreview.net/forum?id=7v2loOdcLH&noteId=9IbDxaEEiK)
+
+*Ruo-Jing Dong, Yu Yao, Bo Han, Tongliang Liu*
+
+*ICML 2025*
+
+Even after processing through many layers, most final-layer tokens still retain their original semantic meanings. Moreover, in the final step, the models do a good job of capturing real and truthful word relationships. However, when these models make mistakes, it is often because some words are encoded with incorrect dependencies. Fixing these mistakes is not as simple as pruning some parameters, because the same parameters can encode both correct and incorrect dependencies depending on the context.
+
+
 *2025-08-18*
 
 #### [Masking in Multi-hop QA: An Analysis of How Language Models Perform with Context Permutation](https://aclanthology.org/2025.acl-long.869/)
