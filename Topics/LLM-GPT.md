@@ -5,6 +5,18 @@
 
 
 
+
+*2025-08-30*
+
+#### [DocKS-RAG: Optimizing Document-Level Relation Extraction through LLM-Enhanced Hybrid Prompt Tuning](https://openreview.net/forum?id=SVl9tIADWV)
+
+*Xiaolong Xu, Yibo Zhou, Haolong Xiang, Xiaoyong Li, Xuyun Zhang, Lianyong Qi, Wanchun Dou*
+
+*ICML 2025*
+
+This paper proposes a framework for document-level relation extraction that enhances structural and semantic understanding by integrating a document-level knowledge graph and a sentence-level semantic RAG mechanism.
+
+
 *2025-08-24*
 
 #### [Unlocking the Power of Large Language Models for Entity Alignment](https://arxiv.org/abs/2402.15048)
