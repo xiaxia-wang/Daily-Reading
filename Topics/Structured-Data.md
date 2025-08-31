@@ -5,6 +5,18 @@
 
 
 
+
+*2025-08-31*
+
+#### [SPARQL in N3: SPARQL CONSTRUCT as a rule language for the Semantic Web](https://arxiv.org/abs/2508.13041)
+
+*Dörthe Arndt, William Van Woensel, Dominik Tomaszuk*
+
+*The 9th International Joint Conference on Rules and Reasoning*
+
+This work adopts SPARQL CONSTRUCT queries as logic rules, enabling (1) an expressive, familiar SW rule language, and (2) general recursion, where queries can act on the results of others. It translates these queries to the Notation3 Logic (N3) rule language, allowing use of existing reasoning machinery with forward and backward chaining.
+
+
 *2025-03-30*
 
 #### [A Survey of Knowledge Graph Reasoning on Graph Types: Static, Dynamic, and Multi-Modal](https://ieeexplore.ieee.org/abstract/document/10577554)
