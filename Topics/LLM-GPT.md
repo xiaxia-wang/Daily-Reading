@@ -6,6 +6,18 @@
 
 
 
+
+*2025-09-01*
+
+#### [CRED-SQL: Enhancing Real-world Large Scale Database Text-to-SQL Parsing through Cluster Retrieval and Execution Description](https://arxiv.org/abs/2508.12769)
+
+*Shaoming Duan, Zirui Wang, Chuanyi Liu, Zhibin Zhu, Yuhao Zhang, Peiyi Han, Liang Yan, Zewu Penge*
+
+*Arxiv 2025*
+
+This work proposes a Text-2-SQL approach aiming to allieviate the issues that large-scale databases may contain semantically similar attributes that hinder schema linking in SQL generation. The proposed approach first performs cluster-based large-scale schema retrieval to pinpoint the tables and columns most relevant to a given NLQ, alleviating schema mismatch. It then introduces an intermediate natural language representation, Execution Description Language (EDL), to bridge the gap between NLQs and SQL.
+
+
 *2025-08-30*
 
 #### [DocKS-RAG: Optimizing Document-Level Relation Extraction through LLM-Enhanced Hybrid Prompt Tuning](https://openreview.net/forum?id=SVl9tIADWV)
