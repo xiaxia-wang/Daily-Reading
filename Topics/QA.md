@@ -5,6 +5,18 @@
 
 
 
+
+*2025-09-02*
+
+#### [Ontology-Guided Reverse Thinking Makes Large Language Models Stronger on Knowledge Graph Question Answering](https://aclanthology.org/2025.acl-long.741/)
+
+*Runxuan Liu, Luobei Luobei, Jiaqi Li, Baoxin Wang, Ming Liu, Dayong Wu, Shijin Wang, Bing Qin*
+
+*ACL 2025*
+
+This method uses ontology-guided reasoning path to improve multi-hop KBQA. It (1) uses LLM to extract purpose labels and condition labels, (2) constructs label reasoning paths based on the KG ontology, and (3) using the label reasoning paths to guide knowledge retrieval.
+
+
 *2025-08-28*
 
 #### [KBQA-o1: Agentic Knowledge Base Question Answering with Monte Carlo Tree Search](https://openreview.net/forum?id=QuecSemZIy)
