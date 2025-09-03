@@ -6,6 +6,18 @@
 
 
 
+
+*2025-09-03*
+
+#### [Digest the Knowledge: Large Language Models empowered Message Passing for Knowledge Graph Question Answering](https://aclanthology.org/2025.acl-long.750/)
+
+*Junhong Wan, Tao Yu, Kunyu Jiang, Yao Fu, Weihao Jiang, Jiang Zhu*
+
+*ACL 2025*
+
+In contrast to most existing KG-RAG works that use paths to augment the LLM, this work first gets a concise facts graph by iteratively aggregates neighbor entities and transforms them into semantic facts, and then readouts the graph structure information as multi-level lists of texts to augment LLMs.
+
+
 *2025-09-02*
 
 #### [Ontology-Guided Reverse Thinking Makes Large Language Models Stronger on Knowledge Graph Question Answering](https://aclanthology.org/2025.acl-long.741/)
