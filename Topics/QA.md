@@ -7,6 +7,18 @@
 
 
 
+
+*2025-09-04*
+
+#### [Extending Complex Logical Queries on Uncertain Knowledge Graphs](https://aclanthology.org/2025.acl-long.645/)
+
+*Weizhi Fei, Zihao Wang, Hang Yin, Yang Duan, Yangqiu Song*
+
+*ACL 2025*
+
+This paper proposes an ML-based approach with both forward inference and backward calibration to answer soft queries on uncertain KGs.
+
+
 *2025-09-03*
 
 #### [Digest the Knowledge: Large Language Models empowered Message Passing for Knowledge Graph Question Answering](https://aclanthology.org/2025.acl-long.750/)
