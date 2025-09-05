@@ -8,6 +8,18 @@
 
 
 
+
+*2025-09-05*
+
+#### [Tracing and Dissecting How LLMs Recall Factual Knowledge for Real World Questions](https://aclanthology.org/2025.acl-long.1133/)
+
+*Yiqun Wang, Chaoqun Wan, Sile Hu, Yonggang Zhang, Xiang Tian, Yaowu Chen, Xu Shen, Jieping Ye*
+
+*ACL 2025*
+
+This work introduces a two-dimensional analysis framework comprising token back-tracing and individual token decoding, to uncover how LLMs conduct factual knowledge recall. It identifies a three-phase pattern: (1) subject augmentation and broadcasting, (2) object retrieval and reranking, and (3) conclusion fusion and generation. It also reveals that LLMs do not lack relevant knowledge but struggle to select the most accurate information during the retrieval and rerank phase.
+
+
 *2025-09-04*
 
 #### [Extending Complex Logical Queries on Uncertain Knowledge Graphs](https://aclanthology.org/2025.acl-long.645/)
