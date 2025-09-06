@@ -7,6 +7,18 @@
 
 
 
+
+*2025-09-06*
+
+#### [Can Graph Descriptive Order Affect Solving Graph Problems with LLMs?](https://aclanthology.org/2025.acl-long.321/)
+
+*Yuyao Ge, Shenghua Liu, Baolong Bi, Yiwei Wang, Lingrui Mei, Wenjie Feng, Lizhe Chen, Xueqi Cheng*
+
+*ACL 2025*
+
+This paper analyzes how the order of graph descriptions impacts LLM performance. The results reveal that: (1) ordered graph descriptions significantly improve LLMs’ comprehension of graph structures; (2) the robustness of LLMs to graph description order varies across different tasks; and (3) the impact of graph order on performance is closely related to the inherent characteristics of tasks.
+
+
 *2025-09-01*
 
 #### [CRED-SQL: Enhancing Real-world Large Scale Database Text-to-SQL Parsing through Cluster Retrieval and Execution Description](https://arxiv.org/abs/2508.12769)
