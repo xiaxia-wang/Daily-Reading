@@ -8,6 +8,18 @@
 
 
 
+
+*2025-09-07*
+
+#### [Aristotle: Mastering Logical Reasoning with A Logic-Complete Decompose-Search-Resolve Framework](https://aclanthology.org/2025.acl-long.153/)
+
+*Jundong Xu, Hao Fei, Meng Luo, Qian Liu, Liangming Pan, William Yang Wang, Preslav Nakov, Mong-Li Lee, Wynne Hsu*
+
+*ACL 2025*
+
+This work proposes a LLM-based reasoning framework that includes three key components: Logical Decomposer, Logical Search Router, and Logical Resolver.
+
+
 *2025-09-06*
 
 #### [Can Graph Descriptive Order Affect Solving Graph Problems with LLMs?](https://aclanthology.org/2025.acl-long.321/)
