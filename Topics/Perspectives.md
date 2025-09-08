@@ -5,6 +5,18 @@
 
 
 
+
+*2025-09-08*
+
+#### [Behavioural vs. Representational Systematicity in End-to-End Models: An Opinionated Survey](https://aclanthology.org/2025.acl-long.1537/)
+
+*Ivan Vegner, Sydelle de Souza, Valentin Forch, Martha Lewis, Leonidas A. A. Doumas*
+
+*ACL 2025*
+
+This paper analyzes the systematicity of representations and behaviors of models based on key benchmarks in the literature across language and vision.
+
+
 *2025-08-27*
 
 #### [Graphs Meet AI Agents: Taxonomy, Progress, and Future Opportunities](https://arxiv.org/abs/2506.18019)
