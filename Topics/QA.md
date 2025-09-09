@@ -9,6 +9,18 @@
 
 
 
+
+*2025-09-09*
+
+#### [GRADE: Generating multi-hop QA and fine-gRAined Difficulty matrix for RAG Evaluation](https://arxiv.org/abs/2508.16994)
+
+*Jeongsoo Lee, Daeyong Kwon, Kyohoon Jin*
+
+*EMNLP 2025 Findings*
+
+This work proposes a multi-hop QA benchmark, whose difficulty is evaluated in 2 dimensions: (1) the number of inference steps required to answer the question, and (2) the semantic distance between the question and its supporting evidence.
+
+
 *2025-09-05*
 
 #### [Tracing and Dissecting How LLMs Recall Factual Knowledge for Real World Questions](https://aclanthology.org/2025.acl-long.1133/)
