@@ -6,6 +6,18 @@
 
 
 
+
+*2025-09-10*
+
+#### [Improving Table Understanding with LLMs and Entity-Oriented Search](https://arxiv.org/abs/2508.17028)
+
+*Thi-Nhung Nguyen, Hoang Ngo, Dinh Phung, Thuy-Trang Vu, Dat Quoc Nguyen*
+
+*COLM 2025*
+
+This paper introduces an entity-oriented search method to improve table understanding with LLMs. It leverages the semantic similarities between questions and table data, as well as the implicit relationships between table cells, to minimize the need for data preprocessing and keyword matching. Meanwhile, it focuses on table entities, ensuring that table cells are semantically tightly bound, thereby enhancing contextual clarity. It also uses Cypher, a graph query language for table understanding.
+
+
 *2025-08-31*
 
 #### [SPARQL in N3: SPARQL CONSTRUCT as a rule language for the Semantic Web](https://arxiv.org/abs/2508.13041)
