@@ -5,6 +5,18 @@
 
 
 
+
+*2025-09-11*
+
+#### [HyST: LLM-Powered Hybrid Retrieval over Semi-Structured Tabular Data](https://arxiv.org/abs/2508.18048)
+
+*Jiyoon Myung, Jihyeon Park, Joohyung Han*
+
+*RecSys 2025 Workshop*
+
+This work proposes a hybrid retrieval framework over semi-structured tabular data. It decomposes a user query into (1) structured filters (e.g., category = "Italian", price < $30), which are then executed using the metadata filtering capabilities of a vector database, and (2) remaining unstructured component (e.g., “cozy atmosphere”), which is used for dense retrieval over text fields like descriptions or reviews.
+
+
 *2025-07-24*
 
 #### [Shifting from Ranking to Set Selection for Retrieval Augmented Generation](https://arxiv.org/abs/2507.06838)
