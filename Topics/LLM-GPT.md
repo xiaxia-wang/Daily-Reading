@@ -9,6 +9,18 @@
 
 
 
+
+*2025-09-12*
+
+#### [Hybrid Deep Searcher: Integrating Parallel and Sequential Search Reasoning](https://arxiv.org/abs/2508.19113)
+
+*Dayoon Ko, Jihyuk Kim, Haeju Park, Sohyeon Kim, Dahyun Lee, Yongrae Jo, Gunhee Kim, Moontae Lee, Kyungjae Lee*
+
+*Arxiv 2025*
+
+This work proposes a synthetic dataset automatically generated from Natural Questions, explicitly designed to train large reasoning models to distinguish parallelizable from sequential queries. It comprises hybrid-hop questions that combine parallelizable independent subqueries (executable simultaneously) and sequentially dependent subqueries (requiring step-by-step resolution), along with synthetic reasoning-querying-retrieval paths involving parallel queries.
+
+
 *2025-09-07*
 
 #### [Aristotle: Mastering Logical Reasoning with A Logic-Complete Decompose-Search-Resolve Framework](https://aclanthology.org/2025.acl-long.153/)
