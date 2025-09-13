@@ -5,9 +5,15 @@
 
 
 
+*2025-09-13*
 
+#### [Agentic Reasoning: A Streamlined Framework for Enhancing LLM Reasoning with Agentic Tools](https://aclanthology.org/2025.acl-long.1383/)
 
+*Junde Wu, Jiayuan Zhu, Yuyuan Liu, Min Xu, Yueming Jin*
 
+*ACL 2025*
+
+This work introduces an agentic framework that dynamically leverages web search, code execution, and structured memory for deep research. It constructs a structured knowledge graph to store reasoning context and track logical relationships, ensuring coherence in long reasoning chains with tool usage.
 
 
 *2025-09-12*
