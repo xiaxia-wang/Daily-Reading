@@ -5,6 +5,18 @@
 
 
 
+
+*2025-09-14*
+
+#### [Joint Enhancement of Relational Reasoning for Long-Context LLMs](https://arxiv.org/abs/2508.20351)
+
+*Zhirui Chen, Wei Shen, Jiashui Huang, Ling Shao*
+
+*EMNLP 2025 Findings*
+
+This paper proposes an approach to enhance long-context comprehension via graph-based reasoning of LLMs, which contains three components: synopsis extraction by chunking and summarizing texts, directed acyclic graph construction, and Monte Carlo Tree Search for relational reasoning.
+
+
 *2025-09-13*
 
 #### [Agentic Reasoning: A Streamlined Framework for Enhancing LLM Reasoning with Agentic Tools](https://aclanthology.org/2025.acl-long.1383/)
