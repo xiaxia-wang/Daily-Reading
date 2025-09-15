@@ -6,6 +6,18 @@
 
 
 
+
+*2025-09-15*
+
+#### [MT-RAIG: Novel Benchmark and Evaluation Framework for Retrieval-Augmented Insight Generation over Multiple Tables](https://aclanthology.org/2025.acl-long.1128/)
+
+*Kwangwook Seo, Donguk Kwon, Dongha Lee*
+
+*ACL 2025*
+
+This paper proposes a benchmark for evaluating Retrieval-Augmented Insight Generation over mulitple tables, with an evaluation framework aiming to align better with human quality judgments on the generated insights.
+
+
 *2025-09-14*
 
 #### [Joint Enhancement of Relational Reasoning for Long-Context LLMs](https://arxiv.org/abs/2508.20351)
