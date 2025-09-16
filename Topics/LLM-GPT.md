@@ -7,6 +7,18 @@
 
 
 
+
+*2025-09-16*
+
+#### [GRAT: Guiding Retrieval-Augmented Reasoning through Process Rewards Tree Search](https://aclanthology.org/2025.acl-long.1352/)
+
+*Xianshu Peng, Wei Wei*
+
+*ACL 2025*
+
+This work proposes a Monte Carlo Tree Search-based approach for multi-hop QA, which enables self-evaluation and self-correction, with fine-grained rewards to each intermediate step in the search path. These fine-grained annotations can be used for model self-training, which continuously self-updates its problem analysis and reasoning capabilities.
+
+
 *2025-09-15*
 
 #### [MT-RAIG: Novel Benchmark and Evaluation Framework for Retrieval-Augmented Insight Generation over Multiple Tables](https://aclanthology.org/2025.acl-long.1128/)
