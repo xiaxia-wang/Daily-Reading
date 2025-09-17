@@ -8,6 +8,18 @@
 
 
 
+
+*2025-09-17*
+
+#### [Towards Open-World Retrieval-Augmented Generation on Knowledge Graph: A Multi-Agent Collaboration Framework](https://arxiv.org/abs/2509.01238)
+
+*Jiasheng Xu, Mingda Li, Yongqiang Tang, Peijie Wang, Wensheng Zhang*
+
+*Arxiv 2025*
+
+Unlike typical QA frameworks that usually assume the topic entity being available to the LLM, this paper focuses on the real-world setting that the topic entity is not explicitly informed for the LLM. To handle this, it uses a predictor agent that dynamically identifies candidate anchor entities by aligning the query terms with KG nodes and initializes independent retriever agents to conduct parallel multi-hop explorations from each candidate. Then a supervisor agent synthesizes all result paths and generates the final answer.
+
+
 *2025-09-16*
 
 #### [GRAT: Guiding Retrieval-Augmented Reasoning through Process Rewards Tree Search](https://aclanthology.org/2025.acl-long.1352/)
