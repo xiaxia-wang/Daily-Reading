@@ -9,6 +9,18 @@
 
 
 
+
+*2025-09-18*
+
+#### [Enhancing Large Language Model for Knowledge Graph Completion via Structure-Aware Alignment-Tuning](https://arxiv.org/abs/2509.01166)
+
+*Yu Liu, Yanan Cao, Xixun Lin, Yanmin Shang, Shi Wang, Shirui Pan*
+
+*EMNLP 2025*
+
+This paper proposes a LLM-based KGC approach by structure-aware alignment-tuning. Specifically, it uses hierarchical knowledge alignment to align graph embeddings with natural language description-based embedding through multi-task contrastive learning.
+
+
 *2025-09-17*
 
 #### [Towards Open-World Retrieval-Augmented Generation on Knowledge Graph: A Multi-Agent Collaboration Framework](https://arxiv.org/abs/2509.01238)
