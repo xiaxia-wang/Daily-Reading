@@ -6,6 +6,18 @@
 
 
 
+
+*2025-09-19*
+
+#### [Rewarding Explainability in Drug Repurposing with Knowledge Graphs](https://arxiv.org/abs/2509.02276)
+
+*Susana Nunes, Samy Badreddine, Catia Pesquita*
+
+*IJCAI 2025*
+
+This paper proposes a link prediction approach by employing reward and policy mechanisms to guide a reinforcement learning agent in identifying of explanatory paths within a KG, with a biomedical application of drug repurposing.
+
+
 *2025-06-12*
 
 #### [Neural Graph Reasoning: Complex Logical Query Answering Meets Graph Databases](https://arxiv.org/abs/2303.14617)
