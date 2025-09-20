@@ -4,6 +4,18 @@
 
 
 
+
+*2025-09-20*
+
+#### [CARPO: Leveraging Listwise Learning-to-Rank for Context-Aware Query Plan Optimization](https://arxiv.org/abs/2509.03102)
+
+*Wenrui Zhou, Qiyu Liu, Jingshu Peng, Aoqian Zhang, Lei Chen*
+
+*Arxiv 2025*
+
+This paper introduces a generic framework leveraging listwise learning-to-rank for context-aware query plan optimization. It employs a Transformer-based model for holistic evaluation of candidate plan sets and integrates a hybrid decision mechanism featuring out-of-distribution detection with a top-k fallback strategy to ensure reliability.
+
+
 *2025-07-26*
 
 #### [Interactive Text-to-SQL via Expected Information Gain for Disambiguation](https://arxiv.org/abs/2507.06467)
