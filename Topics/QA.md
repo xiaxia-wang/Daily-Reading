@@ -4,10 +4,15 @@
 
 
 
+*2025-09-21*
 
+#### [RTQA : Recursive Thinking for Complex Temporal Knowledge Graph Question Answering with Large Language Models](https://arxiv.org/abs/2509.03995)
 
+*Zhaoyan Gong, Juan Li, Zhiqiang Liu, Lei Liang, Huajun Chen, Wen Zhang*
 
+*EMNLP 2025*
 
+This paper proposes a temporal KGQA framework, by recursively decomposing questions into sub-problems, solving them bottom-up using LLMs and TKG knowledge, and employing multi-path answer aggregation to improve fault tolerance.
 
 
 *2025-09-09*
