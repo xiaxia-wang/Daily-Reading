@@ -10,6 +10,18 @@
 
 
 
+
+*2025-09-22*
+
+#### [Emergent Hierarchical Reasoning in LLMs through Reinforcement Learning](https://arxiv.org/abs/2509.03646)
+
+*Haozhe Wang, Qixin Xu, Che Liu, Junhong Wu, Fangzhen Lin, Wenhu Chen*
+
+*Arxiv 2025*
+
+This work uncovers a compelling two-phase dynamic in training LLMs: initially, a model is constrained by procedural correctness and improve its low-level skills. The learning bottleneck then decisively shifts, with performance gains being driven by the exploration and mastery of high-level strategic planning. This exposes a core inefficiency in prevailing RL algorithms like GRPO, which apply optimization pressure agnostically and dilute the learning signal across all tokens. To address this, the paper proposes an algorithm that concentrates optimization efforts on high-impact planning tokens.
+
+
 *2025-09-18*
 
 #### [Enhancing Large Language Model for Knowledge Graph Completion via Structure-Aware Alignment-Tuning](https://arxiv.org/abs/2509.01166)
