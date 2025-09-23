@@ -4,6 +4,18 @@
 
 
 
+
+*2025-09-23*
+
+#### [KERAG: Knowledge-Enhanced Retrieval-Augmented Generation for Advanced Question Answering](https://arxiv.org/abs/2509.04716)
+
+*Yushi Sun, Kai Sun, Yifan Ethan Xu, Xiao Yang, Xin Luna Dong, Nan Tang, Lei Chen*
+
+*EMNLP Findings 2025*
+
+To mitigate the low-coverage issue of typical RAG methods that only retrieve knowledge strictly necessary for answer generation, this paper proposes a retrieval-filtering-summarization RAG pipeline, combined with fine-tuned LLMs for Chain-of-Thought reasoning on knowledge sub-graphs, enhancing QA coverage by retrieving a broader subgraph likely to contain relevant information.
+
+
 *2025-09-21*
 
 #### [RTQA : Recursive Thinking for Complex Temporal Knowledge Graph Question Answering with Large Language Models](https://arxiv.org/abs/2509.03995)
