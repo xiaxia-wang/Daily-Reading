@@ -11,6 +11,18 @@
 
 
 
+
+*2025-09-24*
+
+#### [MoLoRAG: Bootstrapping Document Understanding via Multi-modal Logic-aware Retrieval](https://arxiv.org/abs/2509.07666)
+
+*Xixi Wu, Yanchao Tan, Nan Hou, Ruiyang Zhang, Hong Cheng*
+
+*EMNLP 2025*
+
+This paper proposes a logic-aware retrieval framework for multi-modal, multi-page document understanding. By constructing a page graph that captures contextual relationships between pages, a lightweight VLM performs graph traversal to retrieve relevant pages. Then the top-k pages are fed into arbitrary VLMs for question answering.
+
+
 *2025-09-22*
 
 #### [Emergent Hierarchical Reasoning in LLMs through Reinforcement Learning](https://arxiv.org/abs/2509.03646)
