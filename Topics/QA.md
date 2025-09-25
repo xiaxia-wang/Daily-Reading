@@ -4,6 +4,16 @@
 
 
 
+*2025-09-25*
+
+#### [Avoiding Knowledge Edit Skipping in Multi-hop Question Answering with Guided Decomposition](https://arxiv.org/abs/2509.07555)
+
+*Yi Liu, Xiangrong Zhu, Xiangyu Liu, Wei Wei, Wei Hu*
+
+*EMNLP Findings 2025*
+
+Existing RAG-based KE methods struggle with multi-hop question answering due to the issue of skipping the relevant edited fact in inference. In addition to the diversity of natural language expressions of knowledge, edit skipping also arises from the mismatch between the granularity of LLMs in problem-solving and the facts in the edited memory. To address this issue, the paper proposes an iterative retrieval-augmented KE method through the guidance from single edited facts and entire edited cases.
+
 
 *2025-09-23*
 
