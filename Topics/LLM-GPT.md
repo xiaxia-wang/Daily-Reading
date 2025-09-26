@@ -12,6 +12,17 @@
 
 
 
+*2025-09-26*
+
+#### [LLM2Vec: Large Language Models Are Secretly Powerful Text Encoders](https://openreview.net/forum?id=IW1PR7vEBf)
+
+*Parishad BehnamGhader, Vaibhav Adlakha, Marius Mosbach, Dzmitry Bahdanau, Nicolas Chapados, Siva Reddy*
+
+*COLM 2024*
+
+This paper introduces LLM2Vec, an unsupervised method to transform decoder-only LLMs into text encoders. LLM2Vec has three core steps: enabling bidirectional attention, predicting masked next tokens, and applying contrastive learning without labels.
+
+
 *2025-09-24*
 
 #### [MoLoRAG: Bootstrapping Document Understanding via Multi-modal Logic-aware Retrieval](https://arxiv.org/abs/2509.07666)
