@@ -9,7 +9,15 @@
 
 
 
+*2025-09-27*
 
+#### [DeepDive: Advancing Deep Search Agents with Knowledge Graphs and Multi-Turn RL](https://arxiv.org/abs/2509.10446)
+
+*Rui Lu, Zhenyu Hou, Zihan Wang, Hanchen Zhang, Xiao Liu, Yujiang Li, Shi Feng, Jie Tang, Yuxiao Dong*
+
+*Arxiv 2025*
+
+Open LLMs with browsing tools perform poorly due to limited long-horizon reasoning capacity with browsing tools and the lack of sufficiently difficult supervised data. To address these challenges, this paper first proposes a strategy to automatically synthesize complex questions from open knowledge graphs, and then applies end-to-end multi-turn RL to enhance LLMs' long-horizon reasoning with deep search.
 
 
 *2025-09-26*
