@@ -8,6 +8,18 @@
 
 
 
+
+*2025-09-28*
+
+#### [Generating and Evaluating Plausible Explanations for Knowledge Graph Completion](https://aclanthology.org/2024.acl-long.654/)
+
+*Antonio Di Mauro, Zhao Xu, Wiem Ben Rim, Timo Sztyler, Carolin Lawrence*
+
+*ACL 2024*
+
+This paper aims to bridge the gap of plausibility of explanations by investigating the specific explanatory needs of human users in the context of Knowledge Graph Completion. It considers that faithfulness refers to how accurately explanations reflect a model’s prediction process, while plausibility is how convincing explanations are for human users, and there's a trade-off in-between to be balanced.
+
+
 *2025-08-08*
 
 #### [Graph-constrained Reasoning: Faithful Reasoning on Knowledge Graphs with Large Language Models](https://arxiv.org/abs/2410.13080)
