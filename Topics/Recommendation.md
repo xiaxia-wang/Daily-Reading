@@ -6,6 +6,18 @@
 
 
 
+
+*2025-09-29*
+
+#### [SPARK: Adaptive Low-Rank Knowledge Graph Modeling in Hybrid Geometric Spaces for Recommendation](https://arxiv.org/abs/2509.11094)
+
+*Binhao Wang, Yutian Xiao, Maolin Wang, Zhiqi Li, Tianshuo Wei, Ruocheng Guo, Xiangyu Zhao*
+
+*CIKM 2025*
+
+This paper proposes an embedding-based KG recommendation approach, which uses low-rank decomposition to generate entity representations. Then an SVD-initialized hybrid geometric GNN learns representations in Euclidean and Hyperbolic spaces to capture semantic features of sparse, long-tail items. A core contribution is an item popularity-aware adaptive fusion strategy that dynamically weights signals from collaborative filtering, refined KG embeddings, and geometric spaces for modeling both mainstream and long-tail items. Finally, contrastive learning aligns these multi-source representations.
+
+
 *2025-08-11*
 
 #### [Knowledge Graph Retrieval-Augmented Generation for LLM-based Recommendation](https://aclanthology.org/2025.acl-long.1317/)
