@@ -9,6 +9,18 @@
 
 
 
+
+*2025-09-30*
+
+#### [Topic Coverage-based Demonstration Retrieval for In-Context Learning](https://arxiv.org/abs/2509.12451)
+
+*Wonbin Kweon, SeongKu Kang, Runchu Tian, Pengcheng Jiang, Jiawei Han, Hwanjo Yu*
+
+*EMNLP 2025*
+
+Prior in-context learning methods often retrieve demonstrations based solely on embedding similarity or generation probability, resulting in irrelevant or redundant examples. This paper proposes a topic coverage-based retrieval framework that selects demonstrations to comprehensively cover topic-level knowledge relevant to both the test input and the model. Specifically, it estimates the topics required by the input and assesses the model's knowledge on those topics. Then it iteratively selects demonstrations that introduce uncovered required topics, in which the model exhibits low topical knowledge.
+
+
 *2025-09-27*
 
 #### [DeepDive: Advancing Deep Search Agents with Knowledge Graphs and Multi-Turn RL](https://arxiv.org/abs/2509.10446)
