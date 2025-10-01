@@ -6,6 +6,18 @@
 
 
 
+
+*2025-10-01*
+
+#### [Towards Faithfully Interpretable NLP Systems: How Should We Define and Evaluate Faithfulness?](https://aclanthology.org/2020.acl-main.386/)
+
+*Alon Jacovi, Yoav Goldberg*
+
+*ACL 2020*
+
+The opinion proposed in this paper is two-fold: First, interpretability evaluation often conflates evaluating faithfulness and plausibility together. We should tease apart the two definitions and focus solely on evaluating faithfulness without any influence of the convincing power of the interpretation. Second, faithfulness is often evaluated in a binary “faithful or not faithful” manner, and we believe strictly faithful interpretation is a “unicorn” which will likely never be found. We should instead evaluate faithfulness on a more nuanced “grayscale” that allows interpretations to be useful even if they are not globally and definitively faithful.
+
+
 *2025-09-08*
 
 #### [Behavioural vs. Representational Systematicity in End-to-End Models: An Opinionated Survey](https://aclanthology.org/2025.acl-long.1537/)
