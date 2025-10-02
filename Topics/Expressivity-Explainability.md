@@ -3,6 +3,18 @@
 
 
 
+
+*2025-10-02*
+
+#### ["Why Should I Trust You?": Explaining the Predictions of Any Classifier](https://aclanthology.org/N16-3020/)
+
+*Marco Tulio Ribeiro, Sameer Singh, Carlos Guestrin*
+
+*NAACL 2016*
+
+This work introduces (1) LIME, an algorithm that can explain the predictions of any classifier by approximating it locally with an interpretable model, and (2) SP-LIME, a method that selects a set of representative explanations via submodular optimization.
+
+
 *2025-03-17*
 
 #### [SpArX: Sparse Argumentative Explanations for Neural Networks [Technical Report]](https://arxiv.org/abs/2301.09559)
