@@ -10,6 +10,18 @@
 
 
 
+
+*2025-10-03*
+
+#### [LightThinker: Thinking Step-by-Step Compression](https://arxiv.org/abs/2502.15589)
+
+*Jintian Zhang, Yuqi Zhu, Mengshu Sun, Yujie Luo, Shuofei Qiao, Lun Du, Da Zheng, Huajun Chen, Ningyu Zhang*
+
+*EMNLP 2025*
+
+To improve the LLM "thinking" process by shortening the long, verbose tokens, this work enables LLMs to dynamically compress intermediate thoughts into compact representations and discard the original reasoning chains, thereby reducing the number of tokens stored in the context window. This is achieved by training the model on when and how to perform compression, mapping hidden states to condensed gist tokens, and creating specialized attention masks.
+
+
 *2025-09-30*
 
 #### [Topic Coverage-based Demonstration Retrieval for In-Context Learning](https://arxiv.org/abs/2509.12451)
