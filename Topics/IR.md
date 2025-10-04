@@ -6,6 +6,18 @@
 
 
 
+
+*2025-10-04*
+
+#### [Hierarchical Retrieval: The Geometry and a Pretrain-Finetune Recipe](https://arxiv.org/abs/2509.16411)
+
+*Chong You, Rajesh Jayaram, Ananda Theertha Suresh, Robin Nittka, Felix Yu, Sanjiv Kumar*
+
+*NeurIPS 2025*
+
+Dual encoder models are widely used in information retrieval. This work investigates such limitations in the context of hierarchical retrieval, where the document set has a hierarchical structure and the matching documents for a query are all of its ancestors. It first proves that DEs are feasible for HR as long as the embedding dimension is linear in the depth of the hierarchy and logarithmic in the number of documents. Then it introduces a pretrain-finetune recipe for learning such embeddings that significantly improves long-distance retrieval without sacrificing performance on closer documents.
+
+
 *2025-09-11*
 
 #### [HyST: LLM-Powered Hybrid Retrieval over Semi-Structured Tabular Data](https://arxiv.org/abs/2508.18048)
