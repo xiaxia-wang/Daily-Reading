@@ -11,6 +11,18 @@
 
 
 
+
+*2025-10-05*
+
+#### [InteGround: On the Evaluation of Verification and Retrieval Planning in Integrative Grounding](https://arxiv.org/abs/2509.16534)
+
+*Cheng Jiayang, Qianqian Zhuang, Haoran Li, Chunkit Chan, Xin Liu, Lin Qiu, Yangqiu Song*
+
+*EMNLP 2025 Findings*
+
+This work investigates "integrative grounding" -- the challenge of retrieving and verifying multiple inter-dependent pieces of evidence to support a hypothesis query. Findings include: (1) In groundedness verification, while LLMs are robust to redundant evidence, they tend to rationalize using internal knowledge when information is incomplete. (2) In examining retrieval planning strategies, undirected planning can degrade performance through noise introduction, while premise abduction emerges as a promising approach due to its logical constraints.
+
+
 *2025-10-03*
 
 #### [LightThinker: Thinking Step-by-Step Compression](https://arxiv.org/abs/2502.15589)
