@@ -3,6 +3,20 @@
 
 
 
+
+
+
+*2025-10-06*
+
+#### [STARQA: A Question Answering Dataset for Complex Analytical Reasoning over Structured Databases](https://arxiv.org/abs/2509.19508)
+
+*Mounica Maddela, Lingjue Xie, Daniel Preotiuc-Pietro, Mausam*
+
+*EMNLP 2025*
+
+While existing benchmarks measure the abilities of text to SQL, the complexity of their questions is inherently limited by the level of expressiveness in query languages and none focus explicitly on questions involving complex analytical reasoning which require operations such as calculations over aggregate analytics, time series analysis or scenario understanding. This paper introduces a human-created dataset of complex analytical reasoning questions and answers on three specialized-domain databases.
+
+
 *2025-06-15*
 
 #### [Representation Learning of Knowledge Graphs with Entity Descriptions](https://ojs.aaai.org/index.php/AAAI/article/view/10329)
