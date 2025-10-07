@@ -4,6 +4,18 @@
 
 
 
+
+*2025-10-07*
+
+#### [Enrich-on-Graph: Query-Graph Alignment for Complex Reasoning with LLM Enriching](https://arxiv.org/abs/2509.20810)
+
+*Songze Li, Zhiqiang Liu, Zhengke Gui, Huajun Chen, Wen Zhang*
+
+*Arxiv 2025*
+
+This paper proposes Enrich-on-Graph (EoG), a three-stage framework that uses LLMs’ prior knowledge to enrich graph and align the semantics between the vanilla KG and queries: (1) Parsing the query and graph to enable effective alignment; (2) Focus-aware multi-channel pruning to mitigate focus mismatches; (3) Leveraging LLMs to enrich graph for resolving structure mismatches.
+
+
 *2025-09-25*
 
 #### [Avoiding Knowledge Edit Skipping in Multi-hop Question Answering with Guided Decomposition](https://arxiv.org/abs/2509.07555)
