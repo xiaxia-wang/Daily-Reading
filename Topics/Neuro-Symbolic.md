@@ -6,6 +6,18 @@
 
 
 
+
+*2025-10-08*
+
+#### [CLAUSE: Agentic Neuro-Symbolic Knowledge Graph Reasoning via Dynamic Learnable Context Engineering](https://arxiv.org/abs/2509.21035)
+
+*Yang Zhao, Chengxiao Dai, Wei Zhuo, Yue Xiu, Dusit Niyato*
+
+*Arxiv 2025*
+
+This paper introduces an agentic framework that treats context construction as a sequential decision process over knowledge graphs, deciding what to expand, which paths to follow or backtrack, what evidence to keep, and when to stop. Latency (interaction steps) and prompt cost (selected tokens) are exposed as user-specified budgets or prices, allowing per-query adaptation. CLAUSE employs a Lagrangian-Constrained Multi-Agent Proximal Policy Optimization algorithm to coordinate three agents: Subgraph Architect, Path Navigator, and Context Curator, so that subgraph construction, reasoning-path discovery, and evidence selection are jointly optimized under per-query resource budgets on edge edits, interaction steps, and selected tokens.
+
+
 *2025-04-13*
 
 #### [Learning Horn envelopes via queries from language models](https://www.sciencedirect.com/science/article/pii/S0888613X23001573)
