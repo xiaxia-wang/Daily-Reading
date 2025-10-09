@@ -7,6 +7,18 @@
 
 
 
+
+*2025-10-09*
+
+#### [Retrieval over Classification: Integrating Relation Semantics for Multimodal Relation Extraction](https://arxiv.org/abs/2509.21151)
+
+*Lei Hei, Tingjing Liao, Yingxin Pei, Yiyang Qi, Jiaqi Wang, Ruiting Li, Feiliang Ren*
+
+*EMNLP 2025*
+
+This paper formulates multimodal relation extraction as a retrieval task driven by relation semantics. It integrates entity type and positional information through a multimodal encoder, expands relation labels into natural language descriptions using a large language model, and aligns entity-relation pairs via semantic similarity-based contrastive learning.
+
+
 *2025-10-04*
 
 #### [Hierarchical Retrieval: The Geometry and a Pretrain-Finetune Recipe](https://arxiv.org/abs/2509.16411)
