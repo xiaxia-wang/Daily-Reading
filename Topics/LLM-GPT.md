@@ -12,6 +12,18 @@
 
 
 
+
+*2025-10-10*
+
+#### [A2R: An Asymmetric Two-Stage Reasoning Framework for Parallel Reasoning](https://arxiv.org/abs/2509.22044)
+
+*Ziqi Wang, Boye Niu, Zhongli Li, Linghui Meng, Jing Liu, Zhi Zheng, Tong Xu, Hua Wu, Haifeng Wang, Enhong Chen*
+
+*Arxiv 2025*
+
+To enhance LLM performance, this work proposes a framework that consists of an "explorer" model to first generate potential solutions in parallel via repeated sampling, and a subsequent "synthesizer" model to integrate these references for a more refined, second stage of reasoning. This two-stage plug-and-play process allows computation to be scaled orthogonally to existing sequential methods.
+
+
 *2025-10-05*
 
 #### [InteGround: On the Evaluation of Verification and Retrieval Planning in Integrative Grounding](https://arxiv.org/abs/2509.16534)
