@@ -5,12 +5,15 @@
 
 
 
+*2025-10-11*
 
+#### [Think-on-Graph 3.0: Efficient and Adaptive LLM Reasoning on Heterogeneous Graphs via Multi-Agent Dual-Evolving Context Retrieval](https://arxiv.org/abs/2509.21710)
 
+*Xiaojun Wu, Cehao Yang, Xueyuan Lin, Chengjin Xu, Xuhui Jiang, Yuanliang Sun, Hui Xiong, Jia Li, Jian Guo*
 
+*Arxiv 2025*
 
-
-
+Graph-RAG methods rely on the high-quality underlying graphs. To improve that, this paper introduces dynamic construction and refinement of a Chunk-Triplets-Community heterogeneous graph index, which incorporates a mechanism of evolving query and subgraphs for precise evidence retrieval. Unlike prior graph-based RAG methods that construct a static graph index without adapting to the actual query, it uses a multi-agent system comprising Constructor, Retriever, Reflector, and Responser agents, collaboratively engages in an iterative process of evidence retrieval, answer generation, sufficiency reflection.
 
 
 *2025-10-10*
