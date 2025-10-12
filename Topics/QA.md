@@ -5,6 +5,18 @@
 
 
 
+
+*2025-10-12*
+
+#### [Same Content, Different Representations: A Controlled Study for Table QA](https://arxiv.org/abs/2509.22983)
+
+*Yue Zhang, Seiji Maekawa, Nikita Bhutani*
+
+*Arxiv 2025*
+
+This work conducts a controlled study that isolates the role of table representation by holding content constant while varying structure. It generates paired structured and semi-structured tables to enable direct comparison across modeling paradigms, and introduces a diagnostic benchmark with splits along table size, join requirements, query complexity, and schema quality. Experiments reveal consistent trade-offs: SQL-based methods achieve high accuracy on structured inputs but degrade on semi-structured data, LLMs exhibit flexibility but reduced precision, and hybrid approaches strike a balance between them.
+
+
 *2025-10-07*
 
 #### [Enrich-on-Graph: Query-Graph Alignment for Complex Reasoning with LLM Enriching](https://arxiv.org/abs/2509.20810)
