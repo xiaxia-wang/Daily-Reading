@@ -3,6 +3,18 @@
 
 
 
+
+*2025-10-13*
+
+#### [NeuSO: Neural Optimizer for Subgraph Queries](https://arxiv.org/abs/2509.23775)
+
+*Linglin Yang, Lei Zou, Chunshan Zhao*
+
+*SIGMOD 2026*
+
+Subgraph query methods by heuristic vertex matching usually degrade on enumeration performance for certain queries. Motivated by recent success of learning-based optimizers for relational databases, this paper introduces a learning-based optimizer for subgraph queries, using a GNN encoder and an estimator trained with a multi-task framework to estimate both subquery cardinality and execution cost. Based on these estimates, it employs a top-down plan enumerator to generate high-quality execution plans for subgraph queries.
+
+
 *2025-02-05*
 
 #### [Generative Semi-supervised Graph Anomaly Detection](https://arxiv.org/abs/2402.11887)
