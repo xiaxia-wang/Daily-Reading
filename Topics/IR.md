@@ -8,6 +8,18 @@
 
 
 
+
+*2025-10-14*
+
+#### [Investigating Multi-layer Representations for Dense Passage Retrieval](https://arxiv.org/abs/2509.23861)
+
+*Zhongbin Xie, Thomas Lukasiewicz*
+
+*EMNLP Findings 2025*
+
+Dense retrieval models adopt vectors from the last hidden layer of the encoder to represent a document, which is in contrast to the fact that representations in different layers of a pre-trained language model usually contain different linguistic knowledge, and behave differently during fine-tuning. This paper investigates using vectors from multiple encoder layers to make up the representation of a document, by first testing how they affect performance under the multi-vector retrieval setting, and then applying pooling strategies to reduce multi-vector models to single-vector ones to improve retrieval efficiency.
+
+
 *2025-10-09*
 
 #### [Retrieval over Classification: Integrating Relation Semantics for Multimodal Relation Extraction](https://arxiv.org/abs/2509.21151)
