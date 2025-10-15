@@ -5,6 +5,18 @@
 
 
 
+
+*2025-10-15*
+
+#### [From Reasoning to Answer: Empirical, Attention-Based and Mechanistic Insights into Distilled DeepSeek R1 Models](https://arxiv.org/abs/2509.23676)
+
+*Jue Zhang, Qingwei Lin, Saravan Rajmohan, Dongmei Zhang*
+
+*EMNLP 2025*
+
+This work investigates the interplay between reasoning and answer generation in distilled DeepSeek R1 models. First, empirical evaluation shows that including explicit reasoning consistently improves answer quality across diverse domains. Second, attention analysis reveals that answer tokens attend substantially to reasoning tokens, with certain mid-layer Reasoning-Focus Heads closely tracking the reasoning trajectory, including self-reflective cues. Third, perturbations to key reasoning tokens can reliably alter the final answers.
+
+
 *2025-10-11*
 
 #### [Think-on-Graph 3.0: Efficient and Adaptive LLM Reasoning on Heterogeneous Graphs via Multi-Agent Dual-Evolving Context Retrieval](https://arxiv.org/abs/2509.21710)
