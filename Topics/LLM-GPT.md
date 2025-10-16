@@ -6,6 +6,18 @@
 
 
 
+
+*2025-10-16*
+
+#### [G-reasoner: Foundation Models for Unified Reasoning over Graph-structured Knowledge](https://arxiv.org/abs/2509.24276)
+
+*Linhao Luo, Zicheng Zhao, Junnan Liu, Zhangchi Qiu, Junnan Dong, Serge Panev, Chen Gong, Thuy-Trang Vu, Gholamreza Haffari, Dinh Phung, Alan Wee-Chung Liew, Shirui Pan*
+
+*Arxiv 2025*
+
+This work introduces a foundational model that integrates graph and language models for reasoning over diverse graph-structured knowledge, consisting of a standardized four-layer abstraction that unifies heterogeneous knowledge sources into a common graph representation, with a 34M-parameter graph foundation model that jointly captures graph topology and textual semantics.
+
+
 *2025-10-15*
 
 #### [From Reasoning to Answer: Empirical, Attention-Based and Mechanistic Insights into Distilled DeepSeek R1 Models](https://arxiv.org/abs/2509.23676)
