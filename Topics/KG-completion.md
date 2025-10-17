@@ -9,6 +9,18 @@
 
 
 
+
+*2025-10-17*
+
+#### [SLogic: Subgraph-Informed Logical Rule Learning for Knowledge Graph Completion](https://arxiv.org/abs/2510.00279)
+
+*Trung Hoang Le, Tran Cao Son, Huiping Cao*
+
+*Arxiv 2025*
+
+This work introduces subgraph-informed logical rule learning that assigns query-dependent scores to logical rules. The core is a scoring function that utilizes the subgraph centered on a query's head entity, allowing the significance of each rule to be assessed dynamically.
+
+
 *2025-09-28*
 
 #### [Generating and Evaluating Plausible Explanations for Knowledge Graph Completion](https://aclanthology.org/2024.acl-long.654/)
