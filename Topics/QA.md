@@ -6,6 +6,18 @@
 
 
 
+
+*2025-10-18*
+
+#### [RJE: A Retrieval-Judgment-Exploration Framework for Efficient Knowledge Graph Question Answering with LLMs](https://arxiv.org/abs/2510.01257)
+
+*Can Lin, Zhengwang Jiang, Ling Zheng, Qi Zhao, Yuhang Zhang, Qi Song, Wangqiu Zhou*
+
+*Arxiv 2025*
+
+To improve KGQA performance, this work proposes to retrieve refined reasoning paths, evaluate their sufficiency, and conditionally explore additional evidence. It also introduces specialized modules enabling small-sized LLMs to perform effectively, including: Reasoning Path Ranking, Question Decomposition, and Retriever-assisted Exploration.
+
+
 *2025-10-12*
 
 #### [Same Content, Different Representations: A Controlled Study for Table QA](https://arxiv.org/abs/2509.22983)
