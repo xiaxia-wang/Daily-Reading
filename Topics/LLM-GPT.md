@@ -7,6 +7,18 @@
 
 
 
+
+*2025-10-19*
+
+#### [Demystifying the Roles of LLM Layers in Retrieval, Knowledge, and Reasoning](https://arxiv.org/abs/2510.02091)
+
+*Xinyuan Song, Keyu Wang, PengXiang Li, Lu Yin, Shiwei Liu*
+
+*ICASSP 2025*
+
+Insights from the analysis: (1) Deep layers are generally less effective than earlier ones, but their contributions vary substantially with the evaluation setting. (2) Under likelihood-based metrics without generation, pruning most layers preserves performance, with only the initial few being critical. (3) By contrast, generation-based evaluation uncovers indispensable roles for middle and deeper layers in enabling reasoning and maintaining long-range coherence. (4) Knowledge and retrieval are concentrated in shallow components, whereas reasoning accuracy relies heavily on deeper layers -- yet can be reshaped through distillation.
+
+
 *2025-10-16*
 
 #### [G-reasoner: Foundation Models for Unified Reasoning over Graph-structured Knowledge](https://arxiv.org/abs/2509.24276)
