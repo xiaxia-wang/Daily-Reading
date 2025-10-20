@@ -8,6 +8,18 @@
 
 
 
+
+*2025-10-20*
+
+#### [Learning to Route: A Rule-Driven Agent Framework for Hybrid-Source Retrieval-Augmented Generation](https://arxiv.org/abs/2510.02388)
+
+*Haoyue Bai, Haoyu Wang, Shengyu Chen, Zhengzhang Chen, Lu-An Tang, Wei Cheng, Haifeng Chen, Yanjie Fu*
+
+*Arxiv 2025*
+
+This work proposes a rule-driven routing framework where a routing agent scores candidate augmentation paths (for processing the query and generating the answer) based on explicit rules (e.g., if the query contains X, then increases the action Y by Z points) and selects the most suitable one; a rule-making expert agent refines the rules over time using QA feedback to maintain adaptability; and a path-level meta-cache reuses past routing decisions for semantically similar queries to reduce latency and cost.
+
+
 *2025-10-19*
 
 #### [Demystifying the Roles of LLM Layers in Retrieval, Knowledge, and Reasoning](https://arxiv.org/abs/2510.02091)
