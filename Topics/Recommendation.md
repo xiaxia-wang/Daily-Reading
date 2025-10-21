@@ -7,6 +7,18 @@
 
 
 
+
+*2025-10-21*
+
+#### [A Simple but Effective Elaborative Query Reformulation Approach for Natural Language Recommendation](https://arxiv.org/abs/2510.02656)
+
+*Qianfeng Wen, Yifan Liu, Justin Cui, Joshua Zhang, Anton Korikov, George-Kirollos Saad, Scott Sanner*
+
+*Arxiv 2025*
+
+To improve natural language recommendation, this paper proposes (LLM-based) Elaborative Subtopic Query Reformulation to expand both the range of query subtopics (breadth) and the potential meaning of a query (depth). It also introduces three new natural language recommendation benchmarks in travel, hotel, and restaurant domains to establish evaluation of NL recommendation with challenging queries.
+
+
 *2025-09-29*
 
 #### [SPARK: Adaptive Low-Rank Knowledge Graph Modeling in Hybrid Geometric Spaces for Recommendation](https://arxiv.org/abs/2509.11094)
