@@ -8,6 +8,16 @@
 
 
 
+*2025-10-22*
+
+#### [Equipping Retrieval-Augmented Large Language Models with Document Structure Awareness](https://arxiv.org/abs/2510.04293)
+
+*Lingnan Xu, Chong Feng, Kaiyuan Zhang, Liu Zhengyong, Wenqiang Xu, Fanqing Meng*
+
+*EMNLP 2025 Findings*
+
+This work introduces Retrieve-DocumentRoute-Read, a framework that incorporates structural information throughout the RAG process. It employs an LLM-based router to dynamically navigate document structure trees, jointly evaluating content relevance and hierarchical relationships to assemble optimal evidence. It formulates document routing as a trainable task, with automatic action curation and structure-aware passage selection inspired by human reading strategies.
+
 
 *2025-10-20*
 
