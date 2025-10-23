@@ -4,8 +4,15 @@
 
 
 
+*2025-10-23*
 
+#### [Retrieval-Augmented Generation of Ontologies from Relational Databases](https://arxiv.org/abs/2506.01232)
 
+*Mojtaba Nayyeri, Athish A Yogi, Nadeen Fathallah, Ratan Bahadur Thapa, Hans-Michael Tautenhahn, Anton Schnurpel, Steffen Staab*
+
+*Arxiv 2025*
+
+This paper proposes an iterative pipeline for ontology extraction from relational databases: (a) traverse tables following foreign key constraints; (b) retrieve relevant concepts from the core ontology using RAG; (c) retrieve related textual descriptions using RAG; (d) retrieve related concepts and properties from an ontology repository using RAG; (e) construct a prompt; (f) generate a delta-ontology using Gen-LLM ; (g) refine the delta-ontology with either a human expert or a Judge-LLM ; (h) integrate the refined delta-ontology into the core ontology to expand its coverage.
 
 
 *2025-04-14*
