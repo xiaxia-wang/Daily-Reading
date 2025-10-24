@@ -4,6 +4,16 @@
 
 
 
+*2025-10-24*
+
+#### [OntoRAG: Enhancing Question-Answering through Automated Ontology Derivation from Unstructured Knowledge Bases](https://arxiv.org/abs/2506.00664)
+
+*Yash Tiwari, Owais Ahmad Lone, Mayukha Pal*
+
+*Arxiv 2025*
+
+This paper introduces OntoRAG, an LLM-based automated pipeline designed to derive ontologies from unstructured knowledge bases, with a focus on electrical relay documents.
+
 
 *2025-06-08*
 
