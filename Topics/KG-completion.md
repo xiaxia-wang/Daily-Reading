@@ -10,6 +10,18 @@
 
 
 
+
+*2025-10-25*
+
+#### [Knowledge Graph Large Language Model (KG-LLM) for Link Prediction](https://arxiv.org/abs/2403.07311)
+
+*Dong Shu, Tianle Chen, Mingyu Jin, Chong Zhang, Mengnan Du, Yongfeng Zhang*
+
+*ACML 2024*
+
+This paper proposes a LLM-based link prediction model, by converting structured knowledge graph data into natural language and then using these natural language prompts to fine-tune LLMs to enhance multi-hop link prediction in KGs.
+
+
 *2025-10-17*
 
 #### [SLogic: Subgraph-Informed Logical Rule Learning for Knowledge Graph Completion](https://arxiv.org/abs/2510.00279)
