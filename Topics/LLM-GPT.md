@@ -8,6 +8,18 @@
 
 
 
+
+*2025-10-26*
+
+#### [STEPER: Step-wise Knowledge Distillation for Enhancing Reasoning Ability in Multi-Step Retrieval-Augmented Language Models](https://arxiv.org/abs/2510.07923)
+
+*Kyumin Lee, Minjin Jeon, Sanghwan Jang, Hwanjo Yu*
+
+*EMNLP 2025*
+
+This work proposes Stepwise Knowledge Distillation for enhancing multi-step RAG. It employs step-wise supervision to align with evolving information and reasoning demands across stages, and incorporates difficulty-aware training to optimize learning by prioritizing suitable steps.
+
+
 *2025-10-22*
 
 #### [Equipping Retrieval-Augmented Large Language Models with Document Structure Awareness](https://arxiv.org/abs/2510.04293)
