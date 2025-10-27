@@ -8,6 +8,16 @@
 
 
 
+*2025-10-27*
+
+#### [Reasoning by Exploration: A Unified Approach to Retrieval and Generation over Graphs](https://arxiv.org/abs/2510.07484)
+
+*Haoyu Han, Kai Guo, Harry Shomer, Yu Wang, Yucheng Chu, Hang Li, Li Ma, Jiliang Tang*
+
+*Arxiv 2025*
+
+To improve graph-based multi-hop RAG performance, this work unifies retrieval and generation by framing reasoning over graphs as a process of graph exploration. At each step, the LLM selects candidate nodes and edges to explore, gradually constructing reasoning paths and generating answers along the way. To enable effective exploration, it is trained in two stages: supervised fine-tuning on gold reasoning paths, followed by reinforcement learning to enhance exploration effectiveness and generalization.
+
 
 *2025-10-26*
 
