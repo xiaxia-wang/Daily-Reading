@@ -6,6 +6,16 @@
 
 
 
+*2025-10-28*
+
+#### [DO-RAG: A Domain-Specific QA Framework Using Knowledge Graph-Enhanced Retrieval-Augmented Generation](https://arxiv.org/abs/2505.17058)
+
+*David Osei Opoku, Ming Sheng, Yong Zhang*
+
+*Arxiv 2025*
+
+This paper introduces a domain-specific QA framework that integrates multi-level knowledge graph construction with semantic vector retrieval, by using a chain-of-thought agent to extract structured relationships from unstructured, multimodal documents for constructing dynamic knowledge graphs that enhance retrieval precision.
+
 
 *2025-10-18*
 
