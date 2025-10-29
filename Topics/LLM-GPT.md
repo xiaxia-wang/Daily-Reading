@@ -7,6 +7,16 @@
 
 
 
+*2025-10-29*
+
+#### [K-DECORE: Facilitating Knowledge Transfer in Continual Structured Knowledge Reasoning via Knowledge Decoupling](https://arxiv.org/abs/2509.16929)
+
+*Yongrui Chen, Yi Huang, Yunchang Liu, Shenyu Zhang, Junhao He, Tongtong Wu, Guilin Qi, Tianxing Wu*
+
+*NeurIPS 2025*
+
+To improve continual learning of LLMs on structured data, this approach operates with a fixed number of tunable parameters. It introduces a knowledge decoupling mechanism that disentangles the reasoning process into task-specific and task-agnostic stages, and integrates a dual-perspective memory consolidation mechanism for distinct stages, with a structure-guided pseudo-data synthesis strategy to further enhance the model's generalization capabilities.
+
 
 *2025-10-27*
 
