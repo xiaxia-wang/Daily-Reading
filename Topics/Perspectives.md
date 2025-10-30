@@ -6,6 +6,16 @@
 
 
 
+*2025-10-30*
+
+#### [Large Language Models Meet Knowledge Graphs for Question Answering: Synthesis and Opportunities](https://arxiv.org/abs/2505.20099)
+
+*Chuangtao Ma, Yongrui Chen, Tianxing Wu, Arijit Khan, Haofen Wang*
+
+*EMNLP 2025*
+
+This review categorizes the methodology of synthesizing LLMs and KGs for QA according to the categories of QA and the KG's role when integrating with LLMs, including complex QA, KGs as background knowledge, KGs as reasoning guidelines, KGs as refiners and validators, and advancements.
+
 
 *2025-10-01*
 
