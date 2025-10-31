@@ -4,6 +4,18 @@
 
 
 
+
+*2025-10-31*
+
+#### [INSIDE: LLMs' Internal States Retain the Power of Hallucination Detection](https://arxiv.org/abs/2402.03744)
+
+*Chao Chen, Kai Liu, Ze Chen, Yi Gu, Yue Wu, Mingyuan Tao, Zhihang Fu, Jieping Ye*
+
+*ICLR 2024*
+
+This work explores the dense semantic information retained within LLMs' internal states for hallucination detection. It proposes an EigenScore metric to evaluate responses' self-consistency, which exploits the eigenvalues of responses' covariance matrix to measure the semantic consistency in the dense embedding space. Furthermore, for self-consistent hallucination detection, a test time feature clipping approach is explored to truncate extreme activations in the internal states, reducing overconfident generations and potentially benefits the detection of overconfident hallucinations.
+
+
 *2025-10-02*
 
 #### ["Why Should I Trust You?": Explaining the Predictions of Any Classifier](https://aclanthology.org/N16-3020/)
