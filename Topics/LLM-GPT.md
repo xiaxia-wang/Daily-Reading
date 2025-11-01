@@ -7,6 +7,18 @@
 
 
 
+
+*2025-11-01*
+
+#### [SelfCheckGPT: Zero-Resource Black-Box Hallucination Detection for Generative Large Language Models](https://arxiv.org/abs/2303.08896)
+
+*Potsawee Manakul, Adian Liusie, Mark J. F. Gales*
+
+*EMNLP 2023*
+
+This work proposes "SelfCheckGPT" as a sampling-based approach for fact-checking the responses of black-box models in a zero-resource fashion. SelfCheckGPT leverages the idea that if an LLM has knowledge of a given concept, sampled responses are likely to be similar and contain consistent facts. While for hallucinated facts, stochastically sampled responses are likely to diverge and contradict one another.
+
+
 *2025-10-29*
 
 #### [K-DECORE: Facilitating Knowledge Transfer in Continual Structured Knowledge Reasoning via Knowledge Decoupling](https://arxiv.org/abs/2509.16929)
