@@ -8,6 +8,17 @@
 
 
 
+*2025-11-02*
+
+#### [Large Reasoning Embedding Models: Towards Next-Generation Dense Retrieval Paradigm](https://arxiv.org/abs/2510.14321)
+
+*Jianting Tang, Dongshuai Li, Tao Wen, Fuyu Lv, Dan Ou, Linli Xu*
+
+*Arxiv 2025*
+
+To achieve better alignment of positive vector pairs, this work proposes the Large Reasoning Embedding Model (LREM), by integrating reasoning processes into representation learning. LREM first conducts reasoning to achieve a deep understanding of the original query, and then produces a reasoning-augmented query embedding for retrieval. This reasoning process effectively bridges the semantic gap between original queries and target items, improving retrieval accuracy. It is trained in a two-stage process: the first stage optimizes the LLM on carefully curated Query-CoT-Item triplets with SFT and InfoNCE losses to establish preliminary reasoning and embedding capabilities, and the second stage further refines the reasoning trajectories via reinforcement learning.
+
+
 *2025-11-01*
 
 #### [SelfCheckGPT: Zero-Resource Black-Box Hallucination Detection for Generative Large Language Models](https://arxiv.org/abs/2303.08896)
