@@ -8,6 +8,18 @@
 
 
 
+
+*2025-11-03*
+
+#### [ReMindRAG: Low-Cost LLM-Guided Knowledge Graph Traversal for Efficient RAG](https://arxiv.org/abs/2510.13193)
+
+*Yikuan Hu, Jifeng Zhu, Lanrui Tang, Chen Huang*
+
+*NeurIPS 2025*
+
+To achieve more efficient RAG, this paper proposes ReMindRAG that memorizes traversal experience within KG edge embeddings, mirroring the way LLMs "memorize" world knowledge within their parameters, in a train-free manner.
+
+
 *2025-11-02*
 
 #### [Large Reasoning Embedding Models: Towards Next-Generation Dense Retrieval Paradigm](https://arxiv.org/abs/2510.14321)
