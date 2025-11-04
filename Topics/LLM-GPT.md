@@ -9,6 +9,18 @@
 
 
 
+
+*2025-11-04*
+
+#### [Beyond Correctness: Rewarding Faithful Reasoning in Retrieval-Augmented Generation](https://arxiv.org/abs/2510.13272)
+
+*Zhichao Xu, Zongyu Wu, Yun Zhou, Aosong Feng, Kang Zhou, Sangmin Woo, Kiran Ramnath, Yijun Tian, Xuan Qi, Weikang Qiu, Lin Lee Cheong, Haibo Ding*
+
+*Arxiv 2025*
+
+This paper introduces an evaluation framework for RL-based search agents, focusing on the correctness of reasoning process, and a RL framework that integrates fine-grained faithfulness rewards.
+
+
 *2025-11-03*
 
 #### [ReMindRAG: Low-Cost LLM-Guided Knowledge Graph Traversal for Efficient RAG](https://arxiv.org/abs/2510.13193)
