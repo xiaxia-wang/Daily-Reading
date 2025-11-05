@@ -10,6 +10,18 @@
 
 
 
+
+*2025-11-05*
+
+#### [PRoH: Dynamic Planning and Reasoning over Knowledge Hypergraphs for Retrieval-Augmented Generation](https://arxiv.org/abs/2510.12434)
+
+*Xiangjun Zai, Xingyu Tan, Xiaoyang Wang, Qing Liu, Xiwei Xu, Wenjie Zhang*
+
+*Arxiv 2025*
+
+Existing knowledge hypergraph-based RAG has three major limitations: static retrieval planning, non-adaptive retrieval execution, and superficial use of KH structure and semantics. To overcome them, this work proposes a dynamic Planning and Reasoning framework with: (i) a context-aware planning module that sketches the local KH neighborhood to guide structurally grounded reasoning plan generation; (ii) a structured question decomposition process that organizes subquestions as a dynamically evolving Directed Acyclic Graph to enable adaptive, multi-trajectory exploration; and (iii) an Entity-Weighted Overlap-guided reasoning path retrieval algorithm that prioritizes semantically coherent hyperedge traversals.
+
+
 *2025-11-04*
 
 #### [Beyond Correctness: Rewarding Faithful Reasoning in Retrieval-Augmented Generation](https://arxiv.org/abs/2510.13272)
