@@ -11,6 +11,18 @@
 
 
 
+
+*2025-11-06*
+
+#### [Plan Then Retrieve: Reinforcement Learning-Guided Complex Reasoning over Knowledge Graphs](https://arxiv.org/abs/2510.20691)
+
+*Yanlin Song, Ben Liu, Víctor Gutiérrez-Basulto, Zhiwei Hu, Qianqian Xie, Min Peng, Sophia Ananiadou, Jeff Z. Pan*
+
+*Arxiv 2025*
+
+This work introduces a two-stage reinforcement fine-tuning KGQA framework with a 'plan-KGsearch-and-Websearch-during-think' paradigm, that enables LLMs to perform autonomous planning and adaptive retrieval scheduling across KG and web under incomplete knowledge. It uses chain-of-thought fine-tuning with a customized plan-retrieval dataset for structured reasoning, and a plan-retrieval guided reinforcement learning for explicit planning and retrieval actions with a multi-reward design, enabling coverage-aware retrieval scheduling. It employs a Cartesian-inspired planning module to decompose complex questions into ordered subquestions, and logical expression to guide tool invocation for globally consistent multi-step reasoning.
+
+
 *2025-11-05*
 
 #### [PRoH: Dynamic Planning and Reasoning over Knowledge Hypergraphs for Retrieval-Augmented Generation](https://arxiv.org/abs/2510.12434)
