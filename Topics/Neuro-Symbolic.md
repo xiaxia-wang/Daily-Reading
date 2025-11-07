@@ -7,6 +7,18 @@
 
 
 
+
+*2025-11-07*
+
+#### [Neural Reasoning for Robust Instance Retrieval in SHOIQ](https://arxiv.org/abs/2510.20457)
+
+*Louis Mozart Kamdem Teyou, Luke Friedrichs, N'Dah Jean Kouagou, Caglar Demir, Yasir Mahmood, Stefan Heindorf, Axel-Cyrille Ngonga Ngomo*
+
+*K-CAP 2025*
+
+It is essentially a embedding-based link prediction model.
+
+
 *2025-10-08*
 
 #### [CLAUSE: Agentic Neuro-Symbolic Knowledge Graph Reasoning via Dynamic Learnable Context Engineering](https://arxiv.org/abs/2509.21035)
