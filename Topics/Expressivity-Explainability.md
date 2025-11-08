@@ -5,6 +5,18 @@
 
 
 
+
+*2025-11-08*
+
+#### [Explainable Benchmarking through the Lense of Concept Learning](https://arxiv.org/abs/2510.20439)
+
+*Quannian Zhang, Michael Röder, Nikit Srivastava, N'Dah Jean Kouagou, Axel-Cyrille Ngonga Ngomo*
+
+*K-CAP 2025*
+
+The aim of explainable benchmarking is to automatically generate explanations for the system performance over a benchmark. This work introduces an instantiation of this paradigm for KG-based question answering systems, by computing explanations using a concept learning algorithm PruneCEL. It contains 3 steps: (1) generate a KG comprising structured information about the content of the benchmark dataset, (2) split the benchmark’s tasks, e.g., the questions of a QA dataset, into correctly and incorrectly answered tasks, and (3) apply concept learning to determine an expression that separates the two groups from each other. Example explanations are like: the system can answer questions that have xx type as answers.
+
+
 *2025-10-31*
 
 #### [INSIDE: LLMs' Internal States Retain the Power of Hallucination Detection](https://arxiv.org/abs/2402.03744)
