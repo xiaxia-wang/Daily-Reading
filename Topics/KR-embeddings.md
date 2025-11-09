@@ -6,6 +6,18 @@
 
 
 
+
+*2025-11-09*
+
+#### [AtlasKV: Augmenting LLMs with Billion-Scale Knowledge Graphs in 20GB VRAM](https://arxiv.org/abs/2510.17934)
+
+*Haoyu Huang, Hong Ting Tsang, Jiaxin Bai, Xi Peng, Gong Zhang, Yangqiu Song*
+
+*Arxiv 2025*
+
+As a non-parametric knowledge integration paradigm for LLMs, RAG would introduce substantial inference latency due to expensive searches and much longer relevant context. To improve that, the paper proposes a parametric way to integrate KG triples into LLMs at scale by KG encoding, and achieves sub-linear time and memory complexity.
+
+
 *2025-07-31*
 
 #### [SMART: Relation-Aware Learning of Geometric Representations for Knowledge Graphs](https://arxiv.org/abs/2507.13001)
