@@ -12,6 +12,18 @@
 
 
 
+
+*2025-11-10*
+
+#### [DeepAgent: A General Reasoning Agent with Scalable Toolsets](https://arxiv.org/abs/2510.21618)
+
+*Xiaoxi Li, Wenxiang Jiao, Jiarui Jin, Guanting Dong, Jiajie Jin, Yinuo Wang, Hao Wang, Yutao Zhu, Ji-Rong Wen, Yuan Lu, Zhicheng Dou*
+
+*Arxiv 2025*
+
+This work introduces an end-to-end deep reasoning agent for autonomous thinking, tool discovery, and action execution within a single, coherent reasoning process. To address the context length explosion from multiple tool calls and the accumulation of interaction history, it compresses past interactions into structured episodic, working, and tool memories. To teach general-purpose tool usage, it employs reinforcement learning that leverages LLM-simulated APIs and applies tool-call advantage attribution to assign credit to the tool invocation tokens.
+
+
 *2025-11-06*
 
 #### [Plan Then Retrieve: Reinforcement Learning-Guided Complex Reasoning over Knowledge Graphs](https://arxiv.org/abs/2510.20691)
