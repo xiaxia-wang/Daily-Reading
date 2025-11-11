@@ -13,6 +13,17 @@
 
 
 
+*2025-11-11*
+
+#### [Your Dense Retriever is Secretly an Expeditious Reasoner](https://arxiv.org/abs/2510.21727)
+
+*Yichi Zhang, Jun Bai, Zhixin Cai, Shuhan Qin, Zhuofan Chen, Jinghua Guan, Wenge Rong*
+
+*Arxiv 2025*
+
+This work proposes a hybrid query rewriting framework, where a reasoner router dynamically directs each query to either fast dense reasoning or deep LLM reasoning. The dense reasoning is essentially a query embedding module, which simulates the query embeddings produced by the LLM reasoning result, and was trained by fine-tuning on the dataset.
+
+
 *2025-11-10*
 
 #### [DeepAgent: A General Reasoning Agent with Scalable Toolsets](https://arxiv.org/abs/2510.21618)
@@ -32,7 +43,7 @@ This work introduces an end-to-end deep reasoning agent for autonomous thinking,
 
 *Arxiv 2025*
 
-This work introduces a two-stage reinforcement fine-tuning KGQA framework with a 'plan-KGsearch-and-Websearch-during-think' paradigm, that enables LLMs to perform autonomous planning and adaptive retrieval scheduling across KG and web under incomplete knowledge. It uses chain-of-thought fine-tuning with a customized plan-retrieval dataset for structured reasoning, and a plan-retrieval guided reinforcement learning for explicit planning and retrieval actions with a multi-reward design, enabling coverage-aware retrieval scheduling. It employs a Cartesian-inspired planning module to decompose complex questions into ordered subquestions, and logical expression to guide tool invocation for globally consistent multi-step reasoning.
+This work introduces a two-stage reinforcement fine-tuning KGQA framework with a 'plan-KG_search-and-Web_search-during-think' paradigm, that enables LLMs to perform autonomous planning and adaptive retrieval scheduling across KG and web under incomplete knowledge. It uses chain-of-thought fine-tuning with a customized plan-retrieval dataset for structured reasoning, and a plan-retrieval guided reinforcement learning for explicit planning and retrieval actions with a multi-reward design, enabling coverage-aware retrieval scheduling. It employs a Cartesian-inspired planning module to decompose complex questions into ordered subquestions, and logical expression to guide tool invocation for globally consistent multi-step reasoning.
 
 
 *2025-11-05*
