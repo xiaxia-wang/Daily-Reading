@@ -13,6 +13,18 @@
 
 
 
+
+*2025-11-12*
+
+#### [TEXT2DB: Integration-Aware Information Extraction with Large Language Model Agents](https://arxiv.org/abs/2510.24014)
+
+*Yizhu Jiao, Sha Li, Sizhe Zhou, Heng Ji, Jiawei Han*
+
+*Arxiv 2025*
+
+This work proposes an agent-based information extraction approach that emphasizes the integration of IE output and the target database (or knowledge base). Given a user instruction, a document set, and a database, our task requires the model to update the database with values from the document set to satisfy the user instruction. To evaluate the task, it introduces a benchmark featuring common demands such as data infilling, row population, and column addition. The proposed LLM agent framework contains an Observer to interact with the database, a Planner component to generate a code-based plan with calls to IE models, and an Analyzer to provide feedback regarding code quality before execution.
+
+
 *2025-11-11*
 
 #### [Your Dense Retriever is Secretly an Expeditious Reasoner](https://arxiv.org/abs/2510.21727)
