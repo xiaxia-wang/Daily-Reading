@@ -6,6 +6,18 @@
 
 
 
+
+*2025-11-13*
+
+#### [Sound Logical Explanations for Mean Aggregation Graph Neural Networks](https://openreview.net/forum?id=7TY89cqLfE)
+
+*Matthew Morris, Ian Horrocks*
+
+*NeurIPS 2025*
+
+(1) Consider mean-aggregated GNNs with non-negative weights, (2) Define a new fragment of FOL to express the equivalent logic.
+
+
 *2025-11-08*
 
 #### [Explainable Benchmarking through the Lense of Concept Learning](https://arxiv.org/abs/2510.20439)

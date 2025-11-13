@@ -5,15 +5,6 @@
 
 
 
-
-
-
-
-
-
-
-
-
 *2025-11-12*
 
 #### [TEXT2DB: Integration-Aware Information Extraction with Large Language Model Agents](https://arxiv.org/abs/2510.24014)
