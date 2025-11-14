@@ -5,6 +5,18 @@
 
 
 
+
+*2025-11-14*
+
+#### [Can Knowledge-Graph-based Retrieval Augmented Generation Really Retrieve What You Need?](https://www.arxiv.org/abs/2510.16582)
+
+*Junchi Yu, Yujie Liu, Jindong Gu, Philip Torr, Dongzhan Zhou*
+
+*NeurIPS 2025*
+
+This work introduces a RAG framework that balances the accuracy and diversity of retrieved results, using a flow estimator to factorize the outcome reward in the intermediate retrieval steps.
+
+
 *2025-11-12*
 
 #### [TEXT2DB: Integration-Aware Information Extraction with Large Language Model Agents](https://arxiv.org/abs/2510.24014)
