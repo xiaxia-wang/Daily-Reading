@@ -6,6 +6,18 @@
 
 
 
+
+*2025-11-15*
+
+#### [Deliberation on Priors: Trustworthy Reasoning of Large Language Models on Knowledge Graphs](https://openreview.net/pdf/33aae90c6ae97c2a878758d797cf8196f7ca09de.pdf)
+
+*Jie Ma, Ning Qu, Zhitao Gao, Xing Rui, Jun Liu, Hongbin Pei, Jiang Xie, Lingyun Song, Pinghui Wang, Jing Tao, su zhou*
+
+*NeurIPS 2025*
+
+This work proposes a reasoning framework over KGs named Deliberation on Priors (DP). The framework comprises four key modules: Distillation, Planning, Instantiation, and Introspection, which guide LLMs to generate responses through a two-stage process: offline and online. The offline stage collects weak supervision signals in the form of mappings from questions to corresponding sets of relation paths. The paths are constructed by identifying the shortest traversal sequences from topic entities to answer entities in KGs.
+
+
 *2025-11-14*
 
 #### [Can Knowledge-Graph-based Retrieval Augmented Generation Really Retrieve What You Need?](https://www.arxiv.org/abs/2510.16582)
