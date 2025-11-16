@@ -7,6 +7,18 @@
 
 
 
+
+*2025-11-16*
+
+#### [Topology of Reasoning: Understanding Large Reasoning Models through Reasoning Graph Properties](https://openreview.net/pdf/7131557a34836bae01d636c964b3953522c88ea0.pdf)
+
+*Gouki Minegishi, Hiroki Furuta, Takeshi Kojima, Yusuke Iwasawa, Yutaka Matsuo*
+
+*NeurIPS 2025*
+
+This work introduces the reasoning graph extracted by clustering hidden-state representations at each reasoning step of LLM, and analyzes three key graph-theoretic properties: cyclicity, diameter, and small-world index. Their findings reveal that distilled reasoning models (e.g., DeepSeekR1-Distill-Qwen-32B) exhibit significantly more recurrent cycles (about 5 per sample), substantially larger graph diameters, and pronounced small-world characteristics (about 6x) compared to their base counterparts. Notably, these structural advantages grow with task difficulty and model capacity, with cycle detection peaking at the 14B scale and exploration diameter maximized in the 32B variant, correlating positively with accuracy. Furthermore, supervised fine-tuning on an improved dataset systematically expands reasoning graph diameters in tandem with performance gains.
+
+
 *2025-11-15*
 
 #### [Deliberation on Priors: Trustworthy Reasoning of Large Language Models on Knowledge Graphs](https://openreview.net/pdf/33aae90c6ae97c2a878758d797cf8196f7ca09de.pdf)
