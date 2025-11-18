@@ -5,6 +5,18 @@
 
 
 
+
+*2025-11-17*
+
+#### [Scalable Feature Learning on Huge Knowledge Graphs for Downstream Machine Learning](https://openreview.net/pdf/f22b26fa13d0b0488d2674d5991216d381b43261.pdf)
+
+*Félix Lefebvre, Gaël Varoquaux*
+
+*NeurIPS 2025*
+
+This paper introduces a KG embedding approach, by optimizing embeddings only on a small core of entities, selected based on node degrees, and then propagating them to the rest of the graph with message passing.
+
+
 *2025-08-26*
 
 #### [SAMGPT: Text-free Graph Foundation Model for Multi-domain Pre-training and Cross-domain Adaptation](https://arxiv.org/abs/2502.05424)
