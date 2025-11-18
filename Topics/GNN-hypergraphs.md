@@ -8,6 +8,18 @@
 
 
 
+
+*2025-11-18*
+
+#### [Higher-Order Learning with Graph Neural Networks via Hypergraph Encodings](https://openreview.net/pdf/c5a51ada1ec63e9409fc90157fca9d8783f01a8e.pdf)
+
+*Raphaël Pellegrin, Lukas Fesser, Melanie Weber*
+
+*NeurIPS 2025*
+
+Most existing GNN architectures for hypergraphs rely on message-passing to encode higher-order information. This paper proposes to instead use hypergraph-level encodings based on characteristics such as hypergraph Laplacians and discrete curvature notions.
+
+
 *2025-08-06*
 
 #### [Structure Is All You Need: Structural Representation Learning on Hyper-Relational Knowledge Graphs](https://openreview.net/forum?id=2tH2vexW1Z)
