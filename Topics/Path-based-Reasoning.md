@@ -6,6 +6,16 @@
 
 
 
+*2025-11-19*
+
+#### [NeuroPath: Neurobiology-Inspired Path Tracking and Reflection for Semantically Coherent Retrieval](https://openreview.net/pdf/498f2ece209c8ffc5d3d7da2ead58437a45cacc0.pdf)
+
+*Junchen Li, Rongzheng Wang, Yihong Huang, Qizhi Chen, Jiasheng Zhang, Shuang Liang*
+
+*NeurIPS 2025*
+
+The proposed RAG framework consists of two steps: Dynamic Path Tracking performs goal-directed semantic path tracking and pruning over the constructed knowledge graph, improving noise reduction and semantic coherence. Post-retrieval Completion further reinforces these benefits by conducting second-stage retrieval using intermediate reasoning and the original query to refine the query goal and complete missing information in the reasoning path.
+
 
 *2025-09-19*
 
