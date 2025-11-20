@@ -8,6 +8,18 @@
 
 
 
+
+*2025-11-20*
+
+#### [GRASP: Generic Reasoning And SPARQL Generation across Knowledge Graphs](https://arxiv.org/abs/2507.08107)
+
+*Sebastian Walter, Hannah Bast*
+
+*ISWC 2025*
+
+This paper proposes a LLM-based approach for generating SPARQL queries on RDF knowledge graphs from natural language questions or keyword queries. It does not require fine-tuning but use the language model to explore the knowledge graph by strategically executing SPARQL queries and searching for relevant IRIs and literals.
+
+
 *2025-11-16*
 
 #### [Topology of Reasoning: Understanding Large Reasoning Models through Reasoning Graph Properties](https://openreview.net/pdf/7131557a34836bae01d636c964b3953522c88ea0.pdf)
