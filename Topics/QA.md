@@ -6,6 +6,18 @@
 
 
 
+
+*2025-11-21*
+
+#### [Don’t Forget the Base Retriever! A Low-Resource Graph-based Retriever for Multi-hop Question Answering](https://aclanthology.org/2025.emnlp-industry.174/)
+
+*Andre Melo, Enting Chen, Pavlos Vougiouklis, Chenxin Diao, Shriram Piramanayagam, Ruofei Lai, Jeff Z. Pan*
+
+*EMNLP 2025 Industry*
+
+This paper proposes a lightweight, low-resource, multi-step graph-based retriever for multi-hop QA. In the offline stage, it creates indexes for passages, related entity pairs, and list of synonyms. In the online stage, it employs iterative retrieval over different indexes and generates the answer.
+
+
 *2025-10-28*
 
 #### [DO-RAG: A Domain-Specific QA Framework Using Knowledge Graph-Enhanced Retrieval-Augmented Generation](https://arxiv.org/abs/2505.17058)
