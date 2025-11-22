@@ -7,6 +7,18 @@
 
 
 
+
+*2025-11-22*
+
+#### [Less Is MuRE: Revisiting Shallow Knowledge Graph Embeddings](https://aclanthology.org/2025.emnlp-main.779/)
+
+*Victor Charpenay, Steven Schockaert*
+
+*EMNLP 2025*
+
+This paper analyzes shallow KG embedding models MuRE and its extension, ExpressivE, revealing that apart from the strong empirical results, the associated scoring function of MuRE can capture the same class of rule bases as state-of-the-art region-based embedding models.
+
+
 *2025-11-09*
 
 #### [AtlasKV: Augmenting LLMs with Billion-Scale Knowledge Graphs in 20GB VRAM](https://arxiv.org/abs/2510.17934)
