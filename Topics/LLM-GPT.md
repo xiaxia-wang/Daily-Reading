@@ -9,6 +9,18 @@
 
 
 
+
+*2025-11-23*
+
+#### [DS-MHP: Improving Chain-of-Thought through Dynamic Subgraph-Guided Multi-Hop Path](https://aclanthology.org/2025.findings-emnlp.600/)
+
+*Yongqiang Liu, Qiyao Peng, Binrong Liu, Hongtao Liu, XueWei Li, Wenjun Wang*
+
+*EMNLP 2025 Findings*
+
+This paper proposes an approach to improve chain-of-thought for the multi-hop reasoning task, consisting of 3 stages: (1) constructing query-specific subgraphs by extracting entities and relations; (2) generating and refining multi-hop paths using a hybrid strategy of Breadth-First Search, greedy expansion, and LLM supplementation; and (3) guiding LLMs with subgraphs and paths, aggregating answers via majority voting.
+
+
 *2025-11-20*
 
 #### [GRASP: Generic Reasoning And SPARQL Generation across Knowledge Graphs](https://arxiv.org/abs/2507.08107)
