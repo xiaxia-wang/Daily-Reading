@@ -8,6 +8,18 @@
 
 
 
+
+*2025-11-24*
+
+#### [A Zero-Shot Neuro-Symbolic Approach for Complex Knowledge Graph Question Answering](https://aclanthology.org/2025.findings-emnlp.617/)
+
+*Prerna Agarwal, Srikanta Bedathur*
+
+*EMNLP 2025 Findings*
+
+This work claims to propose a neuro-symbolic KGQA approach, by first extracting a question subgraph and then using an embedding-based symbolic resolver to resolve the symbolic question subgraph.
+
+
 *2025-11-22*
 
 #### [Less Is MuRE: Revisiting Shallow Knowledge Graph Embeddings](https://aclanthology.org/2025.emnlp-main.779/)
