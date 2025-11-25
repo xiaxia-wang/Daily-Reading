@@ -6,6 +6,18 @@
 
 
 
+
+*2025-11-25*
+
+#### [SQUAB: Evaluating LLM robustness to Ambiguous and Unanswerable Questions in Semantic Parsing](https://aclanthology.org/2025.emnlp-main.906/)
+
+*Simone Papicchio, Luca Cagliero, Paolo Papotti*
+
+*EMNLP 2025*
+
+This work introduces SQUAB, an automatic dataset generator of Ambiguous and Unanswerable questions. SQUAB generates complex, annotated SP tests using a blend of SQL and LLM capabilities. Results show that SQUAB reduces test generation costs by up to 99% compared to human-based solutions while aligning with real-world question patterns. Furthermore, these tests challenge LLM performance while revealing disparities between public and proprietary datasets.
+
+
 *2025-10-06*
 
 #### [STARQA: A Question Answering Dataset for Complex Analytical Reasoning over Structured Databases](https://arxiv.org/abs/2509.19508)
