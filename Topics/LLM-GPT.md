@@ -10,6 +10,18 @@
 
 
 
+
+*2025-11-26*
+
+#### [A Survey of RAG-Reasoning Systems in Large Language Models](https://aclanthology.org/2025.findings-emnlp.648/)
+
+*Yangning Li, Weizhi Zhang, Yuyao Yang, Wei-Chieh Huang, Yaozu Wu, Junyu Luo, Yuanchen Bei, Henry Peng Zou, Xiao Luo, Yusheng Zhao, Chunkit Chan, Yankai Chen, Zhongfen Deng, Yinghui Li, Hai-Tao Zheng, Dongyuan Li, Renhe Jiang, Ming Zhang, Yangqiu Song, Philip S. Yu*
+
+*EMNLP 2025 Findings*
+
+(1) how advanced reasoning optimizes each stage of RAG, (2) how retrieved knowledge of different type supply missing premises and expand context for complex inference, (3) spotlight emerging Synergized RAG-Reasoning frameworks, where (agentic) LLMs iteratively interleave search and thought to achieve state-of-the-art performance across knowledge-intensive benchmarks.
+
+
 *2025-11-23*
 
 #### [DS-MHP: Improving Chain-of-Thought through Dynamic Subgraph-Guided Multi-Hop Path](https://aclanthology.org/2025.findings-emnlp.600/)
