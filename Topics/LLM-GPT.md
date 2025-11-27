@@ -4,11 +4,15 @@
 
 
 
+*2025-11-27*
 
+#### [PathMind: A Retrieve-Prioritize-Reason Framework for Knowledge Graph Reasoning with Large Language Models](https://arxiv.org/abs/2511.14256)
 
+*Yu Liu, Xixun Lin, Yanmin Shang, Yangxi Li, Shi Wang, Yanan Cao*
 
+*AAAI 2026*
 
-
+This work proposes a LLM-based KG reasoning framework, by (1) retrieving a query subgraph from KG, (2) identifying important reasoning paths using a semantic-aware path priority function, which simultaneously considers the accumulative cost and the estimated future cost for reaching the target, and (3) generating responses via a dual-phase training strategy, including task-specific instruction tuning and path-wise preference alignment.
 
 
 *2025-11-26*
