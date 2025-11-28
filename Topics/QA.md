@@ -7,6 +7,18 @@
 
 
 
+
+*2025-11-28*
+
+#### [Assessing LLMs for Serendipity Discovery in Knowledge Graphs: A Case for Drug Repurposing](https://arxiv.org/abs/2511.12472)
+
+*Mengying Wang, Chenhui Ma, Ao Jiao, Tuo Liang, Pengjun Lu, Shrinidhi Hegde, Yu Yin, Evren Gurkan-Cavusoglu, Yinghui Wu*
+
+*AAAI 2026*
+
+This work investigates the serendipity-aware KGQA task and propose a framework to evaluate LLMs' ability to uncover unexpected insights in scientific KGQA tasks. SerenQA includes a serendipity metric based on relevance, novelty, and surprise, along with an expert-annotated benchmark derived from the Clinical Knowledge Graph, focusing on drug repurposing. Additionally, it features a structured evaluation pipeline with three subtasks: knowledge retrieval, subgraph reasoning, and serendipity exploration.
+
+
 *2025-11-21*
 
 #### [Don’t Forget the Base Retriever! A Low-Resource Graph-based Retriever for Multi-hop Question Answering](https://aclanthology.org/2025.emnlp-industry.174/)
