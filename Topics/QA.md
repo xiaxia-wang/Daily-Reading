@@ -8,6 +8,18 @@
 
 
 
+
+*2025-11-29*
+
+#### [REAP: Enhancing RAG with Recursive Evaluation and Adaptive Planning for Multi-Hop Question Answering](https://arxiv.org/abs/2511.09966)
+
+*Yijie Zhu, Haojie Zhou, Wanting Hong, Tailin Liu, Ning Wang*
+
+*AAAI 2026*
+
+To improve global planning in multi-hop QA, this work explicitly maintains structured sub-tasks and facts related to the current task through a Sub-task Planner (SP) and Fact Extractor (FE) modules. SP maintains a global perspective, guiding the overall reasoning direction and evaluating the task state based on the outcomes of FE, enabling dynamic optimization of the task-solving trajectory. FE performs fine-grained analysis over retrieved content to extract reliable answers and clues.
+
+
 *2025-11-28*
 
 #### [Assessing LLMs for Serendipity Discovery in Knowledge Graphs: A Case for Drug Repurposing](https://arxiv.org/abs/2511.12472)
