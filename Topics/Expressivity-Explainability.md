@@ -7,6 +7,18 @@
 
 
 
+
+*2025-11-30*
+
+#### [Revisiting Conjunctive Query Entailment for $\mathcal S$](https://arxiv.org/abs/2511.07933)
+
+*Yazmín Ibáñez-García, Jean Christoph Jung, Vincent Michielini, Filip Murlak*
+
+*AAAI 2026*
+
+This work clarifies the complexity of answering unions of conjunctive queries over knowledge bases formulated in the description logic $\mathcal S$, the extension of $\mathcal{ALC}$ with transitive roles. Contrary to existing partial results, it shows the problem is in fact 2ExpTime-complete; hardness already holds in the presence of two transitive roles and for Boolean conjunctive queries. It also shows that the problem remains in coNExpTime when the input query is rooted or is restricted to use at most one transitive role (but may use arbitrarily many non-transitive roles).
+
+
 *2025-11-13*
 
 #### [Sound Logical Explanations for Mean Aggregation Graph Neural Networks](https://openreview.net/forum?id=7TY89cqLfE)
