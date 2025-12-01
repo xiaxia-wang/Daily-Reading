@@ -8,6 +8,18 @@
 
 
 
+
+*2025-12-01*
+
+#### [Enhancing Logical Expressiveness in Graph Neural Networks via Path-Neighbor Aggregation](https://arxiv.org/abs/2511.07994)
+
+*Han Yu, Xiaojuan Zhao, Aiping Li, Kai Chen, Ziniu Liu, Zhichao Peng*
+
+*Arxiv 2025*
+
+This work proposes Path-Neighbor enhanced GNN, a GNN model with enhanced logical expressive power by aggregating node-neighbor embeddings on the reasoning path. The proposed model not only has stronger expressive power than conditional GNN, but also its (k + 1)-hop logical expressiveness is strictly superior to that of k-hop.
+
+
 *2025-11-30*
 
 #### [Revisiting Conjunctive Query Entailment for $\mathcal S$](https://arxiv.org/abs/2511.07933)
