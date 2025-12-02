@@ -4,6 +4,18 @@
 
 
 
+
+*2025-12-02*
+
+#### [BYOKG-RAG: Multi-Strategy Graph Retrieval for Knowledge Graph Question Answering](https://aclanthology.org/2025.emnlp-main.1417/)
+
+*Costas Mavromatis, Soji Adeshina, Vassilis N. Ioannidis, Zhen Han, Qi Zhu, Ian Robinson, Bryan Thompson, Huzefa Rangwala, George Karypis*
+
+*EMNLP 2025*
+
+This work enhances KGQA by synergistically combining LLMs with specialized graph retrieval tools, where LLMs generate critical graph artifacts (question entities, candidate answers, reasoning paths, and OpenCypher queries), and graph tools link these artifacts to the KG and retrieve relevant graph context. The retrieved context enables the LLM to iteratively refine its graph linking and retrieval, before final answer generation.
+
+
 *2025-11-27*
 
 #### [PathMind: A Retrieve-Prioritize-Reason Framework for Knowledge Graph Reasoning with Large Language Models](https://arxiv.org/abs/2511.14256)
