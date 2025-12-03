@@ -9,6 +9,17 @@
 
 
 
+*2025-12-03*
+
+#### [KG-CQR: Leveraging Structured Relation Representations in Knowledge Graphs for Contextual Query Retrieval](https://aclanthology.org/2025.emnlp-main.824/)
+
+*Chi Minh Bui, Ngoc Mai Thieu, Vinh Van Nguyen, Jason J. Jung, Khac-Hoai Nam Bui*
+
+*EMNLP 2025*
+
+KG-CQR focuses on query enrichment through subgraph extraction, completion, and contextual generation, operating as a model-agnostic pipeline, ensuring scalability across LLMs of varying sizes without additional training.
+
+
 *2025-11-24*
 
 #### [A Zero-Shot Neuro-Symbolic Approach for Complex Knowledge Graph Question Answering](https://aclanthology.org/2025.findings-emnlp.617/)
