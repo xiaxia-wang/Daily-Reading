@@ -9,6 +9,17 @@
 
 
 
+*2025-12-04*
+
+#### [HyperKGR: Knowledge Graph Reasoning in Hyperbolic Space with Graph Neural Network Encoding Symbolic Path](https://aclanthology.org/2025.emnlp-main.1279/)
+
+*Lihui Liu*
+
+*EMNLP 2025*
+
+KG embeddings in Euclidean spaces often struggle to capture hierarchical structures, while GNN-based methods are inefficient to encode the recursive tree-like structures that emerge in multi-hop reasoning. To address these challenges, this work proposes a hyperbolic GNN framework that embeds recursive learning trees in hyperbolic space and generates query-specific embeddings.
+
+
 *2025-12-03*
 
 #### [KG-CQR: Leveraging Structured Relation Representations in Knowledge Graphs for Contextual Query Retrieval](https://aclanthology.org/2025.emnlp-main.824/)
