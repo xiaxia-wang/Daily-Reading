@@ -6,6 +6,18 @@
 
 
 
+
+*2025-12-05*
+
+#### [Mixture of Length and Pruning Experts for Knowledge Graphs Reasoning](https://aclanthology.org/2025.emnlp-main.23/)
+
+*Enjun Du, Siyi Liu, Yongqi Zhang*
+
+*EMNLP 2025*
+
+This work proposes a mixture-of-experts framework that personalizes path exploration through two complementary components: (1) a mixture of length experts that adaptively selects and weights candidate path lengths according to query complexity, providing query-specific reasoning depth; and (2) a mixture of pruning experts that evaluates candidate paths from a complementary perspective, retaining the most informative paths for each query.
+
+
 *2025-11-19*
 
 #### [NeuroPath: Neurobiology-Inspired Path Tracking and Reflection for Semantically Coherent Retrieval](https://openreview.net/pdf/498f2ece209c8ffc5d3d7da2ead58437a45cacc0.pdf)
