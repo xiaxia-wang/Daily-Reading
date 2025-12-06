@@ -9,6 +9,18 @@
 
 
 
+
+*2025-12-06*
+
+#### [Hierarchical Retrieval with Out-Of-Vocabulary Queries: A Case Study on SNOMED CT](https://arxiv.org/abs/2511.16698)
+
+*Jonathon Dilworth, Hui Yang, Jiaoyan Chen, Yongsheng Gao*
+
+*Arxiv 2025*
+
+This work investigates the problem of retrieving subsumption concepts from SNOMED CT for OOV queries, using hyperbolic embeddings and reraking strategy.
+
+
 *2025-12-04*
 
 #### [HyperKGR: Knowledge Graph Reasoning in Hyperbolic Space with Graph Neural Network Encoding Symbolic Path](https://aclanthology.org/2025.emnlp-main.1279/)
