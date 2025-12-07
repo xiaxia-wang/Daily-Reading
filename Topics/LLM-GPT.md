@@ -5,6 +5,18 @@
 
 
 
+
+*2025-12-07*
+
+#### [AutoLink: Autonomous Schema Exploration and Expansion for Scalable Schema Linking in Text-to-SQL at Scale](https://arxiv.org/abs/2511.17190)
+
+*Ziyang Wang, Yuanlei Zheng, Zhenbiao Cao, Xiaojin Zhang, Zhongyu Wei, Pei Fu, Zhenbo Luo, Wei Chen, Xiang Bai*
+
+*Arxiv 2025*
+
+Schema linking aims to filter a large-scale database schema to a relevant subset. This paper proposes an agent framework that dynamically explores and expands a linked schema subset to handle the task.
+
+
 *2025-12-02*
 
 #### [BYOKG-RAG: Multi-Strategy Graph Retrieval for Knowledge Graph Question Answering](https://aclanthology.org/2025.emnlp-main.1417/)
