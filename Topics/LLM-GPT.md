@@ -6,6 +6,18 @@
 
 
 
+
+*2025-12-08*
+
+#### [CLaRa: Bridging Retrieval and Generation with Continuous Latent Reasoning](https://arxiv.org/abs/2511.18659)
+
+*Jie He, Richard He Bai, Sinead Williamson, Jeff Z. Pan, Navdeep Jaitly, Yizhe Zhang*
+
+*Arxiv 2025*
+
+This work introduces a unified framework that performs embedding-based compression and joint optimization in a shared continuous space. To obtain semantically rich and retrievable compressed vectors, it uses a key-preserving data synthesis framework with QA and paraphrase supervision. Then it trains the reranker and generator end-to-end via a single language modeling loss, with gradients flowing through both modules using a differentiable top-k estimator.
+
+
 *2025-12-07*
 
 #### [AutoLink: Autonomous Schema Exploration and Expansion for Scalable Schema Linking in Text-to-SQL at Scale](https://arxiv.org/abs/2511.17190)
