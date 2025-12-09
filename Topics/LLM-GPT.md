@@ -7,6 +7,18 @@
 
 
 
+
+*2025-12-09*
+
+#### [Semantic-KG: Using Knowledge Graphs to Construct Benchmarks for Measuring Semantic Similarity](https://arxiv.org/abs/2511.19925)
+
+*Qiyao Wei, Edward Morrell, Lea Goetz, Mihaela van der Schaar*
+
+*Arxiv 2025*
+
+This paper leverages KGs to generate pairs of natural-language statements that are semantically similar or dissimilar, with dissimilar pairs categorized into one of four sub-types. Benchmark datasets are generated in four different domains (general knowledge, biomedicine, finance, biology), with a comparative study of semantic similarity methods including traditional natural language processing scores and LLM-as-a-judge predictions. Result shows the sub-type of semantic variation, as well as the dataset domain impacts the performance, with no method being consistently superior.
+
+
 *2025-12-08*
 
 #### [CLaRa: Bridging Retrieval and Generation with Continuous Latent Reasoning](https://arxiv.org/abs/2511.18659)
