@@ -6,6 +6,15 @@
 
 
 
+*2025-12-10*
+
+#### [The Curious Case of Analogies: Investigating Analogical Reasoning in Large Language Models](https://arxiv.org/abs/2511.20344)
+
+*Taewhoo Lee, Minju Song, Chanwoong Yoon, Jungwoo Park, Jaewoo Kang*
+
+*AAAI 2026*
+
+This work explores the LLM's ability of proportional and story analogies with three key findings. (1) LLMs effectively encode the underlying relationships between analogous entities; both attributive and relational information propagate through mid-upper layers in correct cases, whereas reasoning failures reflect missing relational information within these layers. (2) unlike humans, LLMs often struggle not only when relational information is missing, but also when attempting to apply it to new entities. In such cases, strategically patching hidden representations at critical token positions can facilitate information transfer to a certain extent. (3) successful analogical reasoning relates to structural alignment between analogous situations, whereas failures often reflect degraded or misplaced alignment.
 
 
 *2025-12-09*
