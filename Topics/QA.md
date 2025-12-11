@@ -9,6 +9,17 @@
 
 
 
+*2025-12-11*
+
+#### [Chatty-KG: A Multi-Agent AI System for On-Demand Conversational Question Answering over Knowledge Graphs](https://arxiv.org/abs/2511.20940)
+
+*Reham Omar, Abdelghny Orogat, Ibrahim Abdelaziz, Omij Mangukiya, Panos Kalnis, Essam Mansour*
+
+*SIGMOD 2026*
+
+This paper proposes a modular multi-agent system for conversational QA over KGs that combines RAG-style retrieval with structured execution by generating SPARQL queries through task-specialized LLM agents.
+
+
 *2025-11-29*
 
 #### [REAP: Enhancing RAG with Recursive Evaluation and Adaptive Planning for Multi-Hop Question Answering](https://arxiv.org/abs/2511.09966)
