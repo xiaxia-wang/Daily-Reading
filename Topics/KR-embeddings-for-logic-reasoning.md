@@ -7,9 +7,20 @@
 
 
 
+*2025-12-12*
+
+#### [Relation Logical Reasoning and Relation-aware Entity Encoding for Temporal Knowledge Graph Reasoning](https://aclanthology.org/2025.coling-main.88/)
+
+*Longzhou Liu, Chenglong Xiao, Shanshan Wang, Tingwen Liu*
+
+*COLING 2025*
+
+This temporal KG embedding method introduces a two-layer representation of the TKG: a relation layer that extracts relation paths to learn logical correlations between different relations, and an entity layer with relation-aware attention to obtain entity embeddings specific to the predicted query relations. -- not too exciting
+
+
 *2024-09-30*
 
-#### [unKR: A Python Library for Uncertain Knowledge Graph Reasoning by Representation Learning](https://dl.acm.org/doi/abs/10.1145/3626772.3657661 )
+#### [unKR: A Python Library for Uncertain Knowledge Graph Reasoning by Representation Learning](https://dl.acm.org/doi/abs/10.1145/3626772.3657661)
 
 *王靖婷、吴天星、陈仕林、刘云畅、朱曙曈、李伟、许婧怡、漆桂林*
 
