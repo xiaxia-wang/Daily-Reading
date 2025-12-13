@@ -9,6 +9,18 @@
 
 
 
+
+*2025-12-13*
+
+#### [RGR-KBQA: Generating Logical Forms for Question Answering Using Knowledge-Graph-Enhanced Large Language Model](https://aclanthology.org/2025.coling-main.205/)
+
+*Tengfei Feng, Liang He*
+
+*COLING 2025*
+
+This work introduces a retrieval-generate-retrieval framework for KBQA, consisting of 3 steps. The first retrieval step introduces factual knowledge from a knowledge graph to enhance the semantic understanding capabilities of LLMs, thereby improving generation accuracy of logical form. The second step uses a fine-tuned model to generate the logical form, and the final step involves unsupervised relation and entity retrieval to further enhance generation accuracy.
+
+
 *2025-12-11*
 
 #### [Chatty-KG: A Multi-Agent AI System for On-Demand Conversational Question Answering over Knowledge Graphs](https://arxiv.org/abs/2511.20940)
