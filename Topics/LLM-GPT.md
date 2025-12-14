@@ -6,6 +6,18 @@
 
 
 
+
+*2025-12-14*
+
+#### [Reasoning Graph Enhanced Exemplars Retrieval for In-Context Learning](https://aclanthology.org/2025.coling-main.651/)
+
+*Yukang Lin, Bingchen Zhong, Shuoran Jiang, Joanna Siebert, Qingcai Chen*
+
+*COLING 2025*
+
+Existing exemplar selection for in-context learning mainly focus on the semantic similarity between queries and candidate exemplars. This paper introduces Reasoning Graph-enhanced Exemplar Retrieval (RGER), which first queries LLM to generate an initial response and then expresses intermediate problem-solving steps to a graph structure. After that, it employs a graph kernel to select exemplars with semantic and structural similarity.
+
+
 *2025-12-10*
 
 #### [The Curious Case of Analogies: Investigating Analogical Reasoning in Large Language Models](https://arxiv.org/abs/2511.20344)
