@@ -7,6 +7,18 @@
 
 
 
+
+*2025-12-15*
+
+#### [Counting Still Counts: Understanding Neural Complex Query Answering Through Query Relaxation](https://arxiv.org/abs/2511.22565)
+
+*Yannick Brunink, Daniel Daza, Yunjie He, Michael Cochez*
+
+*Arxiv 2025*
+
+This work compares neural CQA models with an alternative, training-free query relaxation strategy that retrieves possible answers by relaxing query constraints and counting resulting paths. Across multiple datasets and query structures, several cases show that the neural and relaxation-based approaches perform similarly. Moreover, a similarity analysis reveals that their retrieved answers exhibit little overlap, and that combining their outputs consistently improves performance. These results call for a re-evaluation of progress in neural query answering: despite their complexity, current models fail to subsume the reasoning patterns captured by query relaxation.
+
+
 *2025-12-05*
 
 #### [Mixture of Length and Pruning Experts for Knowledge Graphs Reasoning](https://aclanthology.org/2025.emnlp-main.23/)
