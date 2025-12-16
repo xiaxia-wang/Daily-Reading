@@ -9,6 +9,18 @@
 
 
 
+
+*2025-12-16*
+
+#### [Beyond Query-Level Comparison: Fine-Grained Reinforcement Learning for Text-to-SQL with Automated Interpretable Critiques](https://arxiv.org/abs/2511.22258)
+
+*Guifeng Wang, Yuanfeng Song, Meng Yang, Tao Zhu, Xiaoming Yin, Xing Chen*
+
+*Arxiv 2025*
+
+To improve the Text-to-SQL performance with RL models, this work introduces a generative judge model for fine-grained, query-specific automatic evaluation without human intervention. It first generates query-specific evaluation rubrics for human-free annotation, linking them to interpretable critiques. Then it integrates densified reward feedback through a "progressive exploration" during the RL training process, which dynamically adjusts the rewards to enhance the model's performance.
+
+
 *2025-12-01*
 
 #### [Enhancing Logical Expressiveness in Graph Neural Networks via Path-Neighbor Aggregation](https://arxiv.org/abs/2511.07994)
