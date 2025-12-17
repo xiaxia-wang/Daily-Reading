@@ -10,6 +10,18 @@
 
 
 
+
+*2025-12-17*
+
+#### [Towards Improving Interpretability of Language Model Generation through a Structured Knowledge Discovery Approach](https://arxiv.org/abs/2511.23335)
+
+*Shuqi Liu, Han Wu, Guanzhi Deng, Jianshu Chen, Xiaoyang Wang, Linqi Song*
+
+*Arxiv 2025*
+
+This work employs a 2-layer framework to capture high-level entities and low-level knowledge triples to design a task-agnostic structured knowledge hunter. Specifically, it uses a local-global interaction scheme for structured knowledge representation learning and a hierarchical transformer-based pointer network as the backbone for selecting relevant knowledge triples and entities. The Knowledge Hunter is a hierarchical encoder-decoder system that searches for relevant knowledge triples from input knowledge graphs or numerical tables. These knowledge triples are then processed through a Template Conversion stage that transforms them into a format that can be readily fed into the language model. Finally, the language model generates text based on the processed knowledge triples.
+
+
 *2025-12-16*
 
 #### [Beyond Query-Level Comparison: Fine-Grained Reinforcement Learning for Text-to-SQL with Automated Interpretable Critiques](https://arxiv.org/abs/2511.22258)
