@@ -8,6 +8,18 @@
 
 
 
+
+*2025-12-18*
+
+#### [Graph Distance as Surprise: Free Energy Minimization in Knowledge Graph Reasoning](https://arxiv.org/abs/2512.01878)
+
+*Gaganpreet Jhajj, Fuhua Lin*
+
+*NORA Workshop@NeurIPS 2025*
+
+This work shows that reasoning in KG can be guided by surprise minimization. Entities that are close in graph distance will have lower surprise than those farther apart. This connects the Free Energy Principle from neuroscience to KG systems, where the KG serves as the agent's generative model. It formalizes surprise using the shortest-path distance in directed graphs and provide a framework for KG-based agents.
+
+
 *2025-12-15*
 
 #### [Counting Still Counts: Understanding Neural Complex Query Answering Through Query Relaxation](https://arxiv.org/abs/2511.22565)
