@@ -7,6 +7,18 @@
 
 
 
+
+*2025-12-19*
+
+#### [Graph Queries from Natural Language using Constrained Language Models and Visual Editing](https://arxiv.org/abs/2512.00948)
+
+*Benedikt Kantz, Kevin Innerebner, Peter Waldert, Stefan Lengauer, Elisabeth Lex, Tobias Schreck*
+
+*ICKG 2025*
+
+This work proposes a SPARQL query construction approach that enables users to specify prototype graphs in natural language and visually editing them. It converts natural language to prototype graphs by a two-step constrained language model generation based on semantically similarity within an ontology. The resulting prototype graph serves as building blocks for further user refinements within a dedicated visual query builder.
+
+
 *2025-09-10*
 
 #### [Improving Table Understanding with LLMs and Entity-Oriented Search](https://arxiv.org/abs/2508.17028)
