@@ -7,6 +7,17 @@
 
 
 
+*2025-12-20*
+
+#### [SQuARE: Structured Query & Adaptive Retrieval Engine For Tabular Formats](https://arxiv.org/abs/2512.04292)
+
+*Chinmay Gondhalekar, Urjitkumar Patel, Fang-Chun Yeh*
+
+*IEEE International Workshop on Large Language Models in Finance 2025*
+
+SQuARE is an agentic RAG+SQL framework that, for each spreadsheet and each question, selects between structure preserving chunk retrieval and schema aware SQL, and returns answers with the exact spreadsheet cells or rows as evidence.
+
+
 *2025-12-14*
 
 #### [Reasoning Graph Enhanced Exemplars Retrieval for In-Context Learning](https://aclanthology.org/2025.coling-main.651/)
