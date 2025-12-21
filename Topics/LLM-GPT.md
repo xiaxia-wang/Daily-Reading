@@ -7,6 +7,18 @@
 
 
 
+
+*2025-12-21*
+
+#### [Featurized-Decomposition Join: Low-Cost Semantic Joins with Guarantees](https://arxiv.org/abs/2512.05399)
+
+*Sepanta Zeighami, Shreya Shankar, Aditya Parameswaran*
+
+*Arxiv 2025*
+
+This work introduces a LLM-based approach for performing semantic joins that significantly reduces cost while preserving quality. It uses a LLM to automatically extract features and combine them into a logical expression in conjunctive normal form, called a featurized decomposition, to prune out non-matching pairs. A featurized decomposition extracts key information from text records and performs inexpensive comparisons on the extracted features, while providing statistical guarantees on the output result.
+
+
 *2025-12-20*
 
 #### [SQuARE: Structured Query & Adaptive Retrieval Engine For Tabular Formats](https://arxiv.org/abs/2512.04292)
