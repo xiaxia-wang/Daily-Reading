@@ -8,6 +8,18 @@
 
 
 
+
+*2025-12-22*
+
+#### [An Index-based Approach for Efficient and Effective Web Content Extraction](https://arxiv.org/abs/2512.06641)
+
+*Yihan Chen, Benfeng Xu, Xiaorui Wang, Zhendong Mao*
+
+*Arxiv 2025*
+
+Existing solutions for extracting relevant Web content are inadequate: generative extraction models suffer from high latency, rule-based heuristics lack adaptability, and chunk-and-rerank methods are blind to webpage structure. To overcome these issues, this work introduces Index-based Web Content Extraction to reframe the extraction process to a discriminative task of index prediction. It partitions HTML into structure-aware, addressable segments, and extract only the positional indices of content relevant to a given query.
+
+
 *2025-12-19*
 
 #### [Graph Queries from Natural Language using Constrained Language Models and Visual Editing](https://arxiv.org/abs/2512.00948)
