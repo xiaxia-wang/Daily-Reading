@@ -10,6 +10,18 @@
 
 
 
+
+*2025-12-23*
+
+#### [Ask Safely: Privacy-Aware LLM Query Generation for Knowledge Graphs](https://arxiv.org/abs/2512.04852)
+
+*Mauro Dalle Lucca Tosi, Jordi Cabot*
+
+*Arxiv 2025*
+
+This work claims to propose a "privacy-aware" query generation approach for KGs, by masking the original entity names in the query using node types -- sounds trivial and naive...
+
+
 *2025-12-13*
 
 #### [RGR-KBQA: Generating Logical Forms for Question Answering Using Knowledge-Graph-Enhanced Large Language Model](https://aclanthology.org/2025.coling-main.205/)
