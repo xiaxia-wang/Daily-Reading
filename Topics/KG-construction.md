@@ -4,6 +4,18 @@
 
 
 
+
+*2025-12-24*
+
+#### [Ontology-Based Knowledge Graph Framework for Industrial Standard Documents via Hierarchical and Propositional Structuring](https://arxiv.org/abs/2512.08398)
+
+*Jiin Park, Hyuna Jeon, Yoonseo Lee, Jisu Hong, Misuk Kim*
+
+*Arxiv 2025*
+
+This work introduces a pipeline that transforms industrial standards consisting of texts and tables into a hierarchical semantic structure, and subsequently constructs a KG by extracting triples from sentence-level ontologies and establishes explicit links between the ontology and the KG.
+
+
 *2025-10-24*
 
 #### [OntoRAG: Enhancing Question-Answering through Automated Ontology Derivation from Unstructured Knowledge Bases](https://arxiv.org/abs/2506.00664)
