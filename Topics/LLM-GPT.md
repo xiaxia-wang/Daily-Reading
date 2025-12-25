@@ -8,6 +8,18 @@
 
 
 
+
+*2025-12-25*
+
+#### [RouteRAG: Efficient Retrieval-Augmented Generation from Text and Graph via Reinforcement Learning](https://arxiv.org/abs/2512.09487)
+
+*Yucan Guo, Miao Su, Saiping Guan, Zihao Sun, Xiaolong Jin, Jiafeng Guo, Xueqi Cheng*
+
+*Arxiv 2025*
+
+Existing graph-based or hybrid systems typically lack the ability to integrate supplementary evidence as reasoning unfolds. Besides, while graph evidence provides relational structures crucial for multi-hop reasoning, it is substantially more expensive to retrieve. This work introduces an RL-based framework that enables LLMs to perform multi-turn and adaptive graph-text hybrid RAG. It jointly optimizes the entire generation process via RL, allowing the model to learn when to reason, what to retrieve from either texts or graphs, and when to produce final answers, all within a unified generation policy. To guide this learning process, a two-stage training framework was employed that accounts for both task outcome and retrieval efficiency.
+
+
 *2025-12-21*
 
 #### [Featurized-Decomposition Join: Low-Cost Semantic Joins with Guarantees](https://arxiv.org/abs/2512.05399)
