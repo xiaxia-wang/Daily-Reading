@@ -9,6 +9,18 @@
 
 
 
+
+*2025-12-26*
+
+#### [Detecting Hallucinations in Graph Retrieval-Augmented Generation via Attention Patterns and Semantic Alignment](https://arxiv.org/abs/2512.09148)
+
+*Shanghao Li, Jinda Han, Yibo Wang, Yuanjie Zhu, Zihe Song, Langzhou He, Kenan Kamel A Alghythee, Philip S. Yu*
+
+*Arxiv 2025*
+
+To analyze how LLMs attend to and retain structured knowledge during generation, this work proposes two metrics: Path Reliance Degree (PRD), which measures over-reliance on shortest-path triples, and Semantic Alignment Score (SAS), which assesses how well the model's internal representations align with the retrieved knowledge. With empirical analysis on a knowledge-based QA task, it identifies failure patterns associated with over-reliance on salient paths and weak semantic grounding, as indicated by high PRD and low SAS scores.
+
+
 *2025-12-25*
 
 #### [RouteRAG: Efficient Retrieval-Augmented Generation from Text and Graph via Reinforcement Learning](https://arxiv.org/abs/2512.09487)
