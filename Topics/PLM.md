@@ -9,6 +9,18 @@
 
 
 
+
+*2025-12-27*
+
+#### [Enhancing Next-Generation Language Models with Knowledge Graphs: Extending Claude, Mistral IA, and GPT-4 via KG-BERT](https://arxiv.org/abs/2512.10440)
+
+*Nour El Houda Ben Chaabene, Hamza Hammami*
+
+*ICALT 2025*
+
+This 2-page short paper evaluates integrating KG-BERT with LLMs such as Claude, Mistral IA, and GPT-4. Results demonstrate notable gains in accuracy and consistency.
+
+
 *2025-08-29*
 
 #### [A Lens into Interpretable Transformer Mistakes via Semantic Dependency](https://openreview.net/forum?id=7v2loOdcLH&noteId=9IbDxaEEiK)
