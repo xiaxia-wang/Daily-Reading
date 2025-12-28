@@ -10,6 +10,18 @@
 
 
 
+
+*2025-12-28*
+
+#### [Causal Reasoning Favors Encoders: On The Limits of Decoder-Only Models](https://arxiv.org/abs/2512.10561)
+
+*Amartya Roy, Elamparithy M, Kripabandhu Ghosh, Ponnurangam Kumaraguru, Adrian de Wynter*
+
+*Arxiv 2025*
+
+This work argues that encoder and encoder decoder architectures are better suited for said multihop conjunctive reasoning versus decoder only models.--- shallow and non-sensical experiments, did not make too much sense.
+
+
 *2025-12-27*
 
 #### [Enhancing Next-Generation Language Models with Knowledge Graphs: Extending Claude, Mistral IA, and GPT-4 via KG-BERT](https://arxiv.org/abs/2512.10440)
