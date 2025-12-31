@@ -5,6 +5,18 @@
 
 
 
+
+*2025-12-31*
+
+#### [Temporal Conjunctive Query Answering via Rewriting](https://ojs.aaai.org/index.php/AAAI/article/view/33670)
+
+*Lukas Westhofen, Jean Christoph Jung, Daniel Neider*
+
+*AAAI 2025*
+
+For modeling highly complex system environments, expressive description logics are often the formalism of choice. Querying such temporal knowledge bases is a challenging task, this work proposes an approach to the query answering problem based on two well-known rewriting rules from temporal logic.
+
+
 *2025-02-18*
 
 #### [Datalog Reasoning over Compressed RDF Knowledge Bases](https://dl.acm.org/doi/10.1145/3357384.3358147)
