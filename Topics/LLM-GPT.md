@@ -10,6 +10,17 @@
 
 
 
+*2025-12-29*
+
+#### [A Systematic Exploration of Knowledge Graph Alignment with Large Language Models in Retrieval Augmented Generation](https://ojs.aaai.org/index.php/AAAI/article/view/34716)
+
+*Shiyu Tian, Shuyue Xing, Xingrui Li, Yangyang Luo, Caixia Yuan, Wei Chen, Huixing Jiang, Xiaojie Wang*
+
+*AAAI 2025*
+
+This work explores the problem of KG Alignment with LLMs, which is formulated as a 2-phase process: (1) graph transformation phase (graph-to-graph), and (2) the linearization phase (graph-to-text). Main findings include: (1) The centrality of the KG affects the final generation; formats have the greatest impact on KGA; orders are model-dependent, without an optimal order adapting for all models; the templates with special token separators are better. (2) LLMs understand KGs by a unique mechanism, different from processing natural sentences, and separators play an important role.
+
+
 *2025-12-26*
 
 #### [Detecting Hallucinations in Graph Retrieval-Augmented Generation via Attention Patterns and Semantic Alignment](https://arxiv.org/abs/2512.09148)
