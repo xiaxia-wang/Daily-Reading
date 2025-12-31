@@ -6,6 +6,18 @@
 
 
 
+
+*2025-12-30*
+
+#### [Rule-Guided Graph Neural Networks for Explainable Knowledge Graph Reasoning](https://ojs.aaai.org/index.php/AAAI/article/view/33394)
+
+*Zhe Wang, Suxue Ma, Kewen Wang, Zhiqiang Zhuang*
+
+*AAAI 2025*
+
+This work explores to use the "confidence score" in rule extraction to guide the GNN learning process, while it is limited to a small set of rule types with very simple structure.
+
+
 *2025-08-22*
 
 #### [GLIDR: Graph-Like Inductive Logic Programming with Differentiable Reasoning](https://arxiv.org/abs/2508.06716)
