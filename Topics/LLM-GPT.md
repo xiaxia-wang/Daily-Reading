@@ -10,6 +10,18 @@
 
 
 
+
+*2026-01-01*
+
+#### [MRR-FV: Unlocking Complex Fact Verification with Multi-Hop Retrieval and Reasoning](https://ojs.aaai.org/index.php/AAAI/article/view/34802)
+
+*Liwen Zheng, Chaozhuo Li, Litian Zhang, Haoran Jia, Senzhang Wang, Zheng Liu, Xi Zhang*
+
+*AAAI 2025*
+
+This work introduces a generative retrieval-enhanced model for multi-hop retrieval and reasoning for fact verification, consisting of two core modules: Generative Multi-hop Retriever and the Hierarchical Interaction Reasoner. It utilizes an autoregressive model for iterative multi-hop evidence retrieval, complemented by a pre-trained compressor to address the challenge of intention shift across retrieval hops.
+
+
 *2025-12-29*
 
 #### [A Systematic Exploration of Knowledge Graph Alignment with Large Language Models in Retrieval Augmented Generation](https://ojs.aaai.org/index.php/AAAI/article/view/34716)
