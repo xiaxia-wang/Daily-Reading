@@ -4,11 +4,15 @@
 
 
 
+*2026-01-02*
 
+#### [What Is a Good Question? Assessing Question Quality via Meta-Fact Checking](https://ojs.aaai.org/index.php/AAAI/article/view/33673)
 
+*Bo Zhang, Jianghua Zhu, Chaozhuo Li, Hao Yu, Li Kong, Zhan Wang, Dezhuang Miao, Xiaoming Zhang, Junsheng Zhou*
 
+*AAAI 2025*
 
-
+This paper proposes aligning the complete knowledge underlying questions with educational criteria employed in physics courses, thereby developing knowledge-intensive metrics of question quality. It proposes Meta-Fact Checking (MFC), which transforms questions into KG triples using LLMs through few-shot prompting, thereby quantifying question quality based on the patterns observed within these triples. MFC introduces a novel interaction mechanism for KGs that communicates meta-facts, illustrating the types of knowledge that KGs can offer to the LLM for reasoning questions, rather than relying solely on the original triples.
 
 
 *2025-12-23*
