@@ -4,6 +4,18 @@
 
 
 
+
+*2026-01-03*
+
+#### [Explore What LLM Does Not Know in Complex Question Answering](https://ojs.aaai.org/index.php/AAAI/article/view/34638)
+
+*Xin Lin, Zhenya Huang, Zhiqiang Zhang, Jun Zhou, Enhong Chen*
+
+*AAAI 2025*
+
+This work introduces a quiz-based method to examine the "knowledge boundary" of LLM for QA, and retrieves the unknown knowledge from external source to evaluate its utility and select helpful ones for reasoning.
+
+
 *2026-01-02*
 
 #### [What Is a Good Question? Assessing Question Quality via Meta-Fact Checking](https://ojs.aaai.org/index.php/AAAI/article/view/33673)
