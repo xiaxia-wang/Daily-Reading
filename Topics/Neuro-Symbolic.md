@@ -8,6 +8,18 @@
 
 
 
+
+*2026-01-04*
+
+#### [Promoting Knowledge Base Question Answering by Directing LLMs to Generate Task-relevant Logical Forms](https://ojs.aaai.org/index.php/AAAI/article/view/34564)
+
+*Jianqi Gao, Jian Cao, Ranran Bu, Nengjun Zhu, Wei Guan, Hang Yu*
+
+*AAAI 2025*
+
+This work proposes a learning framework that fine-tunes LLMs using multi-task learning for KBQA. Specifically, the LLMs are fine-tuned with an additional objective: generating the index of reasoning paths that lead to correct answers, which directs LLMs to pay attention to answer-relevant paths among numerous reasoning paths by completing a simple task where the selected reasoning paths can be supplementary for non-executable LF.
+
+
 *2025-11-07*
 
 #### [Neural Reasoning for Robust Instance Retrieval in SHOIQ](https://arxiv.org/abs/2510.20457)
