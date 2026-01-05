@@ -7,6 +7,18 @@
 
 
 
+
+*2026-01-05*
+
+#### [Transfer Rule Learning over Large Knowledge Graphs](https://dl.acm.org/doi/10.1145/3696410.3714597)
+
+*Hong Liu, Zhe Wang, Kewen Wang, Xiaowang Zhang, Zhiyong Feng*
+
+*WWW 2025*
+
+This paper proposes a KG rule learning approach based on transfer learning. It uses a predicate-alignment learned over the predicate graph, where vertexes with similar neighboring predicates structure in the source KG and the target KG are mapped.
+
+
 *2025-12-30*
 
 #### [Rule-Guided Graph Neural Networks for Explainable Knowledge Graph Reasoning](https://ojs.aaai.org/index.php/AAAI/article/view/33394)
