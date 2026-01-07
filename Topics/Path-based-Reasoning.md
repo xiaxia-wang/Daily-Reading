@@ -9,6 +9,18 @@
 
 
 
+
+*2026-01-06*
+
+#### [Multi-hop Reasoning via Early Knowledge Alignment](https://arxiv.org/abs/2512.20144)
+
+*Yuxin Wang, Shicheng Fang, Bo Wang, Qi Luo, Xuanjing Huang, Yining Zheng, Xipeng Qiu*
+
+*Arxiv 2025*
+
+Iterative RAG handles multi-hop QA by reinforcement learning, but existing systems typically plan to decompose questions without leveraging information about the available retrieval corpus, leading to inefficient retrieval and reasoning chains that cascade into suboptimal performance. This work introduces Early Knowledge Alignment that aligns LLMs with retrieval set before planning in iterative RAG with contextually relevant retrieved knowledge.
+
+
 *2025-12-18*
 
 #### [Graph Distance as Surprise: Free Energy Minimization in Knowledge Graph Reasoning](https://arxiv.org/abs/2512.01878)
