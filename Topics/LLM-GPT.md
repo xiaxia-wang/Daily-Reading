@@ -11,6 +11,18 @@
 
 
 
+
+*2026-01-07*
+
+#### [Understanding and Mitigating Numerical Sources of Nondeterminism in LLM Inference](https://openreview.net/forum?id=Q3qAsZAEZw)
+
+*Jiayi Yuan, Hao Li, Xinheng Ding, Wenya Xie, Yu-Jhe Li, Wentian Zhao, Kun Wan, Jing Shi, Xia Hu, Zirui Liu*
+
+*NeurIPS 2025*
+
+[Acknowledgement: Copied from meta review] The paper shows that choice of floating point precision can lead to significant changes in inference accuracy reported for reasoning models. Strengths: Extensive study showing the extent of variation, important to the interpretation of reasoning results, provide a solution to address reproducibility issues without incurring memory overhead.
+
+
 *2026-01-01*
 
 #### [MRR-FV: Unlocking Complex Fact Verification with Multi-Hop Retrieval and Reasoning](https://ojs.aaai.org/index.php/AAAI/article/view/34802)
