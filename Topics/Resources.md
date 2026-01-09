@@ -7,6 +7,18 @@
 
 
 
+
+*2026-01-08*
+
+#### [Artificial Hivemind: The Open-Ended Homogeneity of Language Models (and Beyond)](https://openreview.net/forum?id=saDOrrnNTz)
+
+*Liwei Jiang, Yuanjun Chai, Margaret Li, Mickel Liu, Raymond Fok, Nouha Dziri, Yulia Tsvetkov, Maarten Sap, Yejin Choi*
+
+*NeurIPS 2025*
+
+[Acknowledgement: Copied from meta review] This paper presents Infinity-Chat, a large-scale benchmark comprising 26K real-world, open-ended user queries and 31K human annotations, designed to evaluate diversity and pluralism in language model outputs. The authors propose a comprehensive evaluation framework that (1) develops a novel taxonomy of open-ended prompts, and (2) introduces the concept of the Artificial Hivemind to characterize intra- and inter-model homogenization. They evaluate over 70 LMs using this framework, analyzing response diversity, measuring mode collapse, and assessing alignment with dense human preferences. Experiments reveal severe repetition both within and across models, highlighting concerning trends of homogenization and misalignment in open-ended generation.
+
+
 *2025-11-25*
 
 #### [SQUAB: Evaluating LLM robustness to Ambiguous and Unanswerable Questions in Semantic Parsing](https://aclanthology.org/2025.emnlp-main.906/)
