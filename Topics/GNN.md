@@ -6,6 +6,18 @@
 
 
 
+
+*2026-01-09*
+
+#### [GRAVER: Generative Graph Vocabularies for Robust Graph Foundation Models Fine-tuning](https://openreview.net/forum?id=tyERwC5520)
+
+*Haonan Yuan, Qingyun Sun, Junhua Shi, Xingcheng Fu, Bryan Hooi, Jianxin Li, Philip S. Yu*
+
+*NeurIPS 2025*
+
+[Acknowledgement: Copied from meta review] The paper proposes a generative graph vocabulary construction based on ego-graph disentanglement and graphon modeling to create transferable subgraph patterns. These vocabularies are integrated via a hierarchical Mixture-of-Experts (MoE) and Class-of-Experts (CoE) routing mechanism to enhance robustness in cross-domain and few-shot node/graph classification tasks. Weakneses pointed by reviewers: (1) Scalability Concerns: The evaluation is limited to graphs with up to 250,000 nodes; (2) Limited Discussion of Traditional Few-Shot Methods: The initial submission lacked a comparison with traditional few-shot graph learning approaches; (3) Empirical Validation of Vocabulary Transfer: While the authors claim vocabulary reusability, more explicit cross-domain reuse metrics are required.
+
+
 *2025-11-17*
 
 #### [Scalable Feature Learning on Huge Knowledge Graphs for Downstream Machine Learning](https://openreview.net/pdf/f22b26fa13d0b0488d2674d5991216d381b43261.pdf)
