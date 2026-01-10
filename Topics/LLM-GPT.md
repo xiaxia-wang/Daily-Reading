@@ -3,13 +3,15 @@
 
 
 
+*2026-01-10*
 
+#### [Understanding Prompt Tuning and In-Context Learning via Meta-Learning](https://arxiv.org/abs/2505.17010)
 
+*Tim Genewein, Li Kevin Wenliang, Jordi Grau-Moya, Anian Ruoss, Laurent Orseau, Marcus Hutter*
 
+*NeurIPS 2025*
 
-
-
-
+This paper introduces how optimal prompting can be understood through a Bayesian view, which also implies some fundamental limitations of prompting that can only be overcome by tuning weights. The paper explains how meta-trained neural networks behave as Bayesian predictors over the pretraining distribution, whose hallmark feature is rapid in-context adaptation. Optimal prompting can be studied formally as conditioning these Bayesian predictors, yielding criteria for target tasks where optimal prompting is and is not possible. Soft prefixes can lead to very effective prompts for trained and even untrained networks by manipulating activations in ways that are not achievable by hard tokens.
 
 
 *2026-01-07*
