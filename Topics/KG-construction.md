@@ -5,6 +5,18 @@
 
 
 
+
+*2026-01-11*
+
+#### [KGGen: Extracting Knowledge Graphs from Plain Text with Language Models](https://openreview.net/forum?id=YyhRJXxbpi)
+
+*Belinda Mo, Kyssen Yu, Joshua Kazdan, Proud Mpala, Lisa Yu, Charilaos I. Kanatsoulis, Sanmi Koyejo*
+
+*NeurIPS 2025*
+
+This paper introduces a LLM-based approach for extracting knowledge graphs directly from text. Specifically, Gemini 2.0 Flash is used to extract entities (nodes) and relationships (edges) between nodes. Subsequently, a clustering approach is used to perform entity resolution and thus reduce the sparsity of the graph.
+
+
 *2025-12-24*
 
 #### [Ontology-Based Knowledge Graph Framework for Industrial Standard Documents via Hierarchical and Propositional Structuring](https://arxiv.org/abs/2512.08398)
