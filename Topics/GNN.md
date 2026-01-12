@@ -7,6 +7,18 @@
 
 
 
+
+*2026-01-12*
+
+#### [GFM-RAG: Graph Foundation Model for Retrieval Augmented Generation](https://openreview.net/forum?id=0QNmAvQQqj)
+
+*Linhao Luo, Zicheng Zhao, Gholamreza Haffari, Dinh Phung, Chen Gong, Shirui Pan*
+
+*NeurIPS 2025*
+
+The paper introduces a graph foundation model designed to advance RAG by incorporating graph neural networks to capture complex relationships within knowledge graphs. It builds a knowledge graph index from documents, representing information as interconnected triples, which supports multi-hop reasoning and integrates heterogeneous knowledge sources.
+
+
 *2026-01-09*
 
 #### [GRAVER: Generative Graph Vocabularies for Robust Graph Foundation Models Fine-tuning](https://openreview.net/forum?id=tyERwC5520)
