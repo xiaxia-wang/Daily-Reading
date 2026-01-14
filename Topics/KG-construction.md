@@ -6,6 +6,18 @@
 
 
 
+
+*2026-01-13*
+
+#### [KARMA: Leveraging Multi-Agent LLMs for Automated Knowledge Graph Enrichment](https://openreview.net/forum?id=k0wyi4cOGy)
+
+*Yuxing Lu, Wei Wu, Xukai Zhao, Rui Peng, Jinzhuo Wang*
+
+*NeurIPS 2025*
+
+This work introduces a multi-agent LLM framework that automatically updates and expands knowledge graphs from scientific papers. With 9 specialized agents, it successfully adds new entities with high accuracy and reduced inconsistency.
+
+
 *2026-01-11*
 
 #### [KGGen: Extracting Knowledge Graphs from Plain Text with Language Models](https://openreview.net/forum?id=YyhRJXxbpi)
