@@ -8,6 +8,18 @@
 
 
 
+
+*2026-01-14*
+
+#### [SSRB: Direct Natural Language Querying to Massive Heterogeneous Semi-Structured Data](https://openreview.net/forum?id=LuMGoG6lBA)
+
+*Xin Zhang, Mingxin Li, Yanzhao Zhang, Dingkun Long, Yongqi Li, Yinghui Li, Pengjun Xie, Meishan Zhang, Wenjie Li, Min Zhang, Philip S. Yu*
+
+*NeurIPS 2025*
+
+[Acknowledgement: Copied from meta review] The paper introduces a large-scale benchmark for evaluating natural language querying over heterogeneous semi-structured data. It contains 14M semi-structured objects across 99 schemas and 6 domains, with 8,485 test queries combining exact matching and fuzzy semantic conditions. Evaluations show that dense retrievers achieve reasonable but limited performance, while fine-tuned models show improvements.
+
+
 *2026-01-08*
 
 #### [Artificial Hivemind: The Open-Ended Homogeneity of Language Models (and Beyond)](https://openreview.net/forum?id=saDOrrnNTz)
