@@ -8,6 +8,17 @@
 
 
 
+*2026-01-15*
+
+#### [Unifying and Enhancing Graph Transformers via a Hierarchical Mask Framework](https://openreview.net/forum?id=c7leN0pIQv)
+
+*Yujie Xing, Xiao Wang, Bin Wu, Hai Huang, Chuan Shi*
+
+*NeurIPS 2025*
+
+This paper proposes a unified hierarchical mask framework for Graph Transformers and introduces a Mixture-of-Experts-based model that adaptively integrates local, cluster, and global attention masks for node classification.
+
+
 *2026-01-12*
 
 #### [GFM-RAG: Graph Foundation Model for Retrieval Augmented Generation](https://openreview.net/forum?id=0QNmAvQQqj)
