@@ -3,6 +3,18 @@
 
 
 
+
+*2026-01-16*
+
+#### [Chain-of-Retrieval Augmented Generation](https://openreview.net/forum?id=gUPGGCM4WH)
+
+*Liang Wang, Haonan Chen, Nan Yang, Xiaolong Huang, Zhicheng Dou, Furu Wei*
+
+*NeurIPS 2025*
+
+This paper introduces an approach for training o1-like RAG models that retrieve and reason over relevant information step by step before generating the final answer. Conventional RAG usually perform a single retrieval step before the generation process, which limits their effectiveness in addressing complex queries due to imperfect retrieval results. In contrast, CoRAG (Chain-of-Retrieval Augmented Generation) allows the model to dynamically reformulate the query based on the evolving state. To train CoRAG effectively, rejection sampling was used to automatically generate intermediate retrieval chains, thus augmenting existing RAG datasets that only provide the correct final answer.
+
+
 *2026-01-10*
 
 #### [Understanding Prompt Tuning and In-Context Learning via Meta-Learning](https://arxiv.org/abs/2505.17010)
