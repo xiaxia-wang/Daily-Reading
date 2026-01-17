@@ -5,8 +5,15 @@
 
 
 
+*2026-01-17*
 
+#### [GRIP: A Graph-Based Reasoning Instruction Producer](https://openreview.net/forum?id=36TBVGwzAY)
 
+*Jiankang Wang, Jianjun Xu, Xiaorui Wang, Yuxin Wang, Mengting Xing, Shancheng Fang, Hongtao Xie*
+
+*NeurIPS 2025*
+
+This paper focuses on data synthesis to advance the reasoning capabilities of LLMs. It presents GRIP that synthesizes high-quality and diverse reasoning instructions. GRIP constructs a knowledge graph by extracting high-level concepts from seed data, leverages both explicit and implicit relationships within the graph to drive large-scale and diverse instruction data synthesis, and employs open-source multi-model supervision to ensure data quality.
 
 
 *2026-01-14*
