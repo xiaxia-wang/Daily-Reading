@@ -9,6 +9,18 @@
 
 
 
+
+*2026-01-18*
+
+#### [Neurosymbolic Retrievers for Retrieval-augmented Generation](https://arxiv.org/abs/2601.04568)
+
+*Yash Saxena, Manas Gaur*
+
+*Arxiv 2026*
+
+This work introduces the concept of Neurosymbolic RAG. This new framework aims to answer: (a) Can retrievers provide a clear and interpretable basis for document selection? (b) Can symbolic knowledge enhance the clarity of the retrieval process? It proposes three methods to improve this integration. (1) Knowledge Modulation Aligned Retrieval that employs modulation networks to refine query embeddings using interpretable symbolic features, thereby making document matching more explicit. (2) KG-Path RAG enhances queries by traversing knowledge graphs to improve overall retrieval quality and interpretability. (3) Process Knowledge-infused RAG utilizes domain-specific tools to reorder retrieved content based on validated workflows.
+
+
 *2026-01-04*
 
 #### [Promoting Knowledge Base Question Answering by Directing LLMs to Generate Task-relevant Logical Forms](https://ojs.aaai.org/index.php/AAAI/article/view/34564)
