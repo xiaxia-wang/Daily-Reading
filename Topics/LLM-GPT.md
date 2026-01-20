@@ -5,6 +5,18 @@
 
 
 
+
+*2026-01-20*
+
+#### [TagRAG: Tag-guided Hierarchical Knowledge Graph Retrieval-Augmented Generation](https://arxiv.org/abs/2601.05254)
+
+*Wenbiao Tao, Xinyuan Li, Yunshi Lan, Weining Qian*
+
+*Arxiv 2026*
+
+TagRAG introduces two key components: (1) Tag Knowledge Graph Construction, which extracts object tags and their relationships from documents and organizes them into hierarchical domain tag chains for structured knowledge representation, and (2) Tag-Guided Retrieval-Augmented Generation, which retrieves domain-centric tag chains to localize and synthesize relevant knowledge during inference. This design significantly adapts to smaller language models, improves retrieval granularity, and supports efficient knowledge increment.
+
+
 *2026-01-19*
 
 #### [T-Retriever: Tree-based Hierarchical Retrieval Augmented Generation for Textual Graphs](https://arxiv.org/abs/2601.04945)
