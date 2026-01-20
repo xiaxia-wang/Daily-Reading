@@ -4,6 +4,18 @@
 
 
 
+
+*2026-01-19*
+
+#### [T-Retriever: Tree-based Hierarchical Retrieval Augmented Generation for Textual Graphs](https://arxiv.org/abs/2601.04945)
+
+*Chunyu Wei, Huaiyu Qin, Siyuan He, Yunhai Wang, Yueguo Chen*
+
+*Arxiv 2026*
+
+Tree-based retrieval using: (1) Adaptive Compression Encoding, which replaces artificial compression quotas with a global optimization strategy that preserves the graph's natural hierarchical organization, and (2) Semantic-Structural Entropy, which jointly optimizes for both structural cohesion and semantic consistency when creating hierarchical partitions.
+
+
 *2026-01-16*
 
 #### [Chain-of-Retrieval Augmented Generation](https://openreview.net/forum?id=gUPGGCM4WH)
