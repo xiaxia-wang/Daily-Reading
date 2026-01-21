@@ -11,6 +11,18 @@
 
 
 
+
+*2026-01-21*
+
+#### [Cumulative Path-Level Semantic Reasoning for Inductive Knowledge Graph Completion](https://arxiv.org/abs/2601.05629)
+
+*Jiapu Wang, Xinghe Cheng, Zezheng Wu, Ruiqi Ma, Rui Wang, Zhichao Yan, Haoran Luo, Yuhao Jiang, Kai Sun*
+
+*Arxiv 2025*
+
+This work introduces an inductive KGC approach that employs a query-dependent masking module to adaptively mask noisy structural information while retaining important information closely related to the targets. Besides, it uses a global semantic scoring module that evaluates both the individual contributions and the collective impact of nodes along the reasoning path within KGs.
+
+
 *2025-10-25*
 
 #### [Knowledge Graph Large Language Model (KG-LLM) for Link Prediction](https://arxiv.org/abs/2403.07311)
