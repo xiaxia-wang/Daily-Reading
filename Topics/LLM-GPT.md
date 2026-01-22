@@ -6,6 +6,18 @@
 
 
 
+
+*2026-01-22*
+
+#### [Fine-Tuning vs. RAG for Multi-Hop Question Answering with Novel Knowledge](https://arxiv.org/abs/2601.07054)
+
+*Zhuoyi Yang, Yurun Song, Iftekhar Ahmed, Ian Harris*
+
+*Arxiv 2026*
+
+This work compares parametric and non-parametric knowledge injection methods for open-domain multi-hop question answering, including unsupervised fine-tuning (continual pretraining), supervised fine-tuning, and retrieval-augmented generation across three 7B-parameter open-source LLMs. Results show that unsupervised fine-tuning provides only limited gains over base models, suggesting that continual pretraining alone is insufficient for improving multi-hop reasoning accuracy. In contrast, retrieval-augmented generation yields substantial and consistent improvements, particularly when answering questions that rely on temporally novel information. Supervised fine-tuning achieves the highest overall accuracy across models and datasets.
+
+
 *2026-01-20*
 
 #### [TagRAG: Tag-guided Hierarchical Knowledge Graph Retrieval-Augmented Generation](https://arxiv.org/abs/2601.05254)
