@@ -6,6 +6,18 @@
 
 
 
+
+*2026-01-24*
+
+#### [From Symbolic to Natural-Language Relations: Rethinking Knowledge Graph Construction in the Era of Large Language Models](https://arxiv.org/abs/2601.09069)
+
+*Kanyao Han, Yushang Lai*
+
+*Arxiv 2026*
+
+This position paper advocates moving from symbolic to natural-language relation descriptions, and proposes hybrid design principles that preserve a minimal structural backbone while enabling more flexible and context-sensitive relational representations.
+
+
 *2025-10-30*
 
 #### [Large Language Models Meet Knowledge Graphs for Question Answering: Synthesis and Opportunities](https://arxiv.org/abs/2505.20099)
