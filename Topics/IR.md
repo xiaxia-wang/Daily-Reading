@@ -6,7 +6,15 @@
 
 
 
+*2026-01-25*
 
+#### [Topo-RAG: Topology-aware retrieval for hybrid text-table documents](https://arxiv.org/abs/2601.10215)
+
+*Alex Dantart, Marco Kóvacs-Navarro*
+
+*Arxiv 2026*
+
+This work proposes a dual architecture that respects the topology of text-table documents by routing fluid narrative through traditional dense retrievers, while tabular structures are processed by a Cell-Aware Late Interaction mechanism, preserving their spatial relationships.
 
 
 *2025-10-14*
