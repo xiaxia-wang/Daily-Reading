@@ -12,6 +12,18 @@
 
 
 
+
+*2026-01-26*
+
+#### [Panning for Gold: Expanding Domain-Specific Knowledge Graphs with General Knowledge](https://arxiv.org/abs/2601.10485)
+
+*Runhao Zhao, Weixin Zeng, Wentao Zhang, Chong Chen, Zhengpin Li, Xiang Zhao, Lei Chen*
+
+*Arxiv 2026*
+
+Domain-specific Knowledge Graph Fusion is to enrich DKGs by integrating relevant facts from genral KGs. DKGF faces two key challenges: high ambiguity in domain relevance and misalignment in knowledge granularity across graphs. This work proposes a Fact-as-Program paradigm by treating each GKG fact as a latent semantic program, mapping abstract relations to granularity-aware operators, and verifying domain relevance via program executability on the target DKG.
+
+
 *2026-01-21*
 
 #### [Cumulative Path-Level Semantic Reasoning for Inductive Knowledge Graph Completion](https://arxiv.org/abs/2601.05629)
