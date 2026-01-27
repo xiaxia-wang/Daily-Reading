@@ -7,6 +7,18 @@
 
 
 
+
+*2026-01-27*
+
+#### [Uncertainty-Aware Dynamic Knowledge Graphs for Reliable Question Answering](https://arxiv.org/abs/2601.09720)
+
+*Yu Takahashi, Shun Takeuchi, Kexuan Xin, Guillaume Pelat, Yoshiaki Ikai, Junya Saito, Jonathan Vitale, Shlomo Berkovsky, Amin Beheshti*
+
+*IEEE ICDM 2025 Demo Track*
+
+This work presents a demonstration of uncertainty-aware dynamic KGs, a framework that combines (i) dynamic construction of evolving KGs, (ii) confidence scoring and uncertainty-aware retrieval, and (iii) an interactive interface for reliable and interpretable QA. The system enables users to explore dynamic graphs, inspect confidence-annotated triples, and compare baseline versus confidence-aware answers.
+
+
 *2026-01-13*
 
 #### [KARMA: Leveraging Multi-Agent LLMs for Automated Knowledge Graph Enrichment](https://openreview.net/forum?id=k0wyi4cOGy)
