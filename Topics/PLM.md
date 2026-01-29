@@ -11,6 +11,18 @@
 
 
 
+
+*2026-01-28*
+
+#### [Bootstrapping Code Translation with Weighted Multilanguage Exploration](https://arxiv.org/abs/2601.03512)
+
+*Yuhan Wu, Huan Zhang, Wei Cheng, Chen Shen, Jingyue Yang, Wei Hu*
+
+*Arxiv 2026*
+
+This work introduces a boostrapping method for code translation. Its key idea is to leverage the functional invariance and cross-lingual portability of test suites, adapting abundant pivot-language unit tests to serve as universal verification oracles for multilingual RL training. It uses a dual-pool architecture with seed and exploration pools to progressively expand training data via execution-guided experience collection.
+
+
 *2025-12-28*
 
 #### [Causal Reasoning Favors Encoders: On The Limits of Decoder-Only Models](https://arxiv.org/abs/2512.10561)
