@@ -7,6 +7,18 @@
 
 
 
+
+*2026-01-29*
+
+#### [PERQ: Predicting, Explaining, and Rectifying Failed Questions in KB-QA Systems](https://dl.acm.org/doi/10.1145/3336191.3371782)
+
+*Zhiyong Wu, Ben Kao, Tien-Hsuan Wu, Pengcheng Yin, Qun Liu*
+
+*WSDM 2020*
+
+This work investigates the difficult KBQA questions for existing systems. Given a question $q$, they perform three steps to boost answer accuracy: (1) Prediction: to predict if $q$ can be answered correctly by a KBQA system $S$. (2) Explanation: if $S$ is predicted to fail $q$, they analyze $S$ and $q$ to determine the most likely reasons of the failure. (3) Rectification: the prediction and explanation results are used to rectify the answer.
+
+
 *2026-01-22*
 
 #### [Fine-Tuning vs. RAG for Multi-Hop Question Answering with Novel Knowledge](https://arxiv.org/abs/2601.07054)
