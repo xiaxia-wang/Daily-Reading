@@ -5,6 +5,18 @@
 
 
 
+
+*2026-01-30*
+
+#### [Diagnosing and Addressing Pitfalls in KG-RAG Datasets: Toward More Reliable Benchmarking](https://openreview.net/forum?id=Vd5JXiX073)
+
+*Liangliang Zhang, Zhuorui Jiang, Hongliang Chi, Haoyang Chen, Mohammed ElKoumy, Fali Wang, Qiong Wu, Zhengyi Zhou, Shirui Pan, Suhang Wang, Yao Ma*
+
+*NeurIPS 2025*
+
+Through a manual audit of 16 popular KGQA datasets—including WebQSP and CWQ—the authors find that the average factual correctness rate is only 57%. To address these issues, KGQAGen was introduced as an LLM-in-the-loop framework that combines structured knowledge grounding, LLM-guided generation, and symbolic verification to produce challenging and verifiable QA instances.
+
+
 *2026-01-17*
 
 #### [GRIP: A Graph-Based Reasoning Instruction Producer](https://openreview.net/forum?id=36TBVGwzAY)
