@@ -6,6 +6,18 @@
 
 
 
+
+*2026-01-31*
+
+#### [Agentic-R: Learning to Retrieve for Agentic Search](https://arxiv.org/abs/2601.11888)
+
+*Wenhan Liu, Xinyu Ma, Yutao Zhu, Yuchen Li, Daiting Shi, Dawei Yin, Zhicheng Dou*
+
+*Arxiv 2026*
+
+Unlike retrievers designed for single-turn retrieval-augmented generation (RAG) that only rely on local passage utility, this work uses both local query-passage relevance and global answer correctness to measure passage utility in a multi-turn agentic search. They also introduces an iterative training strategy, where the search agent and the retriever are optimized bidirectionally and iteratively.
+
+
 *2026-01-25*
 
 #### [Topo-RAG: Topology-aware retrieval for hybrid text-table documents](https://arxiv.org/abs/2601.10215)
