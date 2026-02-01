@@ -8,6 +8,18 @@
 
 
 
+
+*2026-02-01*
+
+#### [Augmenting Question Answering with A Hybrid RAG Approach](https://arxiv.org/abs/2601.12658)
+
+*Tianyi Yang, Nashrah Haque, Vaishnave Jonnalagadda, Yuya Jeremy Ong, Zhehui Chen, Yanzhao Wu, Lei Yu, Divyesh Jadav, Wenqi Wei*
+
+*IEEE CogMI 2025*
+
+This work introduces a hybrid architecture that enhances QA quality by integrating query augmentation, agentic routing, and a structured retrieval mechanism combining vector and graph based techniques with context unification.
+
+
 *2026-01-29*
 
 #### [PERQ: Predicting, Explaining, and Rectifying Failed Questions in KB-QA Systems](https://dl.acm.org/doi/10.1145/3336191.3371782)
