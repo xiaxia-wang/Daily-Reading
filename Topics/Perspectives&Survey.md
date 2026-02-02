@@ -7,6 +7,17 @@
 
 
 
+*2026-02-02*
+
+#### [AI Meets Brain: Memory Systems from Cognitive Neuroscience to Autonomous Agents](https://arxiv.org/abs/2512.23343)
+
+*Jiafeng Liang, Hao Li, Chang Li, Jiaqi Zhou, Shixin Jiang, Zekun Wang, Changkai Ji, Zhihao Zhu, Runxuan Liu, Tao Ren, Jinlan Fu, See-Kiong Ng, Xia Liang, Ming Liu, Bing Qin*
+
+*Arxiv 2026*
+
+This survey summarizes stories that connect memory mechanism from neuroscience with LLM-driven agents, by providing a comparative analysis of memory taxonomy, storage mechanisms, and management lifecycle.
+
+
 *2026-01-24*
 
 #### [From Symbolic to Natural-Language Relations: Rethinking Knowledge Graph Construction in the Era of Large Language Models](https://arxiv.org/abs/2601.09069)
