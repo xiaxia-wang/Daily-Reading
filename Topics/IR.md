@@ -7,6 +7,18 @@
 
 
 
+
+*2026-02-03*
+
+#### [STAR: Semantic Table Representation with Header-Aware Clustering and Adaptive Weighted Fusion](https://arxiv.org/abs/2601.15860)
+
+*Shui-Hsiang Hsu, Tsung-Hsiang Chou, Chen-Jui Yu, Yao-Chung Fan*
+
+*TheWebConf 2026*
+
+Table retrieval is the task of retrieving the most relevant tables from large-scale corpora given natural language queries. This work proposes STAR (Semantic Table Representation), a lightweight framework that improves semantic table representation through semantic clustering and weighted fusion. STAR first applies header-aware K-means clustering to group semantically similar rows and selects representative centroid instances to construct a diverse partial table. It then generates cluster-specific synthetic queries to comprehensively cover the table's semantic space. Finally, it employs weighted fusion strategies to integrate table and query embeddings, enabling fine-grained semantic alignment.
+
+
 *2026-01-31*
 
 #### [Agentic-R: Learning to Retrieve for Agentic Search](https://arxiv.org/abs/2601.11888)
