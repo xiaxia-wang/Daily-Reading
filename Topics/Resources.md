@@ -6,6 +6,18 @@
 
 
 
+
+*2026-02-05*
+
+#### [DeepEra: A Deep Evidence Reranking Agent for Scientific Retrieval-Augmented Generated Question Answering](https://arxiv.org/abs/2601.16478)
+
+*Haotian Chen, Qingqing Long, Siyu Pu, Xiao Luo, Wei Ju, Meng Xiao, Yuanchun Zhou, Jianghua Zhao, Xuezhi Wang*
+
+*Arxiv 2026*
+
+To support systematic evaluation of scientific RAG, this work constructs SciRAG-SSLI (Scientific RAG - Semantically Similar but Logically Irrelevant), a large-scale dataset comprising about 300K SciQA instances across 10 subjects, constructed from 10M scientific corpus. The dataset combines naturally retrieved contexts with systematically generated distractors to test logical robustness and factual grounding.
+
+
 *2026-01-30*
 
 #### [Diagnosing and Addressing Pitfalls in KG-RAG Datasets: Toward More Reliable Benchmarking](https://openreview.net/forum?id=Vd5JXiX073)
