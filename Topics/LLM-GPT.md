@@ -10,6 +10,18 @@
 
 
 
+
+*2026-02-06*
+
+#### [FABLE: Forest-Based Adaptive Bi-Path LLM-Enhanced Retrieval for Multi-Document Reasoning](https://arxiv.org/abs/2601.18116)
+
+*Lin Sun, Linglin Zhang, Jingang Huang, Change Jia, Zhengwei Cheng, Xiangzheng Zhang*
+
+*Arxiv 2026*
+
+FABLE constructs LLM-enhanced hierarchical forest indexes with multi-granularity semantic structures, then employs a bi-path strategy combining LLM-guided hierarchical traversal with structure-aware propagation for fine-grained evidence acquisition, with explicit budget control for adaptive efficiency trade-offs. -- Details are unclear, I don't understand :(
+
+
 *2026-02-04*
 
 #### [Graph-Anchored Knowledge Indexing for Retrieval-Augmented Generation](https://arxiv.org/abs/2601.16462)
