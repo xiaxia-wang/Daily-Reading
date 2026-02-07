@@ -8,6 +8,18 @@
 
 
 
+
+*2026-02-07*
+
+#### [QUARK: Robust Retrieval under Non-Faithful Queries via Query-Anchored Aggregation](https://arxiv.org/abs/2601.21049)
+
+*Rita Qiuran Lyu, Michelle Manqiao Wang, Lei Shi*
+
+*Arxiv 2026*
+
+User queries in real-world retrieval are often non-faithful (noisy, incomplete, or distorted), causing retrievers to fail when key semantics are missing. This work proposes a training-free framework for robust retrieval under non-faithful queries. It models query uncertainty through recovery hypotheses, i.e., multiple plausible interpretations of the latent intent given the observed query, and introduces query-anchored aggregation to combine their signals robustly. --- But still unclear how to obtain those hypotheses.
+
+
 *2026-02-03*
 
 #### [STAR: Semantic Table Representation with Header-Aware Clustering and Adaptive Weighted Fusion](https://arxiv.org/abs/2601.15860)
