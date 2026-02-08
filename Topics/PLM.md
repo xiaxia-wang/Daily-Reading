@@ -7,9 +7,15 @@
 
 
 
+*2026-02-08*
 
+#### [NAG: A Unified Native Architecture for Encoder-free Text-Graph Modeling in Language Models](https://arxiv.org/abs/2601.22657)
 
+*Haisong Gong, Zhibo Liu, Qiang Liu, Shu Wu, Liang Wang*
 
+*Arxiv 2025*
+
+Instead of bridging disparate embedding spaces, NAG repurposes the self-attention mechanism to enforce topological dependencies and recalibrates positional IDs to ensure structural equivalence. This allows the model to harness its intrinsic linguistic capability to simultaneously comprehend node and edge content alongside structural topology. --- Essentially: flatten the graph into a sequence, apply adapted positional encoding, with anything else for an ordinary LM.
 
 
 *2026-01-28*
