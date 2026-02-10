@@ -9,6 +9,18 @@
 
 
 
+
+*2026-02-10*
+
+#### [Logic-Oriented Retriever Enhancement via Contrastive Learning](https://arxiv.org/abs/2602.01116)
+
+*Wenxuan Zhang, Yuan-Hao Jiang, Changyong Qi, Rui Jia, Yonghe Wu*
+
+*ICASSP 2026*
+
+This work introduces an embedding enhancement method by contrastive learning for improving retrievers in the post-pretrain stage.
+
+
 *2026-02-07*
 
 #### [QUARK: Robust Retrieval under Non-Faithful Queries via Query-Anchored Aggregation](https://arxiv.org/abs/2601.21049)
