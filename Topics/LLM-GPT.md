@@ -5,11 +5,15 @@
 
 
 
+*2026-02-12*
 
+#### [ROG: Retrieval-Augmented LLM Reasoning for Complex First-Order Queries over Knowledge Graphs](https://arxiv.org/abs/2602.02382)
 
+*Ziyan Zhang, Chao Wang, Zhuo Chen, Chiyi Li, Kai Song*
 
+*Arxiv 2026*
 
-
+This work proposes a RAG-based multi-hop QA approach, which decomposes a multi-operator query into a sequence of single-operator sub-queries and grounds each step in compact, query-relevant neighborhood evidence. Intermediate answer sets are cached and reused across steps, improving consistency on deep reasoning chains.
 
 
 *2026-02-11*
