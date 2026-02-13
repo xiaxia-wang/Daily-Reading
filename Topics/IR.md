@@ -10,6 +10,18 @@
 
 
 
+
+*2026-02-13*
+
+#### [Rethinking the Reranker: Boundary-Aware Evidence Selection for Robust Retrieval-Augmented Generation](https://arxiv.org/abs/2602.03689)
+
+*Jiashuo Sun, Pengcheng Jiang, Saizhuo Wang, Jiajun Fan, Heng Wang, Siru Ouyang, Ming Zhong, Yizhu Jiao, Chengsong Huang, Xueqiang Xu, Pengrui Han, Peiran Li, Jiaxin Huang, Ge Liu, Heng Ji, Jiawei Han*
+
+*Arxiv 2026*
+
+This work introduces a reranker trained by reinforcement learning with generator feedback, and adopts a two-stage pipeline that fine-tunes the generator under the induced evidence distribution to mitigate the distribution mismatch between training and inference.
+
+
 *2026-02-10*
 
 #### [Logic-Oriented Retriever Enhancement via Contrastive Learning](https://arxiv.org/abs/2602.01116)
