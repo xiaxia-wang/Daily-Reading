@@ -5,6 +5,18 @@
 
 
 
+
+*2026-02-14*
+
+#### [Fluid Representations in Reasoning Models](https://arxiv.org/abs/2602.04843)
+
+*Dmitrii Kharlapenko, Alessandro Stolfo, Arthur Conmy, Mrinmaya Sachan, Zhijing Jin*
+
+*Arxiv 2025*
+
+This work investigates how a reasoning model (QwQ-32B, by Qwen team, 2025)improve the performance during its internal generation process.  It develops abstract encodings that focus on structure rather than specific action names. Steering experiments reveal causal evidence that these adaptations improve problem solving: injecting refined representations from successful traces boosts accuracy, while symbolic representations can replace many obfuscated encodings with minimal performance loss.
+
+
 *2026-02-12*
 
 #### [ROG: Retrieval-Augmented LLM Reasoning for Complex First-Order Queries over Knowledge Graphs](https://arxiv.org/abs/2602.02382)
