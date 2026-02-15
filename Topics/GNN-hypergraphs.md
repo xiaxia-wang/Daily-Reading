@@ -9,6 +9,18 @@
 
 
 
+
+*2026-02-15*
+
+#### [THOR: Inductive Link Prediction over Hyper-Relational Knowledge Graphs](https://arxiv.org/abs/2602.05424)
+
+*Weijian Yu, Yuhuan Lu, Dingqi Yang*
+
+*Arxiv 2026*
+
+This work introduces an embedding-based inductive hyper-relational KG link prediction model. It is based on relation and entity foundation graphs, with two parallel graph encoders followed by a transformer decoder, which supports efficient masked training and fully-inductive inference. -- new datasets?
+
+
 *2025-11-18*
 
 #### [Higher-Order Learning with Graph Neural Networks via Hypergraph Encodings](https://openreview.net/pdf/c5a51ada1ec63e9409fc90157fca9d8783f01a8e.pdf)
