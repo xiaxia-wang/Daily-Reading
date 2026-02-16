@@ -6,6 +6,18 @@
 
 
 
+
+*2026-02-16*
+
+#### [HugRAG: Hierarchical Causal Knowledge Graph Design for RAG](https://arxiv.org/abs/2602.05143)
+
+*Nengbo Wang, Tuo Liang, Vikash Singh, Chaoda Song, Van Yang, Yu Yin, Jing Ma, Jagdip Singh, Vipin Chaudhary*
+
+*Arxiv 2026*
+
+Offline KG partition + LLM-based causal relation identification --> online search for subgraphs + filtering out irrelevant nodes + combining subgraphs and gated traversal.
+
+
 *2026-02-14*
 
 #### [Fluid Representations in Reasoning Models](https://arxiv.org/abs/2602.04843)
