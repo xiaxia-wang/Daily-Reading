@@ -5,6 +5,18 @@
 
 
 
+
+*2026-02-17*
+
+#### [CompactRAG: Reducing LLM Calls and Token Overhead in Multi-Hop Question Answering](https://arxiv.org/abs/2602.05728)
+
+*Hao Yang, Zhiyu Yang, Xupeng Zhang, Wei Wei, Yunjie Zhang, Lin Yang*
+
+*WWW 2026*
+
+Offline: employ an LLM to extract atomic QA pairs from the corpus. Online: (1) Decompose the complex query $Q$ into dependency-ordered sub-questions $\{q_1, q_2, \cdots, q_n\}$. (2) For each $q_i$, retrieve candidate QA pairs $P_i$ from the atomic QA knowledge base. (3) Run the Answer Extractor on $(q_i, P_i)$ to obtain the grounded entity or answer $a_i$. (4) Use $a_i$ to rewrite the next sub-question $q_{i+1}$ via the SubQuestion Rewriter, obtaining $q^{\text{rew}}_{i+1}$. (5) Continue until all sub-questions are resolved; aggregate all evidence for final LLM synthesis reasoning.
+
+
 *2026-01-03*
 
 #### [Explore What LLM Does Not Know in Complex Question Answering](https://ojs.aaai.org/index.php/AAAI/article/view/34638)
