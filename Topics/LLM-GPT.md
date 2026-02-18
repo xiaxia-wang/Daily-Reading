@@ -7,6 +7,18 @@
 
 
 
+
+*2026-02-18*
+
+#### [RAG without Forgetting: Continual Query-Infused Key Memory](https://arxiv.org/abs/2602.05152)
+
+*Yuntong Hu, Sha Li, Naren Ramakrishnan, Liang Zhao*
+
+*Arxiv 2026*
+
+This work introduces Evolving Retrieval Memory (ERM) as a training-free framework that transforms transient query-time gains into persistent retrieval improvements. ERM updates the retrieval index through correctness-gated feedback, selectively attributes atomic expansion signals to the document keys they benefit, and progressively evolves keys via stable, norm-bounded updates.
+
+
 *2026-02-16*
 
 #### [HugRAG: Hierarchical Causal Knowledge Graph Design for RAG](https://arxiv.org/abs/2602.05143)
