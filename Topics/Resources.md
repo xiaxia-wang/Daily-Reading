@@ -7,6 +7,18 @@
 
 
 
+
+*2026-02-19*
+
+#### [How to evaluate NoSQL Database Paradigms for Knowledge Graph Processing](https://arxiv.org/abs/2602.07612)
+
+*Rosario Napoli, Antonio Celesti, Massimo Villari, Maria Fazio*
+
+*BDCAT 2025*
+
+This paper presents a KG-specific benchmarking framework that employs connectivity density, scale, and introduces a graph-centric metric, namely Semantic Richness (SR), within a four-tier query methodology to reveal performance crossover points across Document-Oriented, Graph, and Multi-Model DBMSs.
+
+
 *2026-02-05*
 
 #### [DeepEra: A Deep Evidence Reranking Agent for Scientific Retrieval-Augmented Generated Question Answering](https://arxiv.org/abs/2601.16478)
