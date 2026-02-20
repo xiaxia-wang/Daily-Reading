@@ -11,6 +11,18 @@
 
 
 
+
+*2026-02-20*
+
+#### [The Correspondence Between Bounded Graph Neural Networks and Fragments of First-Order Logic](https://arxiv.org/abs/2505.08021)
+
+*Bernardo Cuenca Grau, Eva Feng, Przemysław A. Wałęga*
+
+*AAAI 2026*
+
+[Copied from conclusion and future work.] ``We have introduced families of bounded GNNs, whose expressive power corresponds exactly to well-known modal logics and 2-variable first-order logics. Among others, we have showed that standard aggregate-combine GNNs with bounded aggregation have the same expressive power as the graded modal logic. The correspondence between FO-expressibility and bounding aggregation (and readout) occurs as an interesting phenomenon to study. In particular, we find it interesting to determine for which classes of GNNs classifiers, FO-expressibility is equivalent to expressibility by bounded GNNs.''
+
+
 *2025-12-17*
 
 #### [Towards Improving Interpretability of Language Model Generation through a Structured Knowledge Discovery Approach](https://arxiv.org/abs/2511.23335)
