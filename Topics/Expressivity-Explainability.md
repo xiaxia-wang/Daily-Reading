@@ -4,12 +4,15 @@
 
 
 
+*2026-02-21*
 
+#### [Aggregate-Combine-Readout GNNs Are More Expressive Than Logic C2](https://arxiv.org/abs/2508.06091)
 
+*Stan P Hauke, Przemysław Andrzej Wałęga*
 
+*AAAI 2026*
 
-
-
+This work proves that the logical expressiveness of aggregate-combine-readout GNNs strictly exceeds that of C2. This result holds over both undirected and directed graphs. Beyond its implications for GNNs, this work also leads to purely logical insights on the expressive power of infinitary logics.
 
 
 *2026-02-20*
