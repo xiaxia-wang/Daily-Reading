@@ -8,6 +8,17 @@
 
 
 
+*2026-02-22*
+
+#### [Benchmarking Knowledge-Extraction Attack and Defense on Retrieval-Augmented Generation](https://arxiv.org/abs/2602.09319)
+
+*Zhisheng Qi, Utkarsh Sahu, Li Ma, Haoyu Han, Ryan Rossi, Franck Dernoncourt, Mahantesh Halappanavar, Nesreen Ahmed, Yushun Dong, Yue Zhao, Yu Zhang, Yu Wang*
+
+*Arxiv 2026*
+
+Recent studies show that knowledge-extraction attacks can recover sensitive knowledge-base content through maliciously crafted queries. This benchmark is proposed to cover a broad spectrum of attack and defense strategies, representative retrieval embedding models, and both open- and closed-source generators.
+
+
 *2026-02-19*
 
 #### [How to evaluate NoSQL Database Paradigms for Knowledge Graph Processing](https://arxiv.org/abs/2602.07612)
