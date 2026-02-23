@@ -10,6 +10,18 @@
 
 
 
+
+*2026-02-23*
+
+#### [GRAIL: Geometry-Aware Retrieval-Augmented Inference with LLMs over Hyperbolic Representations of Patient Trajectories](https://arxiv.org/abs/2602.12828)
+
+*Zhan Qu, Michael Färber*
+
+*Arxiv 2026*
+
+This work introduces a framework that models longitudinal electronic health records (EHRs) using structured geometric representations and structure-aware retrieval. It constructs a unified clinical graph by combining deterministic coding-system hierarchies with data-driven temporal associations across event types, embeds this graph in hyperbolic space, and summarizes each visit as a probabilistic Central Event that denoises sparse observations.
+
+
 *2025-12-06*
 
 #### [Hierarchical Retrieval with Out-Of-Vocabulary Queries: A Case Study on SNOMED CT](https://arxiv.org/abs/2511.16698)
