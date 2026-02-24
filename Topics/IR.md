@@ -11,6 +11,18 @@
 
 
 
+
+*2026-02-24*
+
+#### [Query-focused and Memory-aware Reranker for Long Context Processing](https://arxiv.org/abs/2602.12192)
+
+*Yuqing Li, Jiangnan Li, Mo Yu, Guoxuan Ding, Zheng Lin, Weiping Wang, Jie Zhou*
+
+*Arxiv 2026*
+
+This paper proposes an alternative reranking framework that trains models to estimate passage-query relevance using the attention scores of selected heads. This approach provides a listwise solution that leverages holistic information within the entire candidate shortlist during ranking. At the same time, it naturally produces continuous relevance scores, enabling training on arbitrary retrieval datasets without requiring Likert-scale supervision. -- The listwise reranking method is a single inference pass, following the so-called 'prompt-decoders'. Notably, QRRanker does not involve any generation processes, but only prefills the prompt with the question and documents, and obtains the attention scores.
+
+
 *2026-02-13*
 
 #### [Rethinking the Reranker: Boundary-Aware Evidence Selection for Robust Retrieval-Augmented Generation](https://arxiv.org/abs/2602.03689)
