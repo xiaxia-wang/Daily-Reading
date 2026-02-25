@@ -8,6 +8,18 @@
 
 
 
+
+*2026-02-25*
+
+#### [RelBench v2: A Large-Scale Benchmark and Repository for Relational Data](https://arxiv.org/abs/2602.12606)
+
+*Justin Gu, Rishabh Ranjan, Charilaos Kanatsoulis, Haiming Tang, Martin Jurkovic, Valter Hudovernik, Mark Znidar, Pranshu Chaturvedi, Parth Shroff, Fengyu Li, Jure Leskovec*
+
+*Arxiv 2026*
+
+RelBench v2 adds four large-scale relational datasets spanning scholarly publications, enterprise resource planning, consumer platforms, and clinical records, increasing the benchmark to 11 datasets comprising over 22 million rows across 29 tables. It further introduces autocomplete tasks, a new class of predictive objectives that require models to infer missing attribute values directly within relational tables while respecting temporal constraints, expanding beyond traditional forecasting tasks constructed via SQL queries.
+
+
 *2026-02-22*
 
 #### [Benchmarking Knowledge-Extraction Attack and Defense on Retrieval-Augmented Generation](https://arxiv.org/abs/2602.09319)
