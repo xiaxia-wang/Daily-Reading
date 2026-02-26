@@ -4,12 +4,15 @@
 
 
 
+*2026-02-26*
 
+#### [AttentionRetriever: Attention Layers are Secretly Long Document Retrievers](https://arxiv.org/abs/2602.12278)
 
+*David Jiahao Fu, Lam Thanh Do, Jiayu Li, Kevin Chen-Chuan Chang*
 
+*Arxiv 2026*
 
-
-
+This paper proposes a long document retrieval model that leverages attention mechanism and entity-based retrieval to build context-aware embeddings for long document and determine the scope of retrieval.
 
 
 *2026-02-24*
