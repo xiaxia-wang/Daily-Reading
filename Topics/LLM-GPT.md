@@ -8,6 +8,18 @@
 
 
 
+
+*2026-02-27*
+
+#### [HyperRAG: Reasoning N-ary Facts over Hypergraphs for Retrieval Augmented Generation](https://arxiv.org/abs/2602.14470)
+
+*Wen-Sheng Lien, Yu-Kai Chan, Hao-Lung Hsiao, Bo-Kai Ruan, Meng-Fen Chiang, Chien-An Chen, Yi-Ren Yeh, Hong-Han Shuai*
+
+*WWW 2026*
+
+HyperRAG is a RAG framework tailored for n-ary hypergraphs with two complementary retrieval variants: (i) HyperRetriever learns structural-semantic reasoning over n-ary facts to construct query-conditioned relational chains. It enables accurate factual tracking, adaptive high-order traversal, and interpretable multi-hop reasoning under context constraints. (ii) HyperMemory leverages the LLM's parametric memory to guide beam search, dynamically scoring n-ary facts and entities for query-aware path expansion.
+
+
 *2026-02-18*
 
 #### [RAG without Forgetting: Continual Query-Infused Key Memory](https://arxiv.org/abs/2602.05152)
