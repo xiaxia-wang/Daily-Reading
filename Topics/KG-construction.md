@@ -8,6 +8,18 @@
 
 
 
+
+*2026-02-28*
+
+#### [Return of the Schema: Building Complete Datasets for Machine Learning and Reasoning on Knowledge Graphs](https://arxiv.org/abs/2602.14795)
+
+*Ivan Diliso, Roberto Barile, Claudia d'Amato, Nicola Fanizzi*
+
+*Arxiv 2026*
+
+This paper introduces a workflow for extracting datasets including both schema and ground facts. The suite includes newly extracted datasets from KGs with expressive schemas while simultaneously enriching existing datasets with schema information.
+
+
 *2026-01-27*
 
 #### [Uncertainty-Aware Dynamic Knowledge Graphs for Reliable Question Answering](https://arxiv.org/abs/2601.09720)
