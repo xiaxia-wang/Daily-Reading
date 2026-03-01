@@ -4,6 +4,18 @@
 
 
 
+
+*2026-03-01*
+
+#### [MultiCube-RAG for Multi-hop Question Answering](https://arxiv.org/abs/2602.15898)
+
+*Jimeng Shi, Wei Hu, Runchu Tian, Bowen Jin, Wonbin Kweon, SeongKu Kang, Yunfan Kang, Dingqi Ye, Sizhe Zhou, Shaowen Wang, Jiawei Han*
+
+*Arxiv 2026*
+
+This paper proposes an ontology-based cube structure with multiple and orthogonal dimensions to model structural subjects, attributes, and relations. Built on the cube structure, it introduces a training-free method consisting of multiple cubes for multi-step reasoning and retrieval. Each cube specializes in modeling a class of subjects, so that MultiCube-RAG flexibly selects the most suitable cubes to acquire the relevant knowledge. To enhance the query-based reasoning and retrieval, it also decomposes a complex multi-hop query into a set of simple subqueries along cube dimensions and conquers each of them sequentially.
+
+
 *2026-02-26*
 
 #### [AttentionRetriever: Attention Layers are Secretly Long Document Retrievers](https://arxiv.org/abs/2602.12278)
