@@ -6,6 +6,18 @@
 
 
 
+
+*2026-03-02*
+
+#### [NeuroSymActive: Differentiable Neural-Symbolic Reasoning with Active Exploration for Knowledge Graph Question Answering](https://arxiv.org/abs/2602.15353)
+
+*Rong Fu, Yang Li, Zeyu Zhang, Jiekai Wu, Yaohua Liu, Shuaishuai Cao, Yangchen Zeng, Yuhang Zhang, Xiaojing Du, Chuang Zhao, Kangning Cui, Simon Fong*
+
+*Arxiv 2026*
+
+More like an engineering biased pipeline, lack of novelty, with obvious typos in Figure 1.
+
+
 *2026-02-17*
 
 #### [CompactRAG: Reducing LLM Calls and Token Overhead in Multi-Hop Question Answering](https://arxiv.org/abs/2602.05728)
