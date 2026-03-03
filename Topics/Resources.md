@@ -9,6 +9,18 @@
 
 
 
+
+*2026-03-03*
+
+#### [Graph Retrieval-Augmented Generation: A Survey](https://dl.acm.org/doi/10.1145/3777378)
+
+*Boci Peng, Yun Zhu, Yongchao Liu, Xiaohe Bo, Haizhou Shi, Chuntao Hong, Yan Zhang, Siliang Tang*
+
+*Arxiv 2025*
+
+This survey formalizes the GraphRAG workflow, including Graph-Based Indexing, Graph-Guided Retrieval, and Graph-Enhanced Generation. It outlines core technologies and training methods at each stage, with downstream tasks, application domains, evaluation methodologies, and industrial use cases.
+
+
 *2026-02-25*
 
 #### [RelBench v2: A Large-Scale Benchmark and Repository for Relational Data](https://arxiv.org/abs/2602.12606)
