@@ -5,6 +5,18 @@
 
 
 
+
+*2026-03-04*
+
+#### [SAGE: Structure Aware Graph Expansion for Retrieval of Heterogeneous Data](https://arxiv.org/abs/2602.16964)
+
+*Prasham Titiya, Rohit Khoja, Tomer Wolfson, Vivek Gupta, Dan Roth*
+
+*Arxiv 2026*
+
+This paper proposes the Structure Aware Graph Expansion framework that (i) constructs a chunk-level graph offline using metadata-driven similarities with percentile-based pruning, and (ii) performs online retrieval by running an initial baseline retriever to obtain k seed chunks, expanding first-hop neighbors, and then filtering the neighbors using dense+sparse retrieval, selecting k' additional chunks. The initial retriever was a hybrid dense+sparse retrieval for implicit cross-modal corpora and SPARK (Structure Aware Planning Agent for Retrieval over Knowledge Graphs), an agentic retriever for explicit schema graphs.
+
+
 *2026-03-01*
 
 #### [MultiCube-RAG for Multi-hop Question Answering](https://arxiv.org/abs/2602.15898)
