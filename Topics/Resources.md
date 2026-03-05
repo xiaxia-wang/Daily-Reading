@@ -3,11 +3,15 @@
 
 
 
+*2026-03-05*
 
+#### [LLM-WikiRace: Benchmarking Long-term Planning and Reasoning over Real-World Knowledge Graphs](https://arxiv.org/abs/2602.16902)
 
+*Juliusz Ziomek, William Bankes, Lorenz Wolf, Shyam Sundhar Ramesh, Xiaohang Tang, Ilija Bogunovic*
 
+*Arxiv 2026*
 
-
+This paper introduces LLM-Wikirace, a benchmark for evaluating planning, reasoning, and world knowledge in large language models (LLMs). The analysis shows that world knowledge is a necessary ingredient for success, but only up to a point, beyond this threshold, planning and long-horizon reasoning capabilities become the dominant factors. Trajectory-level analysis further reveals that even the strongest models struggle to replan after failure, frequently entering loops rather than recovering.
 
 
 *2026-03-03*
