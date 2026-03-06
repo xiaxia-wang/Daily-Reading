@@ -6,6 +6,18 @@
 
 
 
+
+*2026-03-06*
+
+#### [Topology of Reasoning: Retrieved Cell Complex-Augmented Generation for Textual Graph Question Answering](https://arxiv.org/abs/2602.19240)
+
+*Sen Zhao, Lincheng Zhou, Yue Chen, Ding Zou*
+
+*Arxiv 2026*
+
+This work proposes a graph RAG approach by dividing the original graph into larger components compared to entities (i.e., nodes) and paths (i.e., sequence of edges), aiming to capture information represented by more complex graph structures, e.g., cycles.
+
+
 *2026-03-04*
 
 #### [SAGE: Structure Aware Graph Expansion for Retrieval of Heterogeneous Data](https://arxiv.org/abs/2602.16964)
