@@ -9,6 +9,18 @@
 
 
 
+
+*2026-03-07*
+
+#### [Hyper-KGGen: A Skill-Driven Knowledge Extractor for High-Quality Knowledge Hypergraph Generation](https://arxiv.org/abs/2602.19543)
+
+*Rizhuo Huang, Yifan Feng, Rundong Xue, Shihui Ying, Jun-Hai Yong, Chuan Shi, Shaoyi Du, Yue Gao*
+
+*Arxiv 2026*
+
+A hyperedge extractor from documents with extraction stability as a relative reward signal, and an annotated benchmark for document-level knowledge hypergraph extraction.
+
+
 *2026-02-28*
 
 #### [Return of the Schema: Building Complete Datasets for Machine Learning and Reasoning on Knowledge Graphs](https://arxiv.org/abs/2602.14795)
