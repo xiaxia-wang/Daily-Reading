@@ -3,6 +3,18 @@
 
 
 
+
+*2026-03-08*
+
+#### [SPARTA: Scalable and Principled Benchmark of Tree-Structured Multi-hop QA over Text and Tables](https://arxiv.org/abs/2602.23286)
+
+*Sungho Park, Jueun Kim, Wook-Shin Han*
+
+*ICLR 2026*
+
+This work presents SPARTA as an end-to-end framework for generating large-scale Table-Text QA benchmarks with lightweight human validation, requiring only one quarter of the annotation time of HybridQA. It first constructs a reference fact database by enriching each source table with grounding tables whose tuples are atomic facts automatically extracted from the accompanying unstructured passages, then synthesizes nested queries whose number of nested predicates matches the desired hop count.
+
+
 *2026-03-05*
 
 #### [LLM-WikiRace: Benchmarking Long-term Planning and Reasoning over Real-World Knowledge Graphs](https://arxiv.org/abs/2602.16902)
