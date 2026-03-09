@@ -10,6 +10,18 @@
 
 
 
+
+*2026-03-09*
+
+#### [HELP: HyperNode Expansion and Logical Path-Guided Evidence Localization for Accurate and Efficient GraphRAG](https://arxiv.org/abs/2602.20926)
+
+*Yuqi Huang, Ning Liao, Kai Yang, Anning Hu, Shengchao Hu, Xiaoxing Wang, Junchi Yan*
+
+*Arxiv 2026*
+
+Two core strategies: 1) HyperNode Expansion iteratively chains knowledge triplets into coherent reasoning paths abstracted as HyperNodes to capture complex structural dependencies and ensure retrieval accuracy; 2) Logical Path-Guided Evidence Localization leverages precomputed graph-text correlations to map these paths directly to the corpus for superior efficiency.
+
+
 *2026-01-06*
 
 #### [Multi-hop Reasoning via Early Knowledge Alignment](https://arxiv.org/abs/2512.20144)
