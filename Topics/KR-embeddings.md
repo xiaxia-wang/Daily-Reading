@@ -7,8 +7,15 @@
 
 
 
+*2026-03-10*
 
+#### [NGDB-Zoo: Towards Efficient and Scalable Neural Graph Databases Training](https://arxiv.org/abs/2602.21597)
 
+*Zhongwei Xie, Jiaxin Bai, Shujie Liu, Haoyu Huang, Yufei Li, Yisen Gao, Hong Ting Tsang, Yangqiu Song*
+
+*Arxiv 2026*
+
+The so-called neural graph database (NGDB) is essentially a KG embedding scheme used for answering graph queries. This work introduces an optimized training framework for time efficiency and GPU memory scalability.
 
 
 *2026-02-23*
