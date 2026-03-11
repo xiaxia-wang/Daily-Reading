@@ -4,9 +4,15 @@
 
 
 
+*2026-03-11*
 
+#### [RADAR: Reasoning as Discrimination with Aligned Representations for LLM-based Knowledge Graph Reasoning](https://arxiv.org/abs/2602.21951)
 
+*Bo Xue, Yuan Jin, Luoyi Fu, Jiaxin Ding, Xinbing Wang*
 
+*Arxiv 2026*
+
+This work reformulates the task from generative pattern matching to discriminative relational reasoning. It recasts KGR as discriminative entity selection, where reinforcement learning enforces relative entity separability beyond token-likelihood imitation. Leveraging this separability, inference operates directly in representation space, ensuring consistency with the discriminative optimization and bypassing generation-induced hallucinations.
 
 
 *2026-02-27*
