@@ -4,6 +4,18 @@
 
 
 
+
+*2026-03-12*
+
+#### [SmartChunk Retrieval: Query-Aware Chunk Compression with Planning for Efficient Document RAG](https://arxiv.org/abs/2602.22225)
+
+*Xuechen Zhang, Koustava Goswami, Samet Oymak, Jiasi Chen, Nedim Lipka*
+
+*Arxiv 2026*
+
+This work proposes a query-adaptive document chunk compression approach that uses (i) a planner that predicts the optimal chunk abstraction level for each query, and (ii) a lightweight compression module that produces high-level chunk embeddings without repeated summarization.
+
+
 *2025-10-23*
 
 #### [Retrieval-Augmented Generation of Ontologies from Relational Databases](https://arxiv.org/abs/2506.01232)
