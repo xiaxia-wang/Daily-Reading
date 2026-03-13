@@ -7,6 +7,18 @@
 
 
 
+
+*2026-03-13*
+
+#### [Democratizing GraphRAG: Linear, CPU-Only Graph Retrieval for Multi-Hop QA](https://arxiv.org/abs/2602.23372)
+
+*Qizhi Wang*
+
+*Arxiv 2026*
+
+This work introduces a lightweight graphRAG pipeline that includes: (1) normalize text; (2) extract entities with lightweight NER; (3) build an entity–document bipartite graph with TF–IDF weighting; (4) create a seed distribution from the query (entities or topk BM25/dense passages) with optional rank-based weighting; (5) run PPR by power iteration or a push-based approximation; (6) rank passages by PPR scores.
+
+
 *2026-03-02*
 
 #### [NeuroSymActive: Differentiable Neural-Symbolic Reasoning with Active Exploration for Knowledge Graph Question Answering](https://arxiv.org/abs/2602.15353)
