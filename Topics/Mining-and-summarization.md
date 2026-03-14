@@ -5,6 +5,18 @@
 
 
 
+
+*2026-03-14*
+
+#### [Odin: Multi-Signal Graph Intelligence for Autonomous Discovery in Knowledge Graphs](https://arxiv.org/abs/2603.03097)
+
+*Muyukani Kizito, Elizabeth Nyambere*
+
+*Arxiv 2026*
+
+This work introduces a combined score to guide graph exploration, including (1) structural importance via Personalized PageRank, (2) semantic plausibility through Neural Probabilistic Logic Learning (NPLL) as a discriminative filter rather than generative model, (3) temporal relevance with configurable decay, and (4) community-aware guidance through GNN-identified bridge entities and inter-community affinity scores. This bridge scoring mechanism addresses the problem where graph exploration becomes trapped in dense local communities.
+
+
 *2026-03-12*
 
 #### [SmartChunk Retrieval: Query-Aware Chunk Compression with Planning for Efficient Document RAG](https://arxiv.org/abs/2602.22225)
