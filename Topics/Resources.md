@@ -4,6 +4,18 @@
 
 
 
+
+*2026-03-15*
+
+#### [Rule Learning Based on Language Models: A Survey](https://www.sciengine.com/DI/doi/10.3724/2096-7004.di.2025.0161)
+
+*Taiyu Cheng, Haosen Wang, Jing Xiao, Leyan Wang, Mierzhati Alimu, Xiaowang Zhang, Xiaoqian Gao, Boce Chu, Chao Zhang*
+
+*Data Intelligence, 8, 2026.01*
+
+Largely as suggested by the title. Weakness 0: did not mention any work from our group -- an obvious miss of related references.
+
+
 *2026-03-08*
 
 #### [SPARTA: Scalable and Principled Benchmark of Tree-Structured Multi-hop QA over Text and Tables](https://arxiv.org/abs/2602.23286)
