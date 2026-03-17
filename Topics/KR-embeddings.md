@@ -7,6 +7,20 @@
 
 
 
+
+*2026-03-16*
+
+#### [Hierarchical Concept-based Interpretable Models](https://arxiv.org/abs/2602.23947)
+
+*Oscar Hill, Mateo Espinosa Zarlenga, Mateja Jamnik*
+
+*ICLR 2026*
+
+Hierarchical CEM: as in a CEM, from a latent code h, we learn two embeddings per concept ($\hat{c}_i^{+'}$ and $\hat{c}_i^{-'}$). These embeddings are then passed through sub-concepts modules, which produce new embeddings that include information about sub-concepts.
+
+Concept Splitting: (a) train a CEM and calculate concept embeddings; (b) train sparse autoencoders on the embeddings; (c) create concept labels.
+
+
 *2026-03-10*
 
 #### [NGDB-Zoo: Towards Efficient and Scalable Neural Graph Databases Training](https://arxiv.org/abs/2602.21597)
