@@ -6,6 +6,18 @@
 
 
 
+
+*2026-03-17*
+
+#### [Core-based Hierarchies for Efficient GraphRAG](https://arxiv.org/abs/2603.05207)
+
+*Jakir Hossain, Ahmet Erdem Sarıyüce*
+
+*Arxiv 2026*
+
+This work replaces Leiden with k-core decomposition, aiming to yield a deterministic, density-aware hierarchy in linear time. It uses lightweight heuristics that leverage the k-core hierarchy to construct size-bounded, connectivity-preserving communities for retrieval and summarization, along with a token-budget-aware sampling strategy that reduces LLM costs.
+
+
 *2026-03-14*
 
 #### [Odin: Multi-Signal Graph Intelligence for Autonomous Discovery in Knowledge Graphs](https://arxiv.org/abs/2603.03097)
