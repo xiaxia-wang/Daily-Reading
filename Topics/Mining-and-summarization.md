@@ -7,6 +7,18 @@
 
 
 
+
+*2026-03-18*
+
+#### [An LLM-Guided Query-Aware Inference System for GNN Models on Large Knowledge Graphs](https://arxiv.org/abs/2603.04545)
+
+*Waleed Afandi, Hussein Abdallah, Ashraf Aboulnaga, Essam Mansour*
+
+*Arxiv 2026*
+
+KG-WISE decomposes trained GNN models into fine-grained components that can be partially loaded based on the structure of the queried subgraph. It employs large language models to generate reusable query templates that extract semantically relevant subgraphs for each task, enabling query-aware and compact model instantiation.
+
+
 *2026-03-17*
 
 #### [Core-based Hierarchies for Efficient GraphRAG](https://arxiv.org/abs/2603.05207)
