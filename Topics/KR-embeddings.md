@@ -8,6 +8,20 @@
 
 
 
+
+*2026-03-19*
+
+#### [Towards Neural Graph Data Management](https://arxiv.org/abs/2603.05529)
+
+*Yufei Li, Yisen Gao, Jiaxin Bai, Jiaxuan Xiong, Haoyu Huang, Zhongwei Xie, Hong Ting Tsang, Yangqiu Song*
+
+*Arxiv 2026*
+
+This work introduces a benchmark for KG embedding models that supports the full Cypher query language, enabling complex pattern matching, variable-length paths, and numerical aggregations, while incorporating realistic noise injection and dynamic data management operations.
+
+Given a natural language query $q$ and the noisy graph context $G$, the query model $f_{\theta}$ must generate a response $a$ or a formal query language statement (e.g., Cypher). The objective is to minimize the semantic discrepancy between the model’s output and the execution result on the ground truth graph.
+
+
 *2026-03-16*
 
 #### [Hierarchical Concept-based Interpretable Models](https://arxiv.org/abs/2602.23947)
