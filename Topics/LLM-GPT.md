@@ -4,6 +4,18 @@
 
 
 
+
+*2026-03-20*
+
+#### [Towards Robust Retrieval-Augmented Generation Based on Knowledge Graph: A Comparative Analysis](https://arxiv.org/abs/2603.05698)
+
+*Hazem Amamou, Stéphane Gagnon, Alan Davoust, Anderson R. Avila*
+
+*Arxiv 2026*
+
+This work evaluates LLMs in four scenarios: noise robustness, information integration, negative rejection, and counterfactual robustness based on RAG benchmarks.
+
+
 *2026-03-11*
 
 #### [RADAR: Reasoning as Discrimination with Aligned Representations for LLM-based Knowledge Graph Reasoning](https://arxiv.org/abs/2602.21951)
