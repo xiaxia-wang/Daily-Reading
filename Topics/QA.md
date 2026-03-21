@@ -8,6 +8,18 @@
 
 
 
+
+*2026-03-21*
+
+#### [DocSage: An Information Structuring Agent for Multi-Doc Multi-Entity Question Answering](https://arxiv.org/abs/2603.11798)
+
+*Teng Lin, Yizhang Zhu, Zhengxuan Zhang, Yuyu Luo, Nan Tang*
+
+*Arxiv 2026*
+
+This work introduces an end-to-end agentic framework that integrates dynamic schema discovery, structured information extraction, and schema-aware relational reasoning for multi-doc, multi-entity question answering.
+
+
 *2026-03-13*
 
 #### [Democratizing GraphRAG: Linear, CPU-Only Graph Retrieval for Multi-Hop QA](https://arxiv.org/abs/2602.23372)
