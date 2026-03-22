@@ -8,6 +8,17 @@
 
 
 
+*2026-03-22*
+
+#### [Retrieving Minimal and Sufficient Reasoning Subgraphs with Graph Foundation Models for Path-aware GraphRAG](https://arxiv.org/abs/2603.07179)
+
+*Haonan Yuan, Qingyun Sun, Junhua Shi, Mingjun Liu, Jiaqi Yuan, Ziwei Zhang, Xingcheng Fu, Jianxin Li*
+
+*Arxiv 2026*
+
+This work proposes GFM-Retriever that directly responds to user queries with a subgraph, where a pre-trained Graph Foundation Model acts as a cross-domain Retriever for multi-hop path-aware reasoning. It repurposes a pre-trained GFM from an entity ranking function into a generalized retriever to support cross-domain retrieval.
+
+
 *2026-01-15*
 
 #### [Unifying and Enhancing Graph Transformers via a Hierarchical Mask Framework](https://openreview.net/forum?id=c7leN0pIQv)
