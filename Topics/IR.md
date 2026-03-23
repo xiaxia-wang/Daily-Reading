@@ -7,6 +7,18 @@
 
 
 
+
+*2026-03-23*
+
+#### [Fine-Grained Table Retrieval Through the Lens of Complex Queries](https://arxiv.org/abs/2603.07146)
+
+*Wojciech Kosiuk, Xingyu Ji, Yeounoh Chung, Fatma Özcan, Madelon Hulsebos*
+
+*Arxiv 2026*
+
+This work introduces a table retrieval mechanism devising fine-grained typed query decomposition and global connectivity-awareness to handle the challenges induced by open-domain question answering over relational databases in complex usage contexts.
+
+
 *2026-03-06*
 
 #### [Topology of Reasoning: Retrieved Cell Complex-Augmented Generation for Textual Graph Question Answering](https://arxiv.org/abs/2602.19240)
