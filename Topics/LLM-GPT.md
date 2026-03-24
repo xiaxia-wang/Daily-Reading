@@ -5,6 +5,17 @@
 
 
 
+*2026-03-24*
+
+#### [KohakuRAG: A simple RAG framework with hierarchical document indexing](https://arxiv.org/abs/2603.07612)
+
+*Shih-Ying Yeh, Yueh-Feng Ku, Ko-Wei Huang, Buu-Khang Tu*
+
+*Arxiv 2026*
+
+This work introduces a hierarchical RAG framework that preserves document structure through a four-level tree representation (document --> section--> paragraph --> sentence) with bottom-up embedding aggregation, improves retrieval coverage through an LLM-powered query planner with cross-query reranking, and stabilizes answers through ensemble inference with abstention-aware voting.
+
+
 *2026-03-20*
 
 #### [Towards Robust Retrieval-Augmented Generation Based on Knowledge Graph: A Comparative Analysis](https://arxiv.org/abs/2603.05698)
