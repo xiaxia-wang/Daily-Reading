@@ -9,6 +9,18 @@
 
 
 
+
+*2026-03-25*
+
+#### [Rethinking Deep Research from the Perspective of Web Content Distribution Matching](https://arxiv.org/abs/2603.07241)
+
+*Zixuan Yu, Zhenheng Tang, Tongliang Liu, Chengqi Zhang, Xiaowen Chu, Bo Han*
+
+*Arxiv 2026*
+
+Central to this method is a Query-Result Alignment Score, a metric quantifying the compatibility between agent intent and retrieval outcomes. To overcome the intractability of indexing the dynamic web, it introduces a few-shot probing mechanism that iteratively estimates this score via limited query accesses, allowing the agent to dynamically recalibrate sub-goals based on the local content landscape.
+
+
 *2026-03-21*
 
 #### [DocSage: An Information Structuring Agent for Multi-Doc Multi-Entity Question Answering](https://arxiv.org/abs/2603.11798)
