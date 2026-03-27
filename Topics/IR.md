@@ -8,6 +8,17 @@
 
 
 
+*2026-03-27*
+
+#### [Structured Linked Data as a Memory Layer for Agent-Orchestrated Retrieval](https://arxiv.org/abs/2603.10700)
+
+*Andrea Volpini, Elie Raad, Beatrice Gamba, David Riccitelli*
+
+*Arxiv 2026*
+
+This paper investigates whether structured linked data, specifically *Schema.org* markup and dereferenceable entity pages served by a Linked Data Platform, can improve retrieval accuracy and answer quality in both standard and agentic RAG systems. A controlled experiment was conducted across four domains (editorial, legal, travel, e-commerce) using Vertex AI Vector Search 2.0 for retrieval and the Google Agent Development Kit (ADK) for agentic reasoning.
+
+
 *2026-03-23*
 
 #### [Fine-Grained Table Retrieval Through the Lens of Complex Queries](https://arxiv.org/abs/2603.07146)
