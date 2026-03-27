@@ -11,6 +11,17 @@
 
 
 
+*2026-03-26*
+
+#### [TaSR-RAG: Taxonomy-guided Structured Reasoning for Retrieval-Augmented Generation](https://arxiv.org/abs/2603.09341)
+
+*Jiashuo Sun, Yixuan Xie, Jimeng Shi, Shaowen Wang, Jiawei Han*
+
+*Arxiv 2026*
+
+It represents both queries and documents as relational triples, and constrains entity semantics with a lightweight two-level taxonomy to balance generalization and precision. Given a complex question, it decomposes it into an ordered sequence of triple sub-queries with explicit latent variables, then performs step-wise evidence selection via hybrid triple matching that combines semantic similarity over raw triples with structural consistency over typed triples.
+
+
 *2026-03-09*
 
 #### [HELP: HyperNode Expansion and Logical Path-Guided Evidence Localization for Accurate and Efficient GraphRAG](https://arxiv.org/abs/2602.20926)
