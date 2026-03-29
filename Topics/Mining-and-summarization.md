@@ -8,6 +8,17 @@
 
 
 
+*2026-03-29*
+
+#### [MDER-DR: Multi-Hop Question Answering with Entity-Centric Summaries](https://arxiv.org/abs/2603.11223)
+
+*Riccardo Campi, Nicolò Oreste Pinciroli Vago, Mathyas Giudici, Marco Brambilla, Piero Fraternali*
+
+*Arxiv 2026*
+
+This work proposes a domain-agnostic, KG-based QA framework that covers both the indexing and retrieval/inference phases. An indexing approach called Map-Disambiguate-Enrich-Reduce generates context-derived triple descriptions and subsequently integrates them with entity-level summaries, avoiding the need for explicit traversal of edges in the graph during the QA retrieval phase. Complementing this, it introduces Decompose-Resolve to decompose user queries into resolvable triples and ground them in the KG via iterative reasoning.
+
+
 *2026-03-18*
 
 #### [An LLM-Guided Query-Aware Inference System for GNN Models on Large Knowledge Graphs](https://arxiv.org/abs/2603.04545)
