@@ -5,6 +5,17 @@
 
 
 
+*2026-03-28*
+
+#### [KEPo: Knowledge Evolution Poison on Graph-based Retrieval-Augmented Generation](https://arxiv.org/abs/2603.11501)
+
+*Qizhi Chen, Chao Qi, Yihong Huang, Muquan Li, Rongzheng Wang, Dongyang Zhang, Ke Qin, Shuang Liang*
+
+*WWW 2026*
+
+To expose latent security vulnerabilities in GraphRAG, this paper proposes Knowledge Evolution Poison as a poisoning attack method for GraphRAG. For each target query, it first generates a toxic event containing poisoned knowledge based on the target answer. By fabricating event backgrounds and forging knowledge evolution paths from original facts to the toxic event, it then poisons the KG and misleads the LLM into treating the poisoned knowledge as the final result. In multi-target attack scenarios, it further connects multiple attack corpora, enabling their poisoned knowledge to mutually reinforce while expanding the scale of poisoned communities to amplify attack effectiveness.
+
+
 *2026-03-24*
 
 #### [KohakuRAG: A simple RAG framework with hierarchical document indexing](https://arxiv.org/abs/2603.07612)
