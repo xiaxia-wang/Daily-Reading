@@ -5,6 +5,17 @@
 
 
 
+*2026-03-30*
+
+#### [Multi-Step Semantic Reasoning in Generative Retrieval](https://arxiv.org/abs/2603.12368)
+
+*Steven Dong, Yubao Tang, Maarten de Rijke*
+
+*ECIR 2026*
+
+This work introduces a framework designed to enhance multi-step semantic reasoning in numerical contexts within GR. It employs a structured prompting strategy combining task-specific instructions with stepwise reasoning guidance to better address complex retrieval queries, and was evaluated on the FinQA dataset.
+
+
 *2026-03-28*
 
 #### [KEPo: Knowledge Evolution Poison on Graph-based Retrieval-Augmented Generation](https://arxiv.org/abs/2603.11501)
