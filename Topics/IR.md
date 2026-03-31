@@ -8,6 +8,17 @@
 
 
 
+*2026-03-31*
+
+#### [FGTR: Fine-Grained Multi-Table Retrieval via Hierarchical LLM Reasoning](https://arxiv.org/abs/2603.12702)
+
+*Chaojie Sun, Bin Cao, Tiantian Li, Chenyu Hou, Ruizhe Li, Qing Fan*
+
+*Arxiv 2026*
+
+This work introduces a hierarchical multi-table query method based on LLM that employs a human-like reasoning strategy. It first identifies relevant schema elements and then retrieves the corresponding cell contents, ultimately constructing a concise and accurate sub-table that aligns with the given query. To comprehensively evaluate the performance, it constructs two new benchmark datasets based on Spider and BIRD.
+
+
 *2026-03-27*
 
 #### [Structured Linked Data as a Memory Layer for Agent-Orchestrated Retrieval](https://arxiv.org/abs/2603.10700)
