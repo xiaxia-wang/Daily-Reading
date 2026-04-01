@@ -5,6 +5,17 @@
 
 
 
+*2026-04-01*
+
+#### [The Reasoning Bottleneck in Graph-RAG: Structured Prompting and Context Compression for Multi-Hop QA](https://arxiv.org/abs/2603.14045)
+
+*Yasaman Zarrinkia, Venkatesh Srinivasan, Alex Thomo*
+
+*Arxiv 2026*
+
+On 3 multi-hop QA benchmarks (HotpotQA, MuSiQue, 2WikiMultiHopQA), it was found that 77% to 91% of questions have the gold answer in the retrieved context, yet accuracy is only 35% to 78%, and 73% to 84% of errors are reasoning failures. This paper introduces 2 strategies to improve this: (i) SPARQL chain-of-thought prompting, which decomposes questions into triple-pattern queries aligned with the entity-relationship context, and (ii) graph-walk compression, which compresses the context by ~60% via knowledge-graph traversal with no LLM calls.
+
+
 *2026-03-30*
 
 #### [Multi-Step Semantic Reasoning in Generative Retrieval](https://arxiv.org/abs/2603.12368)
