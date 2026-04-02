@@ -5,6 +5,17 @@
 
 
 
+*2026-04-02*
+
+#### [Beyond Explicit Edges: Robust Reasoning over Noisy and Sparse Knowledge Graphs](https://arxiv.org/abs/2603.14006)
+
+*Hang Gao, Dimitris N. Metaxas*
+
+*Arxiv 2026*
+
+This work introduces a dynamic framework that couples LLM-guided navigation, which prunes noise and steers exploration, with embedding-based similarity expansion to recover hidden links and bridge semantic gaps. Recognizing the computational cost of graph reasoning, a lightweight router is applied to delegate simple queries to Naïve RAG and escalate complex cases to INSES, balancing efficiency with reasoning depth.
+
+
 *2026-04-01*
 
 #### [The Reasoning Bottleneck in Graph-RAG: Structured Prompting and Context Compression for Multi-Hop QA](https://arxiv.org/abs/2603.14045)
