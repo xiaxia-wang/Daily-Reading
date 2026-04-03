@@ -5,6 +5,17 @@
 
 
 
+*2026-04-03*
+
+#### [RouterKGQA: Specialized--General Model Routing for Constraint-Aware Knowledge Graph Question Answering](https://arxiv.org/abs/2603.20017)
+
+*Bo Yuan, Hexuan Deng, Xuebo Liu, Min Zhang*
+
+*Arxiv 2026*
+
+Existing KGQA approaches fall into two paradigms: retrieval-based methods utilize small specialized models, which are efficient but often produce unreachable paths and miss implicit constraints, while agent-based methods utilize large general models, which achieve stronger structural grounding at substantially higher cost. This work introduces a framework for specialized--general model collaboration, in which a specialized model generates reasoning paths and a general model performs KG-guided repair only when needed, improving performance at minimal cost.
+
+
 *2026-04-02*
 
 #### [Beyond Explicit Edges: Robust Reasoning over Noisy and Sparse Knowledge Graphs](https://arxiv.org/abs/2603.14006)
