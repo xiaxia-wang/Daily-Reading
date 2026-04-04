@@ -5,6 +5,17 @@
 
 
 
+*2026-04-04*
+
+#### [Stepwise Contrastive Reasoning for Retrieval-Augmented Generation over Knowledge Graphs](https://ojs.aaai.org/index.php/AAAI/article/view/38549/42511)
+
+*Chenxiao Lin, Ye Luo, KunHong Liu, Qingqiang Wu*
+
+*AAAI 2026*
+
+This work introduces a lightweight framework that integrates graph structure and textual context for efficient and interpretable RAG over KGs. It combines relational message passing layers to encode KG entities with a Transformer encoder for processing question text, and decomposes reasoning into a series of alignment steps. At each step, it compares the current topic entity and its neighbors with the question representation, selecting the most relevant entity as the next topic entity. The question is then updated with this entity’s textual description until the selected entity no longer changes (viewed as the answer).
+
+
 *2026-04-03*
 
 #### [RouterKGQA: Specialized--General Model Routing for Constraint-Aware Knowledge Graph Question Answering](https://arxiv.org/abs/2603.20017)
