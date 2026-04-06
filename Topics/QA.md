@@ -10,6 +10,17 @@
 
 
 
+*2026-04-05*
+
+#### [Reinforcement Learning Enhanced Multi-hop Reasoning for Temporal Knowledge Question Answering](https://arxiv.org/abs/2601.01195)
+
+*Wuzhenghong Wen, Chao Xue, Su Pan, Yuwei Sun, Minlong Peng*
+
+*AAAI 2026*
+
+MRE begins with prompt engineering to guide the LLM in generating diverse reasoning trajectories for a given question. Valid reasoning trajectories are selected for supervised fine-tuning as cold-start. Then a recursive, tree-structured learning-by-exploration approach is applied. In each hop, exploration establishes strong causal dependencies on the previous hop, while evaluation is informed by multi-path exploration feedback from subsequent hops.
+
+
 *2026-03-25*
 
 #### [Rethinking Deep Research from the Perspective of Web Content Distribution Matching](https://arxiv.org/abs/2603.07241)
