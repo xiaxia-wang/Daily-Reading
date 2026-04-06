@@ -8,6 +8,17 @@
 
 
 
+*2026-04-06*
+
+#### [BubbleRAG: Evidence-Driven Retrieval-Augmented Generation for Black-Box Knowledge Graphs](https://arxiv.org/abs/2603.20309)
+
+*Duyi Pan, Tianao Lou, Xin Li, Haoze Song, Yiwen Wu, Mengyi Deng, Mingyu Yang, Wei Wang*
+
+*Arxiv 2026*
+
+This work identifies three core challenges of KGQA that cause recall loss (semantic instantiation uncertainty, structural path uncertainty) and precision loss (evidential comparison uncertainty). To address them, it formalizes the retrieval task as a variant of Group Steiner Tree, and provides a training-free pipeline to optimize for both recall and precision through semantic anchor grouping, heuristic bubble expansion to discover candidate evidence graphs, composite ranking, and reasoning-aware expansion.
+
+
 *2026-03-29*
 
 #### [MDER-DR: Multi-Hop Question Answering with Entity-Centric Summaries](https://arxiv.org/abs/2603.11223)
