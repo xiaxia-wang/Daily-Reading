@@ -10,6 +10,17 @@
 
 
 
+*2026-04-07*
+
+#### [Knowledge-Enhanced Explainable Hypergraph Convolution Network for Medication Recommendation](https://ojs.aaai.org/index.php/AAAI/article/view/38681/42643)
+
+*Zihan Zhang, Hongzhi Liu, Xiaoshuang Guo, Tianqi Sun, Zhonghai Wu*
+
+*AAAI 2026*
+
+Just as the title, where the task is a binary classification for each potential medication choice.
+
+
 *2026-02-15*
 
 #### [THOR: Inductive Link Prediction over Hyper-Relational Knowledge Graphs](https://arxiv.org/abs/2602.05424)
