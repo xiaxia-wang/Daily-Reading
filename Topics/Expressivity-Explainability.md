@@ -3,6 +3,16 @@
 
 
 
+*2026-04-08*
+
+#### [Expressive Recursive Answers for Ontological Knowledge Bases](https://ojs.aaai.org/index.php/AAAI/article/view/38963/42925)
+
+*Luca Andolfi, Gianluca Cima, Marco Console, Maurizio Lenzerini*
+
+*AAAI 2026*
+
+This paper introduces Regularly Recurrent Answers as a novel form of answer for queries over ontological KBs. It supports the representation of infinite sets of tuples via a generation mechanism based on regular expressions. Such a simple mechanism allows RRAs to represent a fundamental fragment of the certain information entailed by Unions of Conjunctive Queries over DL-Lite KBs.
+
 
 *2026-02-21*
 
