@@ -8,6 +8,17 @@
 
 
 
+*2026-04-09*
+
+#### [DCTR: Dual-Constraint Subgraph Optimization for Knowledge Graph-based Retrieval-Augmented Generation](https://ojs.aaai.org/index.php/AAAI/article/view/40265/44226)
+
+*Yukun Cao, Zirui Xu, Dongyang Li, Zhihao Guo, Luobin Huang, Lisheng Wang*
+
+*AAAI 2026*
+
+This work proposes a dual-constraint subgraph optimization for KG-RAG (DCTR) to improve subgraph retrieval and generates high-quality subgraphs for LLMs. It formulates subgraph generation as a two-stage constrained optimization problem to create compact and complete pseudo-labels. Since these pseudo-labels are discrete, a smooth approximation is employed to convert them into a differentiable representation, thereby optimizing the retriever to highlight key information while extracting subgraphs.
+
+
 *2026-04-06*
 
 #### [BubbleRAG: Evidence-Driven Retrieval-Augmented Generation for Black-Box Knowledge Graphs](https://arxiv.org/abs/2603.20309)
