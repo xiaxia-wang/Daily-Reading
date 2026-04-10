@@ -11,6 +11,17 @@
 
 
 
+*2026-04-10*
+
+#### [GraphOracle: Efficient Fully-Inductive Knowledge Graph Reasoning via Relation-Dependency Graphs](https://arxiv.org/abs/2505.11125)
+
+*Enjun Du, Siyi Liu, Yongqi Zhang*
+
+*AAAI 2026*
+
+Feels over exaggerated, as it claims to be capable of handling "both entities and relations at test time are unseen during training" without any other pre-conditions. The approach looks plain, by using multi-head attention and a GNN for message passing.
+
+
 *2026-03-26*
 
 #### [TaSR-RAG: Taxonomy-guided Structured Reasoning for Retrieval-Augmented Generation](https://arxiv.org/abs/2603.09341)
