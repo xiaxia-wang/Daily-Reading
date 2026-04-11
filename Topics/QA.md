@@ -9,6 +9,16 @@
 
 
 
+*2026-04-11*
+
+#### [Leveraging LLM-GNN Integration for Open-World Question Answering over Knowledge Graphs](https://aclanthology.org/2026.eacl-long.26.pdf)
+
+*Hussein Abdallah, Ibrahim Abdelaziz, Panos Kalnis, Essam Mansour*
+
+*AAAI 2026*
+
+This work introduces a hybrid system that combines a pre-trained GNN and an LLM for open-world KGQA. The GNN predicts top-k candidate answers from the graph structure. These, along with relevant KG facts, are serialized into a structured prompt (e.g., triples and candidates) to guide the LLM’s reasoning. -- boring:/
+
 
 *2026-04-05*
 
