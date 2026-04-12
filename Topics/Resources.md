@@ -5,6 +5,17 @@
 
 
 
+*2026-04-12*
+
+#### [Do LLM Agents Know How to Ground, Recover, and Assess? Evaluating Epistemic Competence in Information-Seeking Agents](https://openreview.net/forum?id=r0L9GwlnzP)
+
+*Jiaqi Shao, Yuxiang Lin, Munish Prasad Lohani, Yufeng Miao, Bing Luo*
+
+*ICLR 2026 Poster*
+
+[Copied from MetaReview] It develops an annotation schema using an expert-annotated dataset of 190 traces (over 1,800 steps), evaluated by LLM-as-judge. It provides granular analysis of whether agents demonstrate: (1) **groundedness**, by generating reasoning steps supported by observed evidence; (2) **recovery**, by adaptively reformulating searches to recover from low-quality results; and (3) **calibration**, by correctly assessing whether current evidence is sufficient to provide an answer.
+
+
 *2026-03-15*
 
 #### [Rule Learning Based on Language Models: A Survey](https://www.sciengine.com/DI/doi/10.3724/2096-7004.di.2025.0161)
