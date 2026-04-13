@@ -8,6 +8,17 @@
 
 
 
+*2026-04-13*
+
+#### [Query-Aware Flow Diffusion for Graph-Based RAG with Retrieval Guarantees](https://openreview.net/forum?id=n28wnc2QTc)
+
+*Zhuoping Zhou, Davoud Ataee Tarzanagh, Sima Didari, Wenjun Hu, Baruch Gutow, Oxana Verkholyak, Masoud Faraki, Heng Hao, Hankyu Moon, Seungjai Min*
+
+*ICLR 2026*
+
+During graph exploration, edges are dynamically weighted by how well their endpoints align with the query's embedding. These query-specific reasoning subgraphs enable a statistical guarantee for query-aware graph retrieval. The algorithm converges exponentially fast, with complexity scaling with the retrieved subgraph size rather than the full graph.
+
+
 *2026-03-31*
 
 #### [FGTR: Fine-Grained Multi-Table Retrieval via Hierarchical LLM Reasoning](https://arxiv.org/abs/2603.12702)
