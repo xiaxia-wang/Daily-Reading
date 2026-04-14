@@ -5,6 +5,17 @@
 
 
 
+*2026-04-14*
+
+#### [PKR-QA: A Benchmark for Procedural Knowledge Reasoning with Knowledge Module Learning](https://ojs.aaai.org/index.php/AAAI/article/view/39638)
+
+*Thanh-Son Nguyen, Hong Yang, Tzeh Yuan Neoh, Hao Zhang, Ee Yeo Keat, Basura Fernando*
+
+*AAAI 2026*
+
+This work provides a resource based on a procedural knowledge graph (PKG). The PKG is built by curating and linking information from the COIN instructional video dataset and the ontology, enriched with commonsense knowledge from ConceptNet and structured outputs from LLMs. Question-answer pairs are generated using graph traversal templates.
+
+
 *2026-04-12*
 
 #### [Do LLM Agents Know How to Ground, Recover, and Assess? Evaluating Epistemic Competence in Information-Seeking Agents](https://openreview.net/forum?id=r0L9GwlnzP)
