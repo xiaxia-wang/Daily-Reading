@@ -9,6 +9,17 @@
 
 
 
+*2026-04-15*
+
+#### [Enhancing LLMs for Knowledge Base Question Answering by Chain-of-Decomposition](https://openreview.net/forum?id=4vfEo07rmv)
+
+*Yonggang Zhang, Jianqi Gao, Jie Lu*
+
+*ICLR 2026*
+
+Chain-of-Decomposition: a novel framework that decomposes KBQA into three modular steps, including (1) an LLM-free retrieval module to extract query-relevant subgraphs from the knowledge base, (2) a parameter-free reformulation step that transforms retrieved contexts into structured reasoning paths, and (3) a lightweight LLM-based reasoning module trained to evaluate the logical validity of each path.
+
+
 *2026-04-11*
 
 #### [Leveraging LLM-GNN Integration for Open-World Question Answering over Knowledge Graphs](https://aclanthology.org/2026.eacl-long.26.pdf)
