@@ -11,6 +11,17 @@
 
 
 
+*2026-04-16*
+
+#### [VoG: Enhancing LLM Reasoning through Stepwise Verification on Knowledge Graphs](https://openreview.net/forum?id=0RdAmwfVku)
+
+*Wenxin Zhao, Jiachuan Wang, Yongqi Zhang, Shuangyin Li, Cheng Deng, Jun Wang, Lei Chen*
+
+*ICLR 2026*
+
+This work proposes a model-agnostic framework to enhance LLM reasoning via iterative retrieval, stepwise verification, and adaptive revision. Besides KG retrieval guided by an initially generated reasoning plan, VoG iteratively verifies and revises the reasoning plan, correcting intermediate errors in consideration of the varying contextual conditions. It uses a context-aware multi-armed bandit strategy for plan revision guided by reward signals representing uncertainty and semantic consistency.
+
+
 *2026-04-10*
 
 #### [GraphOracle: Efficient Fully-Inductive Knowledge Graph Reasoning via Relation-Dependency Graphs](https://arxiv.org/abs/2505.11125)
