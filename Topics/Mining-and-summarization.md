@@ -7,6 +7,16 @@
 
 
 
+*2026-04-17*
+
+#### [GPS: Graph-guided Proactive Information Seeking in Large Language Models](https://openreview.net/forum?id=xpKe5qMaY4)
+
+*Ruiqing Li, Yifeng Xu, Xinke Jiang, Zhibang Yang, Xinyu Ma, Yue Fang, Junfeng Zhao, Yasha Wang, Xu Chu*
+
+*ICLR 2026*
+
+This paper focuses on the issue of ambiguity in retrieval-augmented generation (RAG) by training LLMs to proactively ask more clarifying questions. It introduces a two-step methodology: (i) represents the retrieved knowledge as a Directed Acyclic Graph (DAG), (ii) interactively traverses and prunes this graph based on user responses to maintain efficient clarification.
+
 
 *2026-04-09*
 
