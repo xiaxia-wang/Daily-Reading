@@ -3,6 +3,18 @@
 
 
 
+
+*2026-04-18*
+
+#### [Bridging Max Graph Neural Networks and Datalog with Negation](https://proceedings.kr.org/2024/89/)
+
+*David J. Tena Cucala, Bernardo Cuenca Grau*
+
+*KR 2024*
+
+This paper introduces a family of GNN-based transformations which can be characterised using Datalog programs with negation-as-failure, which can be computed from the GNNs after training. This generalises existing approaches based on positive programs by enabling the learning of nonmonotonic transformations.
+
+
 *2026-04-08*
 
 #### [Expressive Recursive Answers for Ontological Knowledge Bases](https://ojs.aaai.org/index.php/AAAI/article/view/38963/42925)
