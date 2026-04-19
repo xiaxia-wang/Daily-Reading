@@ -11,6 +11,17 @@
 
 
 
+*2026-04-19*
+
+#### [When Do Hallucinations Arise? A Graph Perspective on the Evolution of Path Reuse and Path Compression](https://arxiv.org/abs/2604.03557)
+
+*Xinnan Dai, Kai Yang, Cheng Luo, Shenglai Zeng, Kai Guo, Jiliang Tang*
+
+*Arxiv 2026*
+
+This work models next-token prediction as a graph search process over an underlying graph, where entities correspond to nodes and learned transitions form edges. Contextual reasoning is a constrained search over a sampled subgraph (intrinsic reasoning), while context-free queries rely on memorized structures in the underlying graph (extrinsic reasoning). It argues that reasoning hallucinations arise from two fundamental mechanisms: Path Reuse, where memorized knowledge overrides contextual constraints during early training, and Path Compression, where frequently traversed multi-step paths collapse into shortcut edges in later training.
+
+
 *2026-04-16*
 
 #### [VoG: Enhancing LLM Reasoning through Stepwise Verification on Knowledge Graphs](https://openreview.net/forum?id=0RdAmwfVku)
