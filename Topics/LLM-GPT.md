@@ -4,6 +4,16 @@
 
 
 
+*2026-04-20*
+
+#### [Joint Knowledge Base Completion and Question Answering by Combining Large Language Models and Small Language Models](https://arxiv.org/abs/2604.05875)
+
+*Yinan Liu, Dongying Lin, Sigang Luo, Xiaochun Yang, Bin Wang*
+
+*Arxiv 2026*
+
+...
+
 
 *2026-04-04*
 
