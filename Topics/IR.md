@@ -6,6 +6,15 @@
 
 
 
+*2026-04-21*
+
+#### [WebExpert: domain-aware web agents with critic-guided expert experience for high-precision search](https://arxiv.org/abs/2604.06177)
+
+*Yuelin Hu, Zhengxue Cheng, Ronghua Wu, Qunshan Gu, Hongwei Hu, Wei Liu, Qiao Liang, Li Song*
+
+*ICASSP 2026*
+
+This work introduces a domain-aware web agent, featuring: (i) sentence-level experience retrieval with topic merging and rule distillation, (ii) schemalight facet induction that bootstraps time, region, policy, industry facets from weak supervision instead of static hand-written lexicons, and (iii) preference-optimized planning that jointly improves query planning and retrieval via pairwise preference learning alongside a coverage-aware objective.
 
 
 *2026-04-13*
