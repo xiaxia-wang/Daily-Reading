@@ -5,6 +5,17 @@
 
 
 
+*2026-04-22*
+
+#### [Database Querying under Missing Values Governed by Missingness Mechanisms](https://arxiv.org/abs/2604.06520)
+
+*Leopoldo Bertossi, Farouk Toumani, Maxime Buron*
+
+*Arxiv 2026*
+
+Barely readable, will skip this and may come back again in the future.
+
+
 *2025-09-20*
 
 #### [CARPO: Leveraging Listwise Learning-to-Rank for Context-Aware Query Plan Optimization](https://arxiv.org/abs/2509.03102)
