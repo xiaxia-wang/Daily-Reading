@@ -6,6 +6,17 @@
 
 
 
+*2026-04-23*
+
+#### [HingeMem: Boundary Guided Long-Term Memory with Query Adaptive Retrieval for Scalable Dialogues](https://arxiv.org/abs/2604.06845)
+
+*Yijie Zhong, Yunfan Gao, Haofen Wang*
+
+*TheWebConf 2026*
+
+This paper proposes a boundary-guided long-term memory that operationalizes event segmentation theory to build an interpretable indexing interface via boundary-triggered hyperedges over four elements: person, time, location, and topic. When any such element changes, it draws a boundary (e.g., k for top-k retrieval) and writes the current segment, thereby reducing redundant operations and preserving salient context.
+
+
 *2026-04-21*
 
 #### [WebExpert: domain-aware web agents with critic-guided expert experience for high-precision search](https://arxiv.org/abs/2604.06177)
