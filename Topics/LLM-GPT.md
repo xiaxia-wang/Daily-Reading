@@ -4,6 +4,18 @@
 
 
 
+
+*2026-04-24*
+
+#### [The Law of Knowledge Overshadowing: Towards Understanding, Predicting, and Preventing LLM Hallucination](https://aclanthology.org/2025.fever-1.10)
+
+*Yuji Zhang, Sha Li, Cheng Qian, Jiateng Liu, Pengfei Yu, Chi Han, Yi R. Fung, Kathleen McKeown, ChengXiang Zhai, Manling Li, Heng Ji*
+
+*ACL 2025 Workshop*
+
+This work introduces a log-linear law to quantify factual hallucinations by modeling knowledge overshadowing. It predicts that the rate of factual hallucination increases linearly with the logarithmic scale of (1) Knowledge Popularity, (2) Knowledge Length, and (3) Model Size. The law provides a means to preemptively quantify hallucinations, offering foresight into their occurrence even before model training or inference.
+
+
 *2026-04-20*
 
 #### [Joint Knowledge Base Completion and Question Answering by Combining Large Language Models and Small Language Models](https://arxiv.org/abs/2604.05875)
