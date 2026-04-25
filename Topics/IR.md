@@ -6,6 +6,17 @@
 
 
 
+*2026-04-25*
+
+#### [SubSearch: Intermediate Rewards for Unsupervised Guided Reasoning in Complex Retrieval](https://arxiv.org/abs/2604.07415)
+
+*Roxana Petcu, Evangelos Kanoulas, Maarten de Rijke*
+
+*Arxiv 2026*
+
+Recent RL-based approaches train LLMs by reinforcement learning on the model's outcome. In contrast, this work shifts from outcome-only supervision to intermediate reward signals that incentivize planning high-quality reasoning. Unlike previous work on process reward modeling focusing on training a separate reward model with annotated trajectories by either human annotators or large LLM judges, it directly optimizes the generator using intrinsic process rewards, defined as internally-derived rewards.
+
+
 *2026-04-23*
 
 #### [HingeMem: Boundary Guided Long-Term Memory with Query Adaptive Retrieval for Scalable Dialogues](https://arxiv.org/abs/2604.06845)
