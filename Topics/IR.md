@@ -6,6 +6,28 @@
 
 
 
+*2026-04-27*
+
+#### [MAB-DQA: Addressing Query Aspect Importance in Document Question Answering with Multi-Armed Bandits](https://arxiv.org/abs/2604.08952)
+
+*Yixin Xiang, Yunshan Ma, Xiaoyu Du, Yibing Chen, Yanxin Zhang, Jinhui Tang*
+
+*ACL 2026*
+
+In multimodal RAG, visual DQA struggles to utilize a large number of images effectively, as the retrieval often retains only a few candidate pages, causing informative but less visually salient content to be overlooked in favor of common yet low-information pages. This work proposes a Multi-Armed Bandit-based DQA framework to model the varying importance of multiple implicit aspects in a query. Specifically, it decomposes a query into aspect-aware subqueries and retrieves an aspect-specific candidate set for each. It treats each subquery as an arm and uses preliminary reasoning results from a small number of representative pages as reward signals to estimate aspect utility.
+
+
+*2026-04-26*
+
+#### [Task-Adaptive Retrieval over Agentic Multi-Modal Web Histories via Learned Graph Memory](https://arxiv.org/abs/2604.07863)
+
+*Saman Forouzandeh, Kamal Berahmand, Mahdi Jalili*
+
+*SIGIR 2026*
+
+Existing approaches typically rely on static similarity thresholds or fixed-capacity buffers, which fail to adapt relevance to the current task context. This work introduces a learned graph-memory retriever that constructs task-adaptive relevance graphs over agent histories using policy-gradient optimization from downstream task success. It captures heterogeneous temporal dynamics with modality-specific decay and learns sparse connectivity.
+
+
 *2026-04-25*
 
 #### [SubSearch: Intermediate Rewards for Unsupervised Guided Reasoning in Complex Retrieval](https://arxiv.org/abs/2604.07415)
