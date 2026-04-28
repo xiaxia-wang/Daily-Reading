@@ -10,6 +10,17 @@
 
 
 
+*2026-04-28*
+
+#### [Heterogeneous Hypergraph Variational Autoencoder for Link Prediction](https://ieeexplore.ieee.org/document/9354594)
+
+*Qionghai Dai, Zuoyong Li, Yue Gao, C. Zou, Fengbin Zhang, Haoyi Fan, Yuxuan Wei*
+
+*TPAMI 2021*
+
+This work first maps a conventional HIN to a heterogeneous hypergraph with a certain kind of semantics to capture both high-order semantics and complex relations among nodes, while preserving low-order pairwise topology information of the original HIN. Then, deep latent representations of nodes and hyperedges are learned by a Bayesian deep generative framework from the heterogeneous hypergraph in an unsupervised manner. Additionally, a hyperedge attention module is designed to learn the importance of different types of nodes in each hyperedge.
+
+
 *2026-04-07*
 
 #### [Knowledge-Enhanced Explainable Hypergraph Convolution Network for Medication Recommendation](https://ojs.aaai.org/index.php/AAAI/article/view/38681/42643)
