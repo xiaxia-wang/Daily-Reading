@@ -10,6 +10,17 @@
 
 
 
+*2026-04-29*
+
+#### [Multi-level Hyperedge Distillation for Social Linking Prediction on Sparsely Observed Networks](https://dl.acm.org/doi/10.1145/3442381.3449912)
+
+*Xiangguo Sun, Hongzhi Yin, Bo Liu, Hongxu Chen, Qing Meng, Wang Han, Jiuxin Cao*
+
+*WWW 2021*
+
+This paper introduces a relatively heuristic approach for constructing a hypergraph from sparse facts, and applies a hypergraph neural network model to improve the link prediction performance.
+
+
 *2026-04-28*
 
 #### [Heterogeneous Hypergraph Variational Autoencoder for Link Prediction](https://ieeexplore.ieee.org/document/9354594)
