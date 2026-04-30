@@ -13,6 +13,17 @@
 
 
 
+*2026-04-30*
+
+#### [Topology-Aware Reasoning over Incomplete Knowledge Graph with Graph-Based Soft Prompting](https://arxiv.org/abs/2604.12503)
+
+*Shuai Wang, Xixi Wang, Yinan Yu*
+
+*Arxiv 2026*
+
+This work employs a GNN to encode extracted structural subgraphs into soft prompts, enabling LLM to reason over richer structural context and identify relevant entities beyond immediate graph neighbors, thereby reducing sensitivity to missing edges. It introduces a two-stage process: a lightweight LLM first leverages the soft prompts to identify question-relevant entities and relations, followed by a more powerful LLM for evidence-aware answer generation.
+
+
 *2026-01-26*
 
 #### [Panning for Gold: Expanding Domain-Specific Knowledge Graphs with General Knowledge](https://arxiv.org/abs/2601.10485)
