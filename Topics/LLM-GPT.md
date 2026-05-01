@@ -5,6 +5,17 @@
 
 
 
+*2026-05-01*
+
+#### [Knowledge Is Not Static: Order-Aware Hypergraph RAG for Language Models](https://arxiv.org/abs/2604.12185)
+
+*Keshu Wu, Chenchen Kuai, Zihao Li, Jiwan Jiang, Shiyu Shen, Shian Wang, Chan-Wei Hu, Zhengzhong Tu, Yang Zhou*
+
+*Arxiv 2026*
+
+Existing RAG methods including graph- and hypergraph-based approaches treat retrieved evidence as an unordered set, implicitly assuming permutation invariance. This is misaligned with many real-world reasoning tasks, where outcomes depend not only on which interactions occur, but also on the order in which they unfold. This work introduces Order-Aware Knowledge Hypergraph RAG that represents knowledge as higher-order interactions within a hypergraph augmented with precedence structure, and reformulates retrieval as sequence inference over hyperedges. Instead of selecting independent facts, it recovers coherent interaction trajectories that reflect underlying reasoning processes. A learned transition model infers precedence directly from data without requiring explicit temporal supervision.
+
+
 *2026-04-24*
 
 #### [The Law of Knowledge Overshadowing: Towards Understanding, Predicting, and Preventing LLM Hallucination](https://aclanthology.org/2025.fever-1.10)
