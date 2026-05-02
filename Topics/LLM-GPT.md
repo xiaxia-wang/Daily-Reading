@@ -5,6 +5,17 @@
 
 
 
+*2026-05-02*
+
+#### [Evaluating Relational Reasoning in LLMs with REL](https://arxiv.org/abs/2604.12176)
+
+*Lukas Fesser, Yasha Ektefaie, Ada Fang, Sham M. Kakade, Marinka Zitnik*
+
+*Arxiv 2026*
+
+This work investigates the difficulty introduced by higher-arity relational binding through the lens of Relational Complexity (RC), which is defined as the minimum number of independent entities or operands that must be simultaneously bound to apply a relation. RC provides a principled way to vary reasoning difficulty while controlling for confounders such as input size, vocabulary, and representational choices. Building on RC, it introduces a generative benchmark spanning algebra, chemistry, and biology that varies RC within each domain.
+
+
 *2026-05-01*
 
 #### [Knowledge Is Not Static: Order-Aware Hypergraph RAG for Language Models](https://arxiv.org/abs/2604.12185)
