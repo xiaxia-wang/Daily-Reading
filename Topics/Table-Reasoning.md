@@ -3,6 +3,17 @@
 
 
 
+*2026-05-03*
+
+#### [Towards Platonic Representation for Table Reasoning: A Foundation for Permutation-Invariant Retrieval](https://arxiv.org/abs/2604.12133)
+
+*Willy Carlos Tchuitcheu, Tan Lu, Ann Dooms*
+
+*Arxiv 2026*
+
+This paper identifies the problem that traditional RAG methods for relational tables are often sensitive to data layout permutations. It introduces two principled metrics based on Centered Kernel Alignment: (i) PI, which measures embedding drift under complete structural derangement, and (ii) rho, a Spearman-based metric that tracks the convergence of latent structures toward a canonical form as structural information is incrementally restored. In response to the problem, it also presents a structure-aware encoder architecture that explicitly enforces the cognitive principle of cell header alignment.
+
+
 *2026-02-09*
 
 #### [Enhancing TableQA through Verifiable Reasoning Trace Reward](https://arxiv.org/abs/2601.22530)
