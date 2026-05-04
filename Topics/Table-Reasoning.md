@@ -3,6 +3,17 @@
 
 
 
+*2026-05-04*
+
+#### [ReSS: Learning Reasoning Models for Tabular Data Prediction via Symbolic Scaffold](https://arxiv.org/abs/2604.13392)
+
+*Chenlang Yi, Gang Li, Zizhan Xiong, Tue Minh Cao, Yanmin Gong, My T. Thai, Tianbao Yang*
+
+*Arxiv 2026*
+
+This work introduces a tabular data reasoning framework that leverages a decision-tree model to extract instance-level decision paths as symbolic scaffolds. These scaffolds, alongside input features and labels, guide an LLM to generate grounded natural-language reasoning that adheres to the underlying decision logic. The resulting dataset is used to fine-tune a pretrained LLM into a specialized tabular reasoning model, enhanced by a scaffold-invariant data augmentation strategy to improve generalization and explainability.
+
+
 *2026-05-03*
 
 #### [Towards Platonic Representation for Table Reasoning: A Foundation for Permutation-Invariant Retrieval](https://arxiv.org/abs/2604.12133)
